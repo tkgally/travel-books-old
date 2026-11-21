@@ -1,5 +1,0 @@
-{"given": "Chodzuba on Chōzuba, 186.", "print": "Chodzuba or Chōzuba, 186.", "sure": "high"}
-{"given": "Coaling ships, 68, 128.", "print": "Coaling Ships, 68, 128.", "sure": "high"}
-{"given": "Commerce China, 110–12.", "print": "Commerce of China, 110–12.", "sure": "high"}
-{"given": "Conway, Sir W. Martin; quoted, 342.", "print": "Conway, Sir W. Martin, quoted, 342.", "sure": "high"}
-{"given": "Expenses, travelliug, 421.", "print": "Expenses, travelling, 421.", "sure": "high"}

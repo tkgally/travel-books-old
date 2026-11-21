@@ -1,5 +1,0 @@
-{"given": "drove after lunch at Imperial Hotel", "print": "drove after lunch at the Imperial Hotel", "sure": "high"}
-{"given": "entering the gate, were we gave", "print": "entering the gate, where we gave", "sure": "high"}
-{"given": "and it is evidcnt that punctuality", "print": "and it is evident that punctuality", "sure": "high"}
-{"given": "of remarking that everyone is in", "print": "of remarking that every one is in", "sure": "high"}
-{"given": "Japanese ladies present; and they don’t", "print": "Japanese ladies present, and they don’t", "sure": "high"}

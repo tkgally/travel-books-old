@@ -381,11 +381,13 @@
    "place": "New York and London",
    "publisher": "Macmillan",
    "images": 570,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-20",
    "eligibility": "JATSI 169. All five rules met. Rule 1: Library of Congress scan of the first edition (1902), colour 400 ppi, clean. JATSI links cu31924023517422, the second edition (London, A. & C. Black, 1904), which adds a 20-page preface on the war: the first edition is used because its scan shows the photographs better (jatsi.md, rule 1). Rules 2, 3: no text elsewhere; print-on-demand only. Rule 4: first-person tour of 1898–99; about 55% on Japan (Shikoku, Kyushu, Hokkaido by road), with chapters of essay at the end. Rule 5: Walter Del Mar 1862–1944 (LC). Photographs credited to Adolfo Farsari (1841–1898) and A. W. A. Plâté (d. 1931); some uncredited. Searched 2026-11-20 (Opus subagent, sample checked): Project Gutenberg catalogue, The Online Books Page, Wikisource (title search; the API was rate-limited at times), a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse 'Japan in English'. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 no longer applies to JATSI books (Tom, 2026-11-20); the dates are kept for the record. Re-checked 2026-11-21 (session): web search finds only the IA scans, catalogue records and Forgotten Books (a scan facsimile); no reading edition.",
    "note": "About 430 pp. and xxx of preliminaries; about 45 photographic plates. Long: two sessions for the runs.",
-   "started": "2026-11-21"
+   "started": "2026-11-21",
+   "version": 1,
+   "published": "2026-11-22"
   },
   {
    "order": 21,
