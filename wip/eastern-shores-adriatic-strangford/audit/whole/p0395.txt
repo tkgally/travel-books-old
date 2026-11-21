@@ -1,0 +1,5 @@
+{"given": "between that province Athens: the", "print": "between that province and Athens: the", "sure": "high"}
+{"given": "cynically jnstifies a measure it", "print": "cynically justifies a measure it", "sure": "high"}
+{"given": "To this I altogether demur, for,", "print": "To this I altogether demur; for,", "sure": "high"}
+{"given": "they are nor Englishmen, but", "print": "they are not Englishmen, but", "sure": "high"}
+{"given": "by trade or otherwize, are", "print": "by trade or otherwise, are", "sure": "high"}

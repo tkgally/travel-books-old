@@ -1,0 +1,5 @@
+{"given": "to the rear in pain suffering.", "print": "to the rear in pain and suffering.", "sure": "high"}
+{"given": "and affectionate heart; and so lively,", "print": "and affectionate heart, and so lively,", "sure": "high"}
+{"given": "that I could nor help thinking", "print": "that I could not help thinking", "sure": "high"}
+{"given": "except the Prince, princess, and myself,", "print": "except the Prince, Princess, and myself,", "sure": "high"}
+{"given": "and the Prince varicd the sound", "print": "and the Prince varied the sound", "sure": "high"}

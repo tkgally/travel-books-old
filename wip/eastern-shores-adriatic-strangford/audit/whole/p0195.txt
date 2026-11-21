@@ -1,0 +1,5 @@
+{"given": "and the venetians called it", "print": "and the Venetians called it", "sure": "high"}
+{"given": "No fortress could be more finely sitnated;", "print": "No fortress could be more finely situated;", "sure": "high"}
+{"given": "lies at its feet; so richly", "print": "lies at its feet, so richly", "sure": "high"}
+{"given": "as hardly to he distinguished", "print": "as hardly to be distinguished", "sure": "high"}
+{"given": "We landed under shade of a", "print": "We landed under the shade of a", "sure": "high"}
