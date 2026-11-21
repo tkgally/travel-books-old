@@ -35,5 +35,165 @@
    "note": "First publication."
   }
  ],
- "divisions": []
+ "divisions": [
+  {
+   "at": "p0005",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0007",
+   "kind": "preface"
+  },
+  {
+   "at": "p0009",
+   "kind": "chapter",
+   "title": "Letters"
+  }
+ ],
+ "toc_entries": [
+  {
+   "at": "p0009",
+   "starts": "SS. “Nepaul,”",
+   "title": "Letter 1. SS. “Nepaul,” Sunday, 15th October, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0017",
+   "starts": "SS. “Nepaul,” Mediterranean,",
+   "title": "Letter 2. SS. “Nepaul,” Mediterranean, Wednesday, 18th October, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0023",
+   "starts": "SS. “Nepaul,”",
+   "title": "Letter 3. SS. “Nepaul,” Saturday, 21st October, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0031",
+   "starts": "SS. “Nepaul,” Gulf of Suez,",
+   "title": "Letter 4. SS. “Nepaul,” Gulf of Suez, Friday, 27th October, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0039",
+   "starts": "SS. “Nepaul,” Indian Ocean,",
+   "title": "Letter 5. SS. “Nepaul,” Indian Ocean, Thursday, 2nd November, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0049",
+   "starts": "Bombay, Friday Afternoon,",
+   "title": "Letter 6. Bombay, Friday Afternoon, 10th November, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0054",
+   "starts": "Camp-Mehmadabad, Guzerat,",
+   "title": "Letter 7. Camp-Mehmadabad, Guzerat, Wednesday, 15th November, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0068",
+   "starts": "Baroda, Wednesday,",
+   "title": "Letter 8. Baroda, Wednesday, 22nd November, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0080",
+   "starts": "Bombay,",
+   "title": "Letter 9. Bombay, 28th November. 1876",
+   "editor": true
+  },
+  {
+   "at": "p0085",
+   "starts": "Mahabaleshwur,",
+   "title": "Letter 10. Mahabaleshwur, 6th December, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0091",
+   "starts": "Mahabaleshwur,",
+   "title": "Letter 11. Mahabaleshwur, 6th December, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0098",
+   "starts": "Madras,",
+   "title": "Letter 12. Madras, 11th December, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0103",
+   "starts": "Ootacamund, Nielgherries,",
+   "title": "Letter 13. Ootacamund, Nielgherries, Sunday, 17th December",
+   "editor": true
+  },
+  {
+   "at": "p0108",
+   "starts": "Ootacamund,",
+   "title": "Letter 14. Ootacamund, 18th December, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0116",
+   "starts": "Trichinopoly,",
+   "title": "Letter 15. Trichinopoly, Sunday, 24th December, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0123",
+   "starts": "Trichinopoly,",
+   "title": "Letter 16. Trichinopoly, December 26th, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0128",
+   "starts": "Ramnad,",
+   "title": "Letter 17. Ramnad, Saturday, 30th December, 1876",
+   "editor": true
+  },
+  {
+   "at": "p0135",
+   "starts": "Tinnevelly,",
+   "title": "Letter 18. Tinnevelly, 4th January, 1877",
+   "editor": true
+  },
+  {
+   "at": "p0142",
+   "starts": "Kandy, Ceylon,",
+   "title": "Letter 19. Kandy, Ceylon, Sunday, 14th January, 1877",
+   "editor": true
+  },
+  {
+   "at": "p0147",
+   "starts": "Kandy, Ceylon,",
+   "title": "Letter 20. Kandy, Ceylon, Sunday, 14th January, 1877",
+   "editor": true
+  },
+  {
+   "at": "p0154",
+   "starts": "SS. “Goa,” off Goa,",
+   "title": "Letter 21. SS. “Goa,” off Goa, 25th January, 1877",
+   "editor": true
+  },
+  {
+   "at": "p0163",
+   "starts": "Malabar Hill, Bombay,",
+   "title": "Letter 22. Malabar Hill, Bombay, Friday, 2nd February, 1877",
+   "editor": true
+  },
+  {
+   "at": "p0169",
+   "starts": "SS. “Surat,” Gulf of Aden,",
+   "title": "Letter 23. SS. “Surat,” Gulf of Aden, 19th February, 1877",
+   "editor": true
+  },
+  {
+   "at": "p0179",
+   "starts": "Cairo, Friday Night,",
+   "title": "Letter 24. Cairo, Friday Night, 2nd March, 1877",
+   "editor": true
+  }
+ ]
 }
