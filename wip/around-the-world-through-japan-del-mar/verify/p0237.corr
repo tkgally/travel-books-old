@@ -1,0 +1,8 @@
+{"find": "Basque Provinces", "replace": "Basque Provinces"}
+{"find": "Shintō temples in Kyōto", "replace": "Shintō temples in Kyōto"}
+
+Wait — I need to correct that: the draft's "Basque" is printed "Basque", so no change is needed there. The real fixes:
+
+{"find": "Symbol of Yang", "replace": "Symbol of Yang"}
+
+NONE

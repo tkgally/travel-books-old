@@ -1002,11 +1002,13 @@
    "place": "London",
    "publisher": "Richard Bentley",
    "images": 414,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-21",
    "eligibility": "Checked 2026-11-21 (Opus subagent): PG catalogue: none. Online Books Page: page images only (Google, IA, HathiTrust). Wikisource: no work or Index page. Faded Page: web search only, nothing. Web search of the title and of a sentence from the middle: no text found. Reprints: Kessinger 2010, Legare Street 2023 and an Antigonos listing (not confirmed whether a scan reprint; check before starting). Lady Strangford d. 1887 (ODNB); Percy Smythe, 8th Viscount Strangford, 1826-1869 (DNB). Re-checked 2026-11-21 (session): web search finds only the IA and HathiTrust scans, catalogue records and the Kessinger (2010) and Legare Street (2023) print-on-demand reprints; no Antigonos edition found; Project Gutenberg's search was unavailable (503), the earlier check found none.",
    "note": "Trent University copy scanned by IA, 300 ppi, JP2 zip (the other IA copies are Google scans). Text 386 pp. 5 lithograph plates. Southern Albania (Ioannina), Ragusa, three days at the Montenegrin court at Cetinje, and Dalmatia. Her husband's political chapters (II, V, VII) fill about a third of the book.",
-   "started": "2026-11-21"
+   "started": "2026-11-21",
+   "version": 1,
+   "published": "2026-11-22"
   },
   {
    "order": 55,

@@ -1,0 +1,4 @@
+{"find": "[[center]] CHAPTER XXXIV", "replace": "# Chapter XXXIV"}
+{"find": "ACROSS THE AMERICAN CONTINENT <pref>409</pref>", "replace": "[[subtitle]] Across the American Continent <pref>409</pref>"}
+{"find": "[[center]] CHAPTER XXXV", "replace": "# Chapter XXXV"}
+{"find": "SUGGESTIONS TO TOURISTS <pref>420</pref>", "replace": "[[subtitle]] Suggestions to Tourists <pref>420</pref>"}

@@ -1,0 +1,9 @@
+{"find": "Nuwara Eliya—pronounced", "replace": "Nuwara Eliya—pronounced"}
+
+Wait, that's not a change. Correct output:
+
+{"find": "<i>amok</i>", "replace": "<i>amok</i>"}
+
+Neither of those is a real correction, so I'm discarding them.
+
+NONE

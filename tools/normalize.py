@@ -20,6 +20,7 @@ MARK = re.compile(r"(\[\[[^\]]*\]\])")
 def norm_text(s):
     """One line of text outside [[...]] markers."""
     s = re.sub(r"[ \t]{2,}", " ", s)
+    s = re.sub(r"(?<=\S) +(\[\[fnref [^\]]*\]\])", r"\1", s)   # a note mark set after a space (Strangford, 2026-11-22)
     s = re.sub(r"(?<=[A-Za-z0-9>]) ?(?:---|--)(?!-) ?(?=[A-Za-z<“‘\"'])", "—", s)
     s = re.sub(r"(?<=\w) — (?=\w)", "—", s)
     s = re.sub(r"(?<=[\w>”’\")]) +([;:!?])(?=[\s”’\")<]|$)", r"\1", s)

@@ -354,6 +354,10 @@ class Normalize(unittest.TestCase):
         self.assertEqual(normalize.norm_text("T<sc>HE MORNING</sc> was <i>very</i> <i>fine</i>"), "T<sc>he morning</sc> was <i>very fine</i>")
         self.assertEqual(normalize.norm_text("<sc>Cairo</sc>"), "<sc>Cairo</sc>")
 
+    def test_space_before_note_reference(self):
+        self.assertEqual(normalize.norm_text("covered with thorns [[fnref *]] and flowers. 52,000. [[fnref †]]"),
+                         "covered with thorns[[fnref *]] and flowers. 52,000.[[fnref †]]")
+
     def test_letters_never_change(self):
         s = "He shewed us the waggon to-day, . . . and Mr. B——'s connexion."
         self.assertEqual(normalize.norm_text(s), s)

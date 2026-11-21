@@ -1,0 +1,6 @@
+{"find": "“somebody” down", "replace": "“somebody” down"}
+{"find": "Othello’s occupation’s gone", "replace": "Othello’s occupation’s gone"}
+
+Wait, I need to correct precisely:
+
+{"find": "everybody is “somebody”", "replace": "everybody is “somebody”"}
