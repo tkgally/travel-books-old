@@ -1,5 +1,0 @@
-{"given": "Albanians have retaincd a great many", "print": "Albanians have retained a great many", "sure": "high"}
-{"given": "This; of course, refers to", "print": "This, of course, refers to", "sure": "high"}
-{"given": "country people, nor to the townspeople", "print": "country people, not to the townspeople", "sure": "high"}
-{"given": "to send for Catholic priest to", "print": "to send for a Catholic priest to", "sure": "high"}
-{"given": "The tribe of skreli derives its", "print": "The tribe of Skreli derives its", "sure": "high"}

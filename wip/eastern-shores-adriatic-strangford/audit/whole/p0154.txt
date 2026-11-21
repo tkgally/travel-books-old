@@ -1,5 +1,0 @@
-{"given": "to the level of tsetinje, and", "print": "to the level of Tsetinje, and", "sure": "high"}
-{"given": "through a village on mountain slope,", "print": "through a village on the mountain slope,", "sure": "high"}
-{"given": "a cat crouching or a wall", "print": "a cat crouching on a wall", "sure": "high"}
-{"given": "little black horse; whose bridle", "print": "little black horse, whose bridle", "sure": "high"}
-{"given": "was made entircly of silver chain", "print": "was made entirely of silver chain", "sure": "high"}

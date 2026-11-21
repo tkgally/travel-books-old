@@ -1,5 +1,0 @@
-{"given": "only three greek priests in", "print": "only three Greek priests in", "sure": "high"}
-{"given": "the common saying appeared me most", "print": "the common saying appeared to me most", "sure": "high"}
-{"given": "is a soldier; and every second", "print": "is a soldier, and every second", "sure": "high"}
-{"given": "they are a fine-looking let, not", "print": "they are a fine-looking set, not", "sure": "high"}
-{"given": "a simple Syrian fafhion over the", "print": "a simple Syrian fashion over the", "sure": "high"}
