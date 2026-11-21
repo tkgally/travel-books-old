@@ -366,3 +366,14 @@
 {"page": "p0369", "model": "opus", "corrections": null, "seconds": 7.9, "cost": 0.06266740000000001, "completion_tokens": 545, "turns": 2, "attempts": 1}
 {"page": "p0370", "model": "opus", "corrections": null, "seconds": 6.5, "cost": 0.062184800000000005, "completion_tokens": 518, "turns": 2, "attempts": 1}
 {"page": "p0371", "model": "opus", "corrections": null, "seconds": 8.7, "cost": 0.0629002, "completion_tokens": 555, "turns": 2, "attempts": 1}
+{"page": "p0372", "model": "opus", "corrections": null, "seconds": 8.4, "cost": 0.0638084, "completion_tokens": 600, "turns": 2, "attempts": 1}
+{"page": "p0373", "model": "opus", "corrections": null, "seconds": 7.0, "cost": 0.06292120000000001, "completion_tokens": 554, "turns": 2, "attempts": 1}
+{"page": "p0374", "model": "opus", "corrections": null, "seconds": 7.7, "cost": 0.06450020000000001, "completion_tokens": 635, "turns": 2, "attempts": 1}
+{"page": "p0375", "model": "opus", "corrections": null, "seconds": 8.4, "cost": 0.0627448, "completion_tokens": 546, "turns": 2, "attempts": 1}
+{"page": "p0376", "model": "opus", "corrections": null, "seconds": 7.8, "cost": 0.0625248, "completion_tokens": 535, "turns": 2, "attempts": 1}
+{"page": "p0377", "model": "opus", "corrections": null, "seconds": 8.4, "cost": 0.0631294, "completion_tokens": 564, "turns": 2, "attempts": 1}
+{"page": "p0378", "model": "opus", "corrections": null, "seconds": 7.6, "cost": 0.0632284, "completion_tokens": 571, "turns": 2, "attempts": 1}
+{"page": "p0379", "model": "opus", "corrections": null, "seconds": 7.1, "cost": 0.06326480000000001, "completion_tokens": 572, "turns": 2, "attempts": 1}
+{"page": "p0380", "model": "opus", "corrections": null, "seconds": 10.6, "cost": 0.0627566, "completion_tokens": 547, "turns": 2, "attempts": 1}
+{"page": "p0381", "model": "opus", "corrections": null, "seconds": 8.3, "cost": 0.0643484, "completion_tokens": 627, "turns": 2, "attempts": 1}
+{"page": "p0382", "model": "opus", "corrections": null, "seconds": 7.8, "cost": 0.0655202, "completion_tokens": 686, "turns": 2, "attempts": 1}
