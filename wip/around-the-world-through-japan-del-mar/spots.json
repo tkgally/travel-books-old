@@ -1,0 +1,245 @@
+{
+ "p0016": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "## Chapter V\n",
+   "replace": "# Chapter V\n",
+   "draft": "## Chapter V\n",
+   "verified": "# Chapter V\n",
+   "context": "[[page viii]] ⏎  ⏎ ## Chapter V ⏎  ⏎ | | PAGE | ⏎ |---|---| ⏎ | JAVA | 41 | ⏎  ⏎ Tandjong Priok and Bata"
+  },
+  {
+   "n": 2,
+   "kind": "punctuation",
+   "find": "## Chapter VI\n",
+   "replace": "# Chapter VI\n",
+   "draft": "## Chapter VI",
+   "verified": "# Chapter VI",
+   "context": " Customs. The Rijst-tafel. Buitenzorg. Fruits. Mosquitoes. ⏎  ⏎ ## Chapter VI ⏎  ⏎ | | | ⏎ |---|---| ⏎ | JAVA | 49 | ⏎  ⏎ Sindanglaija. The Javanese a"
+  },
+  {
+   "n": 3,
+   "kind": "punctuation",
+   "find": "## Chapter VII\n",
+   "replace": "# Chapter VII\n",
+   "draft": "## Chapter VI",
+   "verified": "# Chapter VI",
+   "context": " Crater of Papandajan. Ferns and Orchids. Back to Batavia. ⏎  ⏎ ## Chapter VII ⏎  ⏎ | | | ⏎ |---|---| ⏎ | SINGAPORE | 60 | ⏎  ⏎ Sir Thomas Raffles. The"
+  },
+  {
+   "n": 4,
+   "kind": "punctuation",
+   "find": "## Chapter VIII\n",
+   "replace": "# Chapter VIII\n",
+   "draft": "## Chapter VI",
+   "verified": "# Chapter VI",
+   "context": ".” The Effect of Climate on Morals. The Charm of the East. ⏎  ⏎ ## Chapter VIII ⏎  ⏎ | | | ⏎ |---|---| ⏎ | SINGAPORE TO HONG KONG | 72 | ⏎  ⏎ Chinese Co"
+  },
+  {
+   "n": 5,
+   "kind": "punctuation",
+   "find": "## Chapter IX",
+   "replace": "# Chapter IX",
+   "draft": "## Chapter IX",
+   "verified": "# Chapter IX",
+   "context": ". A Death at Sea. How John Chinaman smokes. Cholera-belts. ⏎  ⏎ ## Chapter IX ⏎  ⏎ | | | ⏎ |---|---| ⏎ | HONG KONG | 80 | ⏎  ⏎ The Island of Hong Kon"
+  }
+ ],
+ "p0020": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXIV",
+   "replace": "# Chapter XXIV",
+   "draft": "[[center]] CHAPTER XXIV",
+   "verified": "# Chapter XXIV",
+   "context": "[[page xii]] ⏎  ⏎ [[center]] CHAPTER XXIV ⏎  ⏎ | | PAGE | ⏎ | YOKOHAMA AND TŌKYŌ | <pref>274</pref> | ⏎  ⏎ The "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXV\n\n| JAPANESE E",
+   "replace": "# Chapter XXV\n\n| JAPANESE E",
+   "draft": "[[center]] CHAPTER XXV\n\n| JAPA",
+   "verified": "# Chapter XXV\n\n| JAPA",
+   "context": "ne Carvings. Tōkyō. Ueno Park. Shiba. Flowers and Gardens. ⏎  ⏎ [[center]] CHAPTER XXV ⏎  ⏎ | JAPANESE ENTERTAINMENTS | <pref>288</pref> | ⏎  ⏎ A Wrestling Match. Heavy"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXVI\n",
+   "replace": "# Chapter XXVI\n",
+   "draft": "[[center]] CHAPTER XXVI\n",
+   "verified": "# Chapter XXVI\n",
+   "context": "e Maple Leaf Club. A Club Dinner. Japanese Dancing. Music. ⏎  ⏎ [[center]] CHAPTER XXVI ⏎  ⏎ | THE JAPANESE | <pref>299</pref> | ⏎  ⏎ Physical Characteristi"
+  },
+  {
+   "n": 4,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXVII\n",
+   "replace": "# Chapter XXVII\n",
+   "draft": "[[center]] CHAPTER XXVII\n",
+   "verified": "# Chapter XXVII\n",
+   "context": " Japanese.” Commercial Dishonesty. “Evasions of Veracity.” ⏎  ⏎ [[center]] CHAPTER XXVII ⏎  ⏎ | JAPANESE WOMEN | <pref>310</pref> | ⏎  ⏎ “The Social Evil.” M"
+  },
+  {
+   "n": 5,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXVIII",
+   "replace": "# Chapter XXVIII",
+   "draft": "[[center]] CHAPTER XXVIII",
+   "verified": "# Chapter XXVIII",
+   "context": "pe. Ideals. Marriages and Births. Suicides. Crime. Police. ⏎  ⏎ [[center]] CHAPTER XXVIII ⏎  ⏎ | JAPANESE TRAITS | <pref>321</pref> | ⏎  ⏎ Patriotism. Pride "
+  }
+ ],
+ "p0021": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXIX",
+   "replace": "# Chapter XXIX",
+   "draft": "[[center]] CHAPTER XXIX",
+   "verified": "# Chapter XXIX",
+   "context": "[[page xiii]] ⏎  ⏎ [[center]] CHAPTER XXIX ⏎  ⏎ | | PAGE | ⏎ |---|---| ⏎ | JAPANESE ARTS AND ARTISANS | 332 | ⏎ "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXX\n",
+   "replace": "# Chapter XXX\n",
+   "draft": "[[center]] CHAPTER XXX\n",
+   "verified": "# Chapter XXX\n",
+   "context": "ast.” Art. Decline of Taste. Carving. Lacquer. Literature. ⏎  ⏎ [[center]] CHAPTER XXX ⏎  ⏎ | | | ⏎ |---|---| ⏎ | TRADE AND FINANCE | 346 | ⏎  ⏎ The Circulatin"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXXI\n",
+   "replace": "# Chapter XXXI\n",
+   "draft": "[[center]] CHAPTER XXXI\n",
+   "verified": "# Chapter XXXI\n",
+   "context": "ernational Balance Sheet. The Budget. Taxes. Expenditures. ⏎  ⏎ [[center]] CHAPTER XXXI ⏎  ⏎ | | | ⏎ |---|---| ⏎ | IMPRESSIONS OF JAPAN | 355 | ⏎  ⏎ Scenery. A "
+  },
+  {
+   "n": 4,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXXII\n",
+   "replace": "# Chapter XXXII\n",
+   "draft": "[[center]] CHAPTER XXXII\n",
+   "verified": "# Chapter XXXII\n",
+   "context": "ed Streams. Farming. Insects. Disappointed Globe-trotters. ⏎  ⏎ [[center]] CHAPTER XXXII ⏎  ⏎ | | | ⏎ |---|---| ⏎ | HAWAII AND THE PACIFIC | 368 | ⏎  ⏎ Yokohama "
+  },
+  {
+   "n": 5,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXXIII",
+   "replace": "# Chapter XXXIII",
+   "draft": "[[center]] CHAPTER XXXIII",
+   "verified": "# Chapter XXXIII",
+   "context": " A Luau. The Voyage to San Francisco. English Sociability. ⏎  ⏎ [[center]] CHAPTER XXXIII ⏎  ⏎ | | | ⏎ |---|---| ⏎ | CALIFORNIA | 392 | ⏎  ⏎ The Golden Gate. San"
+  }
+ ],
+ "p0022": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXXIV",
+   "replace": "# Chapter XXXIV",
+   "draft": "[[center]] CHAPTER XXXIV",
+   "verified": "# Chapter XXXIV",
+   "context": " “Bunkoed.” “Man Overboard.” The Return of the Volunteers. ⏎  ⏎ [[center]] CHAPTER XXXIV ⏎  ⏎ ACROSS THE AMERICAN CONTINENT <pref>409</pref> ⏎  ⏎ Lake Tahoe"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "ACROSS THE AMERICAN CONTINENT <pref>409</pref>",
+   "replace": "[[subtitle]] Across the American Continent <pref>409</pref>",
+   "draft": "ACROSS THE AMERICAN CONTINENT <pref>409</",
+   "verified": "[[subtitle]] Across the American Continent <pref>409</",
+   "context": "Overboard.” The Return of the Volunteers. ⏎  ⏎ # Chapter XXXIV ⏎  ⏎ ACROSS THE AMERICAN CONTINENT <pref>409</pref> ⏎  ⏎ Lake Tahoe. The Central Pacific. The Rio Grande Western. C"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "[[center]] CHAPTER XXXV",
+   "replace": "# Chapter XXXV",
+   "draft": "[[center]] CHAPTER XXXV",
+   "verified": "# Chapter XXXV",
+   "context": " “The Pennsylvania Limited.” New York. New York to London. ⏎  ⏎ [[center]] CHAPTER XXXV ⏎  ⏎ SUGGESTIONS TO TOURISTS <pref>420</pref> ⏎  ⏎ When to start. A"
+  },
+  {
+   "n": 4,
+   "kind": "words",
+   "find": "SUGGESTIONS TO TOURISTS <pref>420</pref>",
+   "replace": "[[subtitle]] Suggestions to Tourists <pref>420</pref>",
+   "draft": "SUGGESTIONS TO TOURISTS <pref>420</",
+   "verified": "[[subtitle]] Suggestions to Tourists <pref>420</",
+   "context": "ia Limited.” New York. New York to London. ⏎  ⏎ # Chapter XXXV ⏎  ⏎ SUGGESTIONS TO TOURISTS <pref>420</pref> ⏎  ⏎ When to start. Around the World in Nine Months. What it co"
+  }
+ ],
+ "p0101": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "handsful of",
+   "replace": "handful of",
+   "draft": "handsful of",
+   "verified": "handful of",
+   "context": "d get our own tickets, and we received the change due us in handsful of copper coins. ⏎  ⏎ In returning to Batavia we felt keen regret "
+  }
+ ],
+ "p0113": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "to an upright, with two notches",
+   "replace": "to an upright,\n\n[[image: line drawing of a sampan oar, with a short handle, long shaft and spoon-shaped paddle]]\n\n[[cont]]with two notches",
+   "draft": " an upright, with two not",
+   "verified": " an upright,\n\n[[image: line drawing of a sampan oar, with a short handle, long shaft and spoon-shaped paddle]]\n\n[[cont]]with two not",
+   "context": " paddle joined thus. Each oar is attached by a loop of rope to an upright, with two notches, similar to those on the Venetian gondolas. The sails are n"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "[[image: line drawing of a sampan oar, with a short handle, long shaft and spoon-shaped paddle]]\n\nWe stopped",
+   "replace": "We stopped",
+   "draft": "[[image: line drawing of a sampan oar, with a short handle, long shaft and spoon-shaped paddle]]\n\nWe stopped",
+   "verified": "We stopped",
+   "context": "an holds these in one hand while he steers with the other. ⏎  ⏎ [[image: line drawing of a sampan oar, with a short handle, long shaft and spoon-shaped paddle]] ⏎  ⏎ We stopped halfway between Kranji and Singapore to ascend Bukit Timah "
+  }
+ ],
+ "p0122": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "1/12 or 8⅓ per cent",
+   "replace": "<sup>1</sup>⁄<sub>12</sub> or 8⅓ per cent",
+   "draft": "1/12 or 8⅓ per c",
+   "verified": "<sup>1</sup>⁄<sub>12</sub> or 8⅓ per c",
+   "context": "u are only entitled to get $275, so that the banker retains 1/12 or 8⅓ per cent of your winnings. If you bet $100 on an even chance and win"
+  }
+ ],
+ "p0129": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "a Chinamen, who",
+   "replace": "a Chinaman, who",
+   "draft": "a Chinamen, who",
+   "verified": "a Chinaman, who",
+   "context": "ing hells, and convictions were secured by the testimony of a Chinamen, who turned queen’s evidence, and the subsequent confession of a"
+  }
+ ],
+ "p0196": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "at 2.30 one afternoon",
+   "replace": "at 2.30 afternoon",
+   "draft": "at 2.30 one afternoon",
+   "verified": "at 2.30 afternoon",
+   "context": "hanghai to Nagasaki is only 410 miles; and, leaving Woosung at 2.30 one afternoon, we passed the Osesaki Light the evening of the following d"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{"n": 1, "is": "B", "print": "[[center]] CHAPTER XXIV", "sure": "medium"}
+{"n": 2, "is": "A", "print": "[[center]] CHAPTER XXV\n\n| JAPA", "sure": "medium"}
+{"n": 3, "is": "B", "print": "[[center]] CHAPTER XXVI\n", "sure": "medium"}
+{"n": 4, "is": "B", "print": "[[center]] CHAPTER XXVII\n", "sure": "medium"}
+{"n": 5, "is": "B", "print": "[[center]] CHAPTER XXVIII", "sure": "medium"}

@@ -1,0 +1,6 @@
+I checked all four spots against the scan. In each case the reading that keeps the printed capitals and doesn't add a heading or subtitle tag is the one that matches the page.
+
+{"n": 1, "is": "B", "print": "[[center]] CHAPTER XXXIV", "sure": "high"}
+{"n": 2, "is": "A", "print": "ACROSS THE AMERICAN CONTINENT <pref>409</", "sure": "high"}
+{"n": 3, "is": "A", "print": "[[center]] CHAPTER XXXV", "sure": "high"}
+{"n": 4, "is": "A", "print": "SUGGESTIONS TO TOURISTS <pref>420</", "sure": "high"}
