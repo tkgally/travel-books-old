@@ -1,0 +1,39 @@
+{
+ "id": "letters-southern-india-ceylon-williams",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Letters Written during a Trip to Southern India & Ceylon in the Winter of 1876–1877",
+ "short_title": "Letters from Southern India & Ceylon",
+ "authors": [
+  {
+   "name": "C. R. Williams",
+   "sort": "Williams, C. R."
+  }
+ ],
+ "place": "London",
+ "publisher": "Printed by C. Roworth & Sons, for private circulation",
+ "year": 1877,
+ "edition_statement": "First edition (printed for private circulation)",
+ "regions": [
+  "India",
+  "Sri Lanka",
+  "Egypt"
+ ],
+ "period": "1876–77",
+ "summary": "Letters home from Charles Reynolds Williams, after thirty-five years of professional life in London, who in the winter of 1876–77 went with his brother, Monier Williams, the Boden Professor of Sanskrit at Oxford, on a tour of western and southern India. They sail from Southampton by the Suez Canal to Bombay, go north by rail to Baroda and Ahmedabad in Gujarat, then by Poona and Mahabaleshwar to Madras, up to Ootacamund in the Nilgiris, and south by Tanjore, Trichinopoly and Madura to Ramnad, Tuticorin and Tinnevelly, and across to Ceylon. Williams returns alone by a coasting steamer along the Malabar coast to Bombay, visits Ellora with his brother, and stops at Cairo on the way home. The book was printed for his family and friends, with lithographs of his own sketches.",
+ "source": {
+  "ia_identifier": "letterswrittendu00willrich",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": []
+ },
+ "omitted_from_reading": "The title page is in the JSON only.",
+ "notes_on_text": [],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "divisions": []
+}
