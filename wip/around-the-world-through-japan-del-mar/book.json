@@ -102,5 +102,12 @@
   "p0045",
   "p0187",
   "p0414"
+ ],
+ "waivers": [
+  {
+   "check": "spacing",
+   "match": "p0120",
+   "why": "The full stop is printed after the domino set in the line (p. 74); the domino is a picture here, so the stop follows the picture."
+  }
  ]
 }
