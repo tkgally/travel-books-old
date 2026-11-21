@@ -32,3 +32,10 @@ Book picture: the title page (p0011).
 |---|---|---|---|---|
 
 ## Known issues
+
+## Crops (Opus subagent, 2026-11-21)
+57 crops in images/: 52 plate photographs (p0055 and p0457 two each, -1 upper, -2 lower), text figures p0113-1 (an oar: “a paddle joined thus”), p0160-1 (section
+of a Chinese coffin), p0237-1 “Futatsu Tomoye”, p0237-2 “Manji”, p0429-1 (kimono pattern; caption “Pattern of Kimono” and “Cut by most fashionable Japanese makers.”),
+cover.jpg (title page, LoC stamp inside the text area kept). Sideways plates turned 270, except p0347, p0351, p0391 (90). Captions are in capitals and small capitals,
+most with a “Photographed by …” line (Farsari, Plâté, Davey, Fiske, Hiestand); p0153 and p0229 print a low opening quote („,,The Junk.''“): check on the scan.
+p0120: a domino (6–5 printed doubly) set inline in the text, “is printed [domino]. There are no blanks,”: needs a crop if kept as a picture.
