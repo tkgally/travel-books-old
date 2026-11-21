@@ -39,4 +39,5 @@ Book picture: the cover (p0001).
 | 1 | 2026-11-22 | PASS, 0 waived (tools@e1ca6397) | 28/30, 0 real / 6 pages | spot-read: an accent, a caption place-name, 3 misprints, a [[cont]]; rendered look: no faults |
 
 ## Known issues
+- The “Letters” page (02.html) has no heading element: the division has no printed heading, and the renderers add none for a division made by `divisions` with a `title` (live pass, review after fifty books). For a later session: a heading from the division title (visible or for screen readers), with a test, checking that `conservation` still holds on every book.
 - The dates of entries (side-notes) are not in the reading editions (question for Tom).
