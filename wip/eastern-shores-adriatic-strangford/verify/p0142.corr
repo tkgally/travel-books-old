@@ -1,0 +1,7 @@
+Two differences: "Trebigné" should be "Trebigne" with an acute accent on the final e (the scan shows "Trebigné"), and "tide" matches. Checking the rest, I found one real error.
+
+{"find": "plentiful tide", "replace": "plentiful tide"}
+
+Correction: the page reads "Trebigné" and the draft already has it, so there is nothing to change.
+
+NONE
