@@ -330,4 +330,8 @@ How this was carried out: `RESUME.md` §"How long a session runs", `tools/sessio
 
 ## Questions for Tom
 
-None at present.
+- **Side-notes that date the entries of a letter or diary** (*Letters from Southern India & Ceylon*, Williams, 1877; 2026-11-22). The book prints
+  the place and date of each new entry within a letter in the margin (“Poona, Friday, 8th Dec.”, about 30 of them). By the standing rule (from
+  *Embassy to China*: side-notes are left out of the reading editions) they are in the JSON only, so the reading editions lose the dates of the
+  entries; the book page says so. Should such side-notes be shown in the editions (for example as a small line or a run-in date at the start of
+  the paragraph), for this book and others like it? Assumed for now: the standing rule; a new version can show them.
