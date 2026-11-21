@@ -1,6 +1,0 @@
-{"find": "close investigation.", "replace": "close investigation."}
-{"find": "Wakamatsu and spread", "replace": "Wakamatsu and spread"}
-
-Wait, neither of those changes anything. These are the real corrections:
-
-{"find": "bear close investigation.", "replace": "bear close investigation."}

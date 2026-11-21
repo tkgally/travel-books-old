@@ -1,0 +1,84 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[ look (3)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0247: …ll to overflow-|ing, we were de… (hyphen removed; check)
+            - hyphen join at p0507: …and the transi-|tion is sudden … (hyphen removed; check)
+            - (and 24 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[       ok] folios: printed page numbers that break the sequence
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[ look (1)] contents: entries of the printed contents with no matching heading
+            - p0015: 'Dambulla. The Railway to Bandarawella. The Tea-planters. Sport. Go-as-'
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[look (43)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - a: a (p0012, p0013, p0015, p0016, p0017, p0018…); à (p0420)
+            - besar: besar (p0077, p0107); besár (p0104)
+            - betto: betto (p0319, p0320); bettō (p0281, p0551)
+            - cho: cho (p0147, p0283); chō (p0350, p0409, p0412, p0438, p0552)
+            - do: do (p0028, p0029, p0036, p0042, p0043, p0044…); dō (p0231, p0232, p0266, p0292, p0314, p0350…)
+            - fu: fu (p0151, p0155, p0255); fū (p0426)
+            - horyuji: hōryuji (p0437); hōryūji (p0018, p0241, p0242, p0243, p0554)
+            - hotel: hotel (p0015, p0023, p0034, p0038, p0041, p0042…); hôtel (p0078, p0083, p0107, p0177)
+            - joro: jorō (p0409, p0410, p0411, p0412, p0468, p0554); jōro (p0223, p0410, p0554)
+            - ju: ju (p0289); jū (p0231, p0554)
+            - junikai: junikai (p0213); jūnikai (p0375)
+            - kano: kano (p0224, p0231, p0323, p0350, p0353, p0370…); kanō (p0328, p0554)
+            - kinkozan: kinkozan (p0555); kinkōzan (p0308)
+            - ko: ko (p0217, p0344); kō (p0552)
+            - kobako: kobako (p0425); kōbako (p0555)
+            - kobe: kobe (p0197); kōbe (p0017, p0018, p0019, p0200, p0201, p0206…)
+            - kogo: kogo (p0425); kōgō (p0555)
+            - koriyama: koriyama (p0345); kōriyama (p0242, p0343)
+            - koro: koro (p0259, p0308); kōro (p0555)
+            - koshi: koshi (p0385, p0555); kōshi (p0232)
+            - koya: koya (p0280); kōya (p0018, p0241, p0246, p0247, p0249, p0250…)
+            - kozuke: kozuke (p0356); kōzuke (p0316)
+            - kwairo: kwairo (p0425, p0555); kwairō (p0271)
+            - kyushu: kyushū (p0555); kyūshū (p0018, p0200, p0276, p0281, p0282, p0285…)
+            - no: no (p0018, p0019, p0024, p0032, p0033, p0036…); nō (p0394)
+            - o: o (p0013, p0028, p0029, p0030, p0034, p0035…); ō (p0199, p0350, p0353, p0366, p0374, p0556)
+            - ogawa: ogawa (p0350, p0556); ōgawa (p0302, p0343)
+            - okyo: ōkyo (p0438, p0439, p0556); ōkyō (p0209, p0381, p0391)
+            - ono: ono (p0246, p0297, p0556); ōno (p0268, p0271)
+            - ota: ota (p0237); ōta (p0271, p0343, p0373)
+            - pate: pate (p0043); paté (p0218); pâte (p0294)
+            - plate: plate (p0080, p0258, p0486, p0549); plâté (p0023, p0039, p0061, p0065, p0071)
+            - ronin: ronin (p0377); rōnin (p0020, p0024, p0384, p0386, p0390, p0393…)
+            - seiyo: seiyo (p0426); seiyō (p0426)
+            - selangor: selangor (p0107, p0115); sělángor (p0107)
+            - sho: sho (p0344); shō (p0376)
+            - shoji: shoji (p0244); shōji (p0259, p0319, p0426, p0460, p0557)
+            - shu: shu (p0390); shū (p0018, p0225, p0232, p0235)
+            - suwo: suwo (p0276); suwō (p0200, p0298)
+            - to: to (p0013, p0015, p0016, p0017, p0018, p0019…); tō (p0254, p0558)
+            … 3 more (-v)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (2)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0274: “hunch” — “bunch” is common (64)
+            - p0467: “laud” — “land” is common (1880)
+[ look (3)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+            - p0054: “leaves It” in …the world) beneath whose leaves It was ordained…
+            - p0203: “to The” in …ll offer the application to The your Consulate…
+            - p0203: “offer The” in …Any visitor who do not offer The application to themse…
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: around-the-world-through-japan-del-mar v1 — 0 to fix, 1 waived; to look at: hyphen-joins 3, contents 1, accents 43, rare-forms 2, missing-stop 3 — tools@f9beea7b 2026-11-21

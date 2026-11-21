@@ -112,6 +112,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 
 ## Trigger: broken type
 
+- A damaged corner or edge (*Around the World through Japan* p. 95): draft, verifier, judge and a spot-read all filled the lost words with plausible ones (“away” for *free*, “little” for *shade*); only the two letters typed 〓 showed it. Read such lines from another scan or edition of the same setting (IA OCR text is enough to find the page); otherwise `[[supplied]]`/`[[gap]]`.
 - A comma whose tail did not print looks like a full stop; both readers and the judge took "refreshing. and" as printed
   (*Journal of a Residence* p0271); a full stop before a lower-case word is worth a crop (grep `[a-z]\. [a-z]`).
 - A letter dropped out of the type leaves a gap at the line start (*Short Leave* p0214 " anguage"): mark it `[[corr]]`

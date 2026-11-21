@@ -1,0 +1,121 @@
+{
+ "id": "around-the-world-through-japan-del-mar",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Around the World through Japan",
+ "short_title": "Around the World through Japan",
+ "authors": [
+  {
+   "name": "Walter Del Mar",
+   "sort": "Del Mar, Walter",
+   "born": 1862,
+   "died": 1944
+  }
+ ],
+ "place": "New York and London",
+ "publisher": "The Macmillan Company; Macmillan & Co.",
+ "year": 1902,
+ "edition_statement": "First edition",
+ "collection": "jatsi",
+ "regions": [
+  "Sri Lanka",
+  "Indonesia",
+  "Singapore",
+  "China",
+  "Japan",
+  "Hawaii",
+  "United States"
+ ],
+ "period": "1898–99",
+ "summary": "Walter Del Mar went round the world from west to east in 1898–99, and more than half of this book is about Japan. He sails from London by Marseilles and Suez to Ceylon, and goes on to Java, Singapore, Hong Kong, Canton, Macao and Shanghai. In Japan he travels widely: Tokyo and Kyoto, Nara, the island of Shikoku and the Inland Sea, Kyushu and Satsuma, the main island from Tokuyama to Nagoya, Hakone, Hokkaido and the Ainu, Nikko and Asama-yama. Chapters follow on Japanese religion, entertainments, women, arts and trade, and his impressions of the country. He returns by Hawaii, California and the Yosemite valley, and across the United States by Colorado. The last chapter gives advice to tourists on routes, costs and luggage. There are fifty plates of photographs.",
+ "source": {
+  "ia_identifier": "aroundworldthrou00delm",
+  "contributor": "Library of Congress",
+  "hidden_leaves": [
+   0,
+   9,
+   10,
+   567,
+   568,
+   569,
+   570,
+   571
+  ]
+ },
+ "omitted_from_reading": "The half-title, title page, printed contents, list of illustrations, index and advertisements are in the JSON only.",
+ "notes_on_text": [
+  "Some words at the left edge of the top lines of p. 95 are damaged in the scan; they are read from the same setting in the second edition (London: A. & C. Black, 1904; Internet Archive cu31924023517422).",
+  "The 6–5 domino on p. 74 is printed in the line of text (“the 6–5 is printed [domino]. There are no blanks”); here it is a picture after that paragraph, and the full stop stands alone in the line. The small figures of an oar (p. 67) and a coffin (p. 98) also follow their paragraphs."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "frontispiece": "p0008-1",
+ "divisions": [
+  {
+   "at": "p0005",
+   "kind": "front",
+   "title": "Half-title"
+  },
+  {
+   "at": "p0011",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0013",
+   "kind": "preface"
+  },
+  {
+   "at": "p0015",
+   "kind": "contents"
+  },
+  {
+   "at": "p0023",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0027",
+   "kind": "front",
+   "title": "Half-title above the first chapter"
+  },
+  {
+   "at": "p0027",
+   "n": 2,
+   "kind": "chapter"
+  },
+  {
+   "at": "p0551",
+   "kind": "index"
+  },
+  {
+   "at": "p0561",
+   "kind": "advertisements",
+   "title": "Advertisements"
+  }
+ ],
+ "keep_hyphens": [
+  "p0019",
+  "p0045",
+  "p0187",
+  "p0414"
+ ],
+ "waivers": [
+  {
+   "check": "spacing",
+   "match": "p0120",
+   "why": "The full stop is printed after the domino set in the line (p. 74); the domino is a picture here, so the stop follows the picture."
+  }
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "29/29",
+  "real_errors": 0,
+  "fixed": 0
+ }
+}
