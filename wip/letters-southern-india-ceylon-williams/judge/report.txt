@@ -1,8 +1,0 @@
-judge opus: 7 spots on 7 pages: {'verified': 3, 'draft (could not undo: edit by hand)': 3, 'draft': 1}; cost $0.30
-p0012 #1 [verified, sure: medium] draft '22 Oct.' | verified '22 Oct:' | judge reads '22 Oct:'
-p0029 #1 [draft (could not undo: edit by hand), sure: medium] draft '\n[[caption]] Approach to Suez from the Canal 26 Oct. 1876' | verified '' | judge reads '\n[[caption]] Approach to Suez from the Canal 26 Oct. 1876'
-p0043 #1 [draft (could not undo: edit by hand), sure: high] draft '\n[[caption]] African Sheep taken on board at Aden 1 Nov' | verified '' | judge reads '\n[[caption]] African Sheep taken on board at Aden 1 Nov'
-p0094 #1 [draft, sure: high] draft '[[cont]]“clap him' | verified '[[cont]]clap him' | judge reads '[[cont]]“clap him'
-p0102 #1 [verified, sure: medium] draft 'fails to give it' | verified 'fails tu give it' | judge reads 'fails tu give it'
-p0131 #1 [verified, sure: medium] draft 'Island of Paumben, Sunday, 31st Dec. We have had' | verified '[[side: Island of Paumben, Sunday, 31st Dec.]] We have had' | judge reads '[[side: Island of Paumben, Sunday, 31st Dec.]] We have had'
-p0156 #1 [draft (could not undo: edit by hand), sure: high] draft '\n[[caption]] Tillecherry Boatman 23 Jany' | verified '' | judge reads '\n[[caption]] Tillecherry Boatman 23 Jany'

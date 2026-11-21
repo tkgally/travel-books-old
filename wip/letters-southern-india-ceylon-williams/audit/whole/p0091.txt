@@ -1,5 +1,0 @@
-{"given": "trees in full leaf; and beyond", "print": "trees in full leaf, and beyond", "sure": "high"}
-{"given": "ranges of mountains, some the most fantastic", "print": "ranges of mountains, some of the most fantastic", "sure": "high"}
-{"given": "all the trees should he in full", "print": "all the trees should be in full", "sure": "high"}
-{"given": "the color of the roads", "print": "the colour of the roads", "sure": "high"}
-{"given": "especially a colosfal kind of wild", "print": "especially a colossal kind of wild", "sure": "high"}

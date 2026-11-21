@@ -1,5 +1,0 @@
-{"given": "removes of plates and kuives and forks", "print": "removes of plates and knives and forks", "sure": "high"}
-{"given": "could not live in a beat which", "print": "could not live in a heat which", "sure": "high"}
-{"given": "about and across all directions.", "print": "about and across in all directions.", "sure": "high"}
-{"given": "the service—hymns; with piano accompaniment", "print": "the service—hymns, with piano accompaniment", "sure": "high"}
-{"given": "joined in by all. Tonight the moon", "print": "joined in by all. To-night the moon", "sure": "high"}

@@ -1,4 +1,0 @@
-{"given": "where we were halt and breakfast", "print": "where we were to halt and breakfast", "sure": "high"}
-{"given": "and the luggage where transferred", "print": "and the luggage were transferred", "sure": "high"}
-{"given": "but it was surprifing how well", "print": "but it was surprising how well", "sure": "high"}
-{"given": "pillows, otherwize we should have", "print": "pillows, otherwise we should have", "sure": "high"}

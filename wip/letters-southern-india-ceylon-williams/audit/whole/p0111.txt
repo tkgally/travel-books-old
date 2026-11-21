@@ -1,5 +1,0 @@
-{"given": "his finger. Be stationed a boy", "print": "his finger. He stationed a boy", "sure": "high"}
-{"given": "the bird flew at it, seizcd it", "print": "the bird flew at it, seized it", "sure": "high"}
-{"given": "old England again. I mean; so far", "print": "old England again. I mean, so far", "sure": "high"}
-{"given": "but not till season, which begins", "print": "but not till the season, which begins", "sure": "high"}
-{"given": "an omnibus in london. The ponies", "print": "an omnibus in London. The ponies", "sure": "high"}
