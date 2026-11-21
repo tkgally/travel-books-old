@@ -1058,10 +1058,11 @@
    "place": "London",
    "publisher": "Printed by C. Roworth & Sons (for private circulation)",
    "images": 196,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-21",
-   "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (whole file); The Online Books Page: HathiTrust page images only; Wikisource: nothing; web search of a sentence: nothing. Reprints: Kessinger, BiblioLife, Nabu, Legare Street, Hansebooks (print on demand only). Rule 5: death date not found; birth bounded about 1825 or earlier (the preface: 'thirty-five years and upwards' of professional life in London by 1876); brother of Monier Monier-Williams (b. 1819). Illustrations the author's own. Not checked: Faded Page (search not scriptable), WorldCat.",
-   "note": "UC Berkeley scan, 300 ppi, clean. iv + 157 pp.; dated letters home. With his brother the Boden Professor of Sanskrit: Bombay, Ahmedabad, Poona, Mahabaleshwar, Madras in the famine of 1876–77, the Nilgiris, Tanjore, Madura, a night crossing to Tuticorin, Tinnevelly missions, Ceylon; back alone by coasting steamer, Ellora, Cairo. Plates are the author's sketches (count at the scan check). Folios printed in parentheses."
+   "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (whole file); The Online Books Page: HathiTrust page images only; Wikisource: nothing; web search of a sentence: nothing. Reprints: Kessinger, BiblioLife, Nabu, Legare Street, Hansebooks (print on demand only). Rule 5: death date not found; birth bounded about 1825 or earlier (the preface: 'thirty-five years and upwards' of professional life in London by 1876); brother of Monier Monier-Williams (b. 1819). Illustrations the author's own. Not checked: Faded Page (search not scriptable), WorldCat. Re-checked 2026-11-22 (session): web search finds only print-on-demand reprints and raw HathiTrust OCR (Distant Reader); no reading edition.",
+   "note": "UC Berkeley scan, 300 ppi, clean. iv + 157 pp.; dated letters home. With his brother the Boden Professor of Sanskrit: Bombay, Ahmedabad, Poona, Mahabaleshwar, Madras in the famine of 1876–77, the Nilgiris, Tanjore, Madura, a night crossing to Tuticorin, Tinnevelly missions, Ceylon; back alone by coasting steamer, Ellora, Cairo. Plates are the author's sketches (count at the scan check). Folios printed in parentheses.",
+   "started": "2026-11-22"
   },
   {
    "order": 58,
