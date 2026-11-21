@@ -13,6 +13,13 @@
    "height": 450,
    "sha256": "260341fd9576e488c5211a5a2ac305bcdd26004bf433b34e94f2ae92946c229c"
   },
+  "around-the-world-through-japan-del-mar": {
+   "image": "title page",
+   "width": 289,
+   "height": 450,
+   "sha256": "d929b653ddd729e56dcc4201fbe730a625e3b3efbfae1af4707b73d3115d9677",
+   "note": "title page; the cover is plain library cloth"
+  },
   "autumn-tour-in-western-persia-durand": {
    "image": "title page",
    "width": 271,
@@ -56,6 +63,13 @@
    "height": 450,
    "sha256": "82d165de696da879bed540f7c41cc0874345f55afa6e39d1025055616f68b2cc",
    "note": "the cover has no title"
+  },
+  "eastern-shores-adriatic-strangford": {
+   "image": "title page",
+   "width": 286,
+   "height": 450,
+   "sha256": "36f32aa2602e62d0ec2c9ad3a42ccfe98e391ba24727d49bce735b030a4194cd",
+   "note": "title page; the cover has no title"
   },
   "embassy-to-china-staunton": {
    "image": "title page",
@@ -154,6 +168,13 @@
    "width": 287,
    "height": 450,
    "sha256": "53b04add83a43838f8808ea5f4bf4b6da3846385bb2ce6bcd0d50f770ed5294a"
+  },
+  "letters-southern-india-ceylon-williams": {
+   "image": "cover",
+   "width": 277,
+   "height": 450,
+   "sha256": "7545e08f1b1240eb28cbca6ecd94d3e8999f4cdc208f9bece086e5b3a200de2b",
+   "note": "gilt title readable; library label"
   },
   "mongolia-siberia-sheepshanks": {
    "image": "cover",
