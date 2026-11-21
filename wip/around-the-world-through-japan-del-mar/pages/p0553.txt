@@ -1,179 +1,179 @@
 [[page 429]]
 
-<i>Fêng-shui</i> or <i>Fung-shui</i>, 95.
+<i>Fêng-shui</i> or <i>Fung-shui</i>, <pref>95</pref>.
 
-Fever, 28.
+Fever, <pref>28</pref>.
 
-Fireworks, 279.
+Fireworks, <pref>279</pref>.
 
-Fish, 65, 112, 278, 301.
+Fish, <pref>65</pref>, <pref>112</pref>, <pref>278</pref>, <pref>301</pref>.
 
-Fishing, 248.
+Fishing, <pref>248</pref>.
 
-Fishmarket, Tōkyō, 282.
+Fishmarket, Tōkyō, <pref>282</pref>.
 
-Flower-boats, Canton, 98–9.
+Flower-boats, Canton, <pref>98</pref>–<pref>9</pref>.
 
-Flowers, 19, 56, 149, 179, 181, 253, 275–6, 283, 372.
+Flowers, <pref>19</pref>, <pref>56</pref>, <pref>149</pref>, <pref>179</pref>, <pref>181</pref>, <pref>253</pref>, <pref>275</pref>–<pref>6</pref>, <pref>283</pref>, <pref>372</pref>.
 
-Food, 13, 19, 31, 34, 51, 65, 73, 99, 113, 148, 173–4, 177, 179, 211, 224–5, 295–6, 299–300, 372–4, 388, 395.
+Food, <pref>13</pref>, <pref>19</pref>, <pref>31</pref>, <pref>34</pref>, <pref>51</pref>, <pref>65</pref>, <pref>73</pref>, <pref>99</pref>, <pref>113</pref>, <pref>148</pref>, <pref>173</pref>–<pref>4</pref>, <pref>177</pref>, <pref>179</pref>, <pref>211</pref>, <pref>224</pref>–<pref>5</pref>, <pref>295</pref>–<pref>6</pref>, <pref>299</pref>–<pref>300</pref>, <pref>372</pref>–<pref>4</pref>, <pref>388</pref>, <pref>395</pref>.
 
-Foreigners in China, 112.
+Foreigners in China, <pref>112</pref>.
 
-“Japan, 138, 305–6.
+“Japan, <pref>138</pref>, <pref>305</pref>–<pref>6</pref>.
 
-Fortune, Robert, 285.
+Fortune, Robert, <pref>285</pref>.
 
-Forty-seven Rōnin, 283, 290, 294–5.
+Forty-seven Rōnin, <pref>283</pref>, <pref>290</pref>, <pref>294</pref>–<pref>5</pref>.
 
-Fraser, Mrs. Hugh, quoted, 317.
+Fraser, Mrs. Hugh, quoted, <pref>317</pref>.
 
-Fruit, 17, 19, 37, 46, 65, 83–4, 113, 255, 300, 382, 385.
+Fruit, <pref>17</pref>, <pref>19</pref>, <pref>37</pref>, <pref>46</pref>, <pref>65</pref>, <pref>83</pref>–<pref>4</pref>, <pref>113</pref>, <pref>255</pref>, <pref>300</pref>, <pref>382</pref>, <pref>385</pref>.
 
-<i>Fuchi</i>, 220.
+<i>Fuchi</i>, <pref>220</pref>.
 
-<sc>Fuji-san</sc> or <sc>Fuji-yama</sc>, 243–4, 245.
+<sc>Fuji-san</sc> or <sc>Fuji-yama</sc>, <pref>243</pref>–<pref>4</pref>, <pref>245</pref>.
 
-<sc>Fukuyama</sc>, 194.
+<sc>Fukuyama</sc>, <pref>194</pref>.
 
-<sc>Fūnakata</sc>, 277.
+<sc>Fūnakata</sc>, <pref>277</pref>.
 
-Funerals, 180–1.
+Funerals, <pref>180</pref>–<pref>1</pref>.
 
-<i>Fusuma</i>, 152, 186.
+<i>Fusuma</i>, <pref>152</pref>, <pref>186</pref>.
 
-<sc>Futami</sc>, 236.
+<sc>Futami</sc>, <pref>236</pref>.
 
-<i>Futon</i>, 187.
+<i>Futon</i>, <pref>187</pref>.
 
 ## G
 
-<sc>Galle</sc>, 20.
+<sc>Galle</sc>, <pref>20</pref>.
 
-Gambling, 76–8, 101, 116, 405–8.
+Gambling, <pref>76</pref>–<pref>8</pref>, <pref>101</pref>, <pref>116</pref>, <pref>405</pref>–<pref>8</pref>.
 
-Games and pastimes, 3, 5–7, 74–7, 99, 101–3, 240–1, 389, 404.
+Games and pastimes, <pref>3</pref>, <pref>5</pref>–<pref>7</pref>, <pref>74</pref>–<pref>7</pref>, <pref>99</pref>, <pref>101</pref>–<pref>3</pref>, <pref>240</pref>–<pref>1</pref>, <pref>389</pref>, <pref>404</pref>.
 
-Gardens, 157, 224, 283–7.
+Gardens, <pref>157</pref>, <pref>224</pref>, <pref>283</pref>–<pref>7</pref>.
 
-“Botanical, 21, 37, 45–6, 68, 285–6.
+“Botanical, <pref>21</pref>, <pref>37</pref>, <pref>45</pref>–<pref>6</pref>, <pref>68</pref>, <pref>285</pref>–<pref>6</pref>.
 
-Gardner, Robert S., quoted, 360.
+Gardner, Robert S., quoted, <pref>360</pref>.
 
-<sc>Garoet</sc>, 54–6.
+<sc>Garoet</sc>, <pref>54</pref>–<pref>6</pref>.
 
-<i>Geisha</i>, 150–1, 240–1, 295–7, 312.
+<i>Geisha</i>, <pref>150</pref>–<pref>1</pref>, <pref>240</pref>–<pref>1</pref>, <pref>295</pref>–<pref>7</pref>, <pref>312</pref>.
 
-<i>Genge-hana</i>, 149.
+<i>Genge-hana</i>, <pref>149</pref>.
 
-<i>Geta</i>, 184–5.
+<i>Geta</i>, <pref>184</pref>–<pref>5</pref>.
 
-<sc>Gibraltar</sc>, 4.
+<sc>Gibraltar</sc>, <pref>4</pref>.
 
-<i>Gin-seng</i> or <i>genseng</i>, 97.
+<i>Gin-seng</i> or <i>genseng</i>, <pref>97</pref>.
 
-<i>Go</i>, game of, 240.
+<i>Go</i>, game of, <pref>240</pref>.
 
-<sc>Gōdo</sc>, 267.
+<sc>Gōdo</sc>, <pref>267</pref>.
 
-<sc>Golden Gate, The</sc>, 392.
+<sc>Golden Gate, The</sc>, <pref>392</pref>.
 
-““Park, 393.
+““Park, <pref>393</pref>.
 
-Gosho Palace, Kyōto, 151.
+Gosho Palace, Kyōto, <pref>151</pref>.
 
-<sc>Gotemba</sc>, 149, 244.
+<sc>Gotemba</sc>, <pref>149</pref>, <pref>244</pref>.
 
-Guide-books, 45, 134–5, 423.
+Guide-books, <pref>45</pref>, <pref>134</pref>–<pref>5</pref>, <pref>423</pref>.
 
 ## H
 
-<i>Hakama</i>, 235, 326.
+<i>Hakama</i>, <pref>235</pref>, <pref>326</pref>.
 
-<sc>Hakgalla Gardens, Ceylon</sc>, 37.
+<sc>Hakgalla Gardens, Ceylon</sc>, <pref>37</pref>.
 
-<i>Hak-kei</i>, 229–30, 276.
+<i>Hak-kei</i>, <pref>229</pref>–<pref>30</pref>, <pref>276</pref>.
 
-<sc>Hakodate</sc>, 253–4.
+<sc>Hakodate</sc>, <pref>253</pref>–<pref>4</pref>.
 
-<sc>Hakone</sc>, 246–7.
+<sc>Hakone</sc>, <pref>246</pref>–<pref>7</pref>.
 
-<sc>Haleakala</sc>, 380.
+<sc>Haleakala</sc>, <pref>380</pref>.
 
-<sc>Halemaumau</sc>, 383–4.
+<sc>Halemaumau</sc>, <pref>383</pref>–<pref>4</pref>.
 
-Half-castes, 52.
+Half-castes, <pref>52</pref>.
 
-Hanabusa Itcho, 340.
+Hanabusa Itcho, <pref>340</pref>.
 
-<i>Hana-ike</i>, 185, 287.
+<i>Hana-ike</i>, <pref>185</pref>, <pref>287</pref>.
 
-<i>Hanami</i>, 283.
+<i>Hanami</i>, <pref>283</pref>.
 
-<i>Hana-michi</i>, 150, 291.
+<i>Hana-michi</i>, <pref>150</pref>, <pref>291</pref>.
 
-<sc>Hankow</sc> or <sc>Hankau</sc>, 112.
+<sc>Hankow</sc> or <sc>Hankau</sc>, <pref>112</pref>.
 
-<sc>Haruna Lake</sc>, 270.
+<sc>Haruna Lake</sc>, <pref>270</pref>.
 
-“Temple, 271.
+“Temple, <pref>271</pref>.
 
-Hasedera or Temple of Hase, 170.
+Hasedera or Temple of Hase, <pref>170</pref>.
 
-<i>Hashi</i>, 149.
+<i>Hashi</i>, <pref>149</pref>.
 
-Hattori, 238.
+Hattori, <pref>238</pref>.
 
-<sc>Hawaii, Island of</sc>, 375, 378–84.
+<sc>Hawaii, Island of</sc>, <pref>375</pref>, <pref>378</pref>–<pref>84</pref>.
 
-<sc>Hawaiian Islands</sc>, 368–91.
+<sc>Hawaiian Islands</sc>, <pref>368</pref>–<pref>91</pref>.
 
-“Language, 372.
+“Language, <pref>372</pref>.
 
-“Sailors, 381.
+“Sailors, <pref>381</pref>.
 
-Hearn, Lafcadio, quoted, 153, 318, 332, 336, 355, 365.
+Hearn, Lafcadio, quoted, <pref>153</pref>, <pref>318</pref>, <pref>332</pref>, <pref>336</pref>, <pref>355</pref>, <pref>365</pref>.
 
-<i>Heimin</i>, 302.
+<i>Heimin</i>, <pref>302</pref>.
 
-<i>Hibachi</i>, 186.
+<i>Hibachi</i>, <pref>186</pref>.
 
-Hidari Jingorō, 152, 179, 239, 242, 243, 263.
+Hidari Jingorō, <pref>152</pref>, <pref>179</pref>, <pref>239</pref>, <pref>242</pref>, <pref>243</pref>, <pref>263</pref>.
 
-Hijikawa or Hishigawa Moronobu, 340.
+Hijikawa or Hishigawa Moronobu, <pref>340</pref>.
 
-<sc>Hiketa</sc>, 192.
+<sc>Hiketa</sc>, <pref>192</pref>.
 
-<sc>Hilo</sc>, 382.
+<sc>Hilo</sc>, <pref>382</pref>.
 
-<sc>Himeji</sc>, 225.
+<sc>Himeji</sc>, <pref>225</pref>.
 
-<i>Himo-gatana</i>, 220.
+<i>Himo-gatana</i>, <pref>220</pref>.
 
-<sc>Hiroshima</sc>, 195.
+<sc>Hiroshima</sc>, <pref>195</pref>.
 
-<sc>Hitoyoshi</sc>, 215.
+<sc>Hitoyoshi</sc>, <pref>215</pref>.
 
-<sc>Hiyori-yama</sc>, 236, 359.
+<sc>Hiyori-yama</sc>, <pref>236</pref>, <pref>359</pref>.
 
-<sc>Hizen</sc>, 217.
+<sc>Hizen</sc>, <pref>217</pref>.
 
-<sc>Hodogaya</sc>, 149, 359.
+<sc>Hodogaya</sc>, <pref>149</pref>, <pref>359</pref>.
 
-<sc>Hokkaidō</sc> or <sc>Yezo</sc>, 253–6.
+<sc>Hokkaidō</sc> or <sc>Yezo</sc>, <pref>253</pref>–<pref>6</pref>.
 
-Hokusai, Kodoshika, 341.
+Hokusai, Kodoshika, <pref>341</pref>.
 
-Holidays in Japan, 279.
+Holidays in Japan, <pref>279</pref>.
 
-Honami Koetsu, 340.
+Honami Koetsu, <pref>340</pref>.
 
-<i>Hondō</i>, 156.
+<i>Hondō</i>, <pref>156</pref>.
 
-<sc>Hong-Kong</sc>, 79–84, 104.
+<sc>Hong-Kong</sc>, <pref>79</pref>–<pref>84</pref>, <pref>104</pref>.
 
-Hongwanji Temples, 158, 180, 239, 282.
+Hongwanji Temples, <pref>158</pref>, <pref>180</pref>, <pref>239</pref>, <pref>282</pref>.
 
-<sc>Honolulu</sc>, 369–74.
+<sc>Honolulu</sc>, <pref>369</pref>–<pref>74</pref>.
 
-Horses, 199, 205, 253, 363.
+Horses, <pref>199</pref>, <pref>205</pref>, <pref>253</pref>, <pref>363</pref>.

@@ -10,138 +10,138 @@ Foreign words, other than above, in italics.
 
 ## A
 
-<i>Aburana</i>, 149.
+<i>Aburana</i>, <pref>149</pref>.
 
-Adams, Will, 276.
+Adams, Will, <pref>276</pref>.
 
-<sc>Aden</sc>, 9–10.
+<sc>Aden</sc>, <pref>9</pref>–<pref>10</pref>.
 
-Agriculture, 181, 193, 236–7, 362–4.
+Agriculture, <pref>181</pref>, <pref>193</pref>, <pref>236</pref>–<pref>7</pref>, <pref>362</pref>–<pref>4</pref>.
 
-<i>Aikuchi</i>, 220.
+<i>Aikuchi</i>, <pref>220</pref>.
 
-Aïnos, 254.
+Aïnos, <pref>254</pref>.
 
-Aizu Clan, 257.
+Aizu Clan, <pref>257</pref>.
 
-Alcock, Sir Rutherford, quoted, 216, 284, 355.
+Alcock, Sir Rutherford, quoted, <pref>216</pref>, <pref>284</pref>, <pref>355</pref>.
 
-<i>Amado</i>, 186.
+<i>Amado</i>, <pref>186</pref>.
 
-<sc>Ama-no-Hashidate</sc>, 227, 359, 360.
+<sc>Ama-no-Hashidate</sc>, <pref>227</pref>, <pref>359</pref>, <pref>360</pref>.
 
-Ama-terasu, 146.
+Ama-terasu, <pref>146</pref>.
 
-<i>Amma</i>, 178.
+<i>Amma</i>, <pref>178</pref>.
 
-Ancestor-worship, 121–2, 159.
+Ancestor-worship, <pref>121</pref>–<pref>2</pref>, <pref>159</pref>.
 
-<i>Andon</i>, 187.
+<i>Andon</i>, <pref>187</pref>.
 
-Anglo-Japanese Alliance, 222–3, 334.
+Anglo-Japanese Alliance, <pref>222</pref>–<pref>3</pref>, <pref>334</pref>.
 
-<sc>Anuradhapura</sc>, 26–30.
+<sc>Anuradhapura</sc>, <pref>26</pref>–<pref>30</pref>.
 
-<sc>Aomori</sc>, 254–5.
+<sc>Aomori</sc>, <pref>254</pref>–<pref>5</pref>.
 
-Architecture, 186.
+Architecture, <pref>186</pref>.
 
-<sc>Arita</sc>, 217–19.
+<sc>Arita</sc>, <pref>217</pref>–<pref>19</pref>.
 
-Army, American, 106–7, 408.
+Army, American, <pref>106</pref>–<pref>7</pref>, <pref>408</pref>.
 
-“Chinese, 124.
+“Chinese, <pref>124</pref>.
 
-“Japanese, 124, 200–2, 327.
+“Japanese, <pref>124</pref>, <pref>200</pref>–<pref>2</pref>, <pref>327</pref>.
 
-Arnold, Sir Edwin, 365.
+Arnold, Sir Edwin, <pref>365</pref>.
 
-Art, Japanese, 335–45.
+Art, Japanese, <pref>335</pref>–<pref>45</pref>.
 
-<sc>Asakuma-yama, Ise</sc>, 235–6.
+<sc>Asakuma-yama, Ise</sc>, <pref>235</pref>–<pref>6</pref>.
 
-Asakusa Kwannon, Tōkyō, 282.
+Asakusa Kwannon, Tōkyō, <pref>282</pref>.
 
-<sc>Asama-yama</sc>, 272.
+<sc>Asama-yama</sc>, <pref>272</pref>.
 
-<sc>Ashio</sc>, 265–6.
+<sc>Ashio</sc>, <pref>265</pref>–<pref>6</pref>.
 
-<sc>Atami</sc>, 247–8.
+<sc>Atami</sc>, <pref>247</pref>–<pref>8</pref>.
 
-Awata-ware, 230.
+Awata-ware, <pref>230</pref>.
 
 ## B
 
-<sc>Bagendit, Lake</sc>, 55.
+<sc>Bagendit, Lake</sc>, <pref>55</pref>.
 
-<sc>Bandai-san</sc>, 258–9.
+<sc>Bandai-san</sc>, <pref>258</pref>–<pref>9</pref>.
 
-<sc>Bandarawella</sc>, 32–3.
+<sc>Bandarawella</sc>, <pref>32</pref>–<pref>3</pref>.
 
-Bank-notes, 135, 137, 346.
+Bank-notes, <pref>135</pref>, <pref>137</pref>, <pref>346</pref>.
 
-<i>Basha</i>, 204.
+<i>Basha</i>, <pref>204</pref>.
 
-<sc>Batavia</sc>, 41–3.
+<sc>Batavia</sc>, <pref>41</pref>–<pref>3</pref>.
 
-Bathing, 10, 44, 176–7, 187, 196–7, 202–4, 259, 266, 271, 277, 323–4, 370.
+Bathing, <pref>10</pref>, <pref>44</pref>, <pref>176</pref>–<pref>7</pref>, <pref>187</pref>, <pref>196</pref>–<pref>7</pref>, <pref>202</pref>–<pref>4</pref>, <pref>259</pref>, <pref>266</pref>, <pref>271</pref>, <pref>277</pref>, <pref>323</pref>–<pref>4</pref>, <pref>370</pref>.
 
-Beggars, 229–30.
+Beggars, <pref>229</pref>–<pref>30</pref>.
 
-Bells, 157.
+Bells, <pref>157</pref>.
 
-Belot, Adolphe, 366.
+Belot, Adolphe, <pref>366</pref>.
 
-<i>Bentō</i>, 149.
+<i>Bentō</i>, <pref>149</pref>.
 
-<sc>Beppu</sc>, 202–3.
+<sc>Beppu</sc>, <pref>202</pref>–<pref>3</pref>.
 
-<i>Bettō</i>, 205, 240.
+<i>Bettō</i>, <pref>205</pref>, <pref>240</pref>.
 
-Bicycling, 10, 24, 239, 370.
+Bicycling, <pref>10</pref>, <pref>24</pref>, <pref>239</pref>, <pref>370</pref>.
 
-Big Trees, 401–2.
+Big Trees, <pref>401</pref>–<pref>2</pref>.
 
-Birds, 216, 259.
+Birds, <pref>216</pref>, <pref>259</pref>.
 
-<i>Birōdo-yūzen</i>, 164.
+<i>Birōdo-yūzen</i>, <pref>164</pref>.
 
-<i>Biwa</i> or <i>loquat</i>, 300.
+<i>Biwa</i> or <i>loquat</i>, <pref>300</pref>.
 
-<sc>Biwa, Lake</sc>, 229–30.
+<sc>Biwa, Lake</sc>, <pref>229</pref>–<pref>30</pref>.
 
-Bizensodo, 290.
+Bizensodo, <pref>290</pref>.
 
-<i>Bonze</i>, 159.
+<i>Bonze</i>, <pref>159</pref>.
 
-Bo-tree, 19, 26, 175.
+Bo-tree, <pref>19</pref>, <pref>26</pref>, <pref>175</pref>.
 
-Bryce, Rt. Hon. James, M.P., quoted, 318.
+Bryce, Rt. Hon. James, M.P., quoted, <pref>318</pref>.
 
-Bubonic Plague, 84.
+Bubonic Plague, <pref>84</pref>.
 
-Buddhism, 26, 120, 154, 159–62, 168, 339.
+Buddhism, <pref>26</pref>, <pref>120</pref>, <pref>154</pref>, <pref>159</pref>–<pref>62</pref>, <pref>168</pref>, <pref>339</pref>.
 
-<sc>Buitenzorg</sc>, 45.
+<sc>Buitenzorg</sc>, <pref>45</pref>.
 
-<i>Butsudan</i>, 185.
+<i>Butsudan</i>, <pref>185</pref>.
 
-Butterflies, 277.
+Butterflies, <pref>277</pref>.
 
-<i>Buyu</i>, 365.
+<i>Buyu</i>, <pref>365</pref>.
 
 ## C
 
-<sc>California</sc>, 390–408.
+<sc>California</sc>, <pref>390</pref>–<pref>408</pref>.
 
-Camoëns, 104.
+Camoëns, <pref>104</pref>.
 
-Camphor, 129, 248.
+Camphor, <pref>129</pref>, <pref>248</pref>.
 
-<sc>Canton</sc>, 86–100.
+<sc>Canton</sc>, <pref>86</pref>–<pref>100</pref>.
 
-“<sc>River</sc>, 88.
+“<sc>River</sc>, <pref>88</pref>.
 
-Card-sharpers, 405–7.
+Card-sharpers, <pref>405</pref>–<pref>7</pref>.
 
-Carving, 162, 280, 343.
+Carving, <pref>162</pref>, <pref>280</pref>, <pref>343</pref>.

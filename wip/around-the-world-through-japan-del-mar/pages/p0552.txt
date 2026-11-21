@@ -1,181 +1,181 @@
 [[page 428]]
 
-Cats, 171.
+Cats, <pref>171</pref>.
 
-<sc>Ceylon</sc>, 12–40.
+<sc>Ceylon</sc>, <pref>12</pref>–<pref>40</pref>.
 
-Chamberlain, Prof. B. H., quoted, 317, 343.
+Chamberlain, Prof. B. H., quoted, <pref>317</pref>, <pref>343</pref>.
 
-<i>Cha-no-yu</i>, 150–2.
+<i>Cha-no-yu</i>, <pref>150</pref>–<pref>2</pref>.
 
-Charm of the East, 70–71.
+Charm of the East, <pref>70</pref>–<pref>71</pref>.
 
-Cherry-blossom Dance, 150–1.
+Cherry-blossom Dance, <pref>150</pref>–<pref>1</pref>.
 
-Cherry-blossoms, 129, 141–2, 171–2.
+Cherry-blossoms, <pref>129</pref>, <pref>141</pref>–<pref>2</pref>, <pref>171</pref>–<pref>2</pref>.
 
-<sc>Chicago</sc>, 414.
+<sc>Chicago</sc>, <pref>414</pref>.
 
-Children, Japanese, 301.
+Children, Japanese, <pref>301</pref>.
 
-Chinese, abroad, 52–3, 61–4, 81, 138, 308, 393.
+Chinese, abroad, <pref>52</pref>–<pref>3</pref>, <pref>61</pref>–<pref>4</pref>, <pref>81</pref>, <pref>138</pref>, <pref>308</pref>, <pref>393</pref>.
 
-“Army, 124.
+“Army, <pref>124</pref>.
 
-“Characteristics, 113–17.
+“Characteristics, <pref>113</pref>–<pref>17</pref>.
 
-“Commerce, 111–12.
+“Commerce, <pref>111</pref>–<pref>12</pref>.
 
-“Debt, 111.
+“Debt, <pref>111</pref>.
 
-“Indemnity to Japan, 111.
+“Indemnity to Japan, <pref>111</pref>.
 
-““Powers, 111.
+““Powers, <pref>111</pref>.
 
-“Navy, 107–8.
+“Navy, <pref>107</pref>–<pref>8</pref>.
 
-“on board ship, 72–3.
+“on board ship, <pref>72</pref>–<pref>3</pref>.
 
-“Sailors, 105, 114.
+“Sailors, <pref>105</pref>, <pref>114</pref>.
 
-“Soldiers, 113, 124.
+“Soldiers, <pref>113</pref>, <pref>124</pref>.
 
-<i>Chō</i>, 311.
+<i>Chō</i>, <pref>311</pref>.
 
-Chō Densu, 262, 340.
+Chō Densu, <pref>262</pref>, <pref>340</pref>.
 
-<i>Chodzuba</i> or <i>Chōzuba</i>, 186.
+<i>Chodzuba</i> or <i>Chōzuba</i>, <pref>186</pref>.
 
-Cholera-belts, 79.
+Cholera-belts, <pref>79</pref>.
 
-<i>Chon Kina</i>, 241.
+<i>Chon Kina</i>, <pref>241</pref>.
 
-<i>Chūshin-guru</i>, 290.
+<i>Chūshin-guru</i>, <pref>290</pref>.
 
-<sc>Chūzenji</sc>, 265–6.
+<sc>Chūzenji</sc>, <pref>265</pref>–<pref>6</pref>.
 
-“<sc>Lake</sc>, 265.
+“<sc>Lake</sc>, <pref>265</pref>.
 
-Cleanliness, 322–4, 327–8.
+Cleanliness, <pref>322</pref>–<pref>4</pref>, <pref>327</pref>–<pref>8</pref>.
 
-Climate of Japan, 361–2.
+Climate of Japan, <pref>361</pref>–<pref>2</pref>.
 
-“San Francisco, 394.
+“San Francisco, <pref>394</pref>.
 
-Cloisonné, 164, 238, 343.
+Cloisonné, <pref>164</pref>, <pref>238</pref>, <pref>343</pref>.
 
-Coal, 221–2.
+Coal, <pref>221</pref>–<pref>2</pref>.
 
-Coaling Ships, 68, 128.
+Coaling Ships, <pref>68</pref>, <pref>128</pref>.
 
-Coffee, 32, 44, 56, 388.
+Coffee, <pref>32</pref>, <pref>44</pref>, <pref>56</pref>, <pref>388</pref>.
 
-Coins, Chinese, 92–3.
+Coins, Chinese, <pref>92</pref>–<pref>3</pref>.
 
-“Japanese, 135–7.
+“Japanese, <pref>135</pref>–<pref>7</pref>.
 
-<sc>Colorado Springs</sc>, 412–13.
+<sc>Colorado Springs</sc>, <pref>412</pref>–<pref>13</pref>.
 
-Commerce of China, 110–12.
+Commerce of China, <pref>110</pref>–<pref>12</pref>.
 
-“Japan, 348–50.
+“Japan, <pref>348</pref>–<pref>50</pref>.
 
-<sc>Conemaugh Valley</sc>, 415.
+<sc>Conemaugh Valley</sc>, <pref>415</pref>.
 
-Conway, Sir W. Martin, quoted, 342.
+Conway, Sir W. Martin, quoted, <pref>342</pref>.
 
-Cook, Capt., R.N., 386.
+Cook, Capt., R.N., <pref>386</pref>.
 
-Copper, 265.
+Copper, <pref>265</pref>.
 
-Costumes and Clothing, 15–16, 43, 49–50, 70, 144, 184–5, 189, 258, 324–5, 370, 377, 400, 421–3.
+Costumes and Clothing, <pref>15</pref>–<pref>16</pref>, <pref>43</pref>, <pref>49</pref>–<pref>50</pref>, <pref>70</pref>, <pref>144</pref>, <pref>184</pref>–<pref>5</pref>, <pref>189</pref>, <pref>258</pref>, <pref>324</pref>–<pref>5</pref>, <pref>370</pref>, <pref>377</pref>, <pref>400</pref>, <pref>421</pref>–<pref>3</pref>.
 
-Curzon of Kedleston, Lord, 367.
+Curzon of Kedleston, Lord, <pref>367</pref>.
 
 ## D
 
-<i>Dagabas</i>, 19, 27, 29–30.
+<i>Dagabas</i>, <pref>19</pref>, <pref>27</pref>, <pref>29</pref>–<pref>30</pref>.
 
-<sc>Daiba</sc>, 248.
+<sc>Daiba</sc>, <pref>248</pref>.
 
-<i>Daibutsu</i>, 168, 182, 274–6.
+<i>Daibutsu</i>, <pref>168</pref>, <pref>182</pref>, <pref>274</pref>–<pref>6</pref>.
 
-<i>Daimyō</i>, 302.
+<i>Daimyō</i>, <pref>302</pref>.
 
-<i>Daishi-dō</i>, 158.
+<i>Daishi-dō</i>, <pref>158</pref>.
 
-<sc>Daiya-gawa</sc>, 261, 265.
+<sc>Daiya-gawa</sc>, <pref>261</pref>, <pref>265</pref>.
 
-<i>Daken-ginken</i> or <i>Gin-kō-shihei</i>, 135, 346.
+<i>Daken-ginken</i> or <i>Gin-kō-shihei</i>, <pref>135</pref>, <pref>346</pref>.
 
-<sc>Dambulla</sc> or <sc>Dambool</sc>, 25–30.
+<sc>Dambulla</sc> or <sc>Dambool</sc>, <pref>25</pref>–<pref>30</pref>.
 
-Dancing, 150–1, 190, 232–5, 240–1, 296–7, 388.
+Dancing, <pref>150</pref>–<pref>1</pref>, <pref>190</pref>, <pref>232</pref>–<pref>5</pref>, <pref>240</pref>–<pref>1</pref>, <pref>296</pref>–<pref>7</pref>, <pref>388</pref>.
 
-Danjūrō, 294.
+Danjūrō, <pref>294</pref>.
 
-<sc>Dazaifu</sc>, 219.
+<sc>Dazaifu</sc>, <pref>219</pref>.
 
-Debt of China, 111.
+Debt of China, <pref>111</pref>.
 
-“Japan, 347–8, 351–2.
+“Japan, <pref>347</pref>–<pref>8</pref>, <pref>351</pref>–<pref>2</pref>.
 
-Dewey, Admiral, 107.
+Dewey, Admiral, <pref>107</pref>.
 
-<i>Dhobies</i>, 12, 66.
+<i>Dhobies</i>, <pref>12</pref>, <pref>66</pref>.
 
-Distances by Sea, 11, 39, 72, 107, 126, 130–1, 183, 250–1, 381, 390, 419.
+Distances by Sea, <pref>11</pref>, <pref>39</pref>, <pref>72</pref>, <pref>107</pref>, <pref>126</pref>, <pref>130</pref>–<pref>1</pref>, <pref>183</pref>, <pref>250</pref>–<pref>1</pref>, <pref>381</pref>, <pref>390</pref>, <pref>419</pref>.
 
-Divorces, 316, 403–4.
+Divorces, <pref>316</pref>, <pref>403</pref>–<pref>4</pref>.
 
-<sc>Dōgashima</sc>, 245.
+<sc>Dōgashima</sc>, <pref>245</pref>.
 
-<sc>Dōgo</sc>, 195–198.
+<sc>Dōgo</sc>, <pref>195</pref>–<pref>198</pref>.
 
-Dominoes, Chinese, 74–5.
+Dominoes, Chinese, <pref>74</pref>–<pref>5</pref>.
 
-Dōshisha, Kyōto, 152.
+Dōshisha, Kyōto, <pref>152</pref>.
 
-Durian, 37, 46–7, 65.
+Durian, <pref>37</pref>, <pref>46</pref>–<pref>7</pref>, <pref>65</pref>.
 
 ## E
 
-Earthquakes, 276.
+Earthquakes, <pref>276</pref>.
 
-Education, 303, 377.
+Education, <pref>303</pref>, <pref>377</pref>.
 
-Ekō-in, Tōkyō, 288.
+Ekō-in, Tōkyō, <pref>288</pref>.
 
-Embroidery, 162.
+Embroidery, <pref>162</pref>.
 
-Emperor of China, 125.
+Emperor of China, <pref>125</pref>.
 
-“Japan, 144–7.
+“Japan, <pref>144</pref>–<pref>7</pref>.
 
-Emperor’s Garden Party, 143–8.
+Emperor’s Garden Party, <pref>143</pref>–<pref>8</pref>.
 
-Empress-Dowager of China, 125.
+Empress-Dowager of China, <pref>125</pref>.
 
-Empress of Japan, 145–6.
+Empress of Japan, <pref>145</pref>–<pref>6</pref>.
 
-<i>Engawa</i>, 186.
+<i>Engawa</i>, <pref>186</pref>.
 
-“English as she is Japped,” 132–3, 224–5.
+“English as she is Japped,” <pref>132</pref>–<pref>3</pref>, <pref>224</pref>–<pref>5</pref>.
 
-<sc>Enoshima</sc>, 275.
+<sc>Enoshima</sc>, <pref>275</pref>.
 
-<i>E-ori-komi</i>, 221.
+<i>E-ori-komi</i>, <pref>221</pref>.
 
-Examinations in China, 92.
+Examinations in China, <pref>92</pref>.
 
-Execution ground, Canton, 91–2.
+Execution ground, Canton, <pref>91</pref>–<pref>2</pref>.
 
-Expenses, travelling, 421.
+Expenses, travelling, <pref>421</pref>.
 
 ## F
 
-Faience, 213, 216, 230.
+Faience, <pref>213</pref>, <pref>216</pref>, <pref>230</pref>.
 
-Fans, 164, 288.
+Fans, <pref>164</pref>, <pref>288</pref>.
 
-<i>Fan-tan</i>, 76, 101–3.
+<i>Fan-tan</i>, <pref>76</pref>, <pref>101</pref>–<pref>3</pref>.
