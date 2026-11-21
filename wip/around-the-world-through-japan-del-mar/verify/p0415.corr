@@ -1,0 +1,9 @@
+{"find": "only more pleasing", "replace": "only more pleasing"}
+
+Wait — the page's last word is "pleasing", which matches the draft, so that is not a correction. The draft's other differences:
+
+{"find": "<i>geisha.</i>”", "replace": "<i>geisha.</i>”"}
+
+I found no differences, so the answer is:
+
+NONE
