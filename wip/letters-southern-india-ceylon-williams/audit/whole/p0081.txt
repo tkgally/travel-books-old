@@ -1,0 +1,5 @@
+{"given": "young Frederick Goldsmid; with whom", "print": "young Frederick Goldsmid, with whom", "sure": "high"}
+{"given": "which, I prefume, your father", "print": "which, I presume, your father", "sure": "high"}
+{"given": "and where you where born.", "print": "and where you were born.", "sure": "high"}
+{"given": "if the sins the fathers are", "print": "if the sins of the fathers are", "sure": "high"}
+{"given": "reflect honor and credit on", "print": "reflect honour and credit on", "sure": "high"}

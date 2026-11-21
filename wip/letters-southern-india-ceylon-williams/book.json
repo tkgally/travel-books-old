@@ -29,7 +29,7 @@
  "omitted_from_reading": "The title page is in the JSON only.",
  "notes_on_text": [
   "The book has no contents and the letters have no titles. The contents entries of this edition are the editor’s: the number of each letter with the place and date printed at its head.",
-  "Within the letters, the place and date of each new entry are printed in the margin. The reading editions leave such side-notes out, as in the other books with side-notes; they are in the JSON (“side” in json-format)."
+  "Within the letters, the place and date of each new entry are printed in the margin. The reading editions leave such side-notes out, as in the other books with side-notes; they are in the JSON (marked “side”)."
  ],
  "history": [
   {
@@ -198,5 +198,13 @@
    "title": "Letter 24. Cairo, Friday Night, 2nd March, 1877",
    "editor": true
   }
- ]
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "28/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
 }
