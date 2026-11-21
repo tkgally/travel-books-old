@@ -1,0 +1,5 @@
+{"given": "fail to realize what an awkward", "print": "fail to realise what an awkward", "sure": "high"}
+{"given": "other than its deer and trees; and has", "print": "other than its deer and trees, and has", "sure": "high"}
+{"given": "it contains about tbirty thousand people", "print": "it contains about thirty thousand people", "sure": "high"}
+{"given": "after which the main streets Kyōto were named", "print": "after which the main streets of Kyōto were named", "sure": "high"}
+{"given": "lanes in the woods on paths", "print": "lanes in the woods or paths", "sure": "high"}

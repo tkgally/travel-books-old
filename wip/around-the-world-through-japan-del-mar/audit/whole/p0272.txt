@@ -1,0 +1,4 @@
+{"given": "as well as couple of private", "print": "as well as a couple of private", "sure": "high"}
+{"given": "three sen, which; for the first", "print": "three sen, which, for the first", "sure": "high"}
+{"given": "If you want greater beat, you", "print": "If you want greater heat, you", "sure": "high"}
+{"given": "I was about to retrcat when", "print": "I was about to retreat when", "sure": "high"}

@@ -1,0 +1,5 @@
+{"given": "the Peninsula Shimabara, and the bay", "print": "the Peninsula of Shimabara, and the bay", "sure": "high"}
+{"given": "fine view of the harbor seen", "print": "fine view of the harbour seen", "sure": "high"}
+{"given": "about fifty bed-rooms; and seats", "print": "about fifty bed-rooms, and seats", "sure": "high"}
+{"given": "took a stroll or the Bund", "print": "took a stroll on the Bund", "sure": "high"}
+{"given": "harbour twinkling arouud us.", "print": "harbour twinkling around us.", "sure": "high"}

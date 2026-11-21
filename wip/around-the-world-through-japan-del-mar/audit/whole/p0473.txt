@@ -1,0 +1,5 @@
+{"given": "central peak of Kauai; and in", "print": "central peak of Kauai, and in", "sure": "high"}
+{"given": "coral reef of Honolulu harbor, situated", "print": "coral reef of Honolulu harbour, situated", "sure": "high"}
+{"given": "eleven days’ voyage acrofs the Pacific", "print": "eleven days’ voyage across the Pacific", "sure": "high"}
+{"given": "advance that Hawaiian or Sandwich Islands", "print": "advance that the Hawaiian or Sandwich Islands", "sure": "high"}
+{"given": "lazy and not he ashamed.”", "print": "lazy and not be ashamed.”", "sure": "high"}
