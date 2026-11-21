@@ -1,0 +1,11 @@
+Differences: "ship staggered" in the draft is right. Check "she staggered" in the draft: the draft reads "the ship staggered", and the image reads "the ship staggered". Both match. No change there.
+
+The draft has "indescribable, the ship". Match.
+
+Draft: "San Nicolo" matches. "o'clock" matches.
+
+{"find": "the ship staggered", "replace": "the ship staggered"}
+
+Wait — that is an identical replacement, so it changes nothing. I have found no real differences.
+
+NONE

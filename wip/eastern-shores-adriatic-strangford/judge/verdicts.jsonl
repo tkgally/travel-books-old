@@ -1,0 +1,14 @@
+{"page": "p0006", "n": 1, "who": "draft", "draft": "<sc>london</sc>", "verified": "LONDON", "judge": {"n": 1, "is": "B", "print": "<sc>london</sc>", "sure": "low"}}
+{"page": "p0006", "n": 2, "who": "draft", "draft": "<sc>printed by spottiswoode and co.</sc>", "verified": "PRINTED BY SPOTTISWOODE AND CO.", "judge": {"n": 2, "is": "B", "print": "<sc>printed by spottiswoode and co.</sc>", "sure": "low"}}
+{"page": "p0006", "n": 3, "who": "draft", "draft": "<sc>new-street square</sc>", "verified": "NEW-STREET SQUARE", "judge": {"n": 3, "is": "B", "print": "<sc>new-street square</sc>", "sure": "low"}}
+{"page": "p0007", "n": 1, "who": "draft", "draft": "THIS brief", "verified": "T<sc>his</sc> brief", "judge": {"n": 1, "is": "B", "print": "THIS brief", "sure": "medium"}}
+{"page": "p0011", "n": 1, "who": "verified", "draft": "| ” <pref>149", "verified": "| „ <pref>149", "judge": {"n": 1, "is": "A", "print": "| „ <pref>149", "sure": "medium"}}
+{"page": "p0011", "n": 2, "who": "draft", "draft": "| ” <pref>250", "verified": "| „ <pref>250", "judge": {"n": 2, "is": "B", "print": "| ” <pref>250", "sure": "medium"}}
+{"page": "p0013", "n": 1, "who": "draft", "draft": "WE had arrived", "verified": "W<sc>e</sc> had arrived", "judge": {"n": 1, "is": "A", "print": "WE had arrived", "sure": "medium"}}
+{"page": "p0218", "n": 1, "who": "draft", "draft": "THE interior", "verified": "T<sc>he</sc> interior", "judge": {"n": 1, "is": "B", "print": "THE interior", "sure": "medium"}}
+{"page": "p0263", "n": 1, "who": "verified", "draft": "town of Traŭ stands", "verified": "town of Traù stands", "judge": {"n": 1, "is": "A", "print": "town of Traù stands", "sure": "medium"}}
+{"page": "p0263", "n": 2, "who": "verified", "draft": "Bua and Traŭ opens", "verified": "Bua and Traù opens", "judge": {"n": 2, "is": "B", "print": "Bua and Traù opens", "sure": "medium"}}
+{"page": "p0263", "n": 3, "who": "verified", "draft": "Traŭ is old", "verified": "Traù is old", "judge": {"n": 3, "is": "B", "print": "Traù is old", "sure": "medium"}}
+{"page": "p0315", "n": 1, "who": "draft", "draft": "MOST of my reade", "verified": "M<sc>ost</sc> of my reade", "judge": {"n": 1, "is": "A", "print": "MOST of my reade", "sure": "medium"}}
+{"page": "p0366", "n": 1, "who": "verified", "draft": "cædi", "verified": "cœdi", "judge": {"n": 1, "is": "A", "print": "cœdi", "sure": "medium"}}
+{"page": "p0408", "n": 1, "who": "verified", "draft": "Autorbiogaphy", "verified": "Autorbiography", "judge": {"n": 1, "is": "B", "print": "Autorbiography", "sure": "medium"}}

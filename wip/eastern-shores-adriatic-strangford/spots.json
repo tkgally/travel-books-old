@@ -1,0 +1,146 @@
+{
+ "p0006": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>london</sc>",
+   "replace": "LONDON",
+   "draft": "<sc>london</sc>",
+   "verified": "LONDON",
+   "context": "[[page ?]] ⏎  ⏎ [[center]] <sc>london</sc> ⏎  ⏎ [[center]] <sc>printed by spottiswoode and co.</sc> ⏎  ⏎ [[cen"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "<sc>printed by spottiswoode and co.</sc>",
+   "replace": "PRINTED BY SPOTTISWOODE AND CO.",
+   "draft": "<sc>printed by spottiswoode and co.</sc>",
+   "verified": "PRINTED BY SPOTTISWOODE AND CO.",
+   "context": "[[page ?]] ⏎  ⏎ [[center]] LONDON ⏎  ⏎ [[center]] <sc>printed by spottiswoode and co.</sc> ⏎  ⏎ [[center]] <sc>new-street square</sc> ⏎ "
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "<sc>new-street square</sc>",
+   "replace": "NEW-STREET SQUARE",
+   "draft": "<sc>new-street square</sc>",
+   "verified": "NEW-STREET SQUARE",
+   "context": "DON ⏎  ⏎ [[center]] PRINTED BY SPOTTISWOODE AND CO. ⏎  ⏎ [[center]] <sc>new-street square</sc> ⏎ "
+  }
+ ],
+ "p0007": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THIS brief",
+   "replace": "T<sc>his</sc> brief",
+   "draft": "THIS brief",
+   "verified": "T<sc>his</sc> brief",
+   "context": "[[page ?]] ⏎  ⏎ # Preface. ⏎  ⏎ THIS brief narrative of a summer’s journey is not offered to the publi"
+  }
+ ],
+ "p0011": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "| ” <pref>149",
+   "replace": "| „ <pref>149",
+   "draft": "| ” <pref>149",
+   "verified": "| „ <pref>149",
+   "context": " „ <pref>141</pref> | ⏎ | P<sc>ortrait of</sc> M<sc>irko</sc> | ” <pref>149</pref> | ⏎ | V<sc>iew of</sc> A<sc>lmissa</sc> | ” <pref>250<"
+  },
+  {
+   "n": 2,
+   "kind": "punctuation",
+   "find": "| ” <pref>250",
+   "replace": "| „ <pref>250",
+   "draft": "| ” <pref>250",
+   "verified": "| „ <pref>250",
+   "context": " | „ <pref>149</pref> | ⏎ | V<sc>iew of</sc> A<sc>lmissa</sc> | ” <pref>250</pref> | ⏎ "
+  }
+ ],
+ "p0013": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "WE had arrived",
+   "replace": "W<sc>e</sc> had arrived",
+   "draft": "WE had arrived",
+   "verified": "W<sc>e</sc> had arrived",
+   "context": "the Adriatic. ⏎  ⏎ # Chapter I. ⏎ [[subtitle]] Southern Albania. ⏎  ⏎ WE had arrived in Corfu early in May 1863, hoping to find a fresh and bree"
+  }
+ ],
+ "p0218": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THE interior",
+   "replace": "T<sc>he</sc> interior",
+   "draft": "THE interior",
+   "verified": "T<sc>he</sc> interior",
+   "context": " Chapter V. ⏎  ⏎ [[subtitle]] A Few Words on Northern Albania. ⏎  ⏎ THE interior and mountainous districts of Northern Albania are an unknow"
+  }
+ ],
+ "p0263": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "town of Traŭ stands",
+   "replace": "town of Traù stands",
+   "draft": "town of Traŭ stands",
+   "verified": "town of Traù stands",
+   "context": "n rocky soil of the mountains will allow them to grow. ⏎  ⏎ The town of Traŭ stands, one-half on an island which it completely covers, and the "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "Bua and Traŭ opens",
+   "replace": "Bua and Traù opens",
+   "draft": "Bua and Traŭ opens",
+   "verified": "Bua and Traù opens",
+   "context": ". It is connected on each side by bridges, but that between Bua and Traŭ opens for the passage of ships. Traŭ is old and picturesque, and "
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "Traŭ is old",
+   "replace": "Traù is old",
+   "draft": "Traŭ is old",
+   "verified": "Traù is old",
+   "context": "t that between Bua and Traù opens for the passage of ships. Traŭ is old and picturesque, and it boasts a church more interesting, a"
+  }
+ ],
+ "p0315": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "MOST of my readers",
+   "replace": "M<sc>ost</sc> of my readers",
+   "draft": "MOST of my reade",
+   "verified": "M<sc>ost</sc> of my reade",
+   "context": "grandir.—<i>Revue des deux Mondes</i>, 1860. ⏎ </blockquote> ⏎  ⏎ MOST of my readers, in these days of universal travel, will have been in the A"
+  }
+ ],
+ "p0366": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "cædi",
+   "replace": "cœdi",
+   "draft": "cædi",
+   "verified": "cœdi",
+   "context": "dominant race: <i>Aut disce aut discede, manet sors tertia, cædi</i>; though in our case in India it is <i>Doce ut discedas."
+  }
+ ],
+ "p0408": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Autorbiogaphy",
+   "replace": "Autorbiography",
+   "draft": "Autorbiogaphy",
+   "verified": "Autorbiography",
+   "context": " from Bentley's Miscellany. 6th Thousand. ⏎  ⏎ Lord Dundonald's Autorbiogaphy, with Portrait. 6th Thousand. ⏎  ⏎ Mrs. Ellis's Mothers of Grea"
+  }
+ ]
+}
