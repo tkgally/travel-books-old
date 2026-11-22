@@ -1,0 +1,7 @@
+{"find": "for a moment.", "replace": "for a moment."}
+
+Wait — the draft ends "doubted for a moment." and the image reads "moment." too, so nothing changes there. The only difference I found is the dash after "C".
+
+{"find": "Lord C——,", "replace": "Lord C——,"}
+
+NONE

@@ -1,0 +1,5 @@
+{"find": "brightens up", "replace": "brightens up"}
+
+Wait, the page reads "brightens", and the draft has "brightens" too. Corrected output:
+
+{"find": "sidling in and out among", "replace": "sidling in and out among"}

@@ -1,0 +1,9 @@
+judge opus: 8 spots on 6 pages: {'draft': 6, 'verified': 2}; cost $0.26
+p0010 #1 [draft, sure: medium] draft '<sc>harper & brothers,</sc>' | verified 'HARPER & BROTHERS,' | judge reads '<sc>harper & brothers,</sc>'
+p0069 #1 [draft, sure: medium] draft 'I WAS pleased' | verified 'I <sc>was</sc> pleased' | judge reads 'I WAS pleased'
+p0069 #2 [draft, sure: high] draft 'the Railroad.' | verified 'the Railroad' | judge reads 'the Railroad.'
+p0110 #1 [verified, sure: medium] draft 'i>lignum vitæ</i>, or' | verified 'i>lignum vitœ</i>, or' | judge reads 'i>lignum vitœ</i>, or'
+p0110 #2 [verified, sure: medium] draft 'i>lignum vitæ</i> will' | verified 'i>lignum vitœ</i> will' | judge reads 'i>lignum vitœ</i> will'
+p0134 #1 [draft, sure: medium] draft 'OUR party' | verified 'O<sc>ur</sc> party' | judge reads 'OUR party'
+p0160 #1 [draft, sure: medium] draft 'THE Island of T' | verified 'T<sc>he</sc> Island of T' | judge reads 'THE Island of T'
+p0224 #1 [draft, sure: medium] draft 'I WAS again' | verified 'I <sc>was</sc> again' | judge reads 'I WAS again'

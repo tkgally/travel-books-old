@@ -1,0 +1,8 @@
+{"page": "p0010", "n": 1, "who": "draft", "draft": "<sc>harper & brothers,</sc>", "verified": "HARPER & BROTHERS,", "judge": {"n": 1, "is": "B", "print": "<sc>harper & brothers,</sc>", "sure": "medium"}}
+{"page": "p0069", "n": 1, "who": "draft", "draft": "I WAS pleased", "verified": "I <sc>was</sc> pleased", "judge": {"n": 1, "is": "A", "print": "I WAS pleased", "sure": "medium"}}
+{"page": "p0069", "n": 2, "who": "draft", "draft": "the Railroad.", "verified": "the Railroad", "judge": {"n": 2, "is": "A", "print": "the Railroad.", "sure": "high"}}
+{"page": "p0110", "n": 1, "who": "verified", "draft": "i>lignum vitæ</i>, or", "verified": "i>lignum vitœ</i>, or", "judge": {"n": 1, "is": "A", "print": "i>lignum vitœ</i>, or", "sure": "medium"}}
+{"page": "p0110", "n": 2, "who": "verified", "draft": "i>lignum vitæ</i> will", "verified": "i>lignum vitœ</i> will", "judge": {"n": 2, "is": "A", "print": "i>lignum vitœ</i> will", "sure": "medium"}}
+{"page": "p0134", "n": 1, "who": "draft", "draft": "OUR party", "verified": "O<sc>ur</sc> party", "judge": {"n": 1, "is": "B", "print": "OUR party", "sure": "medium"}}
+{"page": "p0160", "n": 1, "who": "draft", "draft": "THE Island of T", "verified": "T<sc>he</sc> Island of T", "judge": {"n": 1, "is": "A", "print": "THE Island of T", "sure": "medium"}}
+{"page": "p0224", "n": 1, "who": "draft", "draft": "I WAS again", "verified": "I <sc>was</sc> again", "judge": {"n": 1, "is": "B", "print": "I WAS again", "sure": "medium"}}

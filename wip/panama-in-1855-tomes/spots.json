@@ -1,0 +1,86 @@
+{
+ "p0010": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>harper & brothers,</sc>",
+   "replace": "HARPER & BROTHERS,",
+   "draft": "<sc>harper & brothers,</sc>",
+   "verified": "HARPER & BROTHERS,",
+   "context": "r one thousand eight hundred and fifty-five, by ⏎  ⏎ [[center]] <sc>harper & brothers,</sc> ⏎  ⏎ [[center]] In the Clerk’s Office for the Southern District"
+  }
+ ],
+ "p0069": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "I WAS pleased",
+   "replace": "I <sc>was</sc> pleased",
+   "draft": "I WAS pleased",
+   "verified": "I <sc>was</sc> pleased",
+   "context": "iles]] ⏎  ⏎ # Chapter III. ⏎  ⏎ [[subtitle]] Ride on the Railroad. ⏎  ⏎ I WAS pleased when it was announced, in accordance with the projected pro"
+  },
+  {
+   "n": 2,
+   "kind": "punctuation",
+   "find": "Ride on the Railroad.",
+   "replace": "Ride on the Railroad",
+   "draft": "the Railroad.",
+   "verified": "the Railroad",
+   "context": "nama, with a scale of miles]] ⏎  ⏎ # Chapter III. ⏎  ⏎ [[subtitle]] Ride on the Railroad. ⏎  ⏎ I <sc>was</sc> pleased when it was announced, in accordanc"
+  }
+ ],
+ "p0110": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<i>lignum vitæ</i>, or",
+   "replace": "<i>lignum vitœ</i>, or",
+   "draft": "i>lignum vitæ</i>, or",
+   "verified": "i>lignum vitœ</i>, or",
+   "context": " ballasting and filling in the trestle-work. Great piles of <i>lignum vitæ</i>, or <i>guaiacum</i> ties, brought from the forests of Carthagen"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "<i>lignum vitæ</i> will",
+   "replace": "<i>lignum vitœ</i> will",
+   "draft": "i>lignum vitæ</i> will",
+   "verified": "i>lignum vitœ</i> will",
+   "context": "ood. It is however believed, that even the toughness of the <i>lignum vitæ</i> will soon yield to the rapid decomposition of the climate of the"
+  }
+ ],
+ "p0134": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "OUR party",
+   "replace": "O<sc>ur</sc> party",
+   "draft": "OUR party",
+   "verified": "O<sc>ur</sc> party",
+   "context": "[[page ?]] ⏎  ⏎ # Chapter V. ⏎  ⏎ [[subtitle]] Walk About Panama. ⏎  ⏎ OUR party, overflowing with holiday spirit, in full possession of the"
+  }
+ ],
+ "p0160": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THE Island of Taboga",
+   "replace": "T<sc>he</sc> Island of Taboga",
+   "draft": "THE Island of T",
+   "verified": "T<sc>he</sc> Island of T",
+   "context": "age ?]] ⏎  ⏎ # Chapter VI. ⏎  ⏎ [[subtitle]] Taboga. 1849 and ’50. ⏎  ⏎ THE Island of Taboga is quite remote from the geography of most folks. But a few"
+  }
+ ],
+ "p0224": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "I WAS again",
+   "replace": "I <sc>was</sc> again",
+   "draft": "I WAS again",
+   "verified": "I <sc>was</sc> again",
+   "context": "] ⏎  ⏎ # Chapter VIII. ⏎  ⏎ [[subtitle]] Pearl Islands—Conclusion. ⏎  ⏎ I WAS again at my daily post of observation on the balcony of the Aspin"
+  }
+ ]
+}
