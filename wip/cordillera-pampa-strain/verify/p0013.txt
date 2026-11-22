@@ -1,0 +1,31 @@
+[[page ?]]
+
+# Contents.
+
+[[center]] Chapter I.
+
+[[center]] <sc>port of valparaiso</sc> <pref>13</pref>
+
+[[center]] Chapter II.
+
+[[center]] <sc>city of valparaiso</sc> <pref>24</pref>
+
+[[center]] Chapter III.
+
+[[center]] <sc>journey to santiago</sc> <pref>34</pref>
+
+[[center]] Chapter IV.
+
+[[center]] <sc>santiago</sc> <pref>42</pref>
+
+[[center]] Chapter V.
+
+[[center]] <sc>santiago</sc> <pref>53</pref>
+
+[[center]] Chapter VI.
+
+[[center]] <sc>early history of chili</sc> <pref>64</pref>
+
+[[center]] Chapter VII.
+
+[[center]] <sc>revolution in chili</sc> <pref>78</pref>
