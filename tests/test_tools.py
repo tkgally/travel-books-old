@@ -1579,6 +1579,11 @@ class Misprints(unittest.TestCase):
                  ("p0002", "[[image: tbe house]] The house of Aud; M<sc>c</sc>L<sc>ean</sc>.")]
         self.assertEqual(preflight.check_misprints(pages), [])
 
+    def test_bridal_forms(self):
+        """*The Bridal and the Bridle* (2026-11-22): “iustead”, “wc”, “ofl ive” printed, found only by the spot-read."""
+        pages = [("p0101", "far when, iustead of his overtaking us, wc met him"), ("p0224", "a brazier ofl ive coals")]
+        self.assertEqual(len(preflight.check_misprints(pages)), 3)
+
     def test_observe(self):
         self.assertEqual(preflight.CHECKS["misprints"][0], "observe")
 

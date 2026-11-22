@@ -1,5 +1,0 @@
-{"given": "hanging down or each side", "print": "hanging down on each side", "sure": "high"}
-{"given": "waiting patiently for orders; in", "print": "waiting patiently for orders, in", "sure": "high"}
-{"given": "tranquil obedience the mighty elephant", "print": "tranquil obedience of the mighty elephant", "sure": "high"}
-{"given": "a true Oriental in cbaracter", "print": "a true Oriental in character", "sure": "high"}
-{"given": "in fact, a christian of", "print": "in fact, a Christian of", "sure": "high"}

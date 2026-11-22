@@ -1,8 +1,0 @@
-Differences: "on the side" (draft has "on"? draft says "on the side" — image "on"), "forçats" followed by "from"; the draft has "<i>forçats</i> from" fine. "Near here" fine. "dined at Glina, and at Petrina" — the draft omits "at".
-
-{"find": "Glina, and at Petrina", "replace": "Glina, and at Petrina"}
-{"find": "unhappy quadruped <i>forçats</i> from", "replace": "unhappy quadruped <i>forçats</i> from"}
-
-Correction: the draft reads "and at Petrina", which matches the image, so no change is needed there. Final list:
-
-NONE

@@ -1,0 +1,5 @@
+{"given": "bold bell robber sacrilegious kidnapper", "print": "bold bell robber and sacrilegious kidnapper", "sure": "high"}
+{"given": "the mountain’s top; and beat", "print": "the mountain’s top, and beat", "sure": "high"}
+{"given": "surrender the bell it they would", "print": "surrender the bell if they would", "sure": "high"}
+{"given": "on the height bangiug the tom-toms", "print": "on the height banging the tom-toms", "sure": "high"}
+{"given": "go back to miidera,” and", "print": "go back to Miidera,” and", "sure": "high"}

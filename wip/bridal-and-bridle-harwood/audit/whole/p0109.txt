@@ -1,5 +1,0 @@
-{"given": "and had. We had", "print": "and bad. We had", "sure": "high"}
-{"given": "peaks of the mighty balkan. Far", "print": "peaks of the mighty Balkan. Far", "sure": "high"}
-{"given": "were all very civil; and gave", "print": "were all very civil, and gave", "sure": "high"}
-{"given": "All knew indefatigable Iovon, who", "print": "All knew the indefatigable Iovon, who", "sure": "high"}
-{"given": "to find mysclf on a", "print": "to find myself on a", "sure": "high"}

@@ -1,0 +1,4 @@
+{"given": "the altar, and the walls are hung with votive gifts; in memory", "print": "the altar, and the walls are hung with votive gifts, in memory", "sure": "high"}
+{"given": "the temple and studied stars. Her", "print": "the temple and studied the stars. Her", "sure": "high"}
+{"given": "which must be sound in her", "print": "which must be found in her", "sure": "high"}
+{"given": "Wiser folks in distaut lands have", "print": "Wiser folks in distant lands have", "sure": "high"}

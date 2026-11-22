@@ -1,5 +1,0 @@
-{"given": "the hotel to the arcbway between", "print": "the hotel to the archway between", "sure": "high"}
-{"given": "had increased the number of", "print": "had increased to the number of", "sure": "high"}
-{"given": "grave as oysters; and preserved", "print": "grave as oysters, and preserved", "sure": "high"}
-{"given": "but if was scarcely needed", "print": "but it was scarcely needed", "sure": "high"}
-{"given": "so had the tartar. The", "print": "so had the Tartar. The", "sure": "high"}

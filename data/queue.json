@@ -1144,11 +1144,13 @@
    "place": "London",
    "publisher": "Richard Bentley",
    "images": 266,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-21",
    "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (whole file); The Online Books Page: HathiTrust page images only; Wikisource: nothing; Open Library: the 1851 records only; web searches: no reprint, no text (raw HathiTrust OCR at distantreader.org does not count). Anonymous; attributed to John Berwick Harwood (1828–1899; Wikipedia; another source b. 1829): he married Emily Trollope at Ostend on 24 April 1850, and the book opens with a marriage in Belgium on 24 April 1850, the wife called Emily. No illustrator. Not checked: Faded Page, WorldCat. Re-checked 2026-11-22: web search: the Spectator's review (25 Jan. 1851), raw HathiTrust OCR only; no reprint, no text. Rule 5 holds whoever wrote it (the author married in April 1850, so was born before 1856).",
    "note": "UC scan (Microsoft), JP2. About 249 small pages, 9 chapters, no plates seen. A honeymoon ride from Trieste through Croatia (Karlstadt) to Semlin, Belgrade, Nish, Sofia and Adrianople to Constantinople; a timid courier, Hussein Pacha. Comic first person. Dedicated to Consul-General de Fonblanque. Scan completeness judged from the OCR only: full scan check needed.",
-   "started": "2026-11-22"
+   "started": "2026-11-22",
+   "version": 1,
+   "published": "2026-11-22"
   },
   {
    "order": 63,
