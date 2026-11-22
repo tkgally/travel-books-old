@@ -1,0 +1,49 @@
+{
+ "id": "venezuela-sketches-eastwick",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Venezuela",
+ "subtitle": "or, Sketches of Life in a South-American Republic; with the History of the Loan of 1864",
+ "short_title": "Venezuela",
+ "authors": [
+  {
+   "name": "Edward B. Eastwick",
+   "sort": "Eastwick, Edward B.",
+   "born": 1814,
+   "died": 1883
+  }
+ ],
+ "place": "London",
+ "publisher": "Chapman & Hall",
+ "year": 1868,
+ "edition_statement": "First edition",
+ "regions": [
+  "Venezuela",
+  "United States Virgin Islands"
+ ],
+ "period": "1864",
+ "subjects": [
+  "Venezuela",
+  "public finance",
+  "foreign loans",
+  "Caracas",
+  "Valencia"
+ ],
+ "source": {
+  "ia_identifier": "venezuelaorsketc00eastuoft",
+  "contributor": "University of Toronto (Robarts Library)",
+  "hidden_leaves": []
+ },
+ "divisions": [],
+ "summary": "In 1864 Edward B. Eastwick, a former British diplomat in Persia, went to Venezuela as commissioner for the Venezuelan loan of that year. The first twelve chapters tell of the voyage by the Royal Mail steamer through St. Thomas to La Guaira, of Caracas and its bells, earthquake, and cemetery, of a bull-fight, of ministers and their breakfasts, and of journeys by Puerto Cabello to Valencia, to the battlefield of Carabobo, to the camp of President Falcon, and through the coffee valleys of Aragua. Two further chapters set out the resources of the country and the history of its debts to England. The appendix, about seventy pages, prints the loan contract, prospectuses and decrees, an exhibition catalogue, an account of the gold mines of the Yuruari, the constitution of 1864, and the accounts of the loan.",
+ "notes_on_text": [
+  "The map announced on the title page is not in the copy scanned for this edition, nor in the two other copies at the Internet Archive; it is missing here."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ]
+}
