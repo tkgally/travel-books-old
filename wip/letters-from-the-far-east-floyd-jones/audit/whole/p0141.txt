@@ -1,0 +1,6 @@
+{"given": "Delhi to Agra.", "print": "DELHI TO AGRA.", "sure": "medium"}
+{"given": "laurie's hotel. agra; temp. in shade", "print": "laurie's hotel. agra, temp. in shade", "sure": "high"}
+{"given": "that there would he a crowd", "print": "that there would be a crowd", "sure": "high"}
+{"given": "the train from delhi, but it", "print": "the train from Delhi, but it", "sure": "high"}
+{"given": "got my baggage weighed was able to", "print": "got my baggage weighed and was able to", "sure": "high"}
+{"given": "working in a regnlar routine", "print": "working in a regular routine", "sure": "high"}

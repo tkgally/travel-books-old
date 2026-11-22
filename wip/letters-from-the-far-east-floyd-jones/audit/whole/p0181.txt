@@ -1,0 +1,5 @@
+{"given": "the side of the esplanade nearest", "print": "the side of the Esplanade nearest", "sure": "high"}
+{"given": "Its plan is sort an irregular", "print": "Its plan is sort of an irregular", "sure": "high"}
+{"given": "struck with the absenee of the", "print": "struck with the absence of the", "sure": "high"}
+{"given": "legal class (on, at least,", "print": "legal class (or, at least,", "sure": "high"}
+{"given": "a most picturesque affair; with its", "print": "a most picturesque affair, with its", "sure": "high"}

@@ -1,0 +1,6 @@
+{"given": "traveler’s outfit, as most all", "print": "traveler’s outfit. as most all", "sure": "low"}
+{"given": "opium growing district of india, and", "print": "opium growing district of India, and", "sure": "high"}
+{"given": "engineer, who explaiued the mode", "print": "engineer, who explained the mode", "sure": "high"}
+{"given": "and the fields where in a", "print": "and the fields were in a", "sure": "high"}
+{"given": "The aggregate various collections is then", "print": "The aggregate of various collections is then", "sure": "high"}
+{"given": "growth of this article; for it does", "print": "growth of this article, for it does", "sure": "high"}

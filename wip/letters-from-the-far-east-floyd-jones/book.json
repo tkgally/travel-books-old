@@ -106,5 +106,13 @@
  "notes_on_text": [
   "The corrections in the printed list of errata (twelve, after the list of illustrations) are made in the text and listed below."
  ],
- "omitted_from_reading": "The printed contents, the list of illustrations, and the list of errata are in the JSON only."
+ "omitted_from_reading": "The printed contents, the list of illustrations, and the list of errata are in the JSON only.",
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
 }
