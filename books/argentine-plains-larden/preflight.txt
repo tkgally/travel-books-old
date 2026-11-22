@@ -68,8 +68,9 @@
             … 226 more (-v)
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [look (11)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0011, p0013, p0014, p0015, p0016, p0017…); à (p0067, p0120)
             - aguila: àguila (p0380, p0385, p0391); águila (p0417)
@@ -83,9 +84,12 @@
             - metres: metres (p0117, p0118, p0221); mètres (p0286, p0322, p0348, p0353)
             - voladora: voladora (p0020, p0021, p0028, p0168, p0171, p0172…); voládora (p0193)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[ look (1)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0414: “bangs” — “hangs” is common (41)
+[       ok] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …Walter Larden, an Oxford lecturer and mountaineer, went ou…
+            - book.json summary: …ca and on mules into the Andes, to the glaciers at the head of the Rio del Plomo and the Tupungato valley…
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: argentine-plains-larden v1 — 0 to fix, 14 waived; to look at: hyphen-joins 5, contents 266, accents 11, rare-forms 1 — tools@7ea52587 2026-11-21
+preflight PASS: argentine-plains-larden v2 — 0 to fix, 14 waived; to look at: hyphen-joins 5, contents 266, accents 11, serial-commas 2 — tools@1850a589 2026-11-22

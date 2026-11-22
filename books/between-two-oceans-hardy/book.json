@@ -1,7 +1,7 @@
 {
  "id": "between-two-oceans-hardy",
- "version": 2,
- "date": "2026-11-21",
+ "version": 3,
+ "date": "2026-11-22",
  "title": "Between Two Oceans",
  "subtitle": "or, Sketches of American Travel",
  "short_title": "Between Two Oceans",
@@ -43,6 +43,11 @@
    "version": 2,
    "date": "2026-11-21",
    "note": "A printer’s error corrected: “story” for “story.” (advertisements, p. 11) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan)."
+  },
+  {
+   "version": 3,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "regions": [
@@ -199,7 +204,7 @@
   "p0352"
  ],
  "audit": {
-  "version": 2,
+  "version": 3,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",

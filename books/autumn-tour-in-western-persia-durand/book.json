@@ -1,7 +1,7 @@
 {
  "id": "autumn-tour-in-western-persia-durand",
- "version": 1,
- "date": "2026-11-20",
+ "version": 2,
+ "date": "2026-11-22",
  "title": "An Autumn Tour in Western Persia",
  "short_title": "An Autumn Tour in Western Persia",
  "authors": [
@@ -33,6 +33,11 @@
    "version": 1,
    "date": "2026-11-20",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "regions": [
@@ -213,11 +218,12 @@
   }
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-20",
   "pages": 6,
   "recall": "28/28",
   "real_errors": 0,
-  "fixed": 0
+  "fixed": 0,
+  "note": "text unchanged except listed fixes"
  }
 }

@@ -1,7 +1,7 @@
 {
  "id": "argentine-plains-larden",
- "version": 1,
- "date": "2026-11-21",
+ "version": 2,
+ "date": "2026-11-22",
  "title": "Argentine Plains and Andine Glaciers",
  "subtitle": "Life on an Estancia, and an Expedition into the Andes",
  "short_title": "Argentine Plains and Andine Glaciers",
@@ -53,6 +53,11 @@
    "version": 1,
    "date": "2026-11-21",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "divisions": [
@@ -120,11 +125,12 @@
   }
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",
   "real_errors": 0,
-  "fixed": 0
+  "fixed": 0,
+  "note": "text unchanged except listed fixes"
  }
 }
