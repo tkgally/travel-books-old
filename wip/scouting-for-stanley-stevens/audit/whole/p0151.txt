@@ -1,0 +1,5 @@
+{"given": "grabbed the meat; stuck his teeth", "print": "grabbed the meat, stuck his teeth", "sure": "high"}
+{"given": "to see one of them slice off this nose.", "print": "to see one of them slice off his nose.", "sure": "high"}
+{"given": "the Masai resemble the abyssinians, though", "print": "the Masai resemble the Abyssinians, though", "sure": "high"}
+{"given": "Equally marvelous with the play spears,", "print": "Equally marvelous with the play of spears,", "sure": "high"}
+{"given": "I have endeavorcd to give a", "print": "I have endeavored to give a", "sure": "high"}

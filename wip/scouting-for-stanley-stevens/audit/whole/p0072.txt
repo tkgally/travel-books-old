@@ -1,0 +1,4 @@
+{"given": "to hang down this back and", "print": "to hang down his back and", "sure": "high"}
+{"given": "stretched with a woodcn plug.", "print": "stretched with a wooden plug.", "sure": "high"}
+{"given": "persevered in ever since; until the", "print": "persevered in ever since, until the", "sure": "high"}
+{"given": "depend fanciful ornaments beads and iron", "print": "depend fanciful ornaments of beads and iron", "sure": "high"}
