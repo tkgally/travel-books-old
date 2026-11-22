@@ -1,0 +1,2 @@
+{"find": "[[page ?]]", "replace": "[[page li]]"}
+{"find": "li. In the Red", "replace": "In the Red"}

@@ -1,0 +1,2 @@
+{"find": "[[page ?]]", "replace": "[[page lxxxiv]]"}
+{"find": "[[caption]] lxxxiv. Theatre", "replace": "[[caption]] Theatre"}

@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "[[page lxx]]", "sure": "medium"}
+{"n": 2, "is": "B", "print": "[[caption]] Temple", "sure": "medium"}

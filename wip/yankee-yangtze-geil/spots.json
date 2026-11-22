@@ -1,0 +1,1159 @@
+{
+ "p0021": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "[[page xi.]]",
+   "replace": "[[page xi]]",
+   "draft": "[[page xi.]]",
+   "verified": "[[page xi]]",
+   "context": "[[page xi.]] ⏎  ⏎ Outside the Ho-Kiang Gate, Suifu <pref>136</pref> ⏎  ⏎ His Exc"
+  }
+ ],
+ "p0022": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "[[page xii.]]",
+   "replace": "[[page xii]]",
+   "draft": "[[page xii.]]",
+   "verified": "[[page xii]]",
+   "context": "[[page xii.]] ⏎  ⏎ Tengyueh Theatre <pref>251</pref> ⏎  ⏎ Artistic Triumphs, Far "
+  }
+ ],
+ "p0024": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "[[page xiv.]]",
+   "replace": "[[page xiv]]",
+   "draft": "[[page xiv.]]",
+   "verified": "[[page xiv]]",
+   "context": "[[page xiv.]] ⏎ [[cont]]the Western nations. Not once or twice only has the"
+  }
+ ],
+ "p0025": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "[[page xv.]]",
+   "replace": "[[page xv]]",
+   "draft": "[[page xv.]]",
+   "verified": "[[page xv]]",
+   "context": "[[page xv.]] ⏎  ⏎ [[cont]]repel the foreign influence. But this time the mov"
+  }
+ ],
+ "p0031": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THE Yangtze River",
+   "replace": "HE Yangtze River",
+   "draft": "THE Yangtze R",
+   "verified": "HE Yangtze R",
+   "context": "bearing two loads on a shoulder-pole]] ⏎ [[caption]] Carrier ⏎  ⏎ THE Yangtze River colours the Pacific Ocean for a distance of thirty miles fr"
+  }
+ ],
+ "p0043": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page iii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page iii]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a grave on a hillside, with a fligh"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "\n\n[[center]] iii.",
+   "replace": "",
+   "draft": "\n\n[[center]] iii.",
+   "verified": "",
+   "context": "dhist figures in a temple]] ⏎ [[caption]] Idols near Shanghai. ⏎  ⏎ [[center]] iii. ⏎ "
+  }
+ ],
+ "p0044": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page iv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page iv]]",
+   "context": "[[page ?]] ⏎ [[image: a tall multi-storeyed pagoda with curved, upturned"
+  }
+ ],
+ "p0046": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "[[center]] 多少樓臺烟雨中",
+   "replace": "[[center]] 中雨烟臺樓少多",
+   "draft": "[[center]] 多少樓臺烟雨中",
+   "verified": "[[center]] 中雨烟臺樓少多",
+   "context": "[[page ?]] ⏎  ⏎ [[center]] 多少樓臺烟雨中 ⏎  ⏎ Towers and porticoes shimmering in the mist.—<i>Spring in "
+  },
+  {
+   "n": 2,
+   "kind": "punctuation",
+   "find": "[[center]] 天下惟理可以服人",
+   "replace": "[[center]] 人服以可理惟下天",
+   "draft": "[[center]] 天下惟理可以服人",
+   "verified": "[[center]] 人服以可理惟下天",
+   "context": "orticoes shimmering in the mist.—<i>Spring in Nanking.</i> ⏎  ⏎ [[center]] 天下惟理可以服人 ⏎  ⏎ Of all things under Heaven only Reason can subdue men. ⏎  ⏎ # "
+  }
+ ],
+ "p0059": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page vii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page vii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of Shanghai railway station, with the s"
+  }
+ ],
+ "p0067": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page ix]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page ix]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph, printed sideways, of an old city gate"
+  }
+ ],
+ "p0075": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xi]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xi]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a two-storey brick building with arc"
+  }
+ ],
+ "p0076": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a Chinese official in a round hat, l"
+  }
+ ],
+ "p0083": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xiii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xiii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a paved street in Ichang, with a lar"
+  }
+ ],
+ "p0084": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xiv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xiv]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a Chinese nun in a padded robe and "
+  }
+ ],
+ "p0091": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page XV]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page XV]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a long two-storey arcaded building w"
+  }
+ ],
+ "p0092": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xvi]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xvi]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a group of missionaries, men, women "
+  }
+ ],
+ "p0099": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xvii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xvii]]",
+   "context": "[[page ?]] ⏎ [[image: A Chinese farmer wading behind a water buffalo, pl"
+  }
+ ],
+ "p0100": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xviii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xviii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of grassy grave mounds with a footpath,"
+  }
+ ],
+ "p0107": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xix]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xix]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a large two-storey European-style m"
+  }
+ ],
+ "p0108": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xx]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xx]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a seated mandarin in official robes "
+  }
+ ],
+ "p0120a": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxiii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxiii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a river gorge between steep cliffs, "
+  }
+ ],
+ "p0120b": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxiv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxiv]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a river flowing between steep, dark "
+  }
+ ],
+ "p0127": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxv]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a small white pagoda with a tall po"
+  }
+ ],
+ "p0128": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxvi]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxvi]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of two Buddhist nuns among rocks, one s"
+  }
+ ],
+ "p0135": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxvii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxvii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a Chinese official in a conical hat "
+  }
+ ],
+ "p0136": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxviii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxviii]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Portrait photograph of a young Chinese man in a s"
+  }
+ ],
+ "p0143": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxix]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxix]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a Chinese family eating at a table: "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "\n[[center]] xxix.\n",
+   "replace": "\n",
+   "draft": "\n[[center]] xxix.\n",
+   "verified": "\n",
+   "context": "a carved wooden panel]] ⏎ [[caption]] Ho girls: Upper Yangtze. ⏎ [[center]] xxix. ⏎ "
+  }
+ ],
+ "p0144": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxx]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxx]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of three missionaries in Chinese dress "
+  }
+ ],
+ "p0152": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxxii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxxii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a large Chinese house-boat with a ma"
+  }
+ ],
+ "p0158": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "as outpatients",
+   "replace": "as out-patients",
+   "draft": "as outpatients",
+   "verified": "as out-patients",
+   "context": "g the opium patients in the house, instead of treating them as outpatients, is an advantage. When Paoning was first opened, this was t"
+  }
+ ],
+ "p0159": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxxiii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxxiii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of an ornate Chinese ancestral shrine w"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "\n\n[[center]] xxxiii.",
+   "replace": "",
+   "draft": "\n\n[[center]] xxxiii.",
+   "verified": "",
+   "context": "ion]] Ancestral Shrine, near Pi Shih, on the Road to Luchow. ⏎  ⏎ [[center]] xxxiii. ⏎ "
+  }
+ ],
+ "p0160": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxxiv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxxiv]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph, printed sideways, of a carved stone m"
+  }
+ ],
+ "p0167": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[caption]] XXXV. The Author's",
+   "replace": "[[caption]] The Author's",
+   "draft": "[[caption]] XXXV. The Author'",
+   "verified": "[[caption]] The Author'",
+   "context": "rers on a stone arched bridge among trees and long grass]] ⏎  ⏎ [[caption]] XXXV. The Author's Chair on a Bridge on the Great Stone Road, near Chungking. ⏎ "
+  }
+ ],
+ "p0168": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxxvi]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxxvi]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a stone memorial arch with ornate ti"
+  }
+ ],
+ "p0175": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxxvii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxxvii]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: A prisoner wearing a large wooden cangue round hi"
+  }
+ ],
+ "p0176": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxxviii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxxviii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways on the page, of sever"
+  }
+ ],
+ "p0183": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xxxix]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xxxix]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a flooded rice field with a farmhou"
+  }
+ ],
+ "p0184": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xl]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xl]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a broad flight of stone steps beside"
+  }
+ ],
+ "p0192": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xlii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xlii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a stone bridge of three arches over "
+  }
+ ],
+ "p0194": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "“Grannery Mouth",
+   "replace": "“Granery Mouth",
+   "draft": "“Grannery Mouth",
+   "verified": "“Granery Mouth",
+   "context": "itary cash has been deposited in their unwashed rice basin. “Grannery Mouth Street,” lined with stores and mongrel dogs, led into “Big-"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "Granery",
+   "replace": "Grannery",
+   "draft": "Granery",
+   "verified": "Grannery",
+   "context": "tary cash has been deposited in their unwashed rice basin. “Granery Mouth Street,” lined with stores and mongrel dogs, led into"
+  }
+ ],
+ "p0199": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xliii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xliii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a Chinese building with curved, orna"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "Apparatus.</sc>” xliii.",
+   "replace": "Apparatus.</sc>”",
+   "draft": "ratus.</sc>” xliii.",
+   "verified": "ratus.</sc>”",
+   "context": "e Characters mean, “<sc>The Headquarters of the Life Saving Apparatus.</sc>” xliii. ⏎ "
+  }
+ ],
+ "p0215": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xlvii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xlvii]]",
+   "context": "[[page ?]] ⏎ [[image: Coffin boards leaning against a ledge in a street,"
+  }
+ ],
+ "p0216": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xlviii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xlviii]]",
+   "context": "[[page ?]] ⏎ [[image: photograph, printed sideways, of a large spreading"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "\n[[caption]] xlviii.",
+   "replace": "",
+   "draft": "\n[[caption]] xlviii.",
+   "verified": "",
+   "context": " hillside, with figures seated beneath it and hills behind]] ⏎ [[caption]] xlviii. ⏎ "
+  }
+ ],
+ "p0231": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page li]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page li]]",
+   "context": "[[page ?]] ⏎ [[image: Two children with long-handled forks standing befo"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "li. In the Red",
+   "replace": "In the Red",
+   "draft": "li. In the Red",
+   "verified": "In the Red",
+   "context": " tomb with carved openings in a large boulder]] ⏎ [[caption]] li. In the Red Rock Region, Rat Mountain, near Ho Shao Dien, 4000 feet abo"
+  }
+ ],
+ "p0232": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of temples with curved tiled roofs amon"
+  }
+ ],
+ "p0239": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page liii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page liii]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a mountain gorge with a river below"
+  }
+ ],
+ "p0240": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page liv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page liv]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways, of an ornate carved "
+  }
+ ],
+ "p0245": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": " We had come one hundred and ten li. Sin Kai South",
+   "replace": " We had come one hundred and ten li.",
+   "draft": " and ten li. Sin Kai South",
+   "verified": " and ten li.",
+   "context": "is the new village built as the result of the tiger episode. We had come one hundred and ten li. Sin Kai South ⏎ "
+  }
+ ],
+ "p0247": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lv]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Two photographs printed sideways on the page: on "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "lv. Two Chinese Women.",
+   "replace": "Two Chinese Women.",
+   "draft": "lv. Two Chinese ",
+   "verified": "Two Chinese ",
+   "context": "ered robe and headdress seated beside a table]] ⏎ [[caption]] lv. Two Chinese Women. ⏎ "
+  }
+ ],
+ "p0248": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lvi]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lvi]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of tiled, curved temple and house roof"
+  }
+ ],
+ "p0249": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "秀才人人有分舉人海底撈針",
+   "replace": "針撈底海人舉分有人人才秀",
+   "draft": "秀才人人有分舉人海底撈針",
+   "verified": "針撈底海人舉分有人人才秀",
+   "context": "[[page ?]] ⏎  ⏎ [[center]] 秀才人人有分舉人海底撈針 ⏎  ⏎ Anybody can get an A.B. But an M.A. man is like a needle p"
+  }
+ ],
+ "p0263": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lix]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lix]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of an ornate theatrical stage with tier"
+  }
+ ],
+ "p0267": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "好鐵不打釘好男不當兵",
+   "replace": "兵當不男好釘打不鐵好",
+   "draft": "好鐵不打釘好男不當兵",
+   "verified": "兵當不男好釘打不鐵好",
+   "context": "[[page ?]] ⏎  ⏎ 好鐵不打釘好男不當兵 ⏎  ⏎ Nails are not made from good iron, nor soldiers from good "
+  }
+ ],
+ "p0271": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxi]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxi]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a tall multi-roofed tower with uptur"
+  }
+ ],
+ "p0272": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxii]]",
+   "context": "[[page ?]] ⏎ [[image: Two photographs, printed sideways: on the left, a "
+  }
+ ],
+ "p0279": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxiii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxiii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways on the page, of a gro"
+  }
+ ],
+ "p0296": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxviii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxviii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways, of a thatched waysid"
+  }
+ ],
+ "p0304": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxx]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxx]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a Chinese temple with curved tiled r"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "[[caption]] lxx. Temple",
+   "replace": "[[caption]] Temple",
+   "draft": "[[caption]] lxx. Temple",
+   "verified": "[[caption]] Temple",
+   "context": "ng wall; a man in a broad hat stands in front of the door]] ⏎ [[caption]] lxx. Temple of the City God. Chu Siung Fu, Province of Yunnan Far Weste"
+  }
+ ],
+ "p0311": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxi]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxi]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a group of Chinese men in padded co"
+  }
+ ],
+ "p0312": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxii]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a tall square pagoda of several sto"
+  }
+ ],
+ "p0315": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "an unicorn",
+   "replace": "like an unicorn",
+   "draft": "an unicorn",
+   "verified": "like an unicorn",
+   "context": "orty feet long, representing a fabulous monster shaped like an unicorn. This great beast is trying to get at and devour the sun de"
+  }
+ ],
+ "p0319": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxiii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxiii]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a painted temple statue of a fierce"
+  }
+ ],
+ "p0320": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Far Western China. lxxiv.",
+   "replace": "Far Western China.",
+   "draft": "stern China. lxxiv.",
+   "verified": "stern China.",
+   "context": "God of the Earth, Chu Siung Fu, the City of the Great Boho, Far Western China. lxxiv. ⏎ "
+  }
+ ],
+ "p0327": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxv]]",
+   "context": "[[page ?]] ⏎ [[image: A carved, decorated doorway with tiled roofs and o"
+  }
+ ],
+ "p0328": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxvi]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxvi]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph, turned sideways on the page, of the b"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "\n\n[[center]] lxxvi.",
+   "replace": "",
+   "draft": "\n\n[[center]] lxxvi.",
+   "verified": "",
+   "context": "] ⏎ [[caption]] A View along the Top of the City Wall, Talifu. ⏎  ⏎ [[center]] lxxvi. ⏎ "
+  }
+ ],
+ "p0336": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxviii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxviii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of three tall tiered pagodas with snow-"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "Talifu.\nlxxviii.",
+   "replace": "Talifu.",
+   "draft": "Talifu.\nlxxviii.",
+   "verified": "Talifu.",
+   "context": "d]] ⏎ [[caption]] The Three Pagodas and the Snow Mountains at Talifu. ⏎ lxxviii. ⏎ "
+  }
+ ],
+ "p0343": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxix]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxix]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a long single-storey rest house with"
+  }
+ ],
+ "p0344": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxx]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxx]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph, printed sideways, of a long suspensio"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "\n[[caption]] lxxx.",
+   "replace": "",
+   "draft": "\n[[caption]] lxxx.",
+   "verified": "",
+   "context": "a gate-house with tiered curved roofs on a wooded hillside]] ⏎ [[caption]] lxxx. ⏎ "
+  }
+ ],
+ "p0349": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "若要人不知除非己不爲",
+   "replace": "爲不己非除知不人要若",
+   "draft": "若要人不知除非己不爲",
+   "verified": "爲不己非除知不人要若",
+   "context": "[[page ?]] ⏎  ⏎ [[center]] 若要人不知除非己不爲 ⏎  ⏎ If you don’t want anybody to know it, don’t do it!—<i>Hist"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "BOTH chairmen",
+   "replace": "B<sc>oth</sc> chairmen",
+   "draft": "BOTH chairmen",
+   "verified": "B<sc>oth</sc> chairmen",
+   "context": ", beside the decorated initial B]] ⏎ [[caption]] False Face. ⏎  ⏎ BOTH chairmen and coolies who had come with me from Yunnan Fu were anxiou"
+  }
+ ],
+ "p0351": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxxi]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxxi]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways, of a suspension brid"
+  }
+ ],
+ "p0352": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxxii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxxii]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a double suspension bridge with roo"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "\n\n[[center]] lxxxii.",
+   "replace": "",
+   "draft": "\n\n[[center]] lxxxii.",
+   "verified": "",
+   "context": "eadly Salween River. A triumph of Chinese Engineering Skill. ⏎  ⏎ [[center]] lxxxii. ⏎ "
+  }
+ ],
+ "p0359": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxxiii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxxiii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a street scene before the Customs bu"
+  }
+ ],
+ "p0360": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxxiv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxxiv]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways on the page, of a Chi"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "[[caption]] lxxxiv. Theatre",
+   "replace": "[[caption]] Theatre",
+   "draft": "[[caption]] lxxxiv. Theatre",
+   "verified": "[[caption]] Theatre",
+   "context": "d a doorway beneath the stage with figures standing in it]] ⏎ [[caption]] lxxxiv. Theatre connected with the Temple of the God of Riches, Tengyueh, F"
+  }
+ ],
+ "p0367": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxxv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxxv]]",
+   "context": "[[page ?]] ⏎ [[image: Front of a Chinese temple with a tiled roof, paint"
+  }
+ ],
+ "p0375": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxxvii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxxvii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways on the page, of an ir"
+  }
+ ],
+ "p0376": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxxviii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxxviii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a city gate with a tiled, curved roo"
+  }
+ ],
+ "p0383": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page lxxxix]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page lxxxix]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a long single-storey building with a"
+  }
+ ],
+ "p0384": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page XC]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page XC]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of an arched stone bridge under constru"
+  }
+ ],
+ "p0391": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page ixc]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page ixc]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a stockade of tall pointed stakes wi"
+  },
+  {
+   "n": 2,
+   "kind": "punctuation",
+   "find": "into Burma.",
+   "replace": "into Burma,",
+   "draft": "into Burma.",
+   "verified": "into Burma,",
+   "context": "e Occupied by Chinese Troops before Crossing the Hongmu' Ho into Burma. ⏎ "
+  }
+ ],
+ "p0392": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xcii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xcii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a large thatched grave structure of "
+  }
+ ],
+ "p0399": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xciii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xciii]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a long, low thatched house with a gr"
+  }
+ ],
+ "p0400": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xciv]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xciv]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways, of a long thatched h"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "[[caption]] xciv",
+   "replace": "",
+   "draft": "[[caption]] xciv",
+   "verified": "",
+   "context": " child in front, and two figures standing in the distance]] ⏎ [[caption]] xciv ⏎ "
+  }
+ ],
+ "p0407": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page XCV]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page XCV]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways, of a group of Chines"
+  }
+ ],
+ "p0408": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xcvi]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xcvi]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways on the page: a wooded"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "\n[[caption]] xcvi.",
+   "replace": "",
+   "draft": "\n[[caption]] xcvi.",
+   "verified": "",
+   "context": "l tree in the middle, and a rocky stream in the foreground]] ⏎ [[caption]] xcvi. ⏎ "
+  }
+ ],
+ "p0415": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xcvii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xcvii]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph of a large thatched building raised on"
+  }
+ ],
+ "p0416": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xcviii]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xcviii]]",
+   "context": "[[page ?]] ⏎  ⏎ [[image: Photograph, printed sideways, of a hillside missi"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "\n[[caption]] xcviii.",
+   "replace": "",
+   "draft": "\n[[caption]] xcviii.",
+   "verified": "",
+   "context": "nd a bare tree, all enclosed by a long wooden paling fence]] ⏎ [[caption]] xcviii. ⏎ "
+  }
+ ],
+ "p0423": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page xcix]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page xcix]]",
+   "context": "[[page ?]] ⏎ [[image: Photograph, printed sideways, of a group of people"
+  }
+ ],
+ "p0427": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "天之所培者人雖傾之不可殛也",
+   "replace": "也殛可不之傾雖人者培所之天",
+   "draft": "天之所培者人雖傾之不可殛也",
+   "verified": "也殛可不之傾雖人者培所之天",
+   "context": "[[page ?]] ⏎  ⏎ <blockquote> ⏎ 天之所培者人雖傾之不可殛也 ⏎ 天之所覆者人雖栽之不可殖也 ⏎ The tree which Heaven plants, though man shou"
+  },
+  {
+   "n": 2,
+   "kind": "punctuation",
+   "find": "天之所覆者人雖栽之不可殖也",
+   "replace": "也殖可不之栽雖人者覆所之天",
+   "draft": "天之所覆者人雖栽之不可殖也",
+   "verified": "也殖可不之栽雖人者覆所之天",
+   "context": "[[page ?]] ⏎  ⏎ <blockquote> ⏎ 也殛可不之傾雖人者培所之天 ⏎ 天之所覆者人雖栽之不可殖也 ⏎ The tree which Heaven plants, though man should throw it do"
+  }
+ ]
+}

@@ -1,0 +1,2 @@
+{"find": "[[page ?]]", "replace": "[[page lv]]"}
+{"find": "lv. Two Chinese Women.", "replace": "Two Chinese Women."}

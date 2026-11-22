@@ -1,0 +1,2 @@
+{"find": "[[page ?]]", "replace": "[[page lxxxii]]"}
+{"find": "\n\n[[center]] lxxxii.", "replace": ""}

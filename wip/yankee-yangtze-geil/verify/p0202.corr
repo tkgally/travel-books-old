@@ -1,0 +1,7 @@
+Two differences from the image: "three-quarters" in the draft is "three-quarter" on the page, and the last line of the draft should end "one hundred in". Checking the rest, the draft matches the scan.
+
+{"find": "three-quarter taels", "replace": "three-quarter taels"}
+
+Wait: the draft reads "three-quarter taels" already, so no change is needed there.
+
+NONE

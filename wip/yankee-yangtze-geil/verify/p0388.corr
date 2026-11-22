@@ -1,0 +1,6 @@
+{"find": "Blue Friend Three is the right-hand", "replace": "Blue Friend Three is the right-hand"}
+{"find": "Blue Friend Three is the right-hand man", "replace": "Blue Friend Three is the right-hand man"}
+
+Wait — the draft says "Blue Friend Three is the right-hand man"; checking differences instead:
+
+{"find": "Blue Friend Three is the right-hand man of the Nantien", "replace": "Blue Friend Three is the right-hand man of the Nantien"}
