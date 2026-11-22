@@ -1,5 +1,0 @@
-{"given": "the fine fort on ladder Hill", "print": "the fine fort on Ladder Hill", "sure": "high"}
-{"given": "and as a complimcnt to us,", "print": "and as a compliment to us,", "sure": "high"}
-{"given": "twenty-one guns was fired; both by", "print": "twenty-one guns was fired, both by", "sure": "high"}
-{"given": "hoping to be able obtain permission", "print": "hoping to be able to obtain permission", "sure": "high"}
-{"given": "Between those there is a wide,", "print": "Between these there is a wide,", "sure": "high"}

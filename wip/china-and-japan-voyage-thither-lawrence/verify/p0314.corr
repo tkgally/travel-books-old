@@ -1,5 +1,0 @@
-{"find": "Steamer Wachusett.\n\nHis", "replace": "Steamer Wachusett.\n\nHis"}
-
-Actually, the final line needs a period:
-
-{"find": "United States Steamer Wachusett.\n", "replace": "United States Steamer Wachusett.\n"}

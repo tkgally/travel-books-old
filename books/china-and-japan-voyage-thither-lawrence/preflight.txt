@@ -1,0 +1,95 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[ look (1)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - (and 33 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[       ok] folios: printed page numbers that break the sequence
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[ look (3)] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+            - p0245: closing ” with no opening “: 'But leaving these disagreeable sights, we will look for some'
+            - p0316: closing ” with no opening “: 'Commanding United States Armed Vessel Wachusett.”'
+            - p0426: closing ” with no opening “: 'The ill-fated boat left the ship at about 9.30 A. M., and a '
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[look (87)] contents: entries of the printed contents with no matching heading
+            - p0023: 'Boston Harbor. Page 9.'
+            - p0023: 'On board—A glance at the Wachusett—The Berth Deck.'
+            - p0023: 'Under Weigh. Page 15.'
+            - p0023: '“Down by the Run”—Preparing for Sea—Presidential Rejoicings—The Pains '
+            - p0023: 'At Sea. Page 20.'
+            - p0023: 'Stationing—Amusements—Sunday on board Ship—Treatment of Seamen—Our Off'
+            - p0023: 'Martinique, West Indies. Page 29.'
+            - p0023: '“Putting on Ship’s Harbor Dress”—Introduced to the Inhabitants—“Coalin'
+            - p0023: 'Martinique to Cape Verdes. Page 40.'
+            - p0023: '“General Quarters”—Scrubbing Hammocks and Washing Clothes—Divisional R'
+            - p0024: 'Cape Verdes. Page 47.'
+            - p0024: 'News from Home—Mourning for President Lincoln—Target Practice—On Shore'
+            - p0024: 'Porto Praya to St. Catharine. Page 54.'
+            - p0024: 'Rough Weather and Sea-sickness—Jib Bogue—Neptune’s Visit—Becalmed—“By '
+            - p0024: 'St. Catharine. Page 66.'
+            - p0024: 'Coal and Provisions—Hard Bread—More News from Home—An Oranging Expedit'
+            - p0024: 'Rio Janeiro. Page 76.'
+            - p0024: 'Ceremonies for the Emperor—Holidays—The Susquehanna—“Ship Visiting”—Mo'
+            - p0024: 'Rio Janeiro to “The Cape.” Page 92.'
+            - p0024: 'Weighing Anchor—Good-bye to Rio—That Dutchman—Mending—A New Personage '
+            - p0025: 'Cape Town, South Africa. Page 99.'
+            - p0025: 'Fishing at Simon’s Bay—Toad Fish—Cape Town and Table Mountain—On Shore'
+            - p0025: 'Batavia, Java. Page 112.'
+            - p0025: 'Coffee and Spices!—Leave Cape Town—Theft—A Narrow Escape—Sailors’ Supe'
+            - p0025: 'Manilla, Luzon. Page 126.'
+            - p0025: 'From Batavia to Manilla—Waterspouts—Target Practice—Borneo—Fruitless S'
+            - p0025: 'Hong Kong, China. Page 134.'
+            - p0025: 'Manilla to Hong Kong—Sight Hong Kong—The Irate Admiral—First Introduct'
+            - p0025: 'Macao, China. Page 141.'
+            - p0025: 'Passage from Hong Kong—Picturesque Appearance of Macao—“General Libert'
+            - p0026: 'Canton. Page 150.'
+            - p0026: 'Leave Macao—Canton River Scenery—Chinese Graves—Features in Landscape—'
+            - p0026: 'Hong Kong. Page 165.'
+            - p0026: 'Leave Canton—Whampoa Anchorage—A shore view of Hong Kong—Queen’s Road—'
+            - p0026: 'Shanghai. Page 170.'
+            - p0026: 'Hong Kong to Shanghai—“A Man Overboard!”—Run a Junk Down—Woosung—Shang'
+            - p0026: 'Newchwang. Page 179.'
+            - p0026: 'Leave Shanghai—Shantung Promontory—Yingtse—Hu—“The Long-Knife Man”—His'
+            - p0026: 'Chefoo and Tung-chow-foo. Page 189.'
+            - p0026: 'Leave Newchwang—The Great Wall—Takoo—Chefoo—Go up to Tung-chow-foo—The'
+            … 47 more (-v)
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[ look (1)] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+            - p0242: verse continued from p0241: stanzas before [2] | here [6, 8, 8] (a stanza ending at the page foot needs no [[cont]])
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[ look (3)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - cafe: cafe (p0024); café (p0109, p0110)
+            - fete: fete (p0268); fête (p0027)
+            - kea: kea (p0395); këa (p0395)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (6)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0050: “haud” — “hand” is common (1808)
+            - p0134: “riggin” — “rigging” is common (53; a letter dropped or transposed?)
+            - p0135: “paining” — “painting” is common (111; a letter dropped or transposed?)
+            - p0221: “topping” — “stopping” is common (179; a letter dropped or transposed?)
+            - p0371: “equiped” — “equipped” is common (42; a letter dropped or transposed?)
+            - p0445: “inking” — “sinking” is common (71; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …the United States Marine Corps, written between March 1865 and August 1868 while he…
+            - book.json summary: …ka at the opening of the ports, where a ship’s barge capsized and men were drowned. He…
+[ look (1)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+            - p0463: “but He” in …the States by this time, but He who controls…
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: china-and-japan-voyage-thither-lawrence v1 — 0 to fix, 3 waived; to look at: hyphen-joins 1, quote-balance 3, contents 87, verse-joins 1, accents 3, rare-forms 6, serial-commas 2, missing-stop 1 — tools@4a3b90bb 2026-11-22

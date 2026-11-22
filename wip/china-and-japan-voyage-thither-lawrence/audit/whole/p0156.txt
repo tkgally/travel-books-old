@@ -1,5 +1,0 @@
-{"given": "who speaks good english, and whom", "print": "who speaks good English, and whom", "sure": "high"}
-{"given": "for the sake of the ride; and then", "print": "for the sake of the ride, and then", "sure": "high"}
-{"given": "destroyed by the recent earthqnake; but", "print": "destroyed by the recent earthquake; but", "sure": "high"}
-{"given": "consequently nearly all churches were destroyed.", "print": "consequently nearly all the churches were destroyed.", "sure": "high"}
-{"given": "north to south. His is spanned", "print": "north to south. This is spanned", "sure": "high"}

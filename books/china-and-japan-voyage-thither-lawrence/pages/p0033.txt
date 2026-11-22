@@ -1,0 +1,21 @@
+[[page ?]]
+
+# List of Illustrations.
+
+[[center]] J. B. L<sc>awrence</sc>, frontispiece.
+
+[[center]] M<sc>acao</sc>, C<sc>hina</sc>, <pref>140</pref>
+
+[[center]] S<sc>treet</sc> B<sc>arber</sc>, <pref>146</pref>
+
+[[center]] S<sc>hanghai</sc>, C<sc>hina</sc>, <pref>174</pref>
+
+[[center]] S<sc>moking</sc> O<sc>pium</sc>, <pref>238</pref>
+
+[[center]] W<sc>hampoa</sc> R<sc>each</sc>, <pref>254</pref>
+
+[[center]] P<sc>agoda</sc> A<sc>nchorage</sc>, F<sc>oochow</sc>, <pref>306</pref>
+
+[[center]] H<sc>ong</sc> K<sc>ong</sc>, C<sc>hina</sc>, <pref>365</pref>
+
+[[center]] T<sc>ycoon’s</sc> P<sc>alace</sc>, O<sc>saca</sc>, <pref>386</pref>
