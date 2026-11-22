@@ -1,0 +1,58 @@
+[[page 444]]
+
+| PORTS VISITED. | ARRIVED. Month. | Day. | No. of Days in Port. | DEPARTURE Month. | Day. | No. of Days at Sea. | Distances Sailed in Knots. |
+|---|---|---|---|---|---|---|---|
+| | 1866. | | | 1866. | | | |
+| Swatow, China, | Nov. | 5 | 5 | Nov. | 10 | 1 | 144 |
+| Tungsang, “ | “ | 12 | 4 1-2 | “ | 17 | 1-2 | 34 |
+| Amoy, “ | “ | 17 | 11 | “ | 28 | 1-2 | 63 |
+| Hong Kong, “ | “ | 29 | 8 1-2 | Dec. | 7 | 1 1-2 | 260 |
+| Whampoa, “ | Dec. | 7 | 15½ | “ | 23 | 1 | 82 |
+| Hong Kong, “ | “ | 24 | 5 | “ | 29 | 1 | 82 |
+| | 1867. | | | | | | |
+| Shanghai, “ | Jan. | 6 | 4 | Jan. | 10 | 4 | 885 |
+| Chefoo, “ | “ | 14 | 8 | “ | 22 | 2 1-2 | 486 |
+| Nein-fo, Corea, | “ | 23 | 6 | “ | 29 | 1 3-4 | 154 |
+| Port Hamilton, Corea, | Feb. | 1 | 2 | Feb. | 3 | 2 1-2 | 455 |
+| Shanghai, China, | “ | 5 | 20 | “ | 25 | 2 1-2 | 408 |
+| Chinkiang-foo, China, | “ | 27 | 1 1-2 | March | 1 | 1 3-4 | 162 |
+| Kiu-Kiang, “ | March | 4 | 1 | “ | 5 | 1 1-2 | 300 |
+| Hankow, “ | “ | 6 | 7 1-2 | “ | 14 | 1 | 156 |
+| Kiu-Kiang, “ | “ | 15 | 8 | “ | 23 | 1 1-2 | 156 |
+| Nankin, “ | “ | 24 | 2 1-2 | “ | 27 | 1 | 255 |
+| Chinkiang-foo, “ | “ | 27 | 2 | “ | 29 | 1-3 | 45 |
+| Shanghai, “ | “ | 30 | 4 | April | 3 | 1 | 162 |
+| Foo-Chow, “ | April | 6 | 7 | “ | 13 | 3 | 444 |
+| Chinhai, “ | “ | 16 | 2 | “ | 18 | 3 | 320 |
+| Ningpo, “ | “ | 18 | 5 | “ | 23 | | 12 |
+| Shanghai, “ | “ | 24 | 95 | July | 29 | 1 | 142 |
+| Ragged Islands, “ | July | 30 | 1 | “ | 31 | 1 | 75 |
+| Ningpo, “ | Aug. | 1 | 2 | Aug. | 3 | 1 | 60 |
+| Tinghai, “ | “ | 3 | 11½ | “ | 15 | 1-4 | 40 |
+| Pootoo, “ | “ | 15 | 6 | “ | 21 | 1-4 | 40 |
+| Shanghai, “ | “ | 22 | 4 | “ | 26 | 1 | 150 |
+| Hong Kong, “ | Sept. | 2 | 17 | Sept. | 19 | 7 | 870 |
+
+## Summary Continued, in the U. S. Flag Ship Hartford.
+
+| Hong Kong, China, | Aug. | 29 | 41 | Oct. | 10 | 6 | 984 |
+|---|---|---|---|---|---|---|---|
+| Nagasaki, Japan, | Oct. | 19 | 58 | Dec. | 17 | 9 | 1,120 |
+| Simonosaki, “ | Dec. | 18 | 1 | “ | 19 | 1 | 150 |
+| | | | | 1868. | | | |
+| Hiogo, “ | “ | 21 | 18 | Jan. | 8 | 2 | 160 |
+| | 1868. | | | | | | |
+| Osaca, “ | Jan. | 8 | 4 | “ | 12 | | 13 |
+| Hiogo, “ | “ | 12 | 9 | “ | 21 | | 13 |
+| Simonosaki, “ | “ | 25 | 1 | “ | 26 | 4 | 160 |
+| Nagasaki, “ | “ | 27 | 5 | Feb. | 1 | 1 | 130 |
+| Hong Kong, China, | Feb. | 8 | 27 | March | 5 | 7 | 1,160 |
+| Whampoa, “ | March | 5 | 7 | “ | 12 | 1-2 | 70 |
+| Hong Kong, “ | “ | 13 | 9 | “ | 21 | 1 | 70 |
+| Singapore, Malaysia, | “ | 31 | 22 | April | 23 | 10 | 1,550 |
+| Anjer Point, Java, | April | 27 | 1 | “ | 28 | 4 | 520 |
+| Simon’s Town, S. Africa, | June | 8 | 6 1-2 | June | 15 | 41 | 5,622 |
+| Cape Town, “ | “ | 15 | 5 | “ | 20 | 1-2 | 60 |
+| St. Helena Island, | July | 4 | 3 | July | 7 | 14 | 1,896 |
+| New York, U. S., | Aug. | 6 | 8 | Aug. | 14 | 30 | 5,260 |
+| TOTAL, 81 PORTS VISITED. | | | 887 | | | 383 | Knots, 53,888, or 62,196 Miles. |

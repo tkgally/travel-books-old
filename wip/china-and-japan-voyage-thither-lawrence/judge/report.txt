@@ -1,0 +1,11 @@
+judge opus: 10 spots on 9 pages: {'draft': 7, 'verified': 3}; cost $0.39
+p0014 #1 [draft, sure: medium] draft 'Yours Truly James B. La' | verified 'Yours Truly. James B. La' | judge reads 'Yours Truly James B. La'
+p0032 #1 [verified, sure: medium] draft '\n\n# Contents.\n\n[[center]] Chapter XIII.\n\n[[center]] 〓 <pref>〓</pref>\n\n〓\n\n[[center]] Chapter XIV.\n\n[[center]] 〓 <pref>〓</pref>\n\n〓\n\n[[center]] Chapter XV.\n\n[[center]] 〓 <pref>〓</pref>\n\n〓' | verified '\n[[blank]]' | judge reads '[[blank]]'
+p0155 #1 [draft, sure: medium] draft 'Hin, doos' | verified 'Hindoos' | judge reads 'Hin, doos'
+p0187 #1 [draft, sure: high] draft 'equaling any' | verified 'equalling any' | judge reads 'equaling any'
+p0311 #1 [draft, sure: high] draft 'discernable' | verified 'discernible' | judge reads 'discernable'
+p0436 #1 [draft, sure: medium] draft 'ithout money; we' | verified 'ithout money, we' | judge reads 'ithout money; we'
+p0483 #1 [draft, sure: medium] draft '[[page ?]]' | verified '[[page 20]]' | judge reads '[[page ?]]'
+p0483 #2 [verified, sure: medium] draft '<sc>Jas. A. Barton</' | verified '<sc>Jas A. Barton</' | judge reads '<sc>Jas A. Barton</'
+p0485 #1 [draft, sure: low] draft '## Comprehens' | verified '# Comprehens' | judge reads '## Comprehens'
+p0486 #1 [verified, sure: medium] draft '# Appendix.\n\n' | verified '' | judge reads ''
