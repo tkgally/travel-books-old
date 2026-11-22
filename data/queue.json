@@ -1109,10 +1109,11 @@
    "place": "London",
    "publisher": "F. V. White & Co.",
    "images": 346,
-   "status": "queued",
+   "status": "rejected",
    "checked": "2026-11-21",
-   "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (whole file); The Online Books Page and Wikisource: nothing; web search of a sentence (p. 177): nothing. Only Hansebooks 2016 (print on demand). MacGregor 1848–1932 (Wellcome Collection record; IA's '1896-' is a cataloguing slip). Photographs and sketches, no artist named. Not checked: Faded Page, WorldCat.",
-   "note": "UBC scan (Toronto), 400 ppi. Fallbacks: throughbuffersta00macgiala (UC), throughbuffersta1896macg (Countway). About 290 pp.; frontispiece (Prince Damrong), 11 plates, a map of southern Siam, a plan of Angkor Wat. Kuching and the Sarawak interior, Singapore, Bangkok in the Franco-Siamese crisis of 1893, overland by bullock cart through Laos and Khmer country, across the Tonle Sap to Angkor, Johore. A verse epigraph to each chapter; some dialect."
+   "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (whole file); The Online Books Page and Wikisource: nothing; web search of a sentence (p. 177): nothing. Only Hansebooks 2016 (print on demand). MacGregor 1848–1932 (Wellcome Collection record; IA's '1896-' is a cataloguing slip). Photographs and sketches, no artist named. Not checked: Faded Page, WorldCat. Re-checked 2026-11-22 before starting: fails rule 3 — reprinted by White Lotus, Bangkok, 1994 (\"Through the Buffer State: Travels in Borneo, Siam, Cambodia, Malaya and Burma\", 300 pp., ISBN 9789748496252, 'repr. from 1896'; whitelotusbooks.com), an established press's edition. Cornell's SEAsia Visions has page images with OCR only (would not count).",
+   "note": "UBC scan (Toronto), 400 ppi. Fallbacks: throughbuffersta00macgiala (UC), throughbuffersta1896macg (Countway). About 290 pp.; frontispiece (Prince Damrong), 11 plates, a map of southern Siam, a plan of Angkor Wat. Kuching and the Sarawak interior, Singapore, Bangkok in the Franco-Siamese crisis of 1893, overland by bullock cart through Laos and Khmer country, across the Tonle Sap to Angkor, Johore. A verse epigraph to each chapter; some dialect.",
+   "rejected_why": "a real reprint after 1914 (White Lotus, Bangkok, 1994)"
   },
   {
    "order": 61,
