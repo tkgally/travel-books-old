@@ -1,0 +1,17 @@
+{"page": "p0003", "model": "opus", "corrections": null, "seconds": 8.2, "cost": 0.0646736, "completion_tokens": 589, "turns": 2, "attempts": 1}
+{"page": "p0004", "model": "opus", "corrections": null, "seconds": 6.4, "cost": 0.0584854, "completion_tokens": 280, "turns": 2, "attempts": 1}
+{"page": "p0005", "model": "opus", "corrections": null, "seconds": 8.6, "cost": 0.0648372, "completion_tokens": 598, "turns": 2, "attempts": 1}
+{"page": "p0006", "model": "opus", "corrections": null, "seconds": 6.9, "cost": 0.0633126, "completion_tokens": 523, "turns": 2, "attempts": 1}
+{"page": "p0007", "model": "opus", "corrections": null, "seconds": 8.0, "cost": 0.0644618, "completion_tokens": 578, "turns": 2, "attempts": 1}
+{"page": "p0008", "model": "opus", "corrections": null, "seconds": 6.8, "cost": 0.0622972, "completion_tokens": 471, "turns": 2, "attempts": 1}
+{"page": "p0009", "model": "opus", "corrections": null, "seconds": 6.0, "cost": 0.0622582, "completion_tokens": 467, "turns": 2, "attempts": 1}
+{"page": "p0010", "model": "opus", "corrections": null, "seconds": 6.5, "cost": 0.0625854, "completion_tokens": 485, "turns": 2, "attempts": 1}
+{"page": "p0011", "model": "opus", "corrections": null, "seconds": 6.5, "cost": 0.0626572, "completion_tokens": 489, "turns": 2, "attempts": 1}
+{"page": "p0012", "model": "opus", "corrections": null, "seconds": 7.3, "cost": 0.0631208, "completion_tokens": 513, "turns": 2, "attempts": 1}
+{"page": "p0013", "model": "opus", "corrections": null, "seconds": 7.6, "cost": 0.0640454, "completion_tokens": 558, "turns": 2, "attempts": 1}
+{"page": "p0014", "model": "opus", "corrections": null, "seconds": 4.5, "cost": 0.0575926, "completion_tokens": 237, "turns": 2, "attempts": 1}
+{"page": "p0015", "model": "opus", "corrections": null, "seconds": 5.5, "cost": 0.0593818, "completion_tokens": 324, "turns": 2, "attempts": 1}
+{"page": "p0016", "model": "opus", "corrections": null, "seconds": 7.3, "cost": 0.0640664, "completion_tokens": 557, "turns": 2, "attempts": 1}
+{"page": "p0017", "model": "opus", "corrections": null, "seconds": 6.6, "cost": 0.0622372, "completion_tokens": 468, "turns": 2, "attempts": 1}
+{"page": "p0018", "model": "opus", "corrections": null, "seconds": 7.1, "cost": 0.0616772, "completion_tokens": 440, "turns": 2, "attempts": 1}
+{"page": "p0019", "model": "opus", "corrections": null, "seconds": 6.3, "cost": 0.0621736, "completion_tokens": 464, "turns": 2, "attempts": 1}
