@@ -172,6 +172,7 @@
 | Venezuela v1 | 2026-11-22 | 430 | Opus draft (1 page by ocr_fallback) → Sonnet corrections → Opus judge; scan check, two spot-reads (tables and notes; word lists and tesseract) by subagents; Drive uploads (Haiku) | 11 | 8 / 3 / 0 | 1 (p0430: 14 not 11, the draft was right) | 45.46 | 0 | PASS, 59 waived (ditto marks) | 35/35; 0 / 7 (spot-reads: 7 printed misprints marked, ~60 ditto marks retyped, a footnote letter set as body text) | |
 | Venezuela v2 | 2026-11-22 | – | (no new model calls; a heading level, found by the review's live pass) | – | – | – | 0 | 0 | PASS, 59 waived | as v1 | |
 | A Yankee on the Yangtze v1 | 2026-11-22 | 432 (+4 plate pages from the New York issue) | Opus draft → Sonnet corrections → Opus judge; scan check, crops (2), plate captions, spot-reads (openings and Chinese; word lists and tesseract), rendered look by Opus subagents; Drive uploads (Haiku) | 109 | 28+11 / 69 / 0 (most on plate numbers and the order of Chinese characters) | 6 proverbs left in printed order by the judge (reversed by the spot-read) | 47.39 | 0 | PASS, 13 waived (half-folded sheets, ditto marks) | 30/30; 1 real (printed “thcusand”, unmarked) / 6 | |
+| Vacation Days in Hawaii and Japan v1 | 2026-11-22 | 362 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (with tesseract), rendered look by Opus subagents; Drive uploads (Haiku) | 73 | 5+1 / 64 / 0 | 0 (but the judge passed a Sonnet drop of two lines on p0058, found by the rendered look) | 39.03 | 0 | PASS, 0 waived | 29/29; 0 / 6 | |
 
 ## Calibrations
 

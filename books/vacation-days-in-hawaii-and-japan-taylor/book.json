@@ -1,0 +1,94 @@
+{
+ "id": "vacation-days-in-hawaii-and-japan-taylor",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Vacation Days in Hawaii and Japan",
+ "short_title": "Vacation Days in Hawaii and Japan",
+ "authors": [
+  {
+   "name": "Charles M. Taylor, Jr.",
+   "sort": "Taylor, Charles Maus, Jr.",
+   "born": 1849
+  }
+ ],
+ "place": "London",
+ "publisher": "T. Fisher Unwin",
+ "year": 1906,
+ "source": {
+  "ia_identifier": "cu31924023431764",
+  "contributor": "Cornell University Library",
+  "hidden_leaves": []
+ },
+ "edition_statement": "The London issue of 1906 (the Philadelphia sheets of 1898, printed by George H. Buchanan Company, with a T. Fisher Unwin title page)",
+ "collection": "jatsi",
+ "regions": [
+  "Hawaii",
+  "Japan",
+  "United States"
+ ],
+ "period": "1896",
+ "subjects": [
+  "Hawaii",
+  "Japan",
+  "jinrikisha travel",
+  "volcanoes"
+ ],
+ "summary": "Charles M. Taylor, Jr., a Philadelphian, kept this day-by-day journal of a three months’ tour in the summer of 1896, the year worked out from the weekdays he gives with his dates. He crosses the United States to San Francisco and sails to Honolulu, where he describes the town, the plantations, the Pali, and a visit to the crater of Kilauea on Hawaii. In Japan he sees Yokohama, Kamakura, Tokyo, and Nikko, and then makes a long circuit by jinrikisha through the interior, by Naoetsu, Niigata, Bange, and Sendai, delayed by floods and rain, before going on to Kyoto, Osaka, Nara, and Kobe. It is written in the present tense and has nearly a hundred of his own photographs and sketches.",
+ "omitted_from_reading": "The printed contents and the publisher’s advertisements are in the JSON only.",
+ "notes_on_text": [
+  "Pictures set into the text column, with the text running on beside them, are placed after the paragraph they interrupt.",
+  "A note printed at the foot of page 225, with no mark in the text, follows the paragraph that runs on to page 226."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {
+   "at": "p0010",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0012",
+   "kind": "preface"
+  },
+  {
+   "at": "p0014",
+   "kind": "contents"
+  },
+  {
+   "at": "p0020",
+   "kind": "front",
+   "title": "Vacation Days in Hawaii and Japan"
+  },
+  {
+   "at": "p0020",
+   "kind": "chapter",
+   "n": 2
+  },
+  {
+   "at": "p0368",
+   "kind": "advertisements"
+  }
+ ],
+ "frontispiece": "p0009-1",
+ "ornaments": [
+  "p0010-1",
+  "p0010-2"
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "29/29",
+  "real_errors": 0,
+  "fixed": 0
+ },
+ "keep_hyphens": [
+  "p0231",
+  "p0293"
+ ]
+}

@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "roads,", "sure": "high"}
-{"n": 2, "is": "A", "print": "a Bull.</sc>\n\n[[cont]]we reach a tea house in the village Yasuda in time for tiffin.", "sure": "high"}

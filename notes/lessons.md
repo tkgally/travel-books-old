@@ -57,7 +57,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
   regular grammar. A familiar title too: “Ta-ra-ra-ra-boom-de-ay” typed with three “ra” by every stage (*A Woman Alone*, 2026-11-22; found by the spot-read's tesseract comparison). The check is a second reading with a different bias, never the same model again [p2e].
 - **Readers and judges are wrong about 1 time in 6–30** on the changes they propose [p2e]. A proposed change
   to a letter is looked at on a crop before it is accepted, above all one towards the more usual form.
-- A page whose two readings differ in length by more than 5% needs a look (`review.py`).
+- A page whose two readings differ in length by more than 5% needs a look (`review.py`): crop it before `pages/` is made. *Vacation Days* p0058: the Sonnet pass dropped two lines after a picture, the judge sided with it, and only the rendered look caught it (2026-11-22). Before publishing, compare each page's length in `draft/` and `pages/` by script.
 - `review.py`'s "not applied" corrections are unjudged and can be real: a dropped word (*Gentle Jehu* p0089 “are”) and a
   misread word (*Nile* p0206 “outang”). Crop every one.
 - More reasoning effort is not better OCR; text-only clean-up without the image is not worth doing [p2e].

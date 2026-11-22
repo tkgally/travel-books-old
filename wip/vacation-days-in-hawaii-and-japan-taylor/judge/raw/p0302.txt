@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "ants, lions,", "sure": "medium"}
-{"n": 2, "is": "A", "print": ">quare.</sc>\n\n[[cont]]tigers, monkeys, etc. The gardens are attractive but the number of animals is small.", "sure": "medium"}

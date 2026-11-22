@@ -1,7 +1,0 @@
-Differences: "to-morrow" is printed as "to-morrow" (the draft has "to-morrow", which matches). "its stopping" matches. The draft's "1.30 <sc>p. m.</sc>" matches.
-
-{"find": "Kyoto to-morrow", "replace": "Kyoto to-morrow"}
-
-Actually, nothing needs changing.
-
-NONE
