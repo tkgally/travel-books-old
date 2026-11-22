@@ -1,5 +1,0 @@
-{"given": "Hankow has population of about", "print": "Hankow has a population of about", "sure": "high"}
-{"given": "it was in former years the great postal center.", "print": "it was in former years the great postal centre.", "sure": "high"}
-{"given": "The first month if was opened", "print": "The first month it was opened", "sure": "high"}
-{"given": "six hundred Mexican dollars; and the last", "print": "six hundred Mexican dollars, and the last", "sure": "high"}
-{"given": "sent out a list of tarisf rates,", "print": "sent out a list of tariff rates,", "sure": "high"}

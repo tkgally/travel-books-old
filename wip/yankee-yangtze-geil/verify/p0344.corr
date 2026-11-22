@@ -1,2 +1,0 @@
-{"find": "[[page ?]]", "replace": "[[page lxxx]]"}
-{"find": "\n[[caption]] lxxx.", "replace": ""}

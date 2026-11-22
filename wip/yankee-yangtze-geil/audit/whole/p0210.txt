@@ -1,5 +1,0 @@
-{"given": "of the dyke; some Chinese", "print": "of the dyke, some Chinese", "sure": "high"}
-{"given": "An ancicnt writing refers to", "print": "An ancient writing refers to", "sure": "high"}
-{"given": "but you cannot unite them one body;", "print": "but you cannot unite them in one body;", "sure": "high"}
-{"given": "being united if makes one solid", "print": "being united it makes one solid", "sure": "high"}
-{"given": "enormous amount of labor on improvements.", "print": "enormous amount of labour on improvements.", "sure": "high"}

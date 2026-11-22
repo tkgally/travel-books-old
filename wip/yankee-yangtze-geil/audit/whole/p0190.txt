@@ -1,5 +1,0 @@
-{"given": "large iron foundry; if is noted", "print": "large iron foundry; it is noted", "sure": "high"}
-{"given": "the god of literature, the god", "print": "the god of Literature, the god", "sure": "high"}
-{"given": "usually open the people. But", "print": "usually open to the people. But", "sure": "high"}
-{"given": "a season of drougbt, and the", "print": "a season of drought, and the", "sure": "high"}
-{"given": "round the altar; but to no", "print": "round the altar, but to no", "sure": "high"}

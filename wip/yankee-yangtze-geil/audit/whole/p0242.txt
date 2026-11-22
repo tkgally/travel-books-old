@@ -1,5 +1,0 @@
-{"given": "that he should coutinue with me", "print": "that he should continue with me", "sure": "high"}
-{"given": "made him by the prefect, yet", "print": "made him by the Prefect, yet", "sure": "high"}
-{"given": "to settle for; and then ate", "print": "to settle for, and then ate", "sure": "high"}
-{"given": "my special baggage where lagging, his", "print": "my special baggage were lagging, his", "sure": "high"}
-{"given": "If a dog dared molest me,", "print": "If a dog dared to molest me,", "sure": "high"}

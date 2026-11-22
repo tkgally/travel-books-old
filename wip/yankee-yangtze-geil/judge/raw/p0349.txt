@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "若要人不知除非己不爲", "sure": "medium"}
-{"n": 2, "is": "B", "print": "BOTH chairmen", "sure": "medium"}

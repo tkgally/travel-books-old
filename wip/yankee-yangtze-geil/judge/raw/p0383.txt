@@ -1,3 +1,0 @@
-The scan has "lxxxix." printed below the photograph (the plate number), so B is right.
-
-{"n": 1, "is": "B", "print": "[[page lxxxix]]", "sure": "high"}
