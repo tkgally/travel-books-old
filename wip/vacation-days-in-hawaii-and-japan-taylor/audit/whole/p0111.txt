@@ -1,4 +1,0 @@
-{"given": "three feet is consequence.", "print": "three feet is the consequence.", "sure": "high"}
-{"given": "We push on and or with", "print": "We push on and on with", "sure": "high"}
-{"given": "numerous apertures; with a noise", "print": "numerous apertures, with a noise", "sure": "high"}
-{"given": "valve, filliug the air with", "print": "valve, filling the air with", "sure": "high"}

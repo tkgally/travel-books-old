@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "Nunobiki\n\n[[image: photograph of a wide street along the waterfront at Kobe, with telegraph poles, a street lamp, low buildings on the left, boat masts on the right and hills behind]]\n[[caption]] <sc>We Ride Along the Bund or Quay.</sc>\n\n[[cont]]Falls. As we", "sure": "high"}
-{"n": 2, "is": "A", "print": "generally", "sure": "high"}

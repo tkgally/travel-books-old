@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "real living", "sure": "high"}
-{"n": 2, "is": "B", "print": "kohama.</sc>\n\n[[cont]]Japan! We have read much of this country and its people, but nothing equals the impression made by this ride through the streets of Yokohama by night.", "sure": "high"}

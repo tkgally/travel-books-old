@@ -1,1 +1,0 @@
-{"n": 1, "is": "B", "print": "# Vacation Days in Hawaii and Japan.\n\n", "sure": "medium"}

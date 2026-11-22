@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "executed, it", "sure": "medium"}
-{"n": 2, "is": "B", "print": "c>apan</sc>.\n\n[[cont]]is said, by a Chinese artist of the eighth century, and is not only the finest, but the earliest specimen of such work in existence.", "sure": "medium"}

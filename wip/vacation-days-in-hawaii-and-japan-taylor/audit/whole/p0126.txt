@@ -1,5 +1,0 @@
-{"given": "I wonder at his, having", "print": "I wonder at this, having", "sure": "high"}
-{"given": "in his yacht; and engaged", "print": "in his yacht, and engaged", "sure": "high"}
-{"given": "there stands a chinese tailor", "print": "there stands a Chinese tailor", "sure": "high"}
-{"given": "than auother tap is heard", "print": "than another tap is heard", "sure": "high"}
-{"given": "full of clothing all styles", "print": "full of clothing of all styles", "sure": "high"}

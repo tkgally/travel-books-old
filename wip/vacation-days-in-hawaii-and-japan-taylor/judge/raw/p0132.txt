@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "", "sure": "high"}
-{"n": 2, "is": "B", "print": "ies an Hour.\n\n[[cont]] His charge is fifty sen, equivalent in American money to twenty-five cents.", "sure": "high"}

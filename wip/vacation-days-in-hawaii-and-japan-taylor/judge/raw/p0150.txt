@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "two inches\n\n[[image: photograph of a crowded street lined with theatres, with tall banners hung from poles]]\n[[caption]] <sc>We Come to Isezakicho, or Theatre Street, the Most Interesting Street in Yokohama.</sc>\n\n[[cont]] wide, and", "sure": "high"}
-{"n": 2, "is": "B", "print": "reigner I am", "sure": "high"}
