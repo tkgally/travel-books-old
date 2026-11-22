@@ -1,0 +1,40 @@
+{
+ "id": "scouting-for-stanley-stevens",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Scouting for Stanley in East Africa",
+ "short_title": "Scouting for Stanley in East Africa",
+ "authors": [
+  {
+   "name": "Thomas Stevens",
+   "sort": "Stevens, Thomas",
+   "born": 1854,
+   "died": 1935
+  }
+ ],
+ "place": "New York",
+ "publisher": "Cassell Publishing Company",
+ "year": 1890,
+ "edition_statement": "First edition",
+ "regions": [],
+ "period": "1889",
+ "source": {
+  "ia_identifier": "scoutingforstanl00stev",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": [
+   0,
+   345,
+   346,
+   347,
+   348,
+   349
+  ]
+ },
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ]
+}

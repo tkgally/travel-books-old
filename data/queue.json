@@ -1167,10 +1167,56 @@
    "place": "New York",
    "publisher": "Cassell Publishing Company",
    "images": 348,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-21",
-   "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (only his bicycle books); The Online Books Page: nothing; Wikisource author page lists it with an external scan only; Open Library and web: print-on-demand only (Franklin Classics, Wentworth, Legare Street, Kessinger). Stevens 1854–1935. Photographs, no artist named. Risk: Negro Universities Press reprinted many Africa books in the 1960s–70s; WorldCat not checked — check before starting. Not checked: Faded Page.",
-   "note": "UCLA scan, JP2. About 288 pp., 18 chapters, 16 photographic plates. A New York World correspondent in 1889: Zanzibar and Mombasa, Taveta and Kilimanjaro, Masai-land hunting with Dr W. L. Abbott, held on parole by the Germans, then inland to reach Stanley and Emin Pasha and march with them to Bagamoyo."
+   "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (only his bicycle books); The Online Books Page: nothing; Wikisource author page lists it with an external scan only; Open Library and web: print-on-demand only (Franklin Classics, Wentworth, Legare Street, Kessinger). Stevens 1854–1935. Photographs, no artist named. Risk: Negro Universities Press reprinted many Africa books in the 1960s–70s; WorldCat not checked — check before starting. Not checked: Faded Page. Re-checked 2026-11-22: web search for reprints (Negro Universities Press, Books for Libraries and others): none; only print on demand (Kessinger 2010, Wentworth 2019, Legare Street 2022). Scan check passed (Opus subagent).",
+   "note": "UCLA scan, JP2. About 288 pp., 18 chapters, 16 photographic plates. A New York World correspondent in 1889: Zanzibar and Mombasa, Taveta and Kilimanjaro, Masai-land hunting with Dr W. L. Abbott, held on parole by the Germans, then inland to reach Stanley and Emin Pasha and march with them to Bagamoyo.",
+   "started": "2026-11-22"
+  },
+  {
+   "order": 64,
+   "ia": "venezuelaorsketc00eastuoft",
+   "slug": "venezuela-sketches-eastwick",
+   "title": "Venezuela: or, Sketches of Life in a South-American Republic; with the History of the Loan of 1864",
+   "author": "Edward B. Eastwick, C.B., F.R.S.",
+   "year": 1868,
+   "place": "London",
+   "publisher": "Chapman & Hall",
+   "images": 444,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): not in pg_catalog.csv (Eastwick only as translator of Schiller); The Online Books Page: nothing; Wikisource: only DNB, EB1911 and obituary entries; web search of a sentence: nothing. Dickens Journals Online has about ten of his 1865–66 All the Year Round articles (the magazine version of parts of the narrative, not the book): recorded, not taken as disqualifying. Open Library: 1868 copies, a 1977 Lost Cause Press microfiche, a 1959 Spanish translation, print on demand (Creative Media, Legare Street). Eastwick 1814–1883 (DNB). One folding map, no artist credited. Not checked: WorldCat.",
+   "note": "Toronto (Robarts) scan, 500 ppi; a UC copy venezuelaorsketc00east (400 ppi) as fallback. Check that the pocket map is present and unfolded. 1864: by Royal Mail steamer via St Thomas to La Guaira as commissioner for a Venezuelan loan; Caracas, Valencia, Carabobo, President Falcón, the coffee valleys of Aragua. Chapters I–XII (to p. 242) are the narrative, ironic and quick; XIII–XIV and the appendix (about 100 pp.) are statistics and the loan question, with tables."
+  },
+  {
+   "order": 65,
+   "ia": "campsincaribbees00oberiala",
+   "slug": "camps-caribbees-ober",
+   "title": "Camps in the Caribbees: The Adventures of a Naturalist in the Lesser Antilles",
+   "author": "Frederick A. Ober",
+   "year": 1880,
+   "place": "Boston; New York",
+   "publisher": "Lee and Shepard; Charles T. Dillingham",
+   "images": 410,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): pg_catalog.csv has five other Ober titles, not this one; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Open Library and web: 1880–1907 printings and print on demand (Kessinger, Hansebooks, Creative Media) only. Ober 1849–1913. Engravings by John Andrew (1815–1870) from the author's photographs; the bird list in the appendix probably by George N. Lawrence (1806–1895). Not checked: WorldCat.",
+   "note": "University of California scan, 400 ppi; fallbacks Cornell cu31924021132562 (Douglas, Edinburgh), AMNH campsincaribbees00ober (1899). About 40 engravings; appendix a list of birds (about 20 pp.). 1876–78, collecting birds for the Smithsonian: camps in the forests of Dominica, Martinique, St Vincent, Grenada and other islands, Caribs and hunters, a camp in the Soufrière crater; island by island, first person."
+  },
+  {
+   "order": 66,
+   "ia": "cordillerapampa00stra",
+   "slug": "cordillera-pampa-strain",
+   "title": "Cordillera and Pampa, Mountain and Plain: Sketches of a Journey in Chili, and the Argentine Provinces, in 1849",
+   "author": "Lieut. Isaac G. Strain, U.S.N.",
+   "year": 1853,
+   "place": "New York",
+   "publisher": "Horace H. Moore",
+   "images": 306,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Open Library: the 1853 edition and print on demand (Kessinger, Creative Media) only. Strain 1821–1857. No illustrations. Not checked: WorldCat.",
+   "note": "Library of Congress scan, 500 ppi. Plain single volume, 18 chapters, no plates. 1849: from the USS Lexington at Valparaíso by mule to Santiago, over the Andes by Uspallata to Mendoza, across the pampas to Buenos Aires, then by a leaking brig, with fever, to Rio. A plain, wry naval voice."
   }
  ],
  "rejected": [
@@ -1553,6 +1599,86 @@
    "title": "James Albert Harrison, Greek Vignettes (1878), greekvignettessa00harr",
    "why": "qualifies on the five rules (Harrison d. 1911; Kessinger only) but more essay than journey: not queued for now",
    "checked": "2026-11-21"
+  },
+  {
+   "title": "Henry Kirke, Twenty-five Years in British Guiana (1898), twentyfiveyearsi00kirkrich",
+   "why": "reprinted: Negro Universities Press 1970, Adamant 2001",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "W. A. Paton, Down the Islands (1887), downislandsvoyag00pato",
+   "why": "reprinted: Negro Universities Press 1969, Greenwood 1970",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Clements Markham, Cuzco (1856), cuzcojourneytoan00markrich",
+   "why": "reprinted: Cambridge Library Collection 2014, Kraus 1980",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "E. R. Smith, The Araucanians (1855), araucaniansornot00smituoft",
+   "why": "reprinted: Kraus 1971",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "W. H. Edwards, A Voyage up the River Amazon (1847)",
+   "why": "reprinted: Cambridge Library Collection",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "H. N. Coleridge, Six Months in the West Indies in 1825 (1826)",
+   "why": "reprinted: Cambridge Library Collection, Negro Universities Press 1970",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "John Ball, Notes of a Naturalist in South America (1887)",
+   "why": "on Project Gutenberg (52513)",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Orton, The Andes and the Amazon; Mathews, Up the Amazon and Madeira; Hadfield, Brazil and the River Plate; Boddam-Whetham, Roraima and British Guiana; Wright, Bolivia",
+   "why": "on Project Gutenberg",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "R. G. Dunlop, Travels in Central America (1847), travelsincentral00dunl",
+   "why": "passes rules 2, 3, 5 (print on demand only), but the narrative is pp. 1–155 of 358, the rest history and statistics: a reserve",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "C. A. Stoddard, Cruising among the Caribbees (1895), cruisingamongcar00stodiala",
+   "why": "passes rules 2, 3, 5 as far as checked (Stoddard 1833–1920), but a steamer cruise with guidebook passages, and the project has a West Indies cruise: a reserve",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Sir Sibbald Scott, To Jamaica and Back (1876), tojamaicaback00scotuoft",
+   "why": "long stretches of Jamaican history; flatter than those chosen (HardPress print on demand only)",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "George Byam, Wild Life in the Interior of Central America (1849), wildlifeininteri00byamuoft",
+   "why": "hunting and natural-history anecdotes by topic, little journey; short",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "W. M. Conway, The Bolivian Andes (1901); H. C. Dent, A Year in Brazil (1886); T. Ewbank, Life in Brazil (1856)",
+   "why": "each over 500 pp.; reprints not checked",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "T. W. Hinchliff, South American Sketches (1863)",
+   "why": "only Google and BSB scans; over 450 pp.",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "J. Wetherell, Brazil: Stray Notes from Bahia (1860)",
+   "why": "letters arranged by topic and edited after his death, no journey; a LibriVox recording exists",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "C. Barrington Brown, Canoe and Camp Life in British Guiana (1876)",
+   "why": "the only IA copy is india.history.resource.84945 (2nd ed.); no library scan",
+   "checked": "2026-11-22"
   }
  ]
 }
