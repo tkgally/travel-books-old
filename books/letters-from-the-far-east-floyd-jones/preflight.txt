@@ -1,0 +1,76 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[ look (4)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0155: …ecially at sun-|set, when the s… (hyphen removed; check) — the book prints “sun-set” elsewhere: keep_hyphens?
+            - hyphen join at p0232: … of refuge, ap-|pealed to him i… (hyphen removed; check)
+            - hyphen join at p0312: …autifully star-|light; wind spr… (hyphen removed; check)
+            - (and 33 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[       ok] folios: printed page numbers that break the sequence
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[ look (1)] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+            - p0307: closing ” with no opening “: 'Another feature of the voyage that was novel and interesting'
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[look (24)] contents: entries of the printed contents with no matching heading
+            - p0019: 'Outward Bound—New York’s Beautiful Harbor—Visiting the Statue—Barthold'
+            - p0019: 'Liverpool to London—Up the Mersey—Liverpool Docks—How they are Constru'
+            - p0019: 'English Country Life—Hotel Regent at Leamington—An Afternoon Drive—Ken'
+            - p0019: 'London to the Adriatic—Hotels of Venice—The Gondolas—Travelling Expens'
+            - p0020: 'Aden to Bombay—English Coaling Points—Aden’s Water-Works—Pack Camels a'
+            - p0020: 'Hindoo and Parsee—Street Scenes—Funeral Rites—Towers of Silence—Cremat'
+            - p0020: 'The Camp of Exercise—Visiting Officers and some of their Entertainment'
+            - p0020: 'Bombay to Delhi—Prospect from a Car-window—Irrigation in India—Breakfa'
+            - p0020: 'Delhi to Lahore—Indian Railways and some Scenes along the Line—Simla a'
+            - p0020: 'Soldiering in India—Description of a Luxurious Tent—The Headquarters M'
+            - p0021: 'Delhi to Agra—Buildings at Futhepoor Sikri—The Lions of Agra—A Wedding'
+            - p0021: 'Agra to Benares—Mrs. Clark’s Hotel at Benares—The Monkey Temple and Ca'
+            - p0021: 'Calcutta to Darjeeling—Some of the Tall Peaks of the Himalayas—Scenes '
+            - p0021: 'Calcutta to Madras—Government House at Calcutta, and Ball given in Hon'
+            - p0021: 'Appearance of Madras from the Sea, and a Drive about the City—The Nati'
+            - p0021: 'Ceylon to Hong Kong—Lunching at Mount Lavinia—The Jin-rickshaw—Pleasan'
+            - p0022: 'Hong Kong to Shanghai—Travelling by the Messagerie Line—First View of '
+            - p0022: 'Chinese Fortifications—Some Earthworks on the Chinese Rivers—Li-hung-C'
+            - p0022: 'Shanghai to Nagasaki—the Sea Voyage—Landing at Nagasaki—Japanese Polit'
+            - p0022: 'Kobe to Kioto—Passports still Necessary in Japan—Paper Windows—Japanes'
+            - p0023: 'Yokohama to Nikko—Japanese Guides, and their Usefulness as Cooks—Joini'
+            - p0023: 'Yokohama, and its Vicinity—Firing Tea—The European Residences—A Cordia'
+            - p0023: 'Across the Pacific Ocean—A Comfortable Ship—Our Fellow Voyagers—Great '
+            - p0023: 'Visiting the Yosemite—Misleading R.R. Agents—My Companions on the Trip'
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[       ok] accents: words the book spells with different accents (or with and without): look at each group on the scan
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (5)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0111: “headquarter” — “headquarters” is common (47; a letter dropped or transposed?)
+            - p0130: “hipped” — “shipped” is common (71; a letter dropped or transposed?)
+            - p0183: “coupe” — “couple” is common (358; a letter dropped or transposed?)
+            - p0201: “wiers” — “wires” is common (52; a letter dropped or transposed?)
+            - p0277: “piked” — “picked” is common (164; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …onel of the United States Army, went round the world from New York between October 1885 and June 1886 and wrote …
+            - book.json summary: …he time. He crosses to England, goes by Paris and Venice to Bombay, wa…
+            - book.json summary: … goes up the Yangtze to Hankow, and spends April and May 1886 in Japan: N…
+[ look (2)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+            - p0135: “minutely There” in …e pains to examine quite minutely There were really tw…
+            - p0170: “pounds The” in …t great—about 10,000,000 pounds The entire India pro…
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: letters-from-the-far-east-floyd-jones v1 — 0 to fix, 0 waived; to look at: hyphen-joins 4, quote-balance 1, contents 24, rare-forms 5, serial-commas 3, missing-stop 2 — tools@9185906f 2026-11-22

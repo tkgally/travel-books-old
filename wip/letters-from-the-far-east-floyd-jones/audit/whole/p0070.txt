@@ -1,5 +1,0 @@
-{"given": "The india and Australia mail", "print": "The India and Australia mail", "sure": "high"}
-{"given": "resident in India, but I learn", "print": "resident in India; but I learn", "sure": "high"}
-{"given": "English journals and periodieals, and an", "print": "English journals and periodicals, and an", "sure": "high"}
-{"given": "ships have not all conveniences found", "print": "ships have not all the conveniences found", "sure": "high"}
-{"given": "Aden (1,308 miles) or the 15th,", "print": "Aden (1,308 miles) on the 15th,", "sure": "high"}

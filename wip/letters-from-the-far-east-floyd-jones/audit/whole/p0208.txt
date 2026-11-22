@@ -1,6 +1,0 @@
-{"given": "Hong Kong, Canton and Macao.", "print": "HONG KONG, CANTON AND MACAO.", "sure": "medium"}
-{"given": "of the 10th, but if was", "print": "of the 10th, but it was", "sure": "high"}
-{"given": "by dint of persevering; our captain", "print": "by dint of persevering, our captain", "sure": "high"}
-{"given": "we came upon the island of Hong", "print": "we came upon the Island of Hong", "sure": "high"}
-{"given": "“Heung Kong,” signisying “good harbor.”", "print": "“Heung Kong,” signifying “good harbor.”", "sure": "high"}
-{"given": "this city is one finest I've", "print": "this city is one the finest I've", "sure": "high"}

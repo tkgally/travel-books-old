@@ -1,4 +1,0 @@
-{"n": 1, "is": "A", "print": "<sc>austrio-hungarian steamer “argo”,</sc>", "sure": "high"}
-{"n": 2, "is": "neither", "print": "<sc>nearing colombo, çeylon.</sc>", "sure": "medium"}
-{"n": 3, "is": "B", "print": "<sc>temp. in shad", "sure": "high"}
-{"n": 4, "is": "B", "print": "OUR stay", "sure": "medium"}

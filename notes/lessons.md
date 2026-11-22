@@ -120,6 +120,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 ## Trigger: a carelessly printed book
 
 - *Scouting for Stanley* (1890): 14 printed misprints, 11 of them transposed or dropped letters (“themsleves”, “argeed”, “vegtables”) that neither `misprints` nor `rare-forms` lists; the spot-read's tesseract comparison of every page found them. When preflight lists two or more misprints, ask the spot-read for a full-page tesseract comparison (and a check for such words is a candidate for the next review).
+- The tesseract comparison done by script (session of 2026-11-22 21:44): hOCR of every page, the words aligned with the page file (difflib), and listed where tesseract read a word found nowhere in the collection while the file has a common word one or two letters away. *Brown Men and Women*: 80 items, 1 printed misprint (“scentific”) that no check had listed; *Letters from the Far East*: 48 items, 0. Cheap (no model calls); a candidate for a tool with a test at the next review.
 - An italic word hyphenated across a page break (`<i>Bagh-</i>` | `<i>dad,</i>`) is not joined: put the hyphen outside the closing tag.
 
 - A misprint split by a line-end hyphen (“disre-|pect”) is silently corrected by the draft, the verifier and the judge alike (*Surface Japan* p. 29); only the spot-read's tesseract comparison found it. “Tranquilty” on the same page was listed by no check (no “tranquility” in the collection to compare with).

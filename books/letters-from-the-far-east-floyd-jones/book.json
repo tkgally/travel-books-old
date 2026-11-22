@@ -1,0 +1,119 @@
+{
+ "id": "letters-from-the-far-east-floyd-jones",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Letters from the Far East",
+ "subtitle": "Being Impressions of a Tour around the World by Way of England, India, China, and Japan during 1885–86",
+ "short_title": "Letters from the Far East",
+ "authors": [
+  {
+   "name": "De Lancey Floyd-Jones",
+   "sort": "Floyd-Jones, De Lancey",
+   "born": 1826,
+   "died": 1902
+  }
+ ],
+ "place": "New York",
+ "publisher": "Public Service Publishing Co.",
+ "year": 1887,
+ "collection": "jatsi",
+ "source": {
+  "ia_identifier": "lettersfromfarea00floy",
+  "contributor": "University of North Carolina at Chapel Hill",
+  "hidden_leaves": [
+   0,
+   11,
+   12,
+   333,
+   334,
+   335,
+   336,
+   337
+  ]
+ },
+ "edition_statement": "First edition",
+ "regions": [
+  "United Kingdom",
+  "Italy",
+  "Egypt",
+  "Yemen",
+  "India",
+  "Pakistan",
+  "Sri Lanka",
+  "Singapore",
+  "Hong Kong",
+  "China",
+  "Macau",
+  "Japan",
+  "California"
+ ],
+ "period": "1885–86",
+ "subjects": [
+  "voyages around the world",
+  "India",
+  "China",
+  "Japan",
+  "armies"
+ ],
+ "summary": "De Lancey Floyd-Jones, a colonel of the United States Army, went round the world from New York between October 1885 and June 1886 and wrote these twenty-six letters on the way; they appeared in journals of the time. He crosses to England, goes by Paris and Venice to Bombay, watches the British army’s camp of exercise near Delhi, and travels by rail to Lahore, Agra, Benares, Calcutta, and Darjeeling. From Madras and Ceylon he sails to Hong Kong, Canton, Macao, and Shanghai, goes up the Yangtze to Hankow, and spends April and May 1886 in Japan: Nagasaki, the Inland Sea, Kobe, Kyoto, Yokohama, Nikko, and Tokyo. The last two letters cross the Pacific to San Francisco and visit the Yosemite. He gives hotels, fares, and distances, and writes as a soldier about forts, troops, and uniforms.",
+ "divisions": [
+  {
+   "at": "p0010",
+   "kind": "front",
+   "title": "Frontispiece"
+  },
+  {
+   "at": "p0013",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0015",
+   "kind": "dedication",
+   "title": "Dedication"
+  },
+  {
+   "at": "p0017",
+   "kind": "preface"
+  },
+  {
+   "at": "p0019",
+   "kind": "contents"
+  },
+  {
+   "at": "p0025",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0026",
+   "kind": "errata"
+  },
+  {
+   "at": "p0027",
+   "kind": "chapter"
+  }
+ ],
+ "frontispiece": "p0010-1",
+ "keep_hyphens": [
+  "p0258"
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "notes_on_text": [
+  "The corrections in the printed list of errata (twelve, after the list of illustrations) are made in the text and listed below.",
+  "The book has many other printer’s errors of a letter or two (“gronnd”, “amouut”, “posseses”); those found are corrected and listed below."
+ ],
+ "omitted_from_reading": "The printed contents, the list of illustrations, and the list of errata are in the JSON only.",
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
+}

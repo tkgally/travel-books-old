@@ -1,5 +1,0 @@
-{"given": "far from my subject; and must", "print": "far from my subject, and must", "sure": "high"}
-{"given": "of their respective cbarges, and it", "print": "of their respective charges, and it", "sure": "high"}
-{"given": "where they get certain amount of", "print": "where they get a certain amount of", "sure": "high"}
-{"given": "As I was entering the woosung River", "print": "As I was entering the Woosung River", "sure": "high"}
-{"given": "a long war, and then they", "print": "a long war, and when they", "sure": "high"}
