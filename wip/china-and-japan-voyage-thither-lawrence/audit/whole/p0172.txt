@@ -1,0 +1,5 @@
+{"given": "by landing passengcrs from the steamers", "print": "by landing passengers from the steamers", "sure": "high"}
+{"given": "who retreat to macao for a", "print": "who retreat to Macao for a", "sure": "high"}
+{"given": "of an unknown race; distinct from", "print": "of an unknown race, distinct from", "sure": "high"}
+{"given": "I have nor been able to", "print": "I have not been able to", "sure": "high"}
+{"given": "which bore evidences great antiquity in", "print": "which bore evidences of great antiquity in", "sure": "high"}

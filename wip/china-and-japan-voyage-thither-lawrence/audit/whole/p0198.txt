@@ -1,0 +1,5 @@
+{"given": "Following his west we passed", "print": "Following this west we passed", "sure": "high"}
+{"given": "large banks and houses business, hotels", "print": "large banks and houses of business, hotels", "sure": "high"}
+{"given": "above which are the public gardcns recently", "print": "above which are the public gardens recently", "sure": "high"}
+{"given": "that everyone on it did not", "print": "that every one on it did not", "sure": "high"}
+{"given": "if he had the palsy; and looks", "print": "if he had the palsy, and looks", "sure": "high"}
