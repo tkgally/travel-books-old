@@ -1,7 +1,7 @@
 {
  "id": "yachting-cruise-wood",
- "version": 1,
- "date": "2026-11-21",
+ "version": 2,
+ "date": "2026-11-22",
  "title": "A Yachting Cruise in the South Seas",
  "short_title": "A Yachting Cruise in the South Seas",
  "authors": [
@@ -46,6 +46,11 @@
    "version": 1,
    "date": "2026-11-21",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "divisions": [
@@ -138,11 +143,12 @@
   "p0238-1"
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "29/29",
   "real_errors": 0,
-  "fixed": 0
+  "fixed": 0,
+  "note": "text unchanged except listed fixes"
  }
 }

@@ -70,5 +70,6 @@ Drafted: p0001 and p0007–p0455 (endpapers, date slip, pastedown, back cover le
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-20 | PASS — 0 to fix, 5 waived (leaves p0002–p0006, endpapers); to look at: hyphen-joins 4, contents 1 (read) — tools@5542f17 | 30/30 + 10/10 (fallback pages); 0 real errors / 8 pages | first publication; rendered look: book page, Acknowledgement with the map, ch. XVII narrow, Appendix A |
+| 2 | 2026-11-22 | PASS: via-rhodesia-mansfield v2 — 0 to fix, 5 waived; to look at: hyphen-joins 4, contents 1, accents 3, rare-forms 3, serial-commas 5 — tools@528b2324 2026-11-22 | as before (text unchanged except the title page) | Title page typed line by line as printed (checked on the scan by an Opus subagent; 01.html looked at for two) |
 
 ## Known issues

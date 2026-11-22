@@ -1,10 +1,10 @@
 [[page ?]]
 
-# A Woman’s Trip to Alaska
+[[center]] A WOMAN’S TRIP TO ALASKA
 
-[[center]] <sc>being an account of a voyage through the inland seas of the sitkan archipelago in</sc> 1890
+[[right]] BEING AN ACCOUNT OF A VOYAGE THROUGH THE INLAND SEAS OF THE SITKAN ARCHIPELAGO IN 1890
 
-[[center]] <sc>by</sc>
+[[center]] BY
 
 [[center]] SEPTIMA M. COLLIS
 
@@ -12,7 +12,11 @@
 
 [[center]] <sc>author of “a woman’s war record.”</sc>
 
+[[break]]
+
 [[center]] I<sc>llustrated by</sc> A<sc>merican</sc> B<sc>ank</sc> N<sc>ote</sc> C<sc>o.</sc> N<sc>ew</sc> Y<sc>ork.</sc>
+
+[[break]]
 
 [[center]] NEW YORK
 

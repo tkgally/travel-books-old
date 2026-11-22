@@ -41,9 +41,7 @@ next piece is whatever now comes first here.
    (no `#`; each printed line or phrase a `[[center]]` paragraph, capitals as printed; `[[right]]` where set
    right), check every word on the image, look at `01.html` in the build, and publish as a new version ("Title
    page typed line by line as printed"). Strike a book from this list when done:
-   embassy-to-china-staunton (both volumes),
-   trans-caspia-shoemaker, via-rhodesia-mansfield, woman-alone-in-the-heart-of-japan-fisher,
-   womans-trip-to-alaska-collis, yachting-cruise-wood, zephyrus-edgcumbe.
+   embassy-to-china-staunton (both volumes), woman-alone-in-the-heart-of-japan-fisher.
    **Title pages typed line by line:** read the other 32 title pages in the build once against their scans when a session has the
    leaf at hand for another reason; they were typed line by line but were never looked at as pages of the editions.
 3. **A `waiting` book** whose question Tom has answered (`notes/preferences.md`, the queue row, the book log).

@@ -33,5 +33,6 @@ Scan check: all 7 sheets 2026-11-21 (Opus subagent); ~14 leaves full size; folio
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-21 | yachting-cruise-wood v1 — 0 to fix, 0 waived; to look at: hyphen-joins 4, accents 1 — tools@5723df0 2026-11-21 | 29/29; 0 real errors / 6 pages | first publication; hyphen-joins read (real breaks); accents: Espíritu as printed (crop) |
+| 2 | 2026-11-22 | PASS: yachting-cruise-wood v2 — 0 to fix, 0 waived; to look at: hyphen-joins 4, accents 1, rare-forms 3, serial-commas 5 — tools@528b2324 2026-11-22 | as before (text unchanged except the title page) | Title page typed line by line as printed (checked on the scan by an Opus subagent; 01.html looked at for two) |
 
 ## Known issues

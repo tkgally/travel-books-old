@@ -48,11 +48,32 @@
             - p0014: 'Stamboul as it was and is,'
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[ look (1)] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+            - p0206: after the caption: '[[right]] July 1st.'
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (1)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - medresse: medresse (p0154); medressé (p0191)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[look (10)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0015: “hight” — “height” is common (812; a letter dropped or transposed?)
+            - p0091: “pouds” — “ponds” is common (42)
+            - p0091: “poud” — “pond” is common (89)
+            - p0122: “saide” — “aside” is common (144; a letter dropped or transposed?)
+            - p0122: “citie” — “cities” is common (308; a letter dropped or transposed?)
+            - p0122: “legge” — “legged” is common (76; a letter dropped or transposed?)
+            - p0122: “skinne” — “skinned” is common (45; a letter dropped or transposed?)
+            - p0123: “partie” — “parties” is common (245; a letter dropped or transposed?)
+            - p0123: “inche” — “inches” is common (537; a letter dropped or transposed?)
+            - p0235: “bahed” — “bathed” is common (48; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (4)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …r, an American from Cincinnati, travelled in the summer of 1894 through the Caucasus and the Russian province…
+            - book.json summary: … diary. With a companion, “B.”, he went from Berlin and St. Petersburg over …
+            - book.json summary: …ds of Baku, across the Caspian, and by the Trans-Caspian railway to Bokhara and Samarkand. By tarant…
+            - book.json summary: …untains into Chinese territory, where he fell ill and turned back. He came…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: trans-caspia-shoemaker v3 — 0 to fix, 0 waived; to look at: hyphen-joins 4, quote-balance 1, contents 21, accents 1 — tools@636b1b8d 2026-11-21
+preflight PASS: trans-caspia-shoemaker v4 — 0 to fix, 0 waived; to look at: hyphen-joins 4, quote-balance 1, contents 21, caption-tail 1, accents 1, rare-forms 10, serial-commas 4 — tools@528b2324 2026-11-22

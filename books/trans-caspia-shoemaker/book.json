@@ -1,7 +1,7 @@
 {
  "id": "trans-caspia-shoemaker",
- "version": 3,
- "date": "2026-11-21",
+ "version": 4,
+ "date": "2026-11-22",
  "title": "Trans-Caspia",
  "subtitle": "The Sealed Provinces of the Czar",
  "short_title": "Trans-Caspia",
@@ -61,6 +61,11 @@
    "version": 3,
    "date": "2026-11-21",
    "note": "A printer’s error corrected: “wili” for “will” (p. 91). A misreading corrected, a broken “l” read as “i”: “truiy” for “truly” (p. 4) (found by a sweep of all the books at the review after forty books)."
+  },
+  {
+   "version": 4,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "divisions": [
@@ -212,7 +217,7 @@
   "p0277"
  ],
  "audit": {
-  "version": 3,
+  "version": 4,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",
