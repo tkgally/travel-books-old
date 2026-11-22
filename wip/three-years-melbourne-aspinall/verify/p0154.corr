@@ -1,0 +1,7 @@
+Two things need fixing: the last line of the page, and the Dr. Geoghegan sentence.
+
+{"find": "Chinese lan-", "replace": "Chinese lan-"}
+
+Actually the draft's last line reads "There is a service in the Chinese lan-", and that matches the image apart from "Chinese", which the draft omits.
+
+{"find": "service in the Chinese lan-", "replace": "service in the Chinese lan-"}
