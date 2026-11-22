@@ -1,5 +1,0 @@
-{"given": "by the compctent authorities of the", "print": "by the competent authorities of the", "sure": "high"}
-{"given": "to the British Vice-Consul; or other Agent", "print": "to the British Vice-Consul, or other Agent", "sure": "high"}
-{"given": "and every facility on information shall be", "print": "and every facility or information shall be", "sure": "high"}
-{"given": "place, the General Credit company shall retain", "print": "place, the General Credit Company shall retain", "sure": "high"}
-{"given": "brokerage on negotiation of the Loan", "print": "brokerage on the negotiation of the Loan", "sure": "high"}

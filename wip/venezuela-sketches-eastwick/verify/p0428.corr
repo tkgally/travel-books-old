@@ -1,4 +1,0 @@
-{"find": "<sc>Carl Hahn</sc>,", "replace": "C<sc>arl</sc> H<sc>ahn</sc>,"}
-{"find": "G. <sc>Servadio</sc>.", "replace": "G. S<sc>ervadio</sc>."}
-{"find": "<sc>Paid in Specie in lieu of Bills.</sc>", "replace": "P<sc>aid in</sc> S<sc>pecie in lieu of</sc> B<sc>ills.</sc>"}
-{"find": "C. <sc>Hahn</sc>.", "replace": "C. H<sc>ahn</sc>."}

@@ -1,5 +1,0 @@
-{"given": "negociation. It the question is", "print": "negociation. If the question is", "sure": "high"}
-{"given": "redress for anyone individual among", "print": "redress for any one individual among", "sure": "high"}
-{"given": "may have a just; but unsatisfied", "print": "may have a just, but unsatisfied", "sure": "high"}
-{"given": "simply a question discretion with", "print": "simply a question of discretion with", "sure": "high"}
-{"given": "undesirable that British snbjects should", "print": "undesirable that British subjects should", "sure": "high"}

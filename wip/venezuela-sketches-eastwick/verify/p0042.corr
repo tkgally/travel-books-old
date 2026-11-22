@@ -1,3 +1,0 @@
-Two differences: "contentedly" is printed "contently", and "world's" in the draft has a curly apostrophe that matches the print.
-
-{"find": "contentedly", "replace": "contently"}

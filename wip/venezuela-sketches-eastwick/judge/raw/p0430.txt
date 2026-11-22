@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "Echerraguia", "sure": "high"}
-{"n": 2, "is": "B", "print": "£398,517 | 11 |", "sure": "medium"}

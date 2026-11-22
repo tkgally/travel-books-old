@@ -1,5 +1,0 @@
-{"given": "which seem be made with", "print": "which seem to be made with", "sure": "high"}
-{"given": "Set those be taken for", "print": "Let those be taken for", "sure": "high"}
-{"given": "not the alicnation of the two", "print": "not the alienation of the two", "sure": "high"}
-{"given": "from the british Foreign Office interposes", "print": "from the British Foreign Office interposes", "sure": "high"}
-{"given": "solvency of Venezuela; and the means", "print": "solvency of Venezuela, and the means", "sure": "high"}
