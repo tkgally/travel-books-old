@@ -373,6 +373,26 @@
       bar.appendChild(inner);
       header.parentNode.insertBefore(bar, header.nextSibling);
       root.classList.add('tb-hasbar');
+      // Arriving from the picture on the book's page (#start, the chapter's heading): the browser has gone to the
+      // heading before this bar existed, and Safari on the Mac and the iPad then leaves the heading half under it.
+      // Put the heading just below the bar, now and again when the pictures above have taken their room, unless
+      // the reader has moved in the meantime. Back, forward and reload are left to the browser.
+      (function () {
+        var st = location.hash === '#start' && document.getElementById('start');
+        var n = window.performance && performance.getEntriesByType && performance.getEntriesByType('navigation')[0];
+        if (!st || (n && n.type !== 'navigate')) return;
+        var moved = false;
+        ['wheel', 'touchstart', 'keydown', 'mousedown'].forEach(function (ev) {
+          window.addEventListener(ev, function () { moved = true; }, { passive: true, once: true });
+        });
+        var place = function () {
+          if (moved) return;
+          var top = st.getBoundingClientRect().top - bar.offsetHeight;
+          if (Math.abs(top) > 1) window.scrollBy(0, top);
+        };
+        place();
+        window.addEventListener('load', function () { place(); setTimeout(place, 150); setTimeout(place, 600); });
+      })();
       if (fromBar) {      // it was in view in the chapter just left: here it is in place at once, without sliding in
         bar.classList.add('tb-now');
         setTimeout(function () { bar.classList.remove('tb-now'); }, 500);
