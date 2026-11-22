@@ -1494,11 +1494,13 @@
    "place": "New York",
    "publisher": "Public Service Publishing Co.",
    "images": 336,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-22",
    "eligibility": "JATSI 72. Rules 1–4 met. Rule 1: University of North Carolina scan, colour, 400 ppi, clean; JATSI's cu31924023252673 (Cornell Kirtas) has more specks. Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page: HathiTrust images only; Wikisource; web search of a sentence). Rule 3: none found (print-on-demand only; not in the NDL catalogue under Ganesha / Edition Synapse). Rule 4: first-person letters of a US Army colonel's tour round the world in 1885–86 (England, India, Ceylon, China, Japan, California); Japan in letters XXI–XXIV. Rule 5 (for the record): De Lancey Floyd-Jones 1826–1902. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP.",
    "note": "About 300 pp., 26 letters headed with place and date. Frontispiece and 11 plates (not yet looked at in this scan). A printed errata list of 12 items after the list of illustrations: apply as an errata slip. A long quotation in small type in the Agra letter. Plain, informative voice.",
-   "started": "2026-11-22"
+   "started": "2026-11-22",
+   "version": 1,
+   "published": "2026-11-22"
   },
   {
    "order": 83,
