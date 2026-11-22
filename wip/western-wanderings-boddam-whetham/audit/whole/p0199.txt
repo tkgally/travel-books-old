@@ -1,4 +1,0 @@
-{"given": "get round large pile of wood", "print": "get round the large pile of wood", "sure": "high"}
-{"given": "a month’s consumption; your toes", "print": "a month’s consumption, your toes", "sure": "high"}
-{"given": "knocked down by a strcet-car—for", "print": "knocked down by a street-car—for", "sure": "high"}
-{"given": "amused by one of those persons", "print": "amused by one of these persons", "sure": "high"}

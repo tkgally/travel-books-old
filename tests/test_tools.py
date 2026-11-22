@@ -436,6 +436,26 @@ class Corrections(unittest.TestCase):
 
 
 
+class JudgeKeepsCaptions(unittest.TestCase):
+    """The verifier left out a plate's caption line and the judge agreed, "sure: medium" (*Western Wanderings*
+    p0312, 2026-11-22). Invented text."""
+
+    def test_caption_kept(self):
+        img = "[[image: a river with a railway]]"
+        draft = f"{img}\n[[caption]] View on the River.\n\nWe went on."
+        verified = f"{img}\n\nWe went on."
+        spots = [{"n": 1, "find": f"{img}\n[[caption]] View on the River.\n\nWe", "replace": f"{img}\n\nWe",
+                  "draft": "[[caption]] View on the River.", "verified": ""}]
+        self.assertEqual(judge.dropped_images(spots[0], spots), ["[[caption]] View on the River."])
+        ver = "B" if judge.labels("p0001", 1) else "A"
+        text, rows = judge.apply(verified, spots, {1: {"is": ver, "sure": "medium"}}, "p0001")
+        self.assertEqual(text, draft)
+        # a caption the verifier only reworded is not "dropped" when the other spot puts it in
+        spots2 = [{"n": 1, "find": "[[caption]] View on the River.", "replace": "", "draft": "", "verified": ""},
+                  {"n": 2, "find": "x", "replace": "x\n[[caption]] View on the River.", "draft": "", "verified": ""}]
+        self.assertEqual(judge.dropped_images(spots2[0], spots2), [])
+
+
 class CaptionOrder(unittest.TestCase):
     """Captions are compared as a sorted list; sorting before squashing put a caption with a straight apostrophe
     or a leading tag elsewhere, so equal lists gave items (Alaska, 2026-11-20). Invented captions."""

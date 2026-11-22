@@ -1,7 +1,0 @@
-judge opus: 6 spots on 4 pages: {'verified': 2, 'draft': 4}; cost $0.18
-p0020 #1 [verified, sure: medium] draft 'Indian 〓uns' | verified 'Indian guns' | judge reads 'Indian guns'
-p0143 #1 [draft, sure: medium] draft '65 ”' | verified '65 „' | judge reads '65 ”'
-p0143 #2 [draft, sure: medium] draft '95 ”' | verified '95 „' | judge reads '95 ”'
-p0143 #3 [draft, sure: medium] draft '340 ”' | verified '340 „' | judge reads '340 ”'
-p0179 #1 [draft, sure: medium] draft 'r〓claimed' | verified 'reclaimed' | judge reads 'r〓claimed'
-p0312 #1 [verified, sure: medium] draft '\n[[caption]] View on the Columbia River.' | verified '' | judge reads ''

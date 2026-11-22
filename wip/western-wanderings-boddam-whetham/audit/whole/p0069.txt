@@ -1,5 +1,0 @@
-{"given": "had never heard such a thing", "print": "had never heard of such a thing", "sure": "high"}
-{"given": "but in the moruing in emptying", "print": "but in the morning in emptying", "sure": "medium"}
-{"given": "one side caused if to collapse", "print": "one side caused it to collapse", "sure": "high"}
-{"given": "in that establishment henceforth and forever.", "print": "in that establishment henceforth and for ever.", "sure": "high"}
-{"given": "it is like bathing in ink.", "print": "it is like bathiug in ink.", "sure": "low"}

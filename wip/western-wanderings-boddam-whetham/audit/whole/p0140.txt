@@ -1,5 +1,0 @@
-{"given": "consequently very tedions, and the dust", "print": "consequently very tedious, and the dust", "sure": "high"}
-{"given": "of a picturesque stream; and groves", "print": "of a picturesque stream, and groves", "sure": "high"}
-{"given": "the Sequoias, or Big trees, and", "print": "the Sequoias, or Big Trees, and", "sure": "high"}
-{"given": "perfectly smooth, and found, and stands", "print": "perfectly smooth, and sound, and stands", "sure": "high"}
-{"given": "Just imagine the stump a tree", "print": "Just imagine the stump of a tree", "sure": "high"}

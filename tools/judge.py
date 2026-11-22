@@ -133,6 +133,9 @@ def apply(verified_text, spots, verdicts, page):
 
 HEADING_LINE = re.compile(r"(?m)^#")
 IMAGE_LINE = re.compile(r"\[\[image:[^\]]*\]\]")
+# a caption line counts as part of its picture: the verifier dropped one and the judge agreed (*Western Wanderings*
+# p0312, 2026-11-22)
+KEEP_LINE = re.compile(r"\[\[image:[^\]]*\]\]|\[\[caption\]\][^\n]*")
 
 
 def dropped_images(spot, spots):
@@ -140,7 +143,7 @@ def dropped_images(spot, spots):
     page puts in elsewhere (a move): the verifier left a picture out and the judge agreed, "sure: medium"
     (*Zephyrus* p0171, 2026-11-20). A picture is never dropped by the judge."""
     out = []
-    for m in IMAGE_LINE.findall(spot.get("find", "")):
+    for m in KEEP_LINE.findall(spot.get("find", "")):
         if m in spot.get("replace", ""):
             continue
         if any(m in t.get("replace", "") for t in spots if t is not spot):

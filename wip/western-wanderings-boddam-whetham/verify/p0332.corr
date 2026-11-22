@@ -1,3 +1,0 @@
-Compared word by word against the scan, the draft has two errors: "towering" is printed "towering" and the draft has it right, but the page reads "well-kept-garden" correctly too. The differences I found:
-
-{"find": "[[cont]]Indian", "replace": "Indian"}

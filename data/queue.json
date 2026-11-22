@@ -1097,11 +1097,13 @@
    "place": "London",
    "publisher": "Richard Bentley and Son",
    "images": 412,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-21",
    "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (his Roraima and British Guiana is; this book is not); The Online Books Page: HathiTrust page images only; Wikisource: nothing; web search of a sentence: nothing. Only a University Microfilms reel (not a print edition); no print-on-demand reprints found. Boddam-Whetham 1843–1918 (LC authority). About 11 plates, no artist named. Not checked: Faded Page, WorldCat. Re-checked 2026-11-22: web search: Canadiana page images with OCR, a Legare Street print-on-demand listing (ISBN 9781019625149) only; no reading text, no real reprint. Plates engraved by Whymper (J. W. Whymper d. 1903; his son Charles d. 1941).",
    "note": "Getty scan, 350 ppi, excellent (395 pages, 2 tissues). xii + 364 pp.: New York, Niagara, Chicago, Omaha, the Union Pacific to Salt Lake City, Virginia City, California (stage-driving, Yosemite, the Big Trees, the Geysers), Oregon, Puget Sound, Victoria, up the Fraser, Nanaimo, back to San Francisco. A lively, opinionated voice.",
-   "started": "2026-11-22"
+   "started": "2026-11-22",
+   "version": 1,
+   "published": "2026-11-22"
   },
   {
    "order": 60,

@@ -1,6 +1,0 @@
-{"given": "Stage jokes—The golden City—Site", "print": "Stage jokes—The Golden City—Site", "sure": "high"}
-{"given": "could easily be distinguished; and several", "print": "could easily be distinguished, and several", "sure": "high"}
-{"given": "filled with large bushes both the", "print": "filled with large bushes of both the", "sure": "high"}
-{"given": "We therefore let it down", "print": "We therefore set it down", "sure": "high"}
-{"given": "repeated by successive drivcrs, each one", "print": "repeated by successive drivers, each one", "sure": "high"}
-{"given": "Chapter X.", "print": "CHAPTER X.", "sure": "low"}
