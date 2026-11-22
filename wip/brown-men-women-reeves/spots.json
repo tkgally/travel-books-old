@@ -1,0 +1,512 @@
+{
+ "p0013": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THE South Sea Islands!",
+   "replace": "T<sc>he</sc> South Sea Islands!",
+   "draft": "THE South Sea I",
+   "verified": "T<sc>he</sc> South Sea I",
+   "context": "plan and plan, my hair ⏎ Is grey before I know it.” ⏎ </verse> ⏎  ⏎ THE South Sea Islands! To us New Zealanders, when we were young in the “Sixties,” "
+  }
+ ],
+ "p0020": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "technially",
+   "replace": "technically",
+   "draft": "technially",
+   "verified": "technically",
+   "context": " carpenter with appliances for stopping the leak,” which he technially described. Once rid of his Chinese passengers, and the tug "
+  }
+ ],
+ "p0035": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": " Tongan, Samoan, Tahitian, or even Rotuman to the plainest and most simply-educated Irish, French, or Colonial girl that has been decently brought up is an insult to one’s intelligence.",
+   "replace": "",
+   "draft": " Tongan, Samoan, Tahitian, or even Rotuman to the plainest and most simply-educated Irish, French, or Colonial girl that has been decently brought up is an insult to one’s intelligence.",
+   "verified": "",
+   "context": " an English country girl is absurd. To compare the prettiest Tongan, Samoan, Tahitian, or even Rotuman to the plainest and most simply-educated Irish, French, or Colonial girl that has been decently brought up is an insult to one’s intelligence. ⏎  ⏎ [[image: photograph of two Solomon Island warriors standin"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "chivalry.”",
+   "replace": "chivalry.”\n\n[[cont]]Tongan, Samoan, Tahitian, or even Rotuman to the plainest and most simply-educated Irish, French, or Colonial girl that has been decently brought up is an insult to one’s intelligence.",
+   "draft": "chivalry.”",
+   "verified": "chivalry.”\n\n[[cont]]Tongan, Samoan, Tahitian, or even Rotuman to the plainest and most simply-educated Irish, French, or Colonial girl that has been decently brought up is an insult to one’s intelligence.",
+   "context": "and shining with cocoanut oil. “The naked knights of savage chivalry.” ⏎  ⏎ Seeing, however, is believing, and I can assure my readers"
+  }
+ ],
+ "p0044": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "even for such long distances, with great accuracy. Looked at from the selfish point of view of our own interests, as apart from the true welfare of the South Sea Islanders—a matter of much less consequence to all sincere commercial Christians—it seems short-sighted policy for New Zealand to highly subsidize a San Francisco mail service, which is of little commercial, or even postal, use to us, and contrary to the Federal interests of the empire, while leaving this valuable island trade and tourist traffic to languish.",
+   "replace": "even for",
+   "draft": "even for such long distances, with great accuracy. Looked at from the selfish point of view of our own interests, as apart from the true welfare of the South Sea Islanders—a matter of much less consequence to all sincere commercial Christians—it seems short-sighted policy for New Zealand to highly subsidize a San Francisco mail service, which is of little commercial, or even postal, use to us, and contrary to the Federal interests of the empire, while leaving this valuable island trade and tourist traffic to languish.",
+   "verified": "even for",
+   "context": " suggested would, however, be able to keep time-table time, even for such long distances, with great accuracy. Looked at from the selfish point of view of our own interests, as apart from the true welfare of the South Sea Islanders—a matter of much less consequence to all sincere commercial Christians—it seems short-sighted policy for New Zealand to highly subsidize a San Francisco mail service, which is of little commercial, or even postal, use to us, and contrary to the Federal interests of the empire, while leaving this valuable island trade and tourist traffic to languish. ⏎  ⏎ [[image: photograph of two young island women, one standin"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "the other with printed tappa cloth skirt.",
+   "replace": "the other with printed tappa cloth skirt.\n\n[[cont]] such long distances, with great accuracy. Looked at from the selfish point of view of our own interests, as apart from the true welfare of the South Sea Islanders—a matter of much less consequence to all sincere commercial Christians—it seems short-sighted policy for New Zealand to highly subsidize a San Francisco mail service, which is of little commercial, or even postal, use to us, and contrary to the Federal interests of the empire, while leaving this valuable island trade and tourist traffic to languish.",
+   "draft": "cloth skirt.",
+   "verified": "cloth skirt.\n\n[[cont]] such long distances, with great accuracy. Looked at from the selfish point of view of our own interests, as apart from the true welfare of the South Sea Islanders—a matter of much less consequence to all sincere commercial Christians—it seems short-sighted policy for New Zealand to highly subsidize a San Francisco mail service, which is of little commercial, or even postal, use to us, and contrary to the Federal interests of the empire, while leaving this valuable island trade and tourist traffic to languish.",
+   "context": "danus fan, English cotton blouse, and native fringed skirt; the other with printed tappa cloth skirt. ⏎ "
+  }
+ ],
+ "p0053": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "usual, but that there was",
+   "replace": "usual, but that\n\n[[image: photograph of a young Samoan woman seated on a mossy bank, wearing a fringed skirt and bead necklaces, holding a large leaf over her head]]\n[[caption]] “One very pretty girl. It was Fanini.”\n\n[[cont]]there was",
+   "draft": "al, but that there was",
+   "verified": "al, but that\n\n[[image: photograph of a young Samoan woman seated on a mossy bank, wearing a fringed skirt and bead necklaces, holding a large leaf over her head]]\n[[caption]] “One very pretty girl. It was Fanini.”\n\n[[cont]]there was",
+   "context": "e doctor said that his temperature was a little higher than usual, but that there was absolutely nothing the matter with him. All I did was in va"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "[[image: photograph of a young Samoan woman seated on a mossy bank, wearing a fringed skirt and bead necklaces, holding a large leaf over her head]]\n[[caption]] “One very pretty girl. It was Fanini.”\n\n“You see",
+   "replace": "“You see",
+   "draft": "[[image: photograph of a young Samoan woman seated on a mossy bank, wearing a fringed skirt and bead necklaces, holding a large leaf over her head]]\n[[caption]] “One very pretty girl. It was Fanini.”\n\n“You see",
+   "verified": "“You see",
+   "context": "ome-sickness—that complaint so fatal to Solomon Islanders. ⏎  ⏎ [[image: photograph of a young Samoan woman seated on a mossy bank, wearing a fringed skirt and bead necklaces, holding a large leaf over her head]] ⏎ [[caption]] “One very pretty girl. It was Fanini.” ⏎  ⏎ “You see, fevers are almost unknown in these islands. The only disea"
+  }
+ ],
+ "p0054": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "(the one who died) ‘all as one like Sammy and Gussy’ (my two little boys). ‘Maui die, he die too.’",
+   "replace": "(the one",
+   "draft": "(the one who died) ‘all as one like Sammy and Gussy’ (my two little boys). ‘Maui die, he die too.’",
+   "verified": "(the one",
+   "context": "h him? ⏎  ⏎ “‘Don't you know, master?’ said they. ‘He and Maui’ (the one who died) ‘all as one like Sammy and Gussy’ (my two little boys). ‘Maui die, he die too.’ ⏎  ⏎ [[image: photograph of a Solomon Islander in dancing costu"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "full dancing costume.”",
+   "replace": "full dancing costume.”\n\n[[cont]] who died) ‘all as one like Sammy and Gussy’ (my two little boys). ‘Maui die, he die too.’",
+   "draft": "ng costume.”",
+   "verified": "ng costume.”\n\n[[cont]] who died) ‘all as one like Sammy and Gussy’ (my two little boys). ‘Maui die, he die too.’",
+   "context": "ion]] Solomon Islander. “They turn out great swells when in full dancing costume.” ⏎  ⏎ “Yes, they were brothers. So he died too. ⏎  ⏎ “Nothing the ma"
+  }
+ ],
+ "p0081": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "from time immemorial. I suspect",
+   "replace": "from time\n\n[[image: Portrait photograph of a young Tongan woman with ribbons and a flower in her hair, wearing bead necklaces and a lace-trimmed dress]]\n[[caption]] Fusi Pala,[[fnref 1]] Daughter of the Prime Minister.\n\n[[cont]]immemorial. I suspect",
+   "draft": "from time immemorial. ",
+   "verified": "from time\n\n[[image: Portrait photograph of a young Tongan woman with ribbons and a flower in her hair, wearing bead necklaces and a lace-trimmed dress]]\n[[caption]] Fusi Pala,[[fnref 1]] Daughter of the Prime Minister.\n\n[[cont]]immemorial. ",
+   "context": "others, and all their most respected and proudest ancestors from time immemorial. I suspect that the fines are welcome to the Government, otherwise thi"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "gaol!”\n\n[[image: Portrait photograph of a young Tongan woman with ribbons and a flower in her hair, wearing bead necklaces and a lace-trimmed dress]]\n[[caption]] Fusi Pala,[[fnref 1]] Daughter of the Prime Minister.\n",
+   "replace": "gaol!”\n",
+   "draft": "gaol!”\n\n[[image: Portrait photograph of a young Tongan woman with ribbons and a flower in her hair, wearing bead necklaces and a lace-trimmed dress]]\n[[caption]] Fusi Pala,[[fnref 1]] Daughter of the Prime Minister.\n",
+   "verified": "gaol!”\n",
+   "context": "ed he; “the really prettiest girls are almost constantly in gaol!” ⏎  ⏎ [[image: Portrait photograph of a young Tongan woman with ribbons and a flower in her hair, wearing bead necklaces and a lace-trimmed dress]] ⏎ [[caption]] Fusi Pala,[[fnref 1]] Daughter of the Prime Minister. ⏎  ⏎ [[fn 1]] A courtesy title, being really the old queen’s nam"
+  }
+ ],
+ "p0088b": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "taught by the missionaries",
+   "replace": "taught by the\n\n[[image: photograph of a young Tongan woman with long braided hair, reclining on mats before a dark cloth backdrop, wearing a skirt of leaves and flowers]]\n[[caption]] Semilesi in her native dress.\n\n[[cont]]missionaries",
+   "draft": "aught by the missionaries",
+   "verified": "aught by the\n\n[[image: photograph of a young Tongan woman with long braided hair, reclining on mats before a dark cloth backdrop, wearing a skirt of leaves and flowers]]\n[[caption]] Semilesi in her native dress.\n\n[[cont]]missionaries",
+   "context": " natives, especially the grown-up women among them, are now taught by the missionaries to be covered, leaving head, legs, and feet bare. They seld"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "feeling.\n\n[[image: photograph of a young Tongan woman with long braided hair, reclining on mats before a dark cloth backdrop, wearing a skirt of leaves and flowers]]\n[[caption]] Semilesi in her native dress.\n\nTongatabu",
+   "replace": "feeling.\n\nTongatabu",
+   "draft": "feeling.\n\n[[image: photograph of a young Tongan woman with long braided hair, reclining on mats before a dark cloth backdrop, wearing a skirt of leaves and flowers]]\n[[caption]] Semilesi in her native dress.\n\nTongatabu",
+   "verified": "feeling.\n\nTongatabu",
+   "context": "up, which ripens, or not, as the case may be, into a warmer feeling. ⏎  ⏎ [[image: photograph of a young Tongan woman with long braided hair, reclining on mats before a dark cloth backdrop, wearing a skirt of leaves and flowers]] ⏎ [[caption]] Semilesi in her native dress. ⏎  ⏎ Tongatabu is full of local preachers. All Tongans are ready to talk ⏎ "
+  }
+ ],
+ "p0089": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": " nothing is safe from them. It is only fair to add that the officers of our steamer have no trouble with those who work or come on board. They never touch anything. They know they would be severely dealt with, and, worse, would not be employed again.\n\n[[image:",
+   "replace": "\n\n[[image:",
+   "draft": " nothing is safe from them. It is only fair to add that the officers of our steamer have no trouble with those who work or come on board. They never touch anything. They know they would be severely dealt with, and, worse, would not be employed again.\n\n[[image:",
+   "verified": "\n\n[[image:",
+   "context": "he English residents decline to have native servants because nothing is safe from them. It is only fair to add that the officers of our steamer have no trouble with those who work or come on board. They never touch anything. They know they would be severely dealt with, and, worse, would not be employed again. ⏎  ⏎ [[image: photograph of a young Tongan woman with long hair and flowe"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "New-fashioned Dress.\n",
+   "replace": "New-fashioned Dress.\n\n[[cont]]nothing is safe from them. It is only fair to add that the officers of our steamer have no trouble with those who work or come on board. They never touch anything. They know they would be severely dealt with, and, worse, would not be employed again.\n",
+   "draft": "oned Dress.\n",
+   "verified": "oned Dress.\n\n[[cont]]nothing is safe from them. It is only fair to add that the officers of our steamer have no trouble with those who work or come on board. They never touch anything. They know they would be severely dealt with, and, worse, would not be employed again.\n",
+   "context": "eeves and a scarf at the neck]] ⏎ [[caption]] Semilesi in Her New-fashioned Dress. ⏎  ⏎ It is absurd to reason about the virtues of any nation unti"
+  }
+ ],
+ "p0113": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "prestige of the chiefs, these",
+   "replace": "prestige of the\n\n[[image: Portrait photograph of King George II. of Tonga in military uniform with sash and aiguillettes]]\n[[caption]] King George II. of Tonga, in December, 1895. “Koe Otua mo Toga ko Hokui Tofia.”\n\nchiefs, these",
+   "draft": "stige of the chiefs, thes",
+   "verified": "stige of the\n\n[[image: Portrait photograph of King George II. of Tonga in military uniform with sash and aiguillettes]]\n[[caption]] King George II. of Tonga, in December, 1895. “Koe Otua mo Toga ko Hokui Tofia.”\n\nchiefs, thes",
+   "context": "eaking up the old institutions by taking away the power and prestige of the chiefs, these wiser statesmen of the South Sea Islands have tried, and tr"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "[[image: Portrait photograph of King George II. of Tonga in military uniform with sash and aiguillettes]]\n[[caption]] King George II. of Tonga, in December, 1895. “Koe Otua mo Toga ko Hokui Tofia.”\n\n“Whoever",
+   "replace": "“Whoever",
+   "draft": "[[image: Portrait photograph of King George II. of Tonga in military uniform with sash and aiguillettes]]\n[[caption]] King George II. of Tonga, in December, 1895. “Koe Otua mo Toga ko Hokui Tofia.”\n\n“Whoever",
+   "verified": "“Whoever",
+   "context": "ple to renowned ancestors, as the following laws testify:— ⏎  ⏎ [[image: Portrait photograph of King George II. of Tonga in military uniform with sash and aiguillettes]] ⏎ [[caption]] King George II. of Tonga, in December, 1895. “Koe Otua mo Toga ko Hokui Tofia.” ⏎  ⏎ “Whoever shall defame the character of any dead person shall be liab"
+  }
+ ],
+ "p0144": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "nor ever was, such a thing",
+   "replace": "nor ever was,\n\n[[image: photograph of a line of Fijian men in grass skirts, kneeling and leaning back with clubs raised over their heads, in a field beside water]]\n[[caption]] Fijian Club Dance. Dances for the arms.\n\n[[cont]]such a thing",
+   "draft": "or ever was, such a thing",
+   "verified": "or ever was,\n\n[[image: photograph of a line of Fijian men in grass skirts, kneeling and leaning back with clubs raised over their heads, in a field beside water]]\n[[caption]] Fijian Club Dance. Dances for the arms.\n\n[[cont]]such a thing",
+   "context": " deliberately come to the conclusion that there neither is, nor ever was, such a thing as Tahitian harmony, much less melody. One well-known Tahit"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "very quickly, and in\n\n[[image: photograph of a line of Fijian men in grass skirts, kneeling and leaning back with clubs raised over their heads, in a field beside water]]\n[[caption]] Fijian Club Dance. Dances for the arms.",
+   "replace": "very quickly, and in",
+   "draft": "ckly, and in\n\n[[image: photograph of a line of Fijian men in grass skirts, kneeling and leaning back with clubs raised over their heads, in a field beside water]]\n[[caption]] Fijian Club Dance. Dances for the arms.",
+   "verified": "ckly, and in",
+   "context": "ling and shivering the limbs, especially the legs and feet, very quickly, and in ⏎  ⏎ [[image: photograph of a line of Fijian men in grass skirts, kneeling and leaning back with clubs raised over their heads, in a field beside water]] ⏎ [[caption]] Fijian Club Dance. Dances for the arms. ⏎ "
+  }
+ ],
+ "p0161": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "or the other had conquered",
+   "replace": "or the other\n\n[[image: Photograph of a Samoan chief, bare-chested, wearing bead necklaces and a wrapped cloth, holding a club]]\n[[caption]] Tamesese, Rebel chief, now residing at Avia, the extreme west of the island of Upōlo.\n\n[[cont]]had conquered",
+   "draft": "or the other had conquere",
+   "verified": "or the other\n\n[[image: Photograph of a Samoan chief, bare-chested, wearing bead necklaces and a wrapped cloth, holding a club]]\n[[caption]] Tamesese, Rebel chief, now residing at Avia, the extreme west of the island of Upōlo.\n\n[[cont]]had conquere",
+   "context": " of supremacy among themselves long ago, and after one side or the other had conquered the country would have settled down. In old days there was "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "will know how to\n\n[[image: Photograph of a Samoan chief, bare-chested, wearing bead necklaces and a wrapped cloth, holding a club]]\n[[caption]] Tamesese, Rebel chief, now residing at Avia, the extreme west of the island of Upōlo.",
+   "replace": "will know how to",
+   "draft": " know how to\n\n[[image: Photograph of a Samoan chief, bare-chested, wearing bead necklaces and a wrapped cloth, holding a club]]\n[[caption]] Tamesese, Rebel chief, now residing at Avia, the extreme west of the island of Upōlo.",
+   "verified": " know how to",
+   "context": "in the event of war it is doubtful if the rising generation will know how to ⏎  ⏎ [[image: Photograph of a Samoan chief, bare-chested, wearing bead necklaces and a wrapped cloth, holding a club]] ⏎ [[caption]] Tamesese, Rebel chief, now residing at Avia, the extreme west of the island of Upōlo. ⏎ "
+  }
+ ],
+ "p0163": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "the front the dress circle, as it were—in many",
+   "replace": "the front the dress\n\n[[image: photograph of a row of large thatched native huts on a pebbled ground, with palm trees behind]]\n[[caption]] Native Huts, with the Mat-shutters partly closed.\n\n[[cont]]circle, as it were—in many",
+   "draft": "nt the dress circle, as i",
+   "verified": "nt the dress\n\n[[image: photograph of a row of large thatched native huts on a pebbled ground, with palm trees behind]]\n[[caption]] Native Huts, with the Mat-shutters partly closed.\n\n[[cont]]circle, as i",
+   "context": "edded in earth and covered with thin mats, sit our party—in the front the dress circle, as it were—in many strange attitudes of discomfort. Some vainly try to sit up,"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "in the dark.\n\n[[image: photograph of a row of large thatched native huts on a pebbled ground, with palm trees behind]]\n[[caption]] Native Huts, with the Mat-shutters partly closed.\n\nAt",
+   "replace": "in the dark.\n\nAt",
+   "draft": " the dark.\n\n[[image: photograph of a row of large thatched native huts on a pebbled ground, with palm trees behind]]\n[[caption]] Native Huts, with the Mat-shutters partly closed.\n\nAt",
+   "verified": " the dark.\n\nAt",
+   "context": "into the night air, is a full pit of native eyes glistening in the dark. ⏎  ⏎ [[image: photograph of a row of large thatched native huts on a pebbled ground, with palm trees behind]] ⏎ [[caption]] Native Huts, with the Mat-shutters partly closed. ⏎  ⏎ At the opposite segment of the circle—the mat-shutters are now"
+  }
+ ],
+ "p0165": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "sitting—and afterwards with her feet, standing. The first part ends by the performers suddenly standing still, as if struck stiff in an attitude, but without any of the grotesque face contortions in unison, or the guttural sounds, that characterize the hakas or New Zealand Maori dances.",
+   "replace": "sitting—and",
+   "draft": "sitting—and afterwards with her feet, standing. The first part ends by the performers suddenly standing still, as if struck stiff in an attitude, but without any of the grotesque face contortions in unison, or the guttural sounds, that characterize the hakas or New Zealand Maori dances.",
+   "verified": "sitting—and",
+   "context": "e in a most alarming manner. She dances much with her hands—sitting—and afterwards with her feet, standing. The first part ends by the performers suddenly standing still, as if struck stiff in an attitude, but without any of the grotesque face contortions in unison, or the guttural sounds, that characterize the hakas or New Zealand Maori dances. ⏎  ⏎ [[image: photograph of a young Samoan woman seated, wearin"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "Seumanatafa’s daughters.",
+   "replace": "Seumanatafa’s daughters.\n\n[[cont]]afterwards with her feet, standing. The first part ends by the performers suddenly standing still, as if struck stiff in an attitude, but without any of the grotesque face contortions in unison, or the guttural sounds, that characterize the hakas or New Zealand Maori dances.",
+   "draft": "s daughters.",
+   "verified": "s daughters.\n\n[[cont]]afterwards with her feet, standing. The first part ends by the performers suddenly standing still, as if struck stiff in an attitude, but without any of the grotesque face contortions in unison, or the guttural sounds, that characterize the hakas or New Zealand Maori dances.",
+   "context": "rt, holding a woven fan]] ⏎ [[caption]] Taupo Matautu, one of Seumanatafa’s daughters. ⏎  ⏎ “Mahlia! mahlia!” that is, “Bravo! bravo!” we all cry. ⏎  ⏎ Bu"
+  }
+ ],
+ "p0167": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "young gentleman.",
+   "replace": "young gentlemen.",
+   "draft": "oung gentleman.",
+   "verified": "oung gentlemen.",
+   "context": "ly rushes in, pats the dog, soothes him, and so rescues the young gentleman. In the next piece an imitation baby, made of <i>faow</i>, i"
+  }
+ ],
+ "p0179": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Here again, under our more",
+   "replace": "Here again, under\n\n[[image: photograph of a Fijian woman standing barefoot beneath the huge leaves of a via plant, beside a corrugated-iron fence]]\n[[caption]] The Via Plant, Fiji. The larger leaf is five feet long.\n\n[[cont]]our more",
+   "draft": "again, under our more",
+   "verified": "again, under\n\n[[image: photograph of a Fijian woman standing barefoot beneath the huge leaves of a via plant, beside a corrugated-iron fence]]\n[[caption]] The Via Plant, Fiji. The larger leaf is five feet long.\n\n[[cont]]our more",
+   "context": "isoners are built native fashion, and are most comfortable. Here again, under our more enlightened rule, I regret to learn that many of the senten"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "standard.\n\n[[image: photograph of a Fijian woman standing barefoot beneath the huge leaves of a via plant, beside a corrugated-iron fence]]\n[[caption]] The Via Plant, Fiji. The larger leaf is five feet long.",
+   "replace": "standard.",
+   "draft": "standard.\n\n[[image: photograph of a Fijian woman standing barefoot beneath the huge leaves of a via plant, beside a corrugated-iron fence]]\n[[caption]] The Via Plant, Fiji. The larger leaf is five feet long.",
+   "verified": "standard.",
+   "context": " habit and comprehension, as well as to raise theirs to our standard. ⏎  ⏎ [[image: photograph of a Fijian woman standing barefoot beneath the huge leaves of a via plant, beside a corrugated-iron fence]] ⏎ [[caption]] The Via Plant, Fiji. The larger leaf is five feet long. ⏎ "
+  }
+ ],
+ "p0180": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "of your own free will",
+   "replace": "of your\n\n[[image: photograph of a seated Fijian girl in a white bark-cloth dress, with long braided hair, a choker and a pendant]]\n[[caption]] Fiji Girl, as she Appears in her Native Village. Her dress is white ngatu. On her finger is a cheap imitation silver ring. “Are you quite sure you desire to be married to this man?”\n\n[[cont]]own free will",
+   "draft": "of your own free wil",
+   "verified": "of your\n\n[[image: photograph of a seated Fijian girl in a white bark-cloth dress, with long braided hair, a choker and a pendant]]\n[[caption]] Fiji Girl, as she Appears in her Native Village. Her dress is white ngatu. On her finger is a cheap imitation silver ring. “Are you quite sure you desire to be married to this man?”\n\n[[cont]]own free wil",
+   "context": "— ⏎  ⏎ “Are you quite sure you desire to be married to this man of your own free will, or do you love someone else, and are now following the wis"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "[[image: photograph of a seated Fijian girl in a white bark-cloth dress, with long braided hair, a choker and a pendant]]\n[[caption]] Fiji Girl, as she Appears in her Native Village. Her dress is white ngatu. On her finger is a cheap imitation silver ring. “Are you quite sure you desire to be married to this man?”\n\nForced",
+   "replace": "Forced",
+   "draft": "[[image: photograph of a seated Fijian girl in a white bark-cloth dress, with long braided hair, a choker and a pendant]]\n[[caption]] Fiji Girl, as she Appears in her Native Village. Her dress is white ngatu. On her finger is a cheap imitation silver ring. “Are you quite sure you desire to be married to this man?”\n\nForced",
+   "verified": "Forced",
+   "context": "urn to your home, and no one shall molest you in any way.” ⏎  ⏎ [[image: photograph of a seated Fijian girl in a white bark-cloth dress, with long braided hair, a choker and a pendant]] ⏎ [[caption]] Fiji Girl, as she Appears in her Native Village. Her dress is white ngatu. On her finger is a cheap imitation silver ring. “Are you quite sure you desire to be married to this man?” ⏎  ⏎ Forced marriage must have been a very real danger, so many ⏎ "
+  }
+ ],
+ "p0181": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "support, and if it be proved",
+   "replace": "support, and\n\n[[image: photograph of a young Fijian man, head turned in profile, with a white cloth over one shoulder and a sash at the waist]]\n[[caption]] Fijian. “Return to your town, build your house, and prepare for your marriage.”\n\n[[cont]]if it be proved",
+   "draft": "support, and if it be pro",
+   "verified": "support, and\n\n[[image: photograph of a young Fijian man, head turned in profile, with a white cloth over one shoulder and a sash at the waist]]\n[[caption]] Fijian. “Return to your town, build your house, and prepare for your marriage.”\n\n[[cont]]if it be pro",
+   "context": "out health and degrees of consanguinity, and about means of support, and if it be proved that the relatives have not conspired to make the couple ma"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "man:—\n\n[[image: photograph of a young Fijian man, head turned in profile, with a white cloth over one shoulder and a sash at the waist]]\n[[caption]] Fijian. “Return to your town, build your house, and prepare for your marriage.”\n\n<blockquote>",
+   "replace": "man:—\n\n<blockquote>",
+   "draft": "man:—\n\n[[image: photograph of a young Fijian man, head turned in profile, with a white cloth over one shoulder and a sash at the waist]]\n[[caption]] Fijian. “Return to your town, build your house, and prepare for your marriage.”\n\n<blockquot",
+   "verified": "man:—\n\n<blockquot",
+   "context": "duguci-ni-yalewa</i>, the <i>Buli</i> shall then say to the man:— ⏎  ⏎ [[image: photograph of a young Fijian man, head turned in profile, with a white cloth over one shoulder and a sash at the waist]] ⏎ [[caption]] Fijian. “Return to your town, build your house, and prepare for your marriage.” ⏎  ⏎ <blockquote> ⏎ “Return to your town, build your house, and prepare for you"
+  }
+ ],
+ "p0187": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "spent among the hills",
+   "replace": "spent among the\n\n[[image: Photograph of a round Fijian hut with a tall conical thatched roof and reed walls, a few people standing at the doorway, a bamboo fence in the foreground]]\n[[caption]] Fiji Hut. Grass roof; walls made of reeds. In front is a bamboo fence.\n\n[[cont]]hills",
+   "draft": "nt among the hills",
+   "verified": "nt among the\n\n[[image: Photograph of a round Fijian hut with a tall conical thatched roof and reed walls, a few people standing at the doorway, a bamboo fence in the foreground]]\n[[caption]] Fiji Hut. Grass roof; walls made of reeds. In front is a bamboo fence.\n\n[[cont]]hills",
+   "context": "he time. Instead of this, the two days were very pleasantly spent among the hills at the back of Suva, where the common Australian minahs fle"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "House.\n\n[[image: Photograph of a round Fijian hut with a tall conical thatched roof and reed walls, a few people standing at the doorway, a bamboo fence in the foreground]]\n[[caption]] Fiji Hut. Grass roof; walls made of reeds. In front is a bamboo fence.\n\nThe fine",
+   "replace": "House.\n\nThe fine",
+   "draft": "House.\n\n[[image: Photograph of a round Fijian hut with a tall conical thatched roof and reed walls, a few people standing at the doorway, a bamboo fence in the foreground]]\n[[caption]] Fiji Hut. Grass roof; walls made of reeds. In front is a bamboo fence.\n\nThe fine",
+   "verified": "House.\n\nThe fine",
+   "context": "l, in calling on natives at the native town past Government House. ⏎  ⏎ [[image: Photograph of a round Fijian hut with a tall conical thatched roof and reed walls, a few people standing at the doorway, a bamboo fence in the foreground]] ⏎ [[caption]] Fiji Hut. Grass roof; walls made of reeds. In front is a bamboo fence. ⏎  ⏎ The fine, muscular Fijians we met here have good-humoured, smiling f"
+  }
+ ],
+ "p0201": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "HAVING thus",
+   "replace": "H<sc>aving</sc> thus",
+   "draft": "HAVING thus",
+   "verified": "H<sc>aving</sc> thus",
+   "context": "ie. . . ⏎ It may be I shall touch the Happy Isles.” ⏎ </verse> ⏎  ⏎ HAVING thus far pictured islanders under purely native, yet civilized, "
+  }
+ ],
+ "p0233": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "AT last I am",
+   "replace": "A<sc>t</sc> last I am",
+   "draft": "AT last I am",
+   "verified": "A<sc>t</sc> last I am",
+   "context": "e all things always seemed the same.” ⏎ </verse> ⏎  ⏎ ## Tahiti. ⏎  ⏎ AT last I am within measurable distance of Tahiti, the island I have com"
+  }
+ ],
+ "p0239": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "one. The deep-water entrance",
+   "replace": "one. The\n\n[[image: photograph of an elderly bearded Tahitian man in a shirt and patterned pareu, standing before a wooden shed, his legs greatly swollen by disease]]\n[[caption]] “The First Man to Welcome Us In.”\n\n[[cont]]deep-water entrance",
+   "draft": "one. The deep-water e",
+   "verified": "one. The\n\n[[image: photograph of an elderly bearded Tahitian man in a shirt and patterned pareu, standing before a wooden shed, his legs greatly swollen by disease]]\n[[caption]] “The First Man to Welcome Us In.”\n\n[[cont]]deep-water e",
+   "context": "y batteries placed on the high ground, is not a first-class one. The deep-water entrance through the reef is only one hundred feet wide. The wind of"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "Protectorate, and\n\n[[image: photograph of an elderly bearded Tahitian man in a shirt and patterned pareu, standing before a wooden shed, his legs greatly swollen by disease]]\n[[caption]] “The first man to welcome us in.”",
+   "replace": "Protectorate, and",
+   "draft": "ctorate, and\n\n[[image: photograph of an elderly bearded Tahitian man in a shirt and patterned pareu, standing before a wooden shed, his legs greatly swollen by disease]]\n[[caption]] “The first man to welcome us in.”",
+   "verified": "ctorate, and",
+   "context": ", just half a century after the establishment of the French Protectorate, and ⏎  ⏎ [[image: photograph of an elderly bearded Tahitian man in a shirt and patterned pareu, standing before a wooden shed, his legs greatly swollen by disease]] ⏎ [[caption]] “The first man to welcome us in.” ⏎ "
+  }
+ ],
+ "p0245": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "sailing service of any importance",
+   "replace": "sailing service of\n\n[[image: Oval portrait photograph of a young Tahitian woman in a straw boater hat with flowers, a dark dress with a white lace collar and cuffs, and a corsage]]\n[[caption]] The Belle of Tahiti. Half-caste mistress of a French official, Papeëte. “The monde and the demi-monde”\n\n[[cont]]any importance",
+   "draft": "g service of any importan",
+   "verified": "g service of\n\n[[image: Oval portrait photograph of a young Tahitian woman in a straw boater hat with flowers, a dark dress with a white lace collar and cuffs, and a corsage]]\n[[caption]] The Belle of Tahiti. Half-caste mistress of a French official, Papeëte. “The monde and the demi-monde”\n\n[[cont]]any importan",
+   "context": "ed one. ⏎  ⏎ Here exists perhaps the last royal mail subsidized sailing service of any importance in the world. A line of fast schooners carry mails, passeng"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "service from\n\n[[image: Oval portrait photograph of a young Tahitian woman in a straw boater hat with flowers, a dark dress with a white lace collar and cuffs, and a corsage]]\n[[caption]] The Belle of Tahiti. Half-caste mistress of a French official, Papeëte. “The monde and the demi-monde”",
+   "replace": "service from",
+   "draft": "service from\n\n[[image: Oval portrait photograph of a young Tahitian woman in a straw boater hat with flowers, a dark dress with a white lace collar and cuffs, and a corsage]]\n[[caption]] The Belle of Tahiti. Half-caste mistress of a French official, Papeëte. “The monde and the demi-monde”",
+   "verified": "service from",
+   "context": "the Cook and Society Groups will, no doubt, extend a monthy service from ⏎  ⏎ [[image: Oval portrait photograph of a young Tahitian woman in a straw boater hat with flowers, a dark dress with a white lace collar and cuffs, and a corsage]] ⏎ [[caption]] The Belle of Tahiti. Half-caste mistress of a French official, Papeëte. “The monde and the demi-monde” ⏎ "
+  }
+ ],
+ "p0247": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "and there is silence until reappear",
+   "replace": "and there is\n\n[[image: Photograph in an arched frame of a young Tahitian woman with very long dark hair and a flower over her ear, leaning on a pedestal]]\n[[caption]] A Tahitian Girl.\n\n[[cont]]silence until reappear",
+   "draft": "and there is silence unti",
+   "verified": "and there is\n\n[[image: Photograph in an arched frame of a young Tahitian woman with very long dark hair and a flower over her ear, leaning on a pedestal]]\n[[caption]] A Tahitian Girl.\n\n[[cont]]silence unti",
+   "context": "nd-bye the market-place is emptied, the lights are put out, and there is silence until reappear the noisy morning marketers, bringing with them clean, whol"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "flowers.\n\n[[image: Photograph in an arched frame of a young Tahitian woman with very long dark hair and a flower over her ear, leaning on a pedestal]]\n[[caption]] A Tahitian Girl.\n\nWith",
+   "replace": "flowers.\n\nWith",
+   "draft": "flowers.\n\n[[image: Photograph in an arched frame of a young Tahitian woman with very long dark hair and a flower over her ear, leaning on a pedestal]]\n[[caption]] A Tahitian Girl.\n\nWith",
+   "verified": "flowers.\n\nWith",
+   "context": "ng with them clean, wholesome daylight, and pure fruits and flowers. ⏎  ⏎ [[image: Photograph in an arched frame of a young Tahitian woman with very long dark hair and a flower over her ear, leaning on a pedestal]] ⏎ [[caption]] A Tahitian Girl. ⏎  ⏎ With all its pretty, tinsel finery, its imitation boulevards, it"
+  }
+ ],
+ "p0251": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "Colonies 80% ,,",
+   "replace": "Colonies . 80% ,,",
+   "draft": "Colonies 80% ,,",
+   "verified": "Colonies . 80% ,,",
+   "context": ", 1895—From United States of America, Great Britain and her Colonies 80% ,, France, in spite of about 30% advantage in differential dut"
+  }
+ ],
+ "p0256": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "gets awfully excited arranging",
+   "replace": "gets awfully\n\n[[image: Photograph of a Tahitian man standing in a fringed ceremonial cape and tall headdress, resting one hand on a pedestal before a painted studio backdrop]]\n[[caption]] Tahitian Ancient Costume. Worn now on July 14th, anniversary of the taking of the Bastille!\n\n[[cont]]excited arranging",
+   "draft": "gets awfully excited arra",
+   "verified": "gets awfully\n\n[[image: Photograph of a Tahitian man standing in a fringed ceremonial cape and tall headdress, resting one hand on a pedestal before a painted studio backdrop]]\n[[caption]] Tahitian Ancient Costume. Worn now on July 14th, anniversary of the taking of the Bastille!\n\n[[cont]]excited arra",
+   "context": "in native fashion. “Mr. Patsy” has his camera with him, and gets awfully excited arranging us, making one hold up a cocoanut cup, another a big banana"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "Unhappily he\n\n[[image: Photograph of a Tahitian man standing in a fringed ceremonial cape and tall headdress, resting one hand on a pedestal before a painted studio backdrop]]\n[[caption]] Tahitian Ancient Costume. Worn now on July 14th, anniversary of the taking of the Bastille!",
+   "replace": "Unhappily he",
+   "draft": "Unhappily he\n\n[[image: Photograph of a Tahitian man standing in a fringed ceremonial cape and tall headdress, resting one hand on a pedestal before a painted studio backdrop]]\n[[caption]] Tahitian Ancient Costume. Worn now on July 14th, anniversary of the taking of the Bastille!",
+   "verified": "Unhappily he",
+   "context": "round, must needs take another from a better point of view. Unhappily he ⏎  ⏎ [[image: Photograph of a Tahitian man standing in a fringed ceremonial cape and tall headdress, resting one hand on a pedestal before a painted studio backdrop]] ⏎ [[caption]] Tahitian Ancient Costume. Worn now on July 14th, anniversary of the taking of the Bastille! ⏎ "
+  }
+ ],
+ "p0263": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[caption]] Queen of Raiatea. Queen of Bora Bora Island. A princess of Huahme Island,\n",
+   "replace": "",
+   "draft": "[[caption]] Queen of Raiatea. Queen of Bora Bora Island. A princess of Huahme Island,\n",
+   "verified": "",
+   "context": "ciety Island women, four standing and two seated in front]] ⏎ [[caption]] Queen of Raiatea. Queen of Bora Bora Island. A princess of Huahme Island, ⏎ [[caption]] A Royal Group of Society Islanders. ⏎  ⏎ The natives"
+  }
+ ],
+ "p0267": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "ONCE more",
+   "replace": "O<sc>nce</sc> more",
+   "draft": "ONCE more",
+   "verified": "O<sc>nce</sc> more",
+   "context": "i> ⏎  ⏎ [[center]] “Is it nothing to you all ye that pass by?” ⏎  ⏎ ONCE more at Apia, amid the bustle of departure, Samoan bright-eyed, "
+  }
+ ],
+ "p0286": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "Europeans, and such was",
+   "replace": "Europeans. and such was",
+   "draft": "Europeans, and such wa",
+   "verified": "Europeans. and such wa",
+   "context": ". Their food was what became chiefs—the gift of some of the Europeans, and such was the way in which they lived, that some of the lads who saw "
+  }
+ ],
+ "p0287": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "do something, and that he",
+   "replace": "do something. and that he",
+   "draft": "do something, and that he",
+   "verified": "do something. and that he",
+   "context": "he assassination, that he was afraid that the outlaws would do something, and that he (Mr. Moulton) would be blamed for it. But what I am both ve"
+  }
+ ]
+}

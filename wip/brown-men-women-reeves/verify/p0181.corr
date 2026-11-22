@@ -1,0 +1,6 @@
+{"find": "support, and and if it be proved", "replace": "support, and if it be proved"}
+
+Wait, that find is wrong; here are the correct corrections:
+
+{"find": "support, and if it be proved", "replace": "support, and\n\n[[image: photograph of a young Fijian man, head turned in profile, with a white cloth over one shoulder and a sash at the waist]]\n[[caption]] Fijian. “Return to your town, build your house, and prepare for your marriage.”\n\n[[cont]]if it be proved"}
+{"find": "man:—\n\n[[image: photograph of a young Fijian man, head turned in profile, with a white cloth over one shoulder and a sash at the waist]]\n[[caption]] Fijian. “Return to your town, build your house, and prepare for your marriage.”\n\n<blockquote>", "replace": "man:—\n\n<blockquote>"}
