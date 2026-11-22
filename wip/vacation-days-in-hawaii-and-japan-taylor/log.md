@@ -14,14 +14,25 @@ Full-page plates (sideways, verso blank): p0009, p0090, p0136, p0156, p0178, p02
 Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-11-22: complete, good; p0031 last lines lighter but readable.
 
 ## Decisions
+- Year of the journey 1896: “Saturday, July 4th” (p. 18) and the steamer on Saturday, July 11th; the book prints no year.
+- Pictures: the Sonnet pass set 34 halftones mid-sentence with `[[cont]]`; moved after their paragraphs by script (lessons). Captions in small capitals typed in upper and lower case (`<sc>` stripped from captions).
+- The book-title heading at the top of p. 15 is a `front` division before the first chapter (as *Camps in the Caribbees*). The second advertisement heading made `##`.
+- The note at the foot of p. 225 (no mark in the text) moved to p0231 after the paragraph continued there.
+- Spot-read (Opus subagent; front matter, 18 openings, tables, notes, Japanese words, word lists, tesseract comparison of 347 pages: 111 candidates, none real): 7 printer's errors marked (Crushiug, vogage, aud, indescriable, houshold, canvss, a dropped stop), 2 misreadings fixed (gracefully, a comma on p0109), the title page split line by line. Shōgun and Shogun both printed.
+- Crops: 95 and the cover by an Opus subagent (sideways plates turned 270°; p0210 upright with a sideways caption).
 - Cover picture: the title page (the cover is plain cloth).
 
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
 |---|---|---|---|---|---|
+| draft | 2026-11-22 | opus | 362 | 24.45 | no refusals |
+| corrections | 2026-11-22 | sonnet | 362 | 12.24 | 70 words, 3 punctuation, 6 markup; 34 [[cont]] after pictures |
+| judge | 2026-11-22 | opus | 73 spots | 1.99 | 5 draft, 64 verifier |
+| audit | 2026-11-22 | opus | 6 | 0.35 | 29/29; no candidates |
 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 
 ## Known issues
+- p. 39 (p0044): a paragraph that runs on after a verse (“Aye, wondrous visions!”) starts a new paragraph.
