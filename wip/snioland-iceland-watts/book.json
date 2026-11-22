@@ -144,5 +144,10 @@
    "date": "2026-11-22",
    "note": "First publication."
   }
+ ],
+ "keep_hyphens": [
+  "p0090",
+  "p0116",
+  "p0137"
  ]
 }

@@ -1,0 +1,5 @@
+{"given": "as upon the american frontiers", "print": "as upon the American frontiers", "sure": "high"}
+{"given": "having found some pcculiar ferruginous", "print": "having found some peculiar ferruginous", "sure": "high"}
+{"given": "grown over with excellent herbage; and in", "print": "grown over with excellent herbage, and in", "sure": "high"}
+{"given": "The lava at his point", "print": "The lava at this point", "sure": "high"}
+{"given": "and protuberances, all which were bored", "print": "and protuberances, all of which were bored", "sure": "high"}
