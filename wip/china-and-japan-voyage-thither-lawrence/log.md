@@ -15,10 +15,17 @@ Scan check: all 13 sheets and about 25 leaves at full size by an Opus subagent 2
 To take care of: verse (letter openings; “A New Year Garland” pp. 209–211), documents with datelines and signatures (pp. 209, 278–280), roster p. 206, list p. 388, the appendix tables (ditto marks, fractions), pidgin, small type for quoted extracts.
 
 ## Decisions
+- Contents: each letter's entry is “Letter N. Place” with the place from the printed contents (the letter pages carry only “Letter N.” and a dateline); said in `notes_on_text`.
+- Letters VIII and IX printed “Letter VII.” and “Letter VIII.”: `[[corr]]` in the headings. “Letter XI,”, “XVII,”, “XXIV,” printed with commas: kept.
+- The appendix's †‡§‖ are a key, not notes: typed as plain symbols, the key as a line under each list.
+- p. 105 (p0131): bottom right corner folded in the LoC copy (the draft's 〓 showed it; missed by the scan check): six words from the UC copy (chinajapanandvoy00lawriala n130), said in `notes_on_text`. p. 241 “ban” for “bank” printed in both copies: marked.
 
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
 |---|---|---|---|---|---|
+| draft | 2026-11-22 | opus | 473 | 32.92 | none refused |
+| corrections | 2026-11-22 | sonnet | 473 | 15.99 | 5 words, 5 punctuation, 12 markup; 1 not applied (p0226 “and a few”: real, the draft had dropped “and”) |
+| judge | 2026-11-22 | opus | 10 spots | 0.39 | 7 draft, 3 verifier; looked at on crops: “Hin, doos” printed (marked), “Jas A.” |
 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |

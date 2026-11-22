@@ -1,0 +1,110 @@
+{
+ "p0014": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "Yours Truly James B. Lawrence.",
+   "replace": "Yours Truly. James B. Lawrence.",
+   "draft": "Yours Truly James B. La",
+   "verified": "Yours Truly. James B. La",
+   "context": "tyle jacket, with a facsimile signature below]] ⏎ [[caption]] Yours Truly James B. Lawrence. ⏎ "
+  }
+ ],
+ "p0032": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "\n\n# Contents.\n\n[[center]] Chapter XIII.\n\n[[center]] 〓 <pref>〓</pref>\n\n〓\n\n[[center]] Chapter XIV.\n\n[[center]] 〓 <pref>〓</pref>\n\n〓\n\n[[center]] Chapter XV.\n\n[[center]] 〓 <pref>〓</pref>\n\n〓",
+   "replace": "\n[[blank]]",
+   "draft": "\n\n# Contents.\n\n[[center]] Chapter XIII.\n\n[[center]] 〓 <pref>〓</pref>\n\n〓\n\n[[center]] Chapter XIV.\n\n[[center]] 〓 <pref>〓</pref>\n\n〓\n\n[[center]] Chapter XV.\n\n[[center]] 〓 <pref>〓</pref>\n\n〓",
+   "verified": "\n[[blank]]",
+   "context": "[[page ?]] ⏎  ⏎ # Contents. ⏎  ⏎ [[center]] Chapter XIII. ⏎  ⏎ [[center]] 〓 <pref>〓</pref> ⏎  ⏎ 〓 ⏎  ⏎ [[center]] Chapter XIV. ⏎  ⏎ [[center]] 〓 <pref>〓</pref> ⏎  ⏎ 〓 ⏎  ⏎ [[center]] Chapter XV. ⏎  ⏎ [[center]] 〓 <pref>〓</pref> ⏎  ⏎ 〓 ⏎ "
+  }
+ ],
+ "p0155": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "Hin, doos",
+   "replace": "Hindoos",
+   "draft": "Hin, doos",
+   "verified": "Hindoos",
+   "context": " find ourselves in the midst of a picturesque crowd—Malays, Hin, doos, Chinamen, Europeans; a mingling of bright colors, white an"
+  }
+ ],
+ "p0187": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "equaling any",
+   "replace": "equalling any",
+   "draft": "equaling any",
+   "verified": "equalling any",
+   "context": "ce of their silks, as well as for their variety and beauty, equaling any European manufactories, and in crapes, ⏎ "
+  }
+ ],
+ "p0311": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "discernable",
+   "replace": "discernible",
+   "draft": "discernable",
+   "verified": "discernible",
+   "context": "ished by giving to each syllable a variety of tones, easily discernable to the accustomed Chinese ear, but exceedingly difficult fo"
+  }
+ ],
+ "p0436": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "without money; we",
+   "replace": "without money, we",
+   "draft": "ithout money; we",
+   "verified": "ithout money, we",
+   "context": "e case. This was to us a very serious state of affairs; for without money; we could neither recross the river nor obtain our horses from "
+  }
+ ],
+ "p0483": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page 20]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page 20]]",
+   "context": "[[page ?]] ⏎  ⏎ # Appendix. ⏎  ⏎ ## List of Officers of the U. S. S. Wachusett"
+  },
+  {
+   "n": 2,
+   "kind": "punctuation",
+   "find": "<sc>Jas. A. Barton</sc>",
+   "replace": "<sc>Jas A. Barton</sc>",
+   "draft": "<sc>Jas. A. Barton</",
+   "verified": "<sc>Jas A. Barton</",
+   "context": "/sc>, | Third “ “ | ⏎ | <sc>Jefferson Brown</sc>, | “ “ “ | ⏎ | <sc>Jas. A. Barton</sc>, | “ “ “ | ⏎ | <sc>A. Forbes</sc>, | “ “ “ | ⏎ | <sc>Paul Atkin"
+  }
+ ],
+ "p0485": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "## Comprehensive Summary.",
+   "replace": "# Comprehensive Summary.",
+   "draft": "## Comprehens",
+   "verified": "# Comprehens",
+   "context": "[[page 443]] ⏎  ⏎ ## Comprehensive Summary. ⏎  ⏎ [[center]] Of a Cruise in the U. S. S. Wachusett, Continue"
+  }
+ ],
+ "p0486": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# Appendix.\n\n",
+   "replace": "",
+   "draft": "# Appendix.\n\n",
+   "verified": "",
+   "context": "[[page 444]] ⏎  ⏎ # Appendix. ⏎  ⏎ | PORTS VISITED. | ARRIVED. Month. | Day. | No. of Days in P"
+  }
+ ]
+}

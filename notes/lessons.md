@@ -73,6 +73,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
   index pages, "List of Illustrations" on its second page) as a heading (*Path of the Conquistadores*: 4, 2026-11-20).
 - `omitted_from_reading` names only what a division really leaves out: a printer's imprint after “The End” stays in the
   last chapter (*Kothari*, 2026-11-20: caught by the rendered look).
+- A folded page corner (the right ends of the last four lines lost) passed the scan check by a subagent; the draft's 〓 marks showed it (*China and Japan*, p. 105, 2026-11-22). After the draft, `grep -l 〓 draft/*.txt` and look at each page at once: a damaged leaf is taken from another copy while the scan is at hand.
 - A model that returns "no corrections" in a few seconds may still be right: the audit's planted errors say
   whether that reader can see (first calibration: Sonnet 27/30, Opus 30/30).
 
