@@ -1,0 +1,61 @@
+[[page x]]
+
+<sc>on the jhelam, srinagar</sc> <pref>39</pref>
+
+<sc>towing up the jhelam</sc> <pref>41</pref>
+
+<sc>on the dal lake</sc> <pref>44</pref>
+
+<sc>on the dal lake</sc> <pref>46</pref>
+
+<sc>our boatman</sc> <pref>47</pref>
+
+<sc>coolies at burzil</sc> <pref>49</pref>
+
+<sc>landing baggage at bandipur</sc> <pref>50</pref>
+
+<sc>coolies at sanarwain</sc> <pref>52</pref>
+
+<sc>servants’ camp at tragbal</sc> <pref>55</pref>
+
+<sc>coolies</sc> <pref>57</pref>
+
+<sc>a coolie</sc> <pref>58</pref>
+
+<sc>coolies at burzil</sc> <pref>60</pref>
+
+<sc>camp at burzil</sc> <pref>62</pref>
+
+<sc>servants’ camp at astor</sc> <pref>63</pref>
+
+<sc>coolies</sc> <pref>64</pref>
+
+<sc>native women at astor</sc> <pref>66</pref>
+
+<sc>harcho village</sc> <pref>67</pref>
+
+<sc>a coolie</sc> <pref>70</pref>
+
+<sc>camp at bagrot</sc> <pref>72</pref>
+
+<sc>snake pass</sc> <pref>85</pref>
+
+<sc>surveying</sc> <pref>87</pref>
+
+<sc>by the camp fire, bagrot</sc> <pref>95</pref>
+
+<sc>interior of native mill, nomal</sc> <pref>107</pref>
+
+<sc>mosque on the road to nagyr</sc> <pref>111</pref>
+
+<sc>on the top of the pass to nilt</sc> <pref>113</pref>
+
+<sc>natives working in the fields, nagyr</sc> <pref>115</pref>
+
+<sc>a nagyr prince</sc> <pref>118</pref>
+
+<sc>natives of nagyr</sc> <pref>119</pref>
+
+<sc>at the polo ground</sc> <pref>122</pref>
+
+<sc>wazier and ragah of nagyr</sc> <pref>127</pref>

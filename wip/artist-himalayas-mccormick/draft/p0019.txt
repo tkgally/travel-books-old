@@ -1,0 +1,61 @@
+[[page xi]]
+
+<sc>natives of nagyr</sc> <pref>129</pref>
+
+<sc>building stone man</sc> <pref>132</pref>
+
+<sc>nagyr coolie</sc> <pref>134</pref>
+
+<sc>coolies on the glacier</sc> <pref>135</pref>
+
+<sc>a member of the expedition crossing a bridge</sc> <pref>139</pref>
+
+<sc>shah murat</sc> <pref>140</pref>
+
+<sc>a balti coolie</sc> <pref>142</pref>
+
+<sc>building huts</sc> <pref>144</pref>
+
+<sc>peak above the hispar pass</sc> <pref>146</pref>
+
+<sc>coolies on the glacier</sc> <pref>149</pref>
+
+<sc>hispar coolie</sc> <pref>150</pref>
+
+<sc>building a stone man</sc> <pref>154</pref>
+
+<sc>coolie carrying water</sc> <pref>161</pref>
+
+<sc>the lambadhar of askole spinning</sc> <pref>165</pref>
+
+<sc>balti coolies on baltoro glacier</sc> <pref>170</pref>
+
+<sc>balti coolies</sc> <pref>173</pref>
+
+<sc>balti coolies mending pabus</sc> <pref>176</pref>
+
+<sc>the mitre peak, baltoro glacier</sc> <pref>179</pref>
+
+<sc>gurkhas building hut</sc> <pref>181</pref>
+
+<sc>balti coolies</sc> <pref>183</pref>
+
+<sc>balti coolies</sc> <pref>185</pref>
+
+<sc>a balti coolie</sc> <pref>187</pref>
+
+<sc>a cry to allah</sc> <pref>189</pref>
+
+<sc>gurkhas</sc> <pref>195</pref>
+
+<sc>balti types</sc> <pref>197</pref>
+
+<sc>peak above throne glacier</sc> <pref>199</pref>
+
+<sc>descent from pioneer peak</sc> <pref>204</pref>
+
+<sc>preparing to start</sc> <pref>207</pref>
+
+<sc>repairing a kilta</sc> <pref>213</pref>
+
+<sc>houses at askole</sc> <pref>219</pref>

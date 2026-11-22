@@ -1,0 +1,55 @@
+[[page ?]]
+
+# Contents
+
+[[center]] I.
+
+[[center]] <sc>chelsea to karachi</sc> <pref>1</pref>
+
+[[center]] II.
+
+[[center]] <sc>karachi to srinagar</sc> <pref>16</pref>
+
+[[center]] III.
+
+[[center]] <sc>the road to gilgit</sc> <pref>49</pref>
+
+[[center]] IV.
+
+[[center]] <sc>bagrot, dirran, and gargo</sc> <pref>84</pref>
+
+[[center]] V.
+
+[[center]] <sc>hunza-nagyr</sc> <pref>111</pref>
+
+[[center]] VI.
+
+[[center]] <sc>mir and hispar</sc> <pref>132</pref>
+
+[[center]] VII.
+
+[[center]] <sc>hispar pass to askole</sc> <pref>154</pref>
+
+[[center]] VIII.
+
+[[center]] <sc>askole to the golden throne</sc> <pref>168</pref>
+
+[[center]] IX.
+
+[[center]] <sc>pioneer peak to askole</sc> <pref>194</pref>
+
+[[center]] X.
+
+[[center]] <sc>askole to scardu</sc> <pref>221</pref>
+
+[[center]] XI.
+
+[[center]] <sc>scardu to leh</sc> <pref>240</pref>
+
+[[center]] XII.
+
+[[center]] <sc>leh to srinagar</sc> <pref>265</pref>
+
+[[center]] XIII.
+
+[[center]] <sc>srinagar</sc> <pref>289</pref>
