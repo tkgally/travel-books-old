@@ -132,8 +132,8 @@
    "eligibility": "Checked 2026-11-19: not in the Project Gutenberg catalogue, The Online Books Page (page images only, if listed), Wikisource or Faded Page; only print-on-demand reprints found. Not checked: WorldCat, Distributed Proofreaders in progress. No reprint found. Re-checked 2026-11-20: not in pg_catalog.csv; web search: only second-hand copies, a HathiTrust record and a Forgotten Books listing (print-on-demand facsimile); author Charlotte Mansfield 1881–1936 (Wikipedia; married name Raffalovich): more than 70 years. One IA scan.",
    "note": "University of California scan. 144 illustrations: much cropping work.",
    "started": "2026-11-20",
-   "version": 1,
-   "published": "2026-11-20"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 7,
@@ -745,7 +745,7 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv (her A Woman's War Record is, #74491); The Online Books Page links only page images (IA cihm_03388, HathiTrust, Canadiana); no Wikisource page; web search of a distinctive sentence found nothing. Reprints: CIHM microfiche 1980, Kessinger 2007, Hansebooks/Scholar's Choice, a Blackwell's facsimile (all print on demand or microfiche). Author 1842–1917 (LoC heading). Prefatory letter by W. T. Sherman (1820–1891); engravings by the American Bank Note Co. (a firm); a few snapshots by Miss M. N. Beach and Miss Margaret Watson (minor, dates not found: Tom's rule of 2026-11-20); the rest by the author. Not checked: Faded Page, WorldCat. Re-checked 2026-11-20 (before starting): the text is in Alexander Street's subscription database North American Women's Letters and Diaries (work 4262667): Tom answered the same day: a subscription database does not count (selection.md rule 2), so the book is eligible. The scan was fetched once from IA that day (not yet cached in Drive).",
    "note": "Getty scan, 500 ppi. Many small engravings and snapshots set into the text with lines running round them (broken short lines in the draft; many crops). HathiTrust records a folding plate and a map: check. Rail to Tacoma, then an excursion steamer to Wrangell, Sitka, Glacier Bay and the Muir Glacier; opens with advice on what to take; chatty.",
    "started": "2026-11-20",
-   "version": 3,
+   "version": 4,
    "published": "2026-11-22"
   },
   {
@@ -853,8 +853,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv (two other books of his are); The Online Books Page: HathiTrust page images only; Wikisource lists it on the author page without a text; web search of a distinctive sentence: nothing. Reprints: a Podi Books facsimile (print on demand). Author 1853–1924 (Wikisource, LC heading). Not checked: Faded Page, WorldCat.",
    "note": "UCLA/SRLF scan, 400 ppi; clean OCR after library-stamp leaves. Photographic plates, frontispiece 'Schamyl'. A diary of a summer 1894 journey: St Petersburg, the Dariel Pass and Tiflis, Baku, the Transcaspian railway, Bokhara, Samarkand, Tashkend, Kokand, over the Alai into Kashgaria, home by Trebizond.",
    "started": "2026-11-21",
-   "version": 3,
-   "published": "2026-11-21"
+   "version": 4,
+   "published": "2026-11-22"
   },
   {
    "order": 46,
@@ -871,7 +871,7 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv (full file, pglaf mirror); The Online Books Page: HathiTrust scans only; Wikisource: none; Open Library: 1887 and Read Books 2010 (print on demand); web searches of the title and of a sentence from ch. XI: no text. Author and illustrator Sir Edward Robert Pearce Edgcumbe 1851–1929 (Online Books Page authority). Not checked: Faded Page.",
    "note": "University of Toronto scan, 500 ppi; a second copy zephyrusholidayi00edgc (UC, 400 ppi) as a fallback. A map and the author's text illustrations; a Chatto catalogue at the end. A banker and his wife by Royal Mail steamer to Rio, Santos and São Paulo, then the River Plate, Uruguay and Buenos Aires; a week of quarantine on the Isla de Flores. Some chapters on railways and loans. Scan check 2026-11-20 (Opus subagent, full): the Toronto copy lacks the leaf pp. 160–161 and has pp. 162–163 twice (p0178–p0179); the UC scan has the leaf (its n178–n179): take those two pages as extra leaves. Map p0008 and Uruguay map p0138 clear; 41 text cuts, all clear. Re-checked 2026-11-20: web search finds no text edition or reprint; Faded Page search: none.",
    "started": "2026-11-20",
-   "version": 2,
+   "version": 3,
    "published": "2026-11-22"
   },
   {
@@ -907,8 +907,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv; The Online Books Page: none; Wikisource: bibliography mentions only; Open Library: 1875 only; web search of a sentence: nothing. Author's dates not found: he bought and commanded his own schooner at Auckland in 1873 after several South Sea voyages over eight years, so born before about 1850 (rule 5 by career). Six photographic plates by 'Mr. George Smith', working professionally in 1873 (born before about 1856, inferred: settle before starting, or treat as a minor illustrator). Not checked: Faded Page.",
    "note": "Getty scan, 500 ppi, complete to p. 221, with a King & Co. catalogue at the front. Six photographic plates. An 1873 cruise from Auckland to Rotuma, Fiji, the New Hebrides, the Solomons and Micronesia: canoes, trade, photographing islanders, the labour trade.",
    "started": "2026-11-21",
-   "version": 1,
-   "published": "2026-11-21"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 49,

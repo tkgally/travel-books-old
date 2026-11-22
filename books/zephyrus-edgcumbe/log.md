@@ -50,6 +50,7 @@ p0180–p0292.
 |---|---|---|---|---|
 | 1 | 2026-11-20 | preflight PASS v1, 4 waived (leaves: tissue guard, two repeated pages) (tools@1df1656) | 29/29 + 10/10, 0 real | look items: hyphen-joins (decided), joins p0006 (imprint page), folios (catalogue), accents (as printed) |
 | 2 | 2026-11-22 | PASS, 0 to fix, 4 waived; to look at: hyphen-joins 4, joins 1, folios 1, caption-tail 1, accents 5, rare-forms 1, serial-commas 1 — tools@ed86e62f 2026-11-22 | as v1 | A printer’s error of a dropped or transposed letter marked and corrected: “hving” for “having”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
+| 3 | 2026-11-22 | PASS: zephyrus-edgcumbe v3 — 0 to fix, 4 waived; to look at: hyphen-joins 4, joins 1, folios 1, caption-tail 1, accents 5, rare-forms 1, serial-commas 1 — tools@528b2324 2026-11-22 | as before (text unchanged except the title page) | Title page typed line by line as printed (checked on the scan by an Opus subagent; 01.html looked at for two) |
 
 ## Known issues
 

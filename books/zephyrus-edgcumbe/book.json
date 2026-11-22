@@ -1,6 +1,6 @@
 {
  "id": "zephyrus-edgcumbe",
- "version": 2,
+ "version": 3,
  "date": "2026-11-22",
  "title": "Zephyrus",
  "subtitle": "A Holiday in Brazil and on the River Plate",
@@ -44,6 +44,11 @@
    "version": 2,
    "date": "2026-11-22",
    "note": "A printer’s error of a dropped or transposed letter marked and corrected: “hving” for “having”."
+  },
+  {
+   "version": 3,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "waivers": [
@@ -122,7 +127,7 @@
   "The drawings in the text are by the author."
  ],
  "audit": {
-  "version": 2,
+  "version": 3,
   "date": "2026-11-20",
   "pages": 8,
   "recall": "29/29 (6 random pages) and 10/10 (the 2 pages from the UC scan)",

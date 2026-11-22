@@ -54,10 +54,9 @@
             - piece: piece (p0059, p0083, p0102, p0110, p0122, p0144…); pièce (p0087)
             - si: si (p0074, p0105); sì (p0207)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[ look (3)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0115: “minuet” — “minute” is common (212; a letter dropped or transposed?)
-            - p0120: “dolla” — “dollar” is common (141; a letter dropped or transposed?)
-            - p0174: “clods” — “clouds” is common (350; a letter dropped or transposed?)
+[ look (2)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0120: “dolla” — “dollar” is common (169; a letter dropped or transposed?)
+            - p0174: “clods” — “clouds” is common (419; a letter dropped or transposed?)
 [       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
 [ look (7)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
             - book.json summary: …a through Chicago, Minneapolis, and Bismarck to the Yellowstone Park and Tacoma, and from the…
@@ -70,4 +69,4 @@
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: womans-trip-to-alaska-collis v3 — 0 to fix, 0 waived; to look at: hyphen-joins 7, contents 14, accents 5, rare-forms 3, serial-commas 7 — tools@ed86e62f 2026-11-22
+preflight PASS: womans-trip-to-alaska-collis v4 — 0 to fix, 0 waived; to look at: hyphen-joins 7, contents 14, accents 5, rare-forms 2, serial-commas 7 — tools@528b2324 2026-11-22

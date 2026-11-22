@@ -1,7 +1,7 @@
 {
  "id": "via-rhodesia-mansfield",
- "version": 1,
- "date": "2026-11-20",
+ "version": 2,
+ "date": "2026-11-22",
  "title": "Via Rhodesia",
  "subtitle": "A Journey through Southern Africa",
  "short_title": "Via Rhodesia",
@@ -97,6 +97,11 @@
    "version": 1,
    "date": "2026-11-20",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "waivers": [
@@ -146,12 +151,12 @@
   "p0432"
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-20",
   "pages": 6,
   "recall": "30/30",
   "real_errors": 0,
   "fixed": 0,
-  "note": "pages p0078, p0166, p0187, p0202, p0226, p0261; 0 other differences reported; a second audit of the two pages first read by OCR (p0184, p0187): 10/10 planted errors found, 0 other differences"
+  "note": "text unchanged except listed fixes"
  }
 }
