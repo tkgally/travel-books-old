@@ -1,0 +1,2 @@
+{"n": 1, "is": "A", "print": "of your\n\n[[image: photograph of a seated Fijian girl in a white bark-cloth dress, with long braided hair, a choker and a pendant]]\n[[caption]] Fiji Girl, as she Appears in her Native Village. Her dress is white ngatu. On her finger is a cheap imitation silver ring. “Are you quite sure you desire to be married to this man?”\n\n[[cont]]own free wil", "sure": "high"}
+{"n": 2, "is": "B", "print": "Forced", "sure": "high"}
