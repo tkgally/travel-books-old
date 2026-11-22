@@ -1,0 +1,5 @@
+{"given": "the day after tomorrow not at all", "print": "the day after to-morrow not at all", "sure": "high"}
+{"given": "continue working four hours; another day", "print": "continue working four hours, another day", "sure": "high"}
+{"given": "but they never tried if.", "print": "but they never tried it.", "sure": "high"}
+{"given": "average product very uucertain.", "print": "average product very uncertain.", "sure": "high"}
+{"given": "they must sink shaft of twenty", "print": "they must sink a shaft of twenty", "sure": "high"}

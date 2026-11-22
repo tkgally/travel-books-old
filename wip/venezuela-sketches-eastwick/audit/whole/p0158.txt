@@ -1,0 +1,5 @@
+{"given": "It has been snggested that the", "print": "It has been suggested that the", "sure": "high"}
+{"given": "to the east of the harbor, should", "print": "to the east of the harbour, should", "sure": "high"}
+{"given": "Indeed, if a battery; which has been", "print": "Indeed, if a battery, which has been", "sure": "high"}
+{"given": "may be formed from fact that", "print": "may be formed from the fact that", "sure": "high"}
+{"given": "Previous to that, things bad been even", "print": "Previous to that, things had been even", "sure": "high"}

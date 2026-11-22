@@ -1,0 +1,5 @@
+{"given": "not boy only, but herself", "print": "not the boy only, but herself", "sure": "high"}
+{"given": "He was young; full of fire,", "print": "He was young, full of fire,", "sure": "high"}
+{"given": "all but his color, which", "print": "all but his colour, which", "sure": "high"}
+{"given": "not more then fourteen hands", "print": "not more than fourteen hands", "sure": "high"}
+{"given": "day before, and their charaeter.", "print": "day before, and their character.", "sure": "high"}

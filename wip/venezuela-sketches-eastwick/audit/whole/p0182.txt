@@ -1,0 +1,5 @@
+{"given": "for upwards sixty feet through", "print": "for upwards of sixty feet through", "sure": "high"}
+{"given": "less surprising when if is remembered", "print": "less surprising when it is remembered", "sure": "high"}
+{"given": "evaporation at valencia amounts to", "print": "evaporation at Valencia amounts to", "sure": "high"}
+{"given": "accelerated the desiecation of this", "print": "accelerated the desiccation of this", "sure": "high"}
+{"given": "were cut down; to allow", "print": "were cut down, to allow", "sure": "high"}
