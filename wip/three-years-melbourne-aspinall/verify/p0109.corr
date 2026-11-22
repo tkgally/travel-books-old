@@ -1,7 +1,0 @@
-The draft ends at "emigrated with" and omits the last printed word, "them."
-
-{"find": "had emigrated with them.", "replace": "had emigrated with them."}
-
-Checking that against the draft: the draft's text is "...who had emigrated with them." so it already includes "them." There is nothing to change.
-
-NONE

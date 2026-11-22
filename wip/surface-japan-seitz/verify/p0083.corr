@@ -1,0 +1,9 @@
+Two differences: "Opportunity is as democratic" should read "Opportunity is democratic", and the last line should end "telegraph" with "service" absent. The draft already has "telegraph" there. The "as" is the only change.
+
+{"find": "Opportunity is as democratic in Japan as in America!", "replace": "Opportunity is as democratic in Japan as in America!"}
+
+Checking the print again: it reads "tunity is as democratic in Japan as in America!", so the draft is right and this entry changes nothing. The other differences I found are below.
+
+{"find": "[[break]]\n\nThe government", "replace": "[[break]]\n\nThe government"}
+
+NONE

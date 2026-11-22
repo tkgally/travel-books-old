@@ -1,0 +1,9 @@
+Only one difference: the image has "the telegraph, telephone," where the draft has "the telegraph, telephone,".
+
+Comparing the draft's second sentence: "employed in the railroads, the telegraph, telephone, and express" — the image reads "the railroads, the telegraph, telephone," while the draft omits the second "the".
+
+{"find": "railroads, the telegraph, telephone, and express companies", "replace": "railroads, the telegraph, telephone, and express companies"}
+
+Correction: the draft already reads "the railroads, the telegraph, telephone," so there is no difference there. I have no other corrections.
+
+NONE
