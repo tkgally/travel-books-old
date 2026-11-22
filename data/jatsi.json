@@ -464,7 +464,11 @@
      "date": "1861",
      "page_images": true
     }
-   ]
+   ],
+   "vetted": {
+    "date": "2026-11-22",
+    "result": "Smith, Ten Weeks in Japan: Cornell scan cu31924023219714 (Kirtas, 300 ppi), clean; frontispiece, map (check the two overlapping leaves) and 7 woodcuts. Rule 3 not met: Ganesha / Edition Synapse 'Japan in English' (2002; CiNii BA55653925). No text at PG, OBP, Wikisource. George Smith 1815–1871. 522 images. Lower priority (reprinted)."
+   }
   },
   {
    "n": 20,
@@ -490,7 +494,11 @@
      "label": "Japan section",
      "url": "https://archive.org/stream/cu31924023517398#page/n195/mode/2up"
     }
-   ]
+   ],
+   "vetted": {
+    "date": "2026-11-22",
+    "result": "D'Almeida, A Lady's Visit to Manilla and Japan: Cornell scan cu31924023517398 (Kirtas, 300 ppi), clean; folding frontispiece and title vignette present; the half-title leaf appears twice. Rule 3 not met: Ganesha / Edition Synapse 'Japan in English' (2003; CiNii BA65155797). No text at PG, OBP, Wikisource. First-person 1862 cruise: Hong Kong, Manila and Luzon, Macao, Shanghai, Nagasaki, Yokohama; light, chatty. Anna D'Almeida's dates unknown. 324 images. Lower priority (reprinted); readable."
+   }
   },
   {
    "n": 21,
@@ -1794,7 +1802,11 @@
      "date": "1889",
      "page_images": true
     }
-   ]
+   ],
+   "vetted": {
+    "date": "2026-11-22",
+    "result": "Maclay, A Budget of Letters from Japan: LoC scan budgetoflettersf00macl (1889 'second edition', colour, 500 ppi), clean; 1886 scans budgetoflettersf00maclrich, budgetoflettersf00macl_0. Rule 3 not met: Ganesha / Edition Synapse 'Japan in English' v. 21 (2003, from the 1886 edition). No text elsewhere. Letters signed 'Theophilus Pratt' telling the author's teaching at Hirosaki and Tokyo (1873–78) and travels; two long letters argue for Christianity. Arthur Collins Maclay 1853–1930. Lower priority (reprinted)."
+   }
   },
   {
    "n": 77,
@@ -2081,7 +2093,11 @@
      "label": "Japan section",
      "url": "https://archive.org/stream/wanderingswonde01aubegoog#page/n291/mode/2up"
     }
-   ]
+   ],
+   "vetted": {
+    "date": "2026-11-22",
+    "result": "Aubertin, Wanderings & Wonderings: only Google scans (wanderingswonde01aubegoog UC, wanderingswonde00aubegoog Harvard); text clean, but the folding map at the end is scanned folded in both (missing). No text elsewhere; print-on-demand only. Round the world 1888–91, ch. XXVI Japan; a strong, eccentric voice. John James Aubertin 1818–1900. Not queued: wait for a scan with the map, or ask Tom whether it may be left out (as for Uganda for a Holiday)."
+   }
   },
   {
    "n": 90,
