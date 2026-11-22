@@ -53,6 +53,10 @@ The picture links to the start of the narrative (`render_html.body_start`: the f
 the chapter's heading at the top of the window (`#start`); "Read on this site" links to the first page of the book,
 the title page (Tom, 2026-11-22). The contents list every page of the editions; the sections of a split division are
 nested under its title.
+Safari on the Mac and the iPad left the heading half under the bar (Tom, 2026-11-22: the browser goes to `#start`
+before `site.js` has made the bar and set `scroll-padding-top`), so `site.js` places the heading just below the bar
+itself, at once and again after `load`, unless the reader has moved. Checked here in Chromium only: no WebKit in the
+container; Tom checks Safari.
 
 ## The carousel of covers on the home page (Tom, 2026-11-21)
 
