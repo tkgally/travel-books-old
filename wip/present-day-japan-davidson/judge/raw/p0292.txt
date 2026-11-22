@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": " do with all\n\n[[image: photograph of the Diet buildings, low gabled half-timbered structures behind a row of trees across an open ground]]\n[[caption]] The Houses of the Diet.\n\n[[cont]]these things", "sure": "high"}
-{"n": 2, "is": "A", "print": "go with the", "sure": "high"}

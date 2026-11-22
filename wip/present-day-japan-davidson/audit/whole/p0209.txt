@@ -1,5 +1,0 @@
-{"given": "spoiling them does nor seem", "print": "spoiling them does not seem", "sure": "high"}
-{"given": "to say a scotch—village", "print": "to say a Scotch—village", "sure": "high"}
-{"given": "But civilifation has not yet", "print": "But civilisation has not yet", "sure": "high"}
-{"given": "hues of violent green magenta might", "print": "hues of violent green and magenta might", "sure": "high"}
-{"given": "lost in the gathering gloom; made darker", "print": "lost in the gathering gloom, made darker", "sure": "high"}

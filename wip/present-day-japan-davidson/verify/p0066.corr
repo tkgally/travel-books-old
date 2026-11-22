@@ -1,9 +1,0 @@
-{"find": "dim religious\n", "replace": "dim religious\n"}
-
-Correction: "religious" is the printed word, so the draft needs no change there. Corrections:
-
-{"find": "the dim religious", "replace": "the dim religious"}
-
-Let me restate properly, since the page shows "religious" (not "religious" misread) and the caption is in small capitals.
-
-{"find": "[[caption]] Fujiyama, the Sacred Mountain.", "replace": "[[caption]] Fujiyama, the Sacred Mountain."}

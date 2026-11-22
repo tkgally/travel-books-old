@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "is generally\n\n[[image: Three Japanese women seen from behind, walking in kimono and obi, each carrying a closed umbrella, with shrubs beyond]]\n[[caption]] Outdoor dress (kimono raised for walking).\n\n[[cont]]made of some", "sure": "high"}
-{"n": 2, "is": "B", "print": "two or", "sure": "high"}

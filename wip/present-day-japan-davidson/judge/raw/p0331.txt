@@ -1,3 +1,0 @@
-The caption is printed entirely in capitals ("POSTER OUTSIDE A KYOTO THEATRE: SCENES FROM THE PLAY WITHIN."), so the scan can't settle whether "Within" should be capitalised. Neither reading matches the print exactly.
-
-{"n": 1, "is": "neither", "print": "PLAY WITHIN.", "sure": "medium"}

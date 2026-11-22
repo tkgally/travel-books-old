@@ -1,5 +1,0 @@
-{"given": "presented before inmost shrine by", "print": "presented before the inmost shrine by", "sure": "high"}
-{"given": "arrested fourteen centuries ago; brought out", "print": "arrested fourteen centuries ago, brought out", "sure": "high"}
-{"given": "enough that his ancient national cult", "print": "enough that this ancient national cult", "sure": "high"}
-{"given": "support were witbdrawn from Buddhism", "print": "support were withdrawn from Buddhism", "sure": "high"}
-{"given": "results sadly visible today in the", "print": "results sadly visible to-day in the", "sure": "high"}

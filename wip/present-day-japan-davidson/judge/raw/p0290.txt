@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "imagine one\n\n[[image: chart of the Japanese katakana syllabary in ten columns and five rows, each character with its romanized sound beneath]]\n[[caption]] Japanese Syllabary.\n\n[[cont]]might live", "sure": "high"}
-{"n": 2, "is": "A", "print": "earth.", "sure": "high"}

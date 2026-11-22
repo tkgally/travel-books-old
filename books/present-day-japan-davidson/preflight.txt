@@ -1,0 +1,65 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[ look (2)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0172: …ites and super-|stitious observ… (hyphen removed; check)
+            - (and 10 joins giving a word the book prints whole elsewhere: not listed)
+[ look (3)] joins: page joins: missing [[cont]]
+            - p0022: no [[cont]] but the page before ends …'a, the sacred mountain 42' and this one starts 'a country town 50'
+            - p0023: no [[cont]] but the page before ends …'the sacred bridge 187' and this one starts 'torii and pagoda before t'
+            - p0024: no [[cont]] but the page before ends …'a sitting-room 298' and this one starts 'gate at one of the shiba '
+[       ok] folios: printed page numbers that break the sequence
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[ look (1)] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+            - p0140: closing ” with no opening “: 'The gods, we are told, are the cause of every human action; '
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[look (10)] contents: entries of the printed contents with no matching heading
+            - p0017: 'Japanese Men-of-War.'
+            - p0017: 'First impressions—Aspect of streets—The old and the new—Public festiva'
+            - p0017: 'Baggage arrangements—Railway fares—Japanese passengers—Refreshments—Et'
+            - p0018: 'Distinguishing marks of Shinto temples—Sense of emptiness—Lack of orna'
+            - p0018: 'Early devotions—The Goma ceremony—Buddhist costume—External resemblanc'
+            - p0018: 'Aspects of Kyoto—Shops—A cloisonné factory—Photographs in decoration—E'
+            - p0019: 'Approaches to Nikko—The Reiheishi Kaido—The Sacred Bridge—The Mausoleu'
+            - p0019: 'Simplicity of Japanese railway stations—Great size of Tokyo—Lack of st'
+            - p0020: 'Interior of a Tokyo theatre—Arrangements of the stage—Scene from a pla'
+            - p0020: 'A Fishing Boat.'
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[ look (2)] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+            - p0013: after the caption: '[[center]] PHILADELPHIA'
+            - p0017: after the caption: '[[center]] Chapter I.'
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[ look (5)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - a: a (p0013, p0015, p0017, p0018, p0019, p0020…); à (p0035, p0063, p0088, p0333)
+            - discretion: discretion (p0119, p0349); discrétion (p0035)
+            - e: e (p0090, p0142, p0152, p0259, p0353); è (p0207)
+            - no: no (p0015, p0019, p0026, p0027, p0029, p0030…); nô (p0020, p0152, p0203, p0343, p0344, p0347…)
+            - sake: sake (p0016, p0184, p0209, p0247, p0256, p0274…); saké (p0065, p0108, p0119, p0152, p0153)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[       ok] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (6)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …e of 1902. As her preface says, the letters are arranged by place and subject rather than …
+            - book.json summary: …ther than in the order written, and she kept and added to notes on hi…
+            - book.json summary: …d life in country inns; Shinto, with a festival at a village shrine and a visit to Ise; Budd…
+            - book.json summary: …usoleums and festival at Nikko, with the life of Ieyasu and the persecution of t…
+            - book.json summary: …ess, and Diet; and the theatre, from a Tokyo playhouse and the actor Danjuro to…
+            - book.json omitted_from_reading: …and index are in the JSON only, with the four pictures printed on the pages of the contents and the list (“Japanese …
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: present-day-japan-davidson v1 — 0 to fix, 2 waived; to look at: hyphen-joins 2, joins 3, quote-balance 1, contents 10, caption-tail 2, accents 5, serial-commas 6 — tools@5d7b83a2 2026-11-22

@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "wearing\n\n[[image: Photograph of a procession of men in white robes and tall white hats, with an umbrella, moving along a path beneath tall trees, with a wooded hill behind]]\n[[caption]] The procession on its way down.\n\n[[cont]]the two swor", "sure": "high"}
-{"n": 2, "is": "B", "print": "ing to their", "sure": "high"}

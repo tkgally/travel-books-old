@@ -1,5 +1,0 @@
-{"given": "So-and-so will not hear of if.”", "print": "So-and-so will not hear of it.”", "sure": "high"}
-{"given": "after we first came the country", "print": "after we first came to the country", "sure": "high"}
-{"given": "you come, of course; but hence", "print": "you come, of course, but hence", "sure": "high"}
-{"given": "say along the tokaido, or,", "print": "say along the Tokaido, or,", "sure": "high"}
-{"given": "it does not mattcr.", "print": "it does not matter.", "sure": "high"}

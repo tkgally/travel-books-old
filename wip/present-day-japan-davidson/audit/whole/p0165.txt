@@ -1,5 +1,0 @@
-{"given": "What, then, was his secret,", "print": "What, then, was this secret,", "sure": "high"}
-{"given": "And the hope for mankiud is", "print": "And the hope for mankind is", "sure": "high"}
-{"given": "Universe in the natural world; and in", "print": "Universe in the natural world, and in", "sure": "high"}
-{"given": "sin must go on forever, till", "print": "sin must go on for ever, till", "sure": "high"}
-{"given": "leave these waves tendency inevitably behind", "print": "leave these waves of tendency inevitably behind", "sure": "high"}

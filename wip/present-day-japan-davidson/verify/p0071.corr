@@ -1,9 +1,0 @@
-{"find": "no blacks or draught", "replace": "no blacks or draught"}
-
-Wait, that is a no-op. The correct list:
-
-{"find": "[[cont]]latter", "replace": "[[cont]]latter"}
-
-Let me restate it properly.
-
-NONE

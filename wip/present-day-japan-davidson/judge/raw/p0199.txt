@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "oto life had\n\n[[image: Painting of a castle wall of fitted stones with a small wooden bridge, a white-walled tower behind, and pine trees]]\n[[caption]] Feudal Castle Wall.\n\n[[cont]]gone quietly", "sure": "high"}
-{"n": 2, "is": "B", "print": "due to tra-", "sure": "high"}
