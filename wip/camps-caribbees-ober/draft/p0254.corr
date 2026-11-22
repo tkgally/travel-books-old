@@ -1,0 +1,4 @@
+{"find": "[[page ?]]\n\n220 CAMPS IN THE CARIBBEES.\n\nthe art", "replace": "[[page 220]]\n\n[[cont]] the art"}
+{"find": "pottery ; however", "replace": "pottery; however"}
+{"find": "a “ Moses-boat ” for Battowia. :", "replace": "a “Moses-boat” for Battowia."}
+{"find": "us “ buckras,”", "replace": "us “buckras,”"}

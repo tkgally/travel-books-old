@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\n210 CAMPS IN THE CARIBBEES.\n\ndescended", "replace": "[[page 210]]\n\n[[cont]] descended"}
+{"find": "the “ Black", "replace": "the “Black"}
+{"find": "a frequent, visitor", "replace": "a frequent visitor"}
+{"find": "family ;", "replace": "family;"}
+{"find": "a “ Yellow", "replace": "a “Yellow"}

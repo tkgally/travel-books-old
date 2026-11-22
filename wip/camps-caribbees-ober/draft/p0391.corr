@@ -1,0 +1,6 @@
+{"find": "[[page ?]]\n\nAPPENDIX. 357\n\nhind neck", "replace": "[[page 357]]\n\n[[cont]] hind neck"}
+{"find": "Length (fresh), 8} in.; wing, 63; tail, 34; tarsus, 1}.", "replace": "Length (fresh), 8½ in.; wing, 6¾; tail, 3⅛; tarsus, 1½."}
+{"find": "Length of one (fresh), 8 in.; wing, 64; tail, 2}; tarsus, 14.", "replace": "Length of one (fresh), 8 in.; wing, 6½; tail, 2⅞; tarsus, 1½."}
+{"find": "Length of the other, 83 ; wing, 64; tail, 3; tarsus, 1}.", "replace": "Length of the other, 8½; wing, 6¼; tail, 3; tarsus, 1½."}
+{"find": "his S. gwadeloupensis, the", "replace": "his <i>S. guadeloupensis</i>, the"}
+{"find": "Compared with euadeloupensis,", "replace": "Compared with <i>guadeloupensis</i>,"}

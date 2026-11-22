@@ -1,0 +1,3 @@
+{"find": "[[page ?]]\n\n218 CAMPS IN THE CARIBBEES.\n\nalso,", "replace": "[[page 218]]\n\n[[cont]] also,"}
+{"find": "for seven. years", "replace": "for seven years"}
+{"find": "“ Neech-i-goo, bah-li, bod ni, Leh-bt chi, wet-t-ga-mah, ah'-wah-si.”", "replace": "<verse>\n“<i>Neech-i-goo, bah-li, boó ni,</i>\n<i>Leh-bi chi, wei-i-ga-mah, ah'-wah-si.</i>”\n</verse>"}
