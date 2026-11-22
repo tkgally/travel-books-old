@@ -37,6 +37,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 | A footnote's table and second paragraph typed after the note on lines of their own, so set as body text [*My Life in Mongolia and Siberia*, 2026-11-20: caught only by the rendered look] | preflight `note-tail` (observe); test `NoteTail` |
 | A correction on an unnumbered page listed by its leaf name on the book page | the division's title ("Contents, unnumbered page"); test `CorrectionPage` |
 | The verifier left out a picture and the judge agreed, "sure: medium" [*Zephyrus* p0171, 2026-11-20] | `judge.py` keeps the draft's `[[image:]]` line unless the verifier put it elsewhere, and reports the spot; test `test_judge_never_drops_a_picture` |
+| The verifier left out a plate's caption line and the judge agreed [*Western Wanderings* p0312, 2026-11-22] | `judge.py` keeps `[[caption]]` lines like pictures; test `JudgeKeepsCaptions` |
 | Captions with a straight apostrophe or a leading tag made `conservation` (captions) fail though nothing was lost [*Alaska*, 2026-11-20] | captions sorted by their squashed text; test `CaptionOrder` |
 | A stanza ending at a page foot joined to the next page's first stanza by `[[cont]]` [*Twelve Years in Canterbury*, 2026-11-20: caught by the rendered look] | preflight `verse-joins` (observe: stanza lengths on both sides); test `VerseJoins` |
 | A book without `images/cover.jpg` | preflight `cover` (enforce since the review after thirty books) |
@@ -108,6 +109,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 - Drafts set a page-top continuation of a running-quoted passage as `<blockquote>` (21 pages of *Embassy*); the book
   sets no quotation off, so the compiler found "[[cont]] with nothing to continue". Running marks also stand at the
   start of each row of a quoted table; `running_quotes.py` does not look in tables (*Embassy*, 2026-11-20).
+- A leaf taken from another scan (`/page/nN.jpg`): open it at full size before using it. *Western Wanderings* took the plate's blank verso (n141 for n140, from a misread contact sheet), drafted and cached it; the crop subagent found it.
 - Scans of old multi-volume sets: the scan check found a missing first page of text and a missing frontispiece
   (UC copy) that IA's own page numbers did not show; another library's scan supplied them page by page.
 
