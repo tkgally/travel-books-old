@@ -2043,6 +2043,76 @@ class SplitSections(unittest.TestCase):
         self.assertEqual([d["title"] for d in rh.reading_divisions(book)], ["Diary", "3–4 May: the sea", "5 May: the town", "Appendix"])
 
 
+class EditorImages(unittest.TestCase):
+    """Tom, 2026-11-22 (*Surface Japan*): a typical printed page, with the border the text leaves out, shown as the
+    editor's picture before the narrative, with a caption written for this edition. Not the book's: kept out of the
+    divisions in the JSON and out of the book's text in every edition. Invented text."""
+    PAGES = ["[[page i]]\n# Preface.\n\nA word.", "[[page 1]]\n# Chapter I.\n\nThe start.", "[[page 2]]\n# Chapter II.\n\nMore."]
+    ED = [{"file": "editor-p0002", "leaf": "p0002", "alt": "Page 1 as printed", "caption": "Page 1 as printed, with its \"border\"."}]
+
+    def test_json_keeps_them_apart(self):
+        book, w = comp(self.PAGES, editor_images=self.ED)
+        self.assertEqual(w, [])
+        self.assertEqual(book["editor_images"], [{"src": "images/editor-p0002.jpg", "leaf": "p0002", "alt": "Page 1 as printed",
+                                                  "caption": "Page 1 as printed, with its “border”.", "editor": True}])
+        self.assertNotIn("Page 1 as printed", json.dumps(book["divisions"], ensure_ascii=False))
+        _, w = compile_book.compile_pages(dict(CFG, editor_images=self.ED), [(f"p{i:04d}", t) for i, t in enumerate(self.PAGES, 1)], {})
+        self.assertTrue(any("editor_images" in x for x in w))
+        self.assertNotIn("editor_images", comp(self.PAGES)[0])
+
+    def test_shown_before_the_narrative_outside_the_text(self):
+        book, _ = comp(self.PAGES, editor_images=self.ED, divisions=[{"at": "p0001", "kind": "preface"}])
+        rd = rh.reading_divisions(book)
+        self.assertEqual([bool(rh.editor_figures(book, d)) for d in rd], [False, True, False])
+        x = zipfile.ZipFile(__import__("io").BytesIO(render_epub.render(book, None))).read("OEBPS/text/02.xhtml").decode()
+        self.assertIn('<figure class="editor"><img src="../images/editor-p0002.jpg" alt="Page 1 as printed"/>'
+                      '<figcaption>Page 1 as printed, with its “border”.</figcaption></figure>\n<section epub:type="chapter">', x)
+        odt = render_odt.render(book, None)
+        c = zipfile.ZipFile(__import__("io").BytesIO(odt)).read("content.xml").decode()
+        self.assertIn('<text:p text:style-name="Editor_20_Figure">', c)
+        self.assertLess(c.index("Page 1 as printed, with"), c.index("The start."))
+        main, _ = preflight.odt_streams(__import__("io").BytesIO(odt))
+        self.assertNotIn("border", main)                     # the caption is not counted as the book's text
+        self.assertIn("The start.", main)
+
+
+class SecondStream(unittest.TestCase):
+    """Reeves, *Brown Men and Women*: documents printed in small type along the foot of many pages, under the main
+    text and apart from it (not footnotes). `[[stream]]` lines become a division of their own after the others; the
+    main text joins over the pages as if they were not there. Invented text."""
+    PAGES = ["[[page 1]]\n# Chapter I.\n\nThe story begins and\n\n[[stream]] # Papers.\n\n[[stream]] (1) A first paper, which goes",
+             "[[page 2]]\n[[cont]]goes on here.\n\nAn end.\n\n[[stream]] [[cont]]on over the page.\n\n[[stream]] (2) A second.",
+             "[[page 3]]\n# Chapter II.\n\nMore."]
+
+    def test_stream_is_a_division_after_the_others(self):
+        book, w = comp(self.PAGES)
+        self.assertEqual(w, [])
+        self.assertEqual([(d["id"], d["title"], d["kind"], d.get("stream")) for d in book["divisions"]],
+                         [("d001", "Chapter I", "chapter", None), ("d002", "Chapter II", "chapter", None), ("d003", "Papers", "appendix", True)])
+        t = [inline.plain(b["text"]) for b in book["divisions"][0]["blocks"] if b["type"] == "paragraph"]
+        self.assertEqual(t, ["The story begins and goes on here.", "An end."])
+        st = book["divisions"][2]["blocks"]
+        self.assertEqual(inline.plain(st[1]["text"]), "(1) A first paper, which goes on over the page.")
+        self.assertIn('leaf="p0002"', st[1]["text"])                  # its page break, linked to the scan
+        self.assertEqual([p["division"] for p in book["pages"]], ["d001", "d001", "d002"])
+
+    def test_preflight_compares_the_stream_apart(self):
+        pages = [(f"p{i:04d}", t) for i, t in enumerate(self.PAGES, 1)]
+        book, _ = comp(self.PAGES)
+        ps, js = [], []
+        pm, _ = preflight.page_streams(pages, streams=ps)
+        jm, _ = preflight.json_streams(book, streams=js)
+        self.assertEqual(preflight.compare(pm, jm, "t"), [])
+        self.assertEqual(preflight.compare(" ".join(ps), " ".join(js), "t"), [])
+        self.assertIn("A second.", " ".join(js))
+        self.assertEqual(preflight.check_markup(pages), [])
+        self.assertTrue(preflight.check_markup([("p0001", "[[page 1]]\nSome text # Heading inside a line")]))
+        bad = [(l, t.replace("(2) A second.", "(2) A secnd.")) for l, t in pages]
+        ps = []
+        preflight.page_streams(bad, streams=ps)
+        self.assertNotEqual(preflight.compare(" ".join(ps), " ".join(js), "t"), [])
+
+
 class SerialCommas(unittest.TestCase):
     """Tom, 2026-11-22: text written for the site has serial commas and curly quotation marks."""
 

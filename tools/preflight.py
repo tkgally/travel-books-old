@@ -80,7 +80,7 @@ def squash(s):
 SIDE = re.compile(r"\s*\[\[side:\s*([^\[\]]*?)\s*\]\]\s*")
 
 
-def page_streams(pages, captions=None, sides=None):
+def page_streams(pages, captions=None, sides=None, streams=None):
     """(main, notes) text of the page files, markup removed. With `captions` (a list), the captions of images
     are collected there instead of in main: the compiler may move an image (a plate inside a paragraph that
     runs over the page goes after the paragraph; the frontispiece goes to the start of the reading text)."""
@@ -99,6 +99,9 @@ def page_streams(pages, captions=None, sides=None):
             if s == "[[break]]" or re.fullmatch(r"</?(blockquote|verse)>", s):
                 continue
             tgt = captions if is_caption and captions is not None else main
+            if s.startswith("[[stream]]"):          # a second stream (compile_book.split_streams): its own division(s)
+                s = s[10:].strip()
+                tgt = streams if streams is not None else main
             m = re.match(r"\[\[fn ([^\]]+)\]\]\s*(.*)", s)
             if m:
                 tgt, s = notes, m.group(2)
@@ -119,7 +122,7 @@ def page_streams(pages, captions=None, sides=None):
     return " ".join(main), " ".join(notes)
 
 
-def json_streams(book, reading_only=False, captions=None, sides=None):
+def json_streams(book, reading_only=False, captions=None, sides=None, streams=None):
     """With `captions` (a list), image captions are collected there instead of in main (see page_streams);
     with `sides`, the side-notes are collected there (plain text leaves them out)."""
     main, notes = [], []
@@ -128,6 +131,8 @@ def json_streams(book, reading_only=False, captions=None, sides=None):
             continue
         for b in d["blocks"]:
             tgt = captions if captions is not None and b.get("type") == "image" else main
+            if streams is not None and d.get("stream"):
+                tgt = streams
             tgt += [inline.plain(s) for s in rh.strings(b)]
             if sides is not None:
                 sides += [x for s in rh.strings(b) for x in inline.sides(s)]
@@ -244,6 +249,7 @@ def check_markup(pages):
                 items.append(f"{leaf}: unknown tag: {ln.strip()[:70]!r}")
             for m in re.finditer(r"<sc>(.*?)</sc>", ln):
                 pass
+            ln = re.sub(r"^\s*\[\[stream\]\]\s*", "", ln)     # a second stream's line may start with a heading
             if re.search(r"(?<!^)(?<!\|)\s#{1,3} \w", ln) and not ln.lstrip().startswith("#"):
                 items.append(f"{leaf}: '#' inside a line (heading not on its own line?): {ln.strip()[:70]!r}")
         if re.search(r"\[\[(cont|right|center|subtitle|caption)\]\]\s*$", text, flags=re.M):
@@ -905,8 +911,10 @@ def run(bookdir, epubcheck=None, skip_epubcheck=False, skip_odt=False, verbose=F
         # conservation
         pc, jc = [], []          # image captions apart: the compiler moves some images (see page_streams)
         ps, js = [], []          # side-notes: in the JSON, not in the reading editions
-        pm, pn = page_streams(pages, captions=pc, sides=ps)
-        jm, jn = json_streams(book, captions=jc, sides=js)
+        pst, jst = [], []        # a second stream (compile_book.split_streams): moved after the other divisions
+        pm, pn = page_streams(pages, captions=pc, sides=ps, streams=pst)
+        jm, jn = json_streams(book, captions=jc, sides=js, streams=jst)
+        res["conservation"] += compare(" ".join(pst), " ".join(jst), "pages→JSON second stream")
         res["conservation"] += compare(" ".join(ps), " ".join(js), "pages→JSON side-notes")
         res["conservation"] += compare(pm, jm, "pages→JSON text") + compare(pn, jn, "pages→JSON notes")
         res["conservation"] += compare(" ".join(sorted(pc, key=caption_key)), " ".join(sorted(jc, key=caption_key)), "pages→JSON captions")
@@ -955,6 +963,7 @@ def run(bookdir, epubcheck=None, skip_epubcheck=False, skip_odt=False, verbose=F
         idir = os.path.join(bookdir, "images")
         if os.path.isdir(idir):
             used = {os.path.basename(b["src"]) for d in book["divisions"] for b in d["blocks"] if b["type"] == "image"} | {"cover.jpg", "cover.png"}
+            used |= {os.path.basename(e["src"]) for e in book.get("editor_images", [])}      # render_html.editor_figures
             res["images"] = [f"images/{f} is not used" for f in sorted(os.listdir(idir)) if f not in used]
         a = cfg.get("audit") or {}
         if a.get("version") != cfg.get("version") or not a.get("pages") or "real_errors" not in a or "recall" not in a:

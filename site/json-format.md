@@ -17,6 +17,7 @@ Each book has one JSON file, `books/<id>/<id>.json`. It holds everything that wa
 | `corrections` | printer’s errors that were corrected: `leaf`, `division`, `printed`, `corrected` |
 | `pages` | every image of the scan that was transcribed, in order: `leaf` (`p0123` = image 123 of the scan), `number` (the printed page number, or empty), `blank`, `division` |
 | `divisions` | the text |
+| `editor_images` | optional: pictures added by the editor, not part of the book’s text (for example a page shown as printed, with a decorated border that the text leaves out): `src`, `leaf` (the scan image it is taken from), `alt`, `caption` (written for this edition), `editor`: `true`. The reading formats show them before the start of the narrative. |
 
 ## Divisions
 
@@ -28,6 +29,7 @@ A division is a chapter or another main part of the book.
 | `kind` | `front`, `titlepage`, `dedication`, `preface`, `contents`, `illustrations`, `introduction`, `part`, `chapter`, `appendix`, `notes`, `glossary`, `index`, `errata`, `advertisements`, or `back` |
 | `title` | the heading (with a short chapter summary), as used in page titles and links between chapters |
 | `toc_title` | optional: the entry in the contents of the web pages, EPUB, and ODT when it differs from `title` (for example the chapter summary in full) |
+| `stream` | optional: `true` for a division made from a second stream of text that the printed book runs along the foot of its pages, apart from the main text (not footnotes); it is placed after the other divisions, and its page numbers say where it was printed |
 | `sections` | optional: entries of the contents inside the division: `title`, `block` (the index in `blocks` of the block it points at), `editor` (`true` for an entry of this edition’s, such as a span of dates in a diary; `false` for one taken from the printed book) |
 | `reading` | `true` if the division is in the web pages, EPUB, and ODT |
 | `split` | optional, `true`: the web pages, EPUB, and ODT divide this division at its `sections`, each section a page of its own under its `title` (a long text that the book does not divide, such as a diary); the JSON keeps the division whole |

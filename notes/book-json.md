@@ -39,6 +39,12 @@
                                         starts with `starts`; "editor": false for a title taken from the printed contents
  "frontispiece": "p0010-1",               image moved from the front matter (before the title page) to the title page,
                                         after the text of its first leaf (or to the first reading division after it); a list for a work in several volumes, one per volume
+ "stream_kind": "appendix",            the kind of the first division made from `[[stream]]` lines (page-markup.md)
+ "editor_images": [{"file": "editor-p0019", "leaf": "p0019", "alt": "…", "caption": "…"}],
+                                        pictures of the editor's, not the book's (a page shown as printed, with the border
+                                        the text leaves out; Tom, 2026-11-22, *Surface Japan*): `images/<file>.jpg`; kept apart
+                                        from the divisions in the JSON; shown before the narrative (body_start), outside the
+                                        book's text; the caption says "(Picture added for this edition.)"
  "ornaments": ["p0021-1", "p0039-1"],   decorative head-pieces and tail-pieces (the [[image:]] ids): cropped like any
                                         picture (`images/pNNNN-k.jpg`), shown small in the editions; a head-piece
                                         printed above a `#` heading on the same page opens that division (Tom, 2026-11-20)

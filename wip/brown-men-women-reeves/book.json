@@ -96,13 +96,38 @@
  "notes_on_text": [
   "Pages 77–78 and 133–136 are missing from the scan used (University of Toronto) and are taken from another copy at the Internet Archive (University of California).",
   "The map of Tongatabu, which the title page and the text announce as the frontispiece of Chapter III, is in none of the scans at the Internet Archive and is missing here.",
-  "The seven tunes on pp. 133–136 and elsewhere are given as pictures of the printed music."
+  "The seven tunes on pp. 133–136 and elsewhere are given as pictures of the printed music.",
+  "A corner of p. 17 is torn away in the scan used; the lost words were read from the University of California copy.",
+  "Quoted passages printed in smaller type, among them most of the yarns of Chapter II, are set off as quotations.",
+  "“Excerpts from Tongan Official Documents” is printed in small type along the foot of pp. 268–286, under the text of Chapter X, as a second, separate text; the author calls it “a concurrent and correlative substatement”. Here it follows Chapter X as a section of its own, with the printed page numbers. The small raised numbers in Chapter X refer to the numbers in parentheses in these excerpts.",
+  "Tables that belong to footnotes on pp. 25 and 111 follow the text of their page."
  ],
  "history": [
   {
    "version": 1,
    "date": "2026-11-22",
    "note": "First publication."
+  }
+ ],
+ "keep_hyphens": [
+  "p0041",
+  "p0213"
+ ],
+ "waivers": [
+  {
+   "check": "compile",
+   "match": "p0038",
+   "why": "The sentence resumes after a table that belongs to a footnote (p. 26); the table stands after the notes of p. 25, so the [[cont]] has nothing before it to continue."
+  },
+  {
+   "check": "compile",
+   "match": "p0122",
+   "why": "As p0038: the sentence resumes after a table that belongs to a footnote (p. 112)."
+  },
+  {
+   "check": "compile",
+   "match": "p0143",
+   "why": "The sentence resumes after the four pages of printed music (pp. 133–136, given as pictures)."
   }
  ]
 }
