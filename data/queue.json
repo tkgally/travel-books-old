@@ -1277,6 +1277,81 @@
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page: HathiTrust page images only; Wikisource: nothing; web search of a sentence: nothing; Open Library: print on demand only (Creative Media, Franklin Classics, Forgotten Books). Rule 5: death date uncertain (1912 or 1925); an adult on the Hokitika goldfields about 1865, so born before about 1845. About 60 photographs, makers not identified. Not checked: WorldCat.",
    "note": "Toronto scan, 400 ppi. About 60 illustrations and a map (perhaps folded: check). A New Zealand colonist's steamer tour, chapter by chapter: Tonga, Samoa (Stevenson's house), Fiji, Rarotonga and Aitutaki, Tahiti and Raiatea; chiefs and a queen, Bully Hayes. Much interest in island women, in the manner of its time. Two short statistical or law chapters."
+  },
+  {
+   "order": 71,
+   "ia": "sniolandoricelan00watt",
+   "slug": "snioland-iceland-watts",
+   "title": "Snioland; or, Iceland, Its Jokulls and Fjalls",
+   "author": "William Lord Watts",
+   "year": 1876,
+   "place": "London",
+   "publisher": "Longmans and Co.",
+   "images": 222,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): pg_catalog.csv has his Across the Vatna Jökull (62282), not this book; The Online Books Page: nothing; Wikisource: a mention only; web search of a sentence: nothing. Reprints: Kessinger 2008, Read Books 2010/2011 (print on demand). Watts 1850–1921. Three photographs credited to Rev. Martin Hart (dates not found; a minor contributor). Not checked: WorldCat.",
+   "note": "Getty scan, 600 ppi, about a dozen photographic plates. Title page 1876 (IA says 1875). 1874: Watts and an English clergyman ride across south Iceland from Reykjavík by Thingvellir and Geysir to the edge of Vatnajökull, by farms, priests' houses and quicksand rivers. Plain diary prose; short."
+  },
+  {
+   "order": 72,
+   "ia": "cu31924031282522",
+   "slug": "try-cracow-carpathians-hutchinson",
+   "title": "Try Cracow and the Carpathians",
+   "author": "Alex. H. Hutchinson, F.R.G.S., F.G.S., Captain Royal Artillery",
+   "year": 1872,
+   "place": "London",
+   "publisher": "Chapman and Hall",
+   "images": 288,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Reprints: Kessinger only. Rule 5: dates not found; a captain in the Royal Artillery in 1872 and author of Try Lapland (1870), so born well before 1856. Plates uncredited (check). Not checked: WorldCat.",
+   "note": "Cornell (Kirtas) scan, 300 ppi; a few plates; the frontispiece seems the author's portrait. Berlin and Breslau to Cracow and the Wieliczka salt mine, by cart to Zakopane in the Tatra, over into Hungary (Javorina, the Fish Lake). Humorous: a double peasant wedding, the parish priest, fording rivers."
+  },
+  {
+   "order": 73,
+   "ia": "journalofresiden00obririch",
+   "slug": "danubian-principalities-obrien",
+   "title": "Journal of a Residence in the Danubian Principalities, in the Autumn and Winter of 1853",
+   "author": "Patrick O'Brien",
+   "year": 1854,
+   "place": "London",
+   "publisher": "Richard Bentley",
+   "images": 194,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing (raw HathiTrust OCR at distantreader.org does not count). Reprints: print on demand only; Open Library: 1854 only. Sir Patrick O'Brien, 2nd Bt., 1823–1895. Not checked: WorldCat.",
+   "note": "University of California scan, 400 ppi, no plates; about 180 pages. From Constantinople by steamer to the Danube; Bucharest under Russian occupation on the eve of the Crimean War; a night ride with despatches to Giurgevo past Russian camps. First person, with some political comment."
+  },
+  {
+   "order": 74,
+   "ia": "artistinhimalaya00mcco",
+   "slug": "artist-himalayas-mccormick",
+   "title": "An Artist in the Himalayas",
+   "author": "A. D. McCormick",
+   "year": 1895,
+   "place": "New York",
+   "publisher": "Macmillan & Co.",
+   "images": 340,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv (only books he illustrated); The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Reprints: Kessinger only; Open Library: the 1895 Macmillan and Unwin editions. Arthur David McCormick 1860–1943; he drew all the illustrations. Not checked: WorldCat.",
+   "note": "Library of Congress scan, 400 ppi. Over 100 of his own sketches set in the text, many small: a heavy crop load. The expedition artist's account of Conway's 1892 Karakoram expedition: Karachi, Srinagar, Gilgit, Hunza-Nagyr, the Hispar and Baltoro glaciers, Skardu to Leh and back to Srinagar. Light and personal."
+  },
+  {
+   "order": 75,
+   "ia": "yankeeonyangtzeb00geil",
+   "slug": "yankee-yangtze-geil",
+   "title": "A Yankee on the Yangtze: Being a Narrative of a Journey from Shanghai through the Central Kingdom to Burma",
+   "author": "William Edgar Geil",
+   "year": 1904,
+   "place": "London",
+   "publisher": "Hodder and Stoughton",
+   "images": 448,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Reprints: print on demand only (Andesite, Forgotten Books, Franklin Classics, Creative Media, Legare Street). Geil 1865–1925. Most photographs his; a few by G. F. Stocks, W. C. Taylor, A. H. Faers (dates not found; minor contributors). Not checked: WorldCat.",
+   "note": "University of California scan, 400 ppi (yankeeonyangtzeb00geilrich, the New York edition, 500 ppi, as alternative). About 100 full-page photographs. An American evangelist up the Yangtze through the gorges to Chungking, overland through Szechuen and Yunnan by Talifu to Bhamo and Mandalay; mandarins, inns, boatmen, missions; some missionary advocacy."
   }
  ],
  "rejected": [
@@ -1793,6 +1868,61 @@
   {
    "title": "Boddam-Whetham, Pearls of the Pacific (1876), aja1713.0001.001.umich.edu",
    "why": "not vetted; same author as Western Wanderings, set aside for variety",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "James Lamont, Seasons with the Sea-Horses (1861), cu31924014116028",
+   "why": "reprinted by Elibron Classics",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "W. S. Percival, The Land of the Dragon (1889), cu31924079597948",
+   "why": "reprinted by Cambridge University Press 2010",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Edna Dean Proctor, A Russian Journey (1872/1899), russianjourney01proc",
+   "why": "reprinted by Adamant Media 2001",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Hannah Davies, Among Hills and Valleys in Western China (1901), cu31924023068996",
+   "why": "reprinted by Cambridge University Press 2011",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "T. T. Cooper, Travels of a Pioneer of Commerce (1871)",
+   "why": "reprinted by Arno Press 1967 and Adamant 2001",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "R. R. Farrer, A Tour in Greece, 1880 (1882), ldpd_7036734_000",
+   "why": "side-notes throughout (the tools show them only in the JSON); otherwise eligible: a reserve",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "E. Frazer Blackstock, The Land of the Viking and the Empire of the Tsar (1889), landofvikingempi00blac",
+   "why": "thin sightseeing; author's dates not checked",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Mrs Pruen, The Provinces of Western China (1906), cu31924023123247",
+   "why": "more mission description and history than journey; author's dates unknown",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "John C. Wells, The Gateway to the Polynia (1876), gatewaytopolynia00well",
+   "why": "temperature tables and compiled polar history; author's dates not found",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Mary A. Walker, Old Tracks and New Landmarks (1897), oldtracksnewland00walk",
+   "why": "not fully vetted: separate sketches, 117 illustrations, about 430 pages; a possible reserve",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Bisiker, Across Iceland; Symington, Pen and Pencil Sketches of Faröe and Iceland; Pliny Miles, Norðurfari; Crosse, Round about the Carpathians; W. H. Knight, Diary of a Pedestrian in Cashmere and Thibet; Millington, To Lhassa at Last; Kendall, A Wayfarer in China; F. Moore, The Balkan Trail; Mrs Whitwell, Through Bosnia and Herzegovina with a Paint Brush; R. H. R., Rambles in Istria; Richardson, Vacation Days in Greece",
+   "why": "on Project Gutenberg",
    "checked": "2026-11-22"
   }
  ]
