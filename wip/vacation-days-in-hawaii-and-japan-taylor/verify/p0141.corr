@@ -1,0 +1,8 @@
+Two lines differ from the page image: "loin" and "bath?" in the first two paragraphs.
+
+{"find": "wear only the loin cloth", "replace": "wear only the loin cloth"}
+{"find": "hot bath?", "replace": "hot bath?"}
+
+Looking again, the draft's "loin cloth" matches the image, so the first correction does nothing. The "hot bath?" line also matches once spacing rules are applied. The draft looks entirely correct.
+
+NONE

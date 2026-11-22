@@ -1,0 +1,5 @@
+{"given": "or Theater Street, which is", "print": "or Theatre Street, which is", "sure": "high"}
+{"given": "enjoying life their own happy way", "print": "enjoying life in their own happy way", "sure": "high"}
+{"given": "around one of those street venders", "print": "around one of these street venders", "sure": "high"}
+{"given": "Japanese bands playing natioual music", "print": "Japanese bands playing national music", "sure": "high"}
+{"given": "are also heard. Yes; this is", "print": "are also heard. Yes, this is", "sure": "high"}

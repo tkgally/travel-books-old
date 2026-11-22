@@ -1,0 +1,5 @@
+{"given": "below, before reaching mills.", "print": "below, before reaching the mills.", "sure": "high"}
+{"given": "as we approaeh the Niulii district", "print": "as we approach the Niulii district", "sure": "high"}
+{"given": "edge of the sea; while in", "print": "edge of the sea, while in", "sure": "high"}
+{"given": "feet, and mauna Kea, thirteen", "print": "feet, and Mauna Kea, thirteen", "sure": "high"}
+{"given": "mountains seem to he guarding", "print": "mountains seem to be guarding", "sure": "high"}

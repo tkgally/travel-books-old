@@ -1,0 +1,2 @@
+{"n": 1, "is": "A", "print": "The path is", "sure": "high"}
+{"n": 2, "is": "A", "print": "Fright.</sc>\n\n[[cont]] marked by piles of stones, two or three high, for there are many dangerous places into which we might stray. On either side of us are deep seams, varying from ten to twenty feet in depth. Even with the greatest care, one now and then treads upon a great bubble,", "sure": "high"}

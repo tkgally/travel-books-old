@@ -182,6 +182,10 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
   30 px quotations, 24 px notes at 1800 px), each paragraph matched to its lines by word trigrams. Look at the pages it flags
   on the scan: a whole section set small for space (Reeves ch. X) is the author's text, not a quotation.
 
+- Plate numbers printed under photographs (roman numerals): drafts type them as folios, caption prefixes or lines of their own, inconsistently; strip them by script after the judge (*Yankee on the Yangtze*: 82 plate pages).
+- A leaf of text bound inside a paragraph (an unnumbered insert, the Sacred Edict in *Yankee on the Yangtze*): the next page's `[[cont]]` joins the insert's last line. Move the insert's text after the end of the interrupted paragraph and say so in the log (caught by the rendered look).
+- Halftones set into the text column: the Sonnet pass moves them to the exact line with `[[cont]]` after the caption, mid-sentence (*Vacation Days*: 34). Move each after the end of its paragraph by script (picture + caption, then join the `[[cont]]` text to the paragraph before).
+
 ## Trigger: footnotes
 
 - A table inside a footnote (a ship's log) ends the page as a body block, so the next page's `[[cont]]` has nothing to
@@ -242,6 +246,11 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 - Marginal decorations on every page (a bamboo frame and figure sketches “after Hokusai”, *Surface Japan*): the draft marks each as `[[image:]]` (158 in 157 pages), inconsistently; remove them after the judge with a script that keeps the plates by leaf, and say so in `notes_on_text` (Tom asked whether to show them: `preferences.md`).
 - The year of the journey is often not printed: work it out from weekdays given with dates and from what the
   traveller could use (railways), and say in the summary that it is inferred.
+
+## Trigger: Chinese or Japanese script in the text
+
+- Chinese printed right to left (proverbs at chapter heads, *A Yankee on the Yangtze*, 2026-11-22): stored in reading order. The draft reversed most, the verifier "corrected" some back, and the judge sided both ways: 6 of 24 were left in printed order. Have the spot-read check every line's characters and direction on enlarged crops (it also found 天 typed 大, and a printed 宗 for 崇 to mark `[[corr]]`); say the rule in `notes_on_text`.
+- The renderers tag Han and kana runs with `lang` (zh, or ja with kana); the site and EPUB show them with the readers' system fonts (checked in Chromium, 2026-11-22).
 
 ## Trigger: Google scan (`…goog` identifiers)
 

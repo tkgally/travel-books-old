@@ -1,0 +1,2 @@
+{"find": "elephants, lions, tigers, monkeys, etc. The gardens are attractive but the number of animals is small.", "replace": "elephants, lions,"}
+{"find": "S<sc>quare.</sc>", "replace": "S<sc>quare.</sc>\n\n[[cont]]tigers, monkeys, etc. The gardens are attractive but the number of animals is small."}

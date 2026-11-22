@@ -1,0 +1,2 @@
+{"n": 1, "is": "A", "print": "fty thousand\n\n[[image: Japanese craftsmen seated on a wooden floor at work among boxes, baskets and tools, with shelves of pots and vases behind them]]\n[[caption]] We Visit the Various Manufacturing Establishments.\n\n[[cont]]inhabitants", "sure": "high"}
+{"n": 2, "is": "A", "print": "anufacturing", "sure": "high"}

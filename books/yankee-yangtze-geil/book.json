@@ -1,0 +1,166 @@
+{
+ "id": "yankee-yangtze-geil",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "A Yankee on the Yangtze",
+ "subtitle": "Being a Narrative of a Journey from Shanghai through the Central Kingdom to Burma",
+ "short_title": "A Yankee on the Yangtze",
+ "authors": [
+  {
+   "name": "William Edgar Geil",
+   "sort": "Geil, William Edgar",
+   "born": 1865,
+   "died": 1925
+  }
+ ],
+ "place": "London",
+ "publisher": "Hodder and Stoughton",
+ "year": 1904,
+ "source": {
+  "ia_identifier": "yankeeonyangtzeb00geil",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": [
+   0,
+   11,
+   12,
+   445,
+   446,
+   447,
+   448,
+   449
+  ],
+  "extra_leaves": {
+   "p0114a": {
+    "ia_identifier": "yankeeonyangtzeb00geilrich",
+    "n": 106,
+    "what": "plate xxi, missing from the London copy"
+   },
+   "p0114b": {
+    "ia_identifier": "yankeeonyangtzeb00geilrich",
+    "n": 107,
+    "what": "plate xxii, missing from the London copy"
+   },
+   "p0120a": {
+    "ia_identifier": "yankeeonyangtzeb00geilrich",
+    "n": 114,
+    "what": "plate xxiii, missing from the London copy"
+   },
+   "p0120b": {
+    "ia_identifier": "yankeeonyangtzeb00geilrich",
+    "n": 115,
+    "what": "plate xxiv, missing from the London copy"
+   }
+  }
+ },
+ "edition_statement": "First edition (London issue)",
+ "regions": [
+  "China",
+  "Myanmar"
+ ],
+ "period": "1902–03",
+ "subjects": [
+  "Yangtze River",
+  "missions",
+  "Szechuan",
+  "Yunnan",
+  "Burma"
+ ],
+ "summary": "William Edgar Geil (1865–1925), an American evangelist and lecturer, travelled in about 1902–03 from Shanghai up the Yangtze by steamer, gunboat, and native boat, through the gorges to Chungking, and then overland by chair and on foot through Szechuen and Yunnan, by Talifu and Tengyueh, to Bhamo, Mandalay, and Rangoon in Burma. He writes of inns, coolies, boatmen, mandarins, and viceroys; of opium, famine, temples, and local beliefs and stories; and of the Protestant missions he visited on the way, whose cause he argues. Each chapter opens with a Chinese proverb, printed in characters with a translation. The book has about a hundred photographs, most of them his own, a map, and a facsimile of a Chinese Christian newspaper.",
+ "omitted_from_reading": "The half-title, the printed contents, and the list of illustrations are in the JSON only.",
+ "notes_on_text": [
+  "Transcribed from the London issue (Hodder and Stoughton, 1904) in the University of California copy. That copy lacks the two plate leaves after pages 64 and 70 (plates xxi–xxiv); they are taken from the New York issue (A. C. Armstrong) in the University of California copy yankeeonyangtzeb00geilrich, whose plate captions were reset and may differ slightly in wording or spelling.",
+  "The Chinese proverbs at the chapter openings are printed right to left; they are given here in reading order, as are the lines of the Sacred Edict in Chapter V.",
+  "The plate numbers printed under the photographs are left out; the pictures stand where the plates are bound.",
+  "The small drawings beside the initial letter of each chapter are shown with their captions.",
+  "A footnote printed in three paragraphs (Chapter III, on the missions of Hankow) is given as one paragraph."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {
+   "at": "p0007",
+   "kind": "front",
+   "title": "Half-title"
+  },
+  {
+   "at": "p0013",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0015",
+   "kind": "contents"
+  },
+  {
+   "at": "p0019",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0023",
+   "kind": "introduction"
+  }
+ ],
+ "frontispiece": "p0010-1",
+ "ornaments": [
+  "p0031-1",
+  "p0046-1",
+  "p0074-1",
+  "p0101-1",
+  "p0119-1",
+  "p0139-1",
+  "p0162-1",
+  "p0185-1",
+  "p0205-1",
+  "p0221-1",
+  "p0249-1",
+  "p0267-1",
+  "p0283-1",
+  "p0294-1",
+  "p0310-1",
+  "p0324-1",
+  "p0338-1",
+  "p0349-1",
+  "p0364-1",
+  "p0379-1",
+  "p0395-1",
+  "p0413-1",
+  "p0427-1"
+ ],
+ "waivers": [
+  {
+   "check": "leaves",
+   "match": "p0027",
+   "why": "the folding map half-folded; the same sheet opened is p0028"
+  },
+  {
+   "check": "leaves",
+   "match": "p0030",
+   "why": "the folding newspaper facsimile half-folded; the same sheet opened is p0029"
+  },
+  {
+   "check": "spacing",
+   "match": "p0070",
+   "why": "ditto marks (”) in the prescription table, as printed"
+  }
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 1,
+  "fixed": 1,
+  "note": "the one real item a printer’s error left unmarked (“thcusand”, p. 109)"
+ },
+ "toc": {
+  "subtitles": "all"
+ },
+ "keep_hyphens": [
+  "p0065",
+  "p0105"
+ ]
+}

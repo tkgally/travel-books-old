@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "we retire\n\n[[image: View from a hillside over the roofs and trees of Kyoto, with mountains in the distance]]\n[[caption]] We Step on the Balcony Outside our Room and have our First View of Kyoto.\n\n[[cont]] to a comfor", "sure": "high"}
+{"n": 2, "is": "B", "print": "What a charm", "sure": "high"}

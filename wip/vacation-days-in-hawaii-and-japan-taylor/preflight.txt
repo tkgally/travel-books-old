@@ -1,0 +1,283 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[FAIL (95)] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+            - missing image file for p0009-1 (Photograph of a line of jinrikishas with their runners in white hats and tunics, two passengers seated, trees behind; plate printed sideways)
+            - missing image file for p0010-1 (small floral ornament)
+            - missing image file for p0010-2 (small floral ornament)
+            - missing image file for p0030-1 (View down a steep city street lined with tall buildings and church towers, a cable car in the foreground)
+            - missing image file for p0035-1 (photograph of a Chinatown street with hanging lanterns, signboards, and Chinese men, women and children on the sidewalk)
+            - missing image file for p0058-1 (photograph of native boys swimming in the sea, heads above the water amid splashes)
+            - missing image file for p0060-1 (Map of the Hawaiian Islands, with an inset map of the Pacific Ocean showing the islands' position between Asia, Australia and America)
+            - missing image file for p0064-1 (photograph of a large two-storey hotel with verandas and an outside staircase, seen across a lawn with trees)
+            - missing image file for p0066-1 (Photograph of a taro field with rows of broad-leaved plants standing in water, trees and buildings in the distance)
+            - missing image file for p0067-1 (A man seated on the ground among taro plants, pounding poi with a stone pestle on a wooden board, a pail beside him)
+            - missing image file for p0069-1 (Photograph of a canoe with four paddlers riding the surf near the beach, with Diamond Head behind)
+            - missing image file for p0071-1 (Photograph of a dirt road running along the shore, with a sea wall and water on the left, a telegraph pole, carriages in the distance, and a horse-drawn tram car beside trees on the right)
+            - missing image file for p0074-1 (photograph of two Hawaiian women with flower wreaths and grass skirts, seated on a mat, one holding a ukulele)
+            - missing image file for p0079-1 (photograph of a sugar-cane field, with a gang of labourers cutting cane and cut stalks lying on the ground in front)
+            - missing image file for p0083-1 (A rough dirt road winding between dense bushes and trees, with a carriage in the distance)
+            - missing image file for p0085-1 (photograph of a mountain pass with rocky crags, a few people standing on the road and a horse-drawn carriage at the right)
+            - missing image file for p0087-1 (Photograph of a steep mountain ridge with a sharp peak, a road cut along the cliff side, and a valley with distant hills to the right)
+            - missing image file for p0089-1 (View over tree-covered town with house roofs, mountains beyond)
+            - missing image file for p0090-1 (Photograph, printed sideways, of a family sitting in front of a thatched grass hut with a dark doorway, a wooden rail fence in the foreground)
+            - missing image file for p0100-1 (men and horses beside a wooden flume running through a field of cut sugar-cane)
+            - missing image file for p0107-1 (a road running through a dense forest of pandanus trees and ferns)
+            - missing image file for p0108-1 (Photograph of a wide, dark lava plain with a pale cloud of smoke rising in the distance)
+            - missing image file for p0110-1 (Photograph of a field of rough, cracked and billowed lava)
+            - missing image file for p0112-1 (photograph of twisted, rope-like folds of solidified lava)
+            - missing image file for p0116-1 (Photograph of a small island covered with palm trees, with two men paddling an outrigger canoe on the water in front of it)
+            - missing image file for p0125-1 (Photograph of a harbor with a three-masted sailing ship at anchor in the foreground, other ships and a wooded shore behind)
+            - missing image file for p0127-1 (photograph of a large hotel on the waterfront, seen across the water, with a wooded hill behind)
+            - missing image file for p0129-1 (Photograph of a street lined with shops and paper lanterns, people walking, a clock tower in the distance)
+            - missing image file for p0132-1 (photograph of a shaven-headed masseur kneeling and massaging a Japanese woman lying on a quilt on the matted floor, with a hanging scroll and a folding screen behind)
+            - missing image file for p0133-1 (Photograph of a shaven-headed Japanese man in a dark kimono and wooden clogs, leaning on a long staff with one hand to his head, before a painted landscape backdrop)
+            - missing image file for p0135-1 (Photograph of a wooded hillside with houses among trees, sloping down to a curving shoreline and the sea, with white cliffs in the distance)
+            - missing image file for p0136-1 (Photograph, printed sideways, of a steep wooden stairway climbing between rocks and tall trees, with figures on the steps and a person seated at a building in the foreground)
+            - missing image file for p0139-1 (Photograph of a tea house among trees on a rocky shore, with a wooden pier running out into the bay and a figure standing at the water's edge)
+            - missing image file for p0148-1 (Photograph of a Japanese woman in a kimono standing before a painted garden backdrop, holding a paper parasol over her shoulder and an open fan)
+            - missing image file for p0150-1 (photograph of a crowded street lined with theatres, with tall banners hung from poles)
+            - missing image file for p0151-1 (Photograph of a long two-storey Japanese theatre building with a balcony and rows of jinrikishas parked beneath the lower verandah)
+            - missing image file for p0153-1 (Photograph of a group of Japanese women in patterned kimonos, some seated and some standing, with a small boy, in front of a house with a wooden lattice grating)
+            - missing image file for p0155-1 (Photograph of a lantern-maker's shop: three Japanese craftsmen seated on the floor at work, one holding a large white paper lantern, with many lanterns hanging overhead and piled around them)
+            - missing image file for p0156-1 (Photograph, printed sideways, of three people in Japanese dress kneeling on matting in a Japanese room: two men, one with swords, and a woman between them)
+            - missing image file for p0158-1 (photograph of a Japanese draper's shop open to the street, with hanging cloth banners above, a woman and a child seated at the front platform among bolts of cloth, and the merchant and another figure to the right)
+            - missing image file for p0163-1 (A thatched-roof wooden bell house on heavy timber posts, with a man swinging the beam to strike a large hanging bell)
+            - missing image file for p0168-1 (a wooden torii gateway at the foot of a narrow village street lined with wooden houses; a figure with a parasol sits at the base of one post)
+            - missing image file for p0171-1 (Steep wooded hillsides with a flight of steps climbing between them and a thatched hut at the foot)
+            - missing image file for p0178-1 (Rotated photograph looking down from a wooded hillside over large temple roofs to a wide city plain in the distance)
+            - missing image file for p0182-1 (Bird's-eye photograph of a village street lined with low tiled roofs, with tall trees and hills beyond)
+            - missing image file for p0185-1 (photograph of a torii and temple buildings among tall trees at Nikko, with a flight of steps leading up to a fenced terrace)
+            - missing image file for p0186-1 (Photograph of a carved wooden panel showing three monkeys among flowers)
+            - missing image file for p0187-1 (Photograph of a carved Japanese wind-god statue with a grimacing face, holding a large patterned wind-bag over its shoulders)
+            - missing image file for p0189-1 (carved and painted temple figure of a fierce thunder god with flaming hair, ringed by drums, before a pierced screen)
+            - missing image file for p0191-1 (Photograph of an ornate temple gateway with a curved tiled roof, carved brackets and white pillars, among trees)
+            - missing image file for p0193-1 (photograph of a long temple hall with a carved, coffered ceiling, ornate walls and a matted floor)
+            - missing image file for p0194-1 (Photograph of a stone statue of Jizo wearing a wide round hat and robes, standing among shrubs and trees)
+            - missing image file for p0196-1 (A rocky mountain river rushing through a wooded gorge, with a small waterfall on the right and figures on a path along the bank)
+            - missing image file for p0197-1 (a mountain stream rushing over rocks, with a small thatched house among the trees on the far bank and wooded slopes rising behind)
+            - missing image file for p0200-1 (photograph of two Japanese bearers in headbands carrying a young woman seated in a slung basket-chair hung from a long pole on their shoulders, each with a bamboo staff)
+            - missing image file for p0202-1 (photograph of a lakeside village with wooden houses among trees, boats on the still water and hills beyond)
+            - missing image file for p0208-1 (Photograph of a row of workers bent over, cutting rice in a field, with sheaves on the ground and woods behind)
+            - missing image file for p0209-1 (Japanese men working a large wooden lever-and-pestle rice-hulling machine inside a wooden shed, with tubs in the foreground)
+            - missing image file for p0210-1 (Photograph of an elderly Japanese coolie in a wide straw hat and straw rain-coat, smoking a pipe and holding a staff, with coils of rope over his shoulder)
+            - missing image file for p0212-1 (photograph of a rugged mountain with tall pointed rock pinnacles covered in trees, hills in the distance)
+            - missing image file for p0214-1 (Photograph of a Japanese room: a kneeling woman spreads a quilt beside a woman lying on a mattress on the matted floor, with a sliding paper screen at the right)
+            - missing image file for p0219-1 (photograph of two Japanese pilgrims in wide conical hats and robes, holding bowls, before a painted backdrop)
+            - missing image file for p0221-1 (Photograph of a group of Japanese village children, some carrying babies on their backs, with an older woman, gathered on stones beside a path)
+            - missing image file for p0222-1 (Photograph of a Japanese man standing beside a laden pack-horse in front of a thatched house)
+            - missing image file for p0227-1 (A Japanese woman kneeling on a mat nursing a baby beside a low brazier with a kettle and teapot, a naked small child seated on a cushion before a painted folding screen)
+            - missing image file for p0242-1 (photograph of two Japanese girls at a well under a wooden frame, one crouching, one standing and drawing water with a rope and bucket)
+            - missing image file for p0244-1 (photograph of a coolie in a head-cloth walking along a hillside path, carrying a large load of bundles and rugs on a wooden frame on his back, with trees behind)
+            - missing image file for p0254-1 (photograph of a man standing beside a bull harnessed to a two-wheeled cart loaded with bundles of tobacco, on a country road, with fields and a thatched house behind)
+            - missing image file for p0302-1 (photograph of two Japanese fencers in masks and armour with bamboo swords, one standing and one kneeling)
+            - missing image file for p0303-1 (Photograph of two Japanese fencers in padded armour and masks grappling on the ground, their bamboo swords lying beside them)
+            - missing image file for p0305-1 (photograph of a dim temple interior with heavy wooden pillars, large paper lanterns with Japanese characters, a clock and stalls)
+            - missing image file for p0306-1 (Photograph of the ornate gate of the Shiba temple, with a curved tiled roof and carved panels, people standing beneath it; printed sideways on the page)
+            - missing image file for p0309-1 (photograph of a large crowd gathered in a street between Japanese houses)
+            - missing image file for p0311-1 (Photograph of five women in white head-cloths and dark robes, carrying bundles on their heads, walking along a tree-lined road)
+            - missing image file for p0313-1 (Snow-capped Mount Fuji rising beyond dark wooded hills, with a lake in the foreground)
+            - missing image file for p0321-1 (View from a hillside over the roofs and trees of Kyoto, with mountains in the distance)
+            - missing image file for p0322-1 (Japanese craftsmen seated on a wooden floor at work among boxes, baskets and tools, with shelves of pots and vases behind them)
+            - missing image file for p0326-1 (a long street lined with low shops, a few people and a jinrikisha in the roadway; in the foreground a stone lion-dog on a pedestal behind an iron railing)
+            - missing image file for p0327-1 (A Japanese pottery shop with tables of crockery under a tiled roof, a woman seated at the left and a tall signboard with Japanese characters)
+            - missing image file for p0330-1 (Photograph, printed sideways on the page, of a row of Japanese women in elaborate kimonos and ornamented hair, seated outdoors before trees, with large paper umbrellas in the foreground)
+            - missing image file for p0332-1 (Photograph of a richly dressed Japanese woman with an elaborate hairstyle, walking under a large parasol held by an attendant, with a small child in an embroidered robe on each side)
+            - missing image file for p0333-1 (Photograph of a large temple with a heavy tiled roof and a wide veranda, built on a hillside and raised on a framework of tall wooden piles)
+            - missing image file for p0334-1 (Photograph of a large trained pine tree with flat, disc-like tiers of foliage and a long branch propped along the ground, in front of a tiled-roof building)
+            - missing image file for p0335-1 (A road running between tall, dense groves of bamboo, with figures and a jinrikisha in the foreground)
+            - missing image file for p0336-1 (Photograph of girls in white head-cloths picking tea among the bushes, with baskets on the ground and wooded hills behind)
+            - missing image file for p0341-1 (Photograph of three Japanese girls in kimono seated on matting, playing a samisen and drums)
+            - missing image file for p0342-1 (Photograph of geishas posed dancing on a stage, two seated at the right, one holding a samisen)
+            - missing image file for p0344-1 (photograph of a two-storey hotel building with a columned porch and balcony, a flagpole, and rickshaws drawn up in front)
+            - missing image file for p0345-1 (photograph of a waterfall dropping down a dark wooded hillside, with a tea house and a covered veranda on posts in front of it)
+            - missing image file for p0346-1 (photograph of a wide street along the waterfront at Kobe, with telegraph poles, a street lamp, low buildings on the left, boat masts on the right and hills behind)
+            - missing image file for p0348-1 (Two Japanese wrestlers grappling in a ring between striped posts, watched by a referee in traditional dress)
+            - missing image file for p0351-1 (Photograph of the great temple hall with its two-tiered roof, a paved path leading to the entrance and a lantern before it)
+            - missing image file for p0352-1 (Photograph of the great seated bronze Buddha in its temple hall, flanked by tall pillars, lotus ornaments and altar vessels)
+            - missing image file for p0356-1 (Photograph of wooden houses beside a wooded hillside, with a bridge in the foreground crossed by people and a jinrikisha)
+            - missing image file for p0358-1 (photograph of a road beside a rocky stream in a wooded gorge, with figures walking on the road)
+[ FAIL (1)] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+            - JSON→ODT text: texts differ from character 49: …IANDJAPANBYCHARLESM.TAYLOR,Jr.WITHOVERONEHUNDREDILLUSTRATION… / …IANDJAPANBYCHARLESM.TAYLOR,Jr.[Illustration:smallfloralornam…
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[FAIL (95)] links: every link inside the book's web pages and EPUB has a target
+            - web 12.html: missing image 'images/p0208-1.jpg'
+            - web 12.html: missing image 'images/p0209-1.jpg'
+            - web 12.html: missing image 'images/p0210-1.jpg'
+            - web 12.html: missing image 'images/p0212-1.jpg'
+            - web 12.html: missing image 'images/p0214-1.jpg'
+            - web 12.html: missing image 'images/p0219-1.jpg'
+            - web 12.html: missing image 'images/p0221-1.jpg'
+            - web 12.html: missing image 'images/p0222-1.jpg'
+            - web 12.html: missing image 'images/p0227-1.jpg'
+            - web 01.html: missing image 'images/p0010-1.jpg'
+            - web 01.html: missing image 'images/p0010-2.jpg'
+            - web 01.html: missing image 'images/p0009-1.jpg'
+            - web 18.html: missing image 'images/p0321-1.jpg'
+            - web 18.html: missing image 'images/p0322-1.jpg'
+            - web 18.html: missing image 'images/p0326-1.jpg'
+            - web 18.html: missing image 'images/p0327-1.jpg'
+            - web 18.html: missing image 'images/p0330-1.jpg'
+            - web 18.html: missing image 'images/p0332-1.jpg'
+            - web 18.html: missing image 'images/p0333-1.jpg'
+            - web 18.html: missing image 'images/p0334-1.jpg'
+            - web 18.html: missing image 'images/p0335-1.jpg'
+            - web 18.html: missing image 'images/p0336-1.jpg'
+            - web 05.html: missing image 'images/p0058-1.jpg'
+            - web 05.html: missing image 'images/p0060-1.jpg'
+            - web 05.html: missing image 'images/p0064-1.jpg'
+            - web 05.html: missing image 'images/p0066-1.jpg'
+            - web 05.html: missing image 'images/p0067-1.jpg'
+            - web 05.html: missing image 'images/p0069-1.jpg'
+            - web 05.html: missing image 'images/p0071-1.jpg'
+            - web 05.html: missing image 'images/p0074-1.jpg'
+            - web 08.html: missing image 'images/p0125-1.jpg'
+            - web 08.html: missing image 'images/p0127-1.jpg'
+            - web 08.html: missing image 'images/p0129-1.jpg'
+            - web 08.html: missing image 'images/p0132-1.jpg'
+            - web 08.html: missing image 'images/p0133-1.jpg'
+            - web 08.html: missing image 'images/p0135-1.jpg'
+            - web 08.html: missing image 'images/p0136-1.jpg'
+            - web 08.html: missing image 'images/p0139-1.jpg'
+            - web 09.html: missing image 'images/p0148-1.jpg'
+            - web 09.html: missing image 'images/p0150-1.jpg'
+            - web 09.html: missing image 'images/p0151-1.jpg'
+            - web 09.html: missing image 'images/p0153-1.jpg'
+            - web 09.html: missing image 'images/p0155-1.jpg'
+            - web 09.html: missing image 'images/p0156-1.jpg'
+            - web 09.html: missing image 'images/p0158-1.jpg'
+            - web 04.html: missing image 'images/p0030-1.jpg'
+            - web 04.html: missing image 'images/p0035-1.jpg'
+            - web 07.html: missing image 'images/p0100-1.jpg'
+            - web 07.html: missing image 'images/p0107-1.jpg'
+            - web 07.html: missing image 'images/p0108-1.jpg'
+            - web 07.html: missing image 'images/p0110-1.jpg'
+            - web 07.html: missing image 'images/p0112-1.jpg'
+            - web 07.html: missing image 'images/p0116-1.jpg'
+            - web 20.html: missing image 'images/p0356-1.jpg'
+            - web 20.html: missing image 'images/p0358-1.jpg'
+            - web 11.html: missing image 'images/p0178-1.jpg'
+            - web 11.html: missing image 'images/p0182-1.jpg'
+            - web 11.html: missing image 'images/p0185-1.jpg'
+            - web 11.html: missing image 'images/p0186-1.jpg'
+            - web 11.html: missing image 'images/p0187-1.jpg'
+            - web 11.html: missing image 'images/p0189-1.jpg'
+            - web 11.html: missing image 'images/p0191-1.jpg'
+            - web 11.html: missing image 'images/p0193-1.jpg'
+            - web 11.html: missing image 'images/p0194-1.jpg'
+            - web 11.html: missing image 'images/p0196-1.jpg'
+            - web 11.html: missing image 'images/p0197-1.jpg'
+            - web 11.html: missing image 'images/p0200-1.jpg'
+            - web 11.html: missing image 'images/p0202-1.jpg'
+            - web 14.html: missing image 'images/p0254-1.jpg'
+            - web 10.html: missing image 'images/p0163-1.jpg'
+            - web 10.html: missing image 'images/p0168-1.jpg'
+            - web 10.html: missing image 'images/p0171-1.jpg'
+            - web 13.html: missing image 'images/p0242-1.jpg'
+            - web 13.html: missing image 'images/p0244-1.jpg'
+            - web 17.html: missing image 'images/p0302-1.jpg'
+            - web 17.html: missing image 'images/p0303-1.jpg'
+            - web 17.html: missing image 'images/p0305-1.jpg'
+            - web 17.html: missing image 'images/p0306-1.jpg'
+            - web 17.html: missing image 'images/p0309-1.jpg'
+            - web 17.html: missing image 'images/p0311-1.jpg'
+            - web 17.html: missing image 'images/p0313-1.jpg'
+            - web 19.html: missing image 'images/p0341-1.jpg'
+            - web 19.html: missing image 'images/p0342-1.jpg'
+            - web 19.html: missing image 'images/p0344-1.jpg'
+            - web 19.html: missing image 'images/p0345-1.jpg'
+            - web 19.html: missing image 'images/p0346-1.jpg'
+            - web 19.html: missing image 'images/p0348-1.jpg'
+            - web 19.html: missing image 'images/p0351-1.jpg'
+            - web 19.html: missing image 'images/p0352-1.jpg'
+            - web 06.html: missing image 'images/p0079-1.jpg'
+            - web 06.html: missing image 'images/p0083-1.jpg'
+            - web 06.html: missing image 'images/p0085-1.jpg'
+            - web 06.html: missing image 'images/p0087-1.jpg'
+            - web 06.html: missing image 'images/p0089-1.jpg'
+            - web 06.html: missing image 'images/p0090-1.jpg'
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[FAIL (30)] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/01.xhtml(10,88): Referenced resource "OEBPS/images/p0010-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/01.xhtml(12,88): Referenced resource "OEBPS/images/p0010-2.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/01.xhtml(17,190): Referenced resource "OEBPS/images/p0009-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/04.xhtml(13,154): Referenced resource "OEBPS/images/p0030-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/04.xhtml(25,169): Referenced resource "OEBPS/images/p0035-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(24,132): Referenced resource "OEBPS/images/p0058-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(33,183): Referenced resource "OEBPS/images/p0060-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(54,158): Referenced resource "OEBPS/images/p0064-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(62,164): Referenced resource "OEBPS/images/p0066-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(64,165): Referenced resource "OEBPS/images/p0067-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(69,147): Referenced resource "OEBPS/images/p0069-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(75,237): Referenced resource "OEBPS/images/p0071-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(87,159): Referenced resource "OEBPS/images/p0074-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(20,165): Referenced resource "OEBPS/images/p0079-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(35,139): Referenced resource "OEBPS/images/p0083-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(42,171): Referenced resource "OEBPS/images/p0085-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(52,183): Referenced resource "OEBPS/images/p0087-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(57,112): Referenced resource "OEBPS/images/p0089-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(58,274): Referenced resource "OEBPS/images/p0090-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(33,128): Referenced resource "OEBPS/images/p0100-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(63,115): Referenced resource "OEBPS/images/p0107-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(65,137): Referenced resource "OEBPS/images/p0108-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(71,107): Referenced resource "OEBPS/images/p0110-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(78,107): Referenced resource "OEBPS/images/p0112-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(93,172): Referenced resource "OEBPS/images/p0116-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(39,172): Referenced resource "OEBPS/images/p0125-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(45,145): Referenced resource "OEBPS/images/p0127-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(51,155): Referenced resource "OEBPS/images/p0129-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(61,215): Referenced resource "OEBPS/images/p0132-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(64,214): Referenced resource "OEBPS/images/p0133-1.jpg" could not be found in the EPUB.
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[ FAIL (1)] audit: book.json records the sampled audit of this version
+            - book.json "audit" must record this version: {"version", "date", "pages", "recall", "real_errors", "fixed"}
+[ look (6)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0021: …e at us wonder-|ingly as we fly… (hyphen removed; check)
+            - hyphen join at p0047: …t; “Daniel Web-|ster,” 40 feet … (hyphen removed; check)
+            - hyphen join at p0231: …red and twenty-|five degrees. W… (hyphen removed; check) — the book prints “twenty-five” elsewhere: keep_hyphens?
+            - hyphen join at p0293: …early start to-|morrow, and try… (hyphen removed; check) — the book prints “to-morrow” elsewhere: keep_hyphens?
+            - hyphen join at p0336: …xpert in pluck-|ing the leaves.… (hyphen removed; check)
+            - (and 22 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[       ok] folios: printed page numbers that break the sequence
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[ look (4)] contents: entries of the printed contents with no matching heading
+            - p0014: 'The voyage—Haleakala—The leper colony—The captain’s dinner—Koko Head—T'
+            - p0015: 'First Impressions of Japan.'
+            - p0018: 'We leave Nikko—Tokyo by night—Novel sights—Fencing school—Asakusa Park'
+            - p0019: 'Miyanoshita—An odd shampooer—Fujiya hotel—Bamboo canes and American cl'
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[ FAIL (1)] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+            - images/cover.jpg is missing (the front cover if the title is clearly readable on it, otherwise the title page)
+[ look (2)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - a: a (p0011, p0012, p0013, p0014, p0015, p0016…); à (p0140)
+            - shogun: shogun (p0183, p0188); shōgun (p0305, p0311, p0336)
+[ look (2)] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+            - p0057: “aud” in …render them comfortable aud contented.
+
+On our right…
+            - p0183: “iu” in …inai uchi wa, ‘kekko’ to iu na!” (“Do not use the wo…
+[ look (4)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0057: “aud” — “and” is common (174077)
+            - p0075: “gracefuliy” — “gracefully” is common (86)
+            - p0085: “indescriable” — “indescribable” is common (60; a letter dropped or transposed?)
+            - p0190: “houshold” — “household” is common (190; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (1)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …su, Niigata, Bange, and Sendai, delayed by floods and rain, before going o…
+[ look (2)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+            - p0097: “bankruptcy It” in …ale, being in a state of bankruptcy It may be purcha…
+            - p0254: “and Then” in …Now and Then we Meet a Ca…
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight FAIL: vacation-days-in-hawaii-and-japan-taylor v1 — 223 to fix, 0 waived; to look at: hyphen-joins 6, contents 4, accents 2, misprints 2, rare-forms 4, serial-commas 1, missing-stop 2 — tools@154a7d27 2026-11-22
