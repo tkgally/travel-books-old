@@ -107,6 +107,14 @@ class Compile(unittest.TestCase):
         self.assertEqual(h, 'he wrote <span lang="ar" dir="rtl">بسم الله</span>, then left')
         self.assertEqual(rh.tag_scripts("Kairwan, 1894"), "Kairwan, 1894")
 
+    def test_han_script_tagged(self):
+        """Chinese characters get lang="zh", a run with kana lang="ja", no dir (A Yankee on the Yangtze, 2026-11-22).
+        Invented text."""
+        h = rh.tag_scripts("天下無難事 there is, said he")
+        self.assertEqual(h, '<span lang="zh">天下無難事</span> there is, said he')
+        self.assertEqual(rh.tag_scripts("the sign 東京 ふじ"), 'the sign <span lang="ja">東京 ふじ</span>')
+        self.assertEqual(rh.tag_scripts("Tokio (no script)"), "Tokio (no script)")
+
     def test_editor_role(self):
         b = {"authors": [{"name": "A. Writer"}, {"name": "E. Ditor", "role": "editor"}]}
         self.assertEqual(rh.authors_text(b), "A. Writer; edited by E. Ditor")

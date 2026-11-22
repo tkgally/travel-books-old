@@ -1,0 +1,74 @@
+{
+ "id": "yankee-yangtze-geil",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "A Yankee on the Yangtze",
+ "subtitle": "Being a Narrative of a Journey from Shanghai through the Central Kingdom to Burma",
+ "short_title": "A Yankee on the Yangtze",
+ "authors": [
+  {
+   "name": "William Edgar Geil",
+   "sort": "Geil, William Edgar",
+   "born": 1865,
+   "died": 1925
+  }
+ ],
+ "place": "London",
+ "publisher": "Hodder and Stoughton",
+ "year": 1904,
+ "source": {
+  "ia_identifier": "yankeeonyangtzeb00geil",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": [
+   0,
+   11,
+   12,
+   445,
+   446,
+   447,
+   448,
+   449
+  ],
+  "extra_leaves": {
+   "p0114a": {
+    "ia_identifier": "yankeeonyangtzeb00geilrich",
+    "n": 106,
+    "what": "plate xxi, missing from the London copy"
+   },
+   "p0114b": {
+    "ia_identifier": "yankeeonyangtzeb00geilrich",
+    "n": 107,
+    "what": "plate xxii, missing from the London copy"
+   },
+   "p0120a": {
+    "ia_identifier": "yankeeonyangtzeb00geilrich",
+    "n": 114,
+    "what": "plate xxiii, missing from the London copy"
+   },
+   "p0120b": {
+    "ia_identifier": "yankeeonyangtzeb00geilrich",
+    "n": 115,
+    "what": "plate xxiv, missing from the London copy"
+   }
+  }
+ },
+ "edition_statement": "First edition (London issue)",
+ "regions": [],
+ "period": "1903",
+ "subjects": [
+  "Yangtze River",
+  "missions",
+  "travel by boat"
+ ],
+ "summary": "",
+ "omitted_from_reading": "",
+ "notes_on_text": [],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "divisions": []
+}

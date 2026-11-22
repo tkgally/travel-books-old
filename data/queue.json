@@ -1492,10 +1492,11 @@
    "place": "London",
    "publisher": "T. Fisher Unwin",
    "images": 376,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "JATSI 205. Rules 1–4 met. Rule 1: Cornell scan of the 1906 London issue (printed in Philadelphia from the 1898 plates), greyscale 300 ppi, legible, halftones good; the 1898 first edition is also at IA (vacationdaysinha00tayl, LoC, colour; vacationdaysinha00tayliala, UC): consider transcribing the first edition (jatsi.md: the edition JATSI lists when a good scan exists). Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page: HathiTrust images only; Wikisource author page links IA only; web search of a sentence). Rule 3: only print-on-demand (British Library 2011, Forgotten Books). Rule 4: first-person day-by-day journal of a three-month tour, Philadelphia to Hawaii and Japan; about two-thirds on Japan. Rule 5 (for the record): Charles Maus Taylor Jr., born 1849; death year not found. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP.",
-   "note": "About 360 pp.; over one hundred illustrations from his camera and sketch book, halftones among the text with small-capital captions, some full-page and sideways: heavy crop work. Present-tense narrative; worn type in places (IA's OCR poor, the scan reads well). Japanese script only on signs in photographs, as far as seen."
+   "eligibility": "JATSI 205. Rules 1–4 met. Rule 1: Cornell scan of the 1906 London issue (printed in Philadelphia from the 1898 plates), greyscale 300 ppi, legible, halftones good; the 1898 first edition is also at IA (vacationdaysinha00tayl, LoC, colour; vacationdaysinha00tayliala, UC): consider transcribing the first edition (jatsi.md: the edition JATSI lists when a good scan exists). Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page: HathiTrust images only; Wikisource author page links IA only; web search of a sentence). Rule 3: only print-on-demand (British Library 2011, Forgotten Books). Rule 4: first-person day-by-day journal of a three-month tour, Philadelphia to Hawaii and Japan; about two-thirds on Japan. Rule 5 (for the record): Charles Maus Taylor Jr., born 1849; death year not found. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP. Re-checked 2026-11-22 (session): the row's searches are from today; the 1906 issue (the edition JATSI lists) has a good scan, so it is the one transcribed (jatsi.md rule 1).",
+   "note": "About 360 pp.; over one hundred illustrations from his camera and sketch book, halftones among the text with small-capital captions, some full-page and sideways: heavy crop work. Present-tense narrative; worn type in places (IA's OCR poor, the scan reads well). Japanese script only on signs in photographs, as far as seen.",
+   "started": "2026-11-22"
   },
   {
    "order": 82,
