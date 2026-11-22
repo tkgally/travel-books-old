@@ -1,0 +1,121 @@
+{
+ "id": "japan-for-a-week-thompson",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Japan for a Week",
+ "subtitle": "Britain for Ever!",
+ "short_title": "Japan for a Week",
+ "authors": [
+  {
+   "name": "A. M. Thompson",
+   "sort": "Thompson, A. M.",
+   "born": 1861,
+   "died": 1948
+  }
+ ],
+ "place": "London and New York",
+ "publisher": "John Lane, The Bodley Head",
+ "year": 1911,
+ "edition_statement": "First edition",
+ "collection": "jatsi",
+ "regions": [
+  "Japan",
+  "China",
+  "Hong Kong",
+  "Russia",
+  "Germany",
+  "Singapore",
+  "Sri Lanka"
+ ],
+ "source": {
+  "ia_identifier": "japanforweekbrit00thomiala",
+  "contributor": "University of California Libraries"
+ },
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "period": "about 1910",
+ "subjects": [
+  "Japan",
+  "China",
+  "Trans-Siberian Railway",
+  "theatre",
+  "British Empire"
+ ],
+ "summary": [
+  "A. M. Thompson, a London journalist and writer of musical plays, went to Japan with the theatre manager Robert Courtneidge to find “local colour” for a Japanese play to follow “The Arcadians”. The party crossed Germany and Russia and took the Trans-Siberian Railway, spent little more than a week in Japan, at Kyoto, Tokyo, Nikko, and the Inland Sea, and came home by Shanghai, Hong Kong, Singapore, and Colombo. The book gives no year.",
+  "The chapters on Japan describe tea-houses, temples, and trains and discuss labour, marriage, commercial honesty, politeness, and the English of Japanese signs. Those on China describe social conditions and the country’s awakening. The last chapters argue for the unity of the English-speaking peoples and warn of German power, ending with a letter from Lord Roberts. Seventeen photographs."
+ ],
+ "divisions": [
+  {
+   "at": "p0007",
+   "kind": "front"
+  },
+  {
+   "at": "p0011",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0013",
+   "kind": "dedication"
+  },
+  {
+   "at": "p0015",
+   "kind": "preface"
+  },
+  {
+   "at": "p0019",
+   "kind": "contents"
+  },
+  {
+   "at": "p0021",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0023",
+   "kind": "front"
+  },
+  {
+   "at": "p0025",
+   "kind": "front",
+   "n": 1
+  },
+  {
+   "at": "p0025",
+   "kind": "chapter",
+   "n": 2
+  },
+  {
+   "at": "p0301",
+   "kind": "index"
+  },
+  {
+   "at": "p0303",
+   "kind": "index"
+  }
+ ],
+ "frontispiece": "p0010-1",
+ "omitted_from_reading": "The half-titles, the printed contents, the list of illustrations, the book title printed above the first chapter, and the index are in the JSON only.",
+ "notes_on_text": [
+  "The chapter titles are printed in italic capitals and small capitals; they are given here in roman upper and lower case.",
+  "The chapter on the English of Japanese signs is headed “Japaneso-English” on its own page and in the running heads, and “Japanese English” in the printed contents; the heading is given as printed."
+ ],
+ "keep_hyphens": [
+  "p0026",
+  "p0107",
+  "p0126",
+  "p0237"
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
+}

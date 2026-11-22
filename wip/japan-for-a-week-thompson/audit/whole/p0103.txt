@@ -1,5 +1,0 @@
-{"given": "The Temples Old Nikko", "print": "The Temples of Old Nikko", "sure": "high"}
-{"given": "sombre and cold as a tunncl.", "print": "sombre and cold as a tunnel.", "sure": "high"}
-{"given": "hats; in gray cotton kimonos", "print": "hats; in grey cotton kimonos", "sure": "high"}
-{"given": "tucked into the waistbelt; revealing elderly", "print": "tucked into the waistbelt, revealing elderly", "sure": "high"}
-{"given": "Through the thick-let avenue of", "print": "Through the thick-set avenue of", "sure": "high"}

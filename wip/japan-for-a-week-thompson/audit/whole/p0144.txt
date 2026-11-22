@@ -1,5 +1,0 @@
-{"given": "Somebody demurred; but the objector", "print": "Somebody demurred, but the objector", "sure": "high"}
-{"given": "balance, callcd in an English", "print": "balance, called in an English", "sure": "high"}
-{"given": "700,000 yen. Be naturally advised", "print": "700,000 yen. He naturally advised", "sure": "high"}
-{"given": "“according to government regulations all", "print": "“according to Government regulations all", "sure": "high"}
-{"given": "a projected line railway where", "print": "a projected line of railway where", "sure": "high"}

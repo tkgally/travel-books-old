@@ -1,0 +1,58 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[ look (9)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0075: … week-end High-|anders from Man… (hyphen removed; check) — the book hyphenates other “high-” words: keep_hyphens?
+            - hyphen join at p0105: …of a carefully-|nurtured miniat… (hyphen removed; check)
+            - hyphen join at p0120: …2 million Brah-|minists, 200 mi… (hyphen removed; check)
+            - hyphen join at p0174: …e student crys-|tallised his in… (hyphen removed; check)
+            - hyphen join at p0194: …effectually de-|stroys the “for… (hyphen removed; check)
+            - hyphen join at p0227: …ting, of litho-|graphy, and the… (hyphen removed; check)
+            - hyphen join at p0243: … of Canton pre-|ferred to tie t… (hyphen removed; check)
+            - hyphen join at p0287: … spluttered ex-|citedly: “They … (hyphen removed; check)
+            - (and 8 joins giving a word the book prints whole elsewhere: not listed)
+[ look (1)] joins: page joins: missing [[cont]]
+            - p0013: no [[cont]] but the page before ends …', LTD. PRINTERS, PLYMOUTH' and this one starts 'to'
+[       ok] folios: printed page numbers that break the sequence
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[ look (2)] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+            - p0126: closing ” with no opening “: 'The latest legislation forbids night-work for children under'
+            - p0232: closing ” with no opening “: 'When the Japanese went to war with Russia, the Chinese laugh'
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[ look (2)] contents: entries of the printed contents with no matching heading
+            - p0019: 'Japanese English 130'
+            - p0020: 'Barbarism and Civilization 167'
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[ look (3)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - grace: grace (p0056, p0096, p0107, p0237); grâce (p0114)
+            - sake: sake (p0120, p0170, p0241); saké (p0116)
+            - tenno: tenno (p0117); tennō (p0166)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (1)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0099: “ranted” — “granted” is common (114; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …A. M. Thompson, a London journalist and writer of musical pl…
+            - book.json summary: …n describe tea-houses, temples, and trains and discuss labour, marr…
+[ look (1)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+            - p0129: “think He” in …ring and prayers, do you think He would make my w…
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: japan-for-a-week-thompson v1 — 0 to fix, 0 waived; to look at: hyphen-joins 9, joins 1, quote-balance 2, contents 2, accents 3, rare-forms 1, serial-commas 2, missing-stop 1 — tools@affe83d3 2026-11-22

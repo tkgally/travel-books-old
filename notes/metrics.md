@@ -138,6 +138,7 @@
 | Zephyrus v2 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 4 waived | as v1 | 1 printed misprint unmarked (review after fifty-five books) |
 | Try Cracow and the Carpathians v1 | 2026-11-22 | 277 | Opus draft → Sonnet corrections (5 word spots) → Opus judge; scan check, 7 crops, spot-read (front matter, appendices, accents; 24 pages) by subagents | 5 | 3 / 2 / 0 | 0 | 27.90 | 0 | PASS, 0 waived | 30/30; 0 / 6 (spot-read: 4 and 3 misprints) | |
 | Journal of a Residence in the Danubian Principalities v1 | 2026-11-22 | 183 | Opus draft → Sonnet corrections (2 word spots) → Opus judge; scan check, contents titles (Sonnet), spot-read (20 pages) by subagents | 2 | 1 / 1 / 0 | 0 | 17.64 | 0 | PASS, 0 waived | 30/30; 0 / 6 (spot-read: 2 and 1 misprint) | |
+| Japan for a Week v1 | 2026-11-22 | 300 | Opus draft → Sonnet corrections (dropped 26 headings) → Opus judge; pages from the draft; scan check, 18 crops, spot-read (about 40 pages) by subagents | 27 | 13 / 5 / 0 (9 could not undo) | 5 (headings the judge dropped with the verifier) | 30.99 | 0 | PASS, 0 waived | 30/30; 0 / 6 (spot-read: 3 and 3 misprints) | |
 
 ## Calibrations
 

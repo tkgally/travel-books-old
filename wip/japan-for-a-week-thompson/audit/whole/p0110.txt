@@ -1,5 +1,0 @@
-{"given": "a vague suggestion its form of", "print": "a vague suggestion in its form of", "sure": "high"}
-{"given": "the sumptuous lacquer bridge; the riotous", "print": "the sumptuous lacquer bridge, the riotous", "sure": "high"}
-{"given": "magnificence in the forcst of mighty", "print": "magnificence in the forest of mighty", "sure": "high"}
-{"given": "And the man who said if is", "print": "And the man who said it is", "sure": "high"}
-{"given": "gaudy tomb in paris!", "print": "gaudy tomb in Paris!", "sure": "high"}
