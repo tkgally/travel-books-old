@@ -1,5 +1,0 @@
-{"given": "larly canada, is growing into", "print": "larly Canada, is growing into", "sure": "high"}
-{"given": "The popular consumption the cheaper Ceylon", "print": "The popular consumption of the cheaper Ceylon", "sure": "high"}
-{"given": "gain a better price; has brought", "print": "gain a better price, has brought", "sure": "high"}
-{"given": "with perbaps a slice or two", "print": "with perhaps a slice or two", "sure": "high"}
-{"given": "than that usually sound in the", "print": "than that usually found in the", "sure": "high"}

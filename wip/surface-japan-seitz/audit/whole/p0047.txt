@@ -1,5 +1,0 @@
-{"given": "threats of hell or hopes of paradize, nor", "print": "threats of hell or hopes of paradise, nor", "sure": "high"}
-{"given": "dead in perpetual puuishment or amid", "print": "dead in perpetual punishment or amid", "sure": "high"}
-{"given": "left to wander vaguely; craving attention", "print": "left to wander vaguely, craving attention", "sure": "high"}
-{"given": "which is situated beside lovely lake called", "print": "which is situated beside the lovely lake called", "sure": "high"}
-{"given": "lasts out the day. Then twilight darkens", "print": "lasts out the day. When twilight darkens", "sure": "high"}

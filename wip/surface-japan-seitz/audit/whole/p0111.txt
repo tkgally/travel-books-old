@@ -1,5 +1,0 @@
-{"given": "a chair to ride or men’s shoulders", "print": "a chair to ride on men’s shoulders", "sure": "high"}
-{"given": "up their plump american burden", "print": "up their plump American burden", "sure": "high"}
-{"given": "so shifting becomes easy as burden irks", "print": "so shifting becomes easy as the burden irks", "sure": "high"}
-{"given": "without stopping or jarriug the passenger", "print": "without stopping or jarring the passenger", "sure": "high"}
-{"given": "sustained by two men; who shift", "print": "sustained by two men, who shift", "sure": "high"}

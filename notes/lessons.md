@@ -122,6 +122,8 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 - *Scouting for Stanley* (1890): 14 printed misprints, 11 of them transposed or dropped letters (“themsleves”, “argeed”, “vegtables”) that neither `misprints` nor `rare-forms` lists; the spot-read's tesseract comparison of every page found them. When preflight lists two or more misprints, ask the spot-read for a full-page tesseract comparison (and a check for such words is a candidate for the next review).
 - An italic word hyphenated across a page break (`<i>Bagh-</i>` | `<i>dad,</i>`) is not joined: put the hyphen outside the closing tag.
 
+- A misprint split by a line-end hyphen (“disre-|pect”) is silently corrected by the draft, the verifier and the judge alike (*Surface Japan* p. 29); only the spot-read's tesseract comparison found it. “Tranquilty” on the same page was listed by no check (no “tranquility” in the collection to compare with).
+
 ## Trigger: broken type
 
 - A damaged corner or edge (*Around the World through Japan* p. 95): draft, verifier, judge and a spot-read all filled the lost words with plausible ones (“away” for *free*, “little” for *shade*); only the two letters typed 〓 showed it. Read such lines from another scan or edition of the same setting (IA OCR text is enough to find the page); otherwise `[[supplied]]`/`[[gap]]`.
@@ -225,6 +227,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 - A book that prints two marks for the long vowel (ō and a tilde-like õ, even in the same word): the draft made most õ into ō (*Land of the Tatami*: 8, and the audit found a ninth). Send the `accents` groups and every õ/ō word to a subagent with enlarged crops.
 - A long quotation in small type that fills whole pages: drafts set the full pages as body text and the part pages as `<blockquote>` (*Gentle Japs*: 4 pages; the compiler warned “[[cont]] with nothing to continue”). Look at each such warning on the scan.
 - Preflight `misprints` lists “iu”: in a Japanese phrase it is a real word (*Gentle Japs* p. 117).
+- Marginal decorations on every page (a bamboo frame and figure sketches “after Hokusai”, *Surface Japan*): the draft marks each as `[[image:]]` (158 in 157 pages), inconsistently; remove them after the judge with a script that keeps the plates by leaf, and say so in `notes_on_text` (Tom asked whether to show them: `preferences.md`).
 - The year of the journey is often not printed: work it out from weekdays given with dates and from what the
   traveller could use (railways), and say in the summary that it is inferred.
 
