@@ -328,6 +328,36 @@ How this was carried out: `RESUME.md` §"How long a session runs", `tools/sessio
 - **Yes: *Uganda for a Holiday* (Treves, 1910) can be published without its folding map**, which is in neither IA
   scan. The book says that the map is missing from the scans (`notes_on_text`).
 
+## 2026-11-22 (seven changes to the editions and the site; a session with Claude Fable, by Tom's choice)
+
+Tom turned the routine off for this session; later scheduled sessions are Opus as before. What is not finished
+goes to the to-do list for those sessions (`RESUME.md`).
+
+1. **A body text without chapter divisions is divided into sections of suitable length, each with a suitable
+   title and each a separate web page** (his example: the *Rajah of Kolhapoor* diary, a single chapter, hard to
+   navigate on one page; the contents on the book's page already had such entries). The division applies to the
+   web, EPUB and ODT versions. **The JSON keeps the original structure** and records the divisions made later.
+2. **The picture on a book's index page links to the start of the narrative**: the first chapter, or the first
+   page of the body text, not a preface, introduction or dedication; the page is scrolled so that "Chapter I"
+   (or whatever it is) is the first line. Retroactively and from now on. **"Read on this site (contents below)"
+   stays the link to the first page of the book** (which becomes the title page: 5).
+3. **Home page:** after "Each can be read on this site or downloaded as EPUB, ODT or JSON." comes "The site now
+   contains XX books, with more being added every day." (XX is always the number on the Books page.) "About the
+   project." becomes "More about the project.", a new paragraph below the one ending "…about Japan than about
+   other countries." The heading "Travel Books" below the carousel is removed (the name is in the header).
+4. **Text written by Claude for the site uses serial commas and curly apostrophes and quotation marks** (not in
+   code excerpts, such as on the page about the JSON format). All present pages fixed, the About page and every
+   book summary included; the convention holds from now on.
+5. **The title page is transcribed in the web, EPUB and ODT versions of every book, as the first page of the
+   book**: the full title, the author's name if it is there, the publisher, the city and so on, as printed;
+   elements centred on the title page are centred. Readers expect a book to begin with its title page, not a
+   preface. **Anything before the title page (half-title, advertisements) stays out of the built versions.**
+6. **A paragraph after an illustration is indented if the scan indents it** (his example: "In the Banda Oriental
+   there is a fixed maximum amount…" in *Zephyrus* was flush left). Paragraph indents follow the scan unless there
+   is a good reason not to.
+7. **The routine's wind-down threshold** (40% of the context) may be raised to 50% or 60% if Opus's accuracy is
+   in no danger.
+
 ## Questions for Tom
 
 - **Side-notes that date the entries of a letter or diary** (*Letters from Southern India & Ceylon*, Williams, 1877; 2026-11-22). The book prints
