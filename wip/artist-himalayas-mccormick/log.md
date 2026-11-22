@@ -14,6 +14,8 @@ Pictures: over 100 sketches in the text, uncaptioned in print (titles only in th
 Scan check: all sheets and about 20 leaves at full size by an Opus subagent 2026-11-22: complete and good.
 
 ## Decisions
+- Pictures: the Sonnet pass set 40 sketches mid-sentence with `[[cont]]` and the draft 19 more without; all moved after their paragraphs by script; the 8 chapter head-sketches moved under the headings. A length comparison of draft and pages found no lost text.
+- Spot-read (Opus subagent: front matter, 13 openings, footnotes, word lists, tesseract comparison of 308 pages, 39 candidates, 1 real): “thc” and “ot” misreadings fixed; folio 84 (p0108); three opening words to capitals as printed; [[cont]] on p0239 (set flush); riding-whip keeps its hyphen; “Drurer” (Dürer) marked [[corr]]; the hand-lettered words in the p0135 sketch put in its description.
 - Cover picture: the front cover (title readable).
 
 ## Runs
