@@ -47,6 +47,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 | A full stop left out in print (“hard work and privation His orders”) copied faithfully by every stage and never marked [*The Golden Dagon*, a reader, issue #117, 2026-11-21; 15 more in 12 books] | preflight `missing-stop` (observe: every item looked at on the scan); test `MissingStop` |
 | A plate's cross-reference (“[*See* page 107.”) or “To face p. N” typed as a line of its own after the caption, so the next page's `[[cont]]` text was right-aligned under the picture [*Uganda for a Holiday*, 3 plates; *Argentine Plains*, 26 lines: caught by the rendered look] | preflight `caption-tail` (observe); test `CaptionTail` |
 | A picture printed above a chapter's title on the same page put at the end of the division before [*Present-Day Japan*, six chapters, 2026-11-22: caught by the rendered look] | preflight `image-before-heading` (observe: move the picture after the title and subtitle); test `ImageBeforeHeading` |
+| A `compile` waiver passed preflight, but test `Books` failed once the book was merged and stopped the deploy of the site; the cause was two footnote tables set as body text (preflight `note-tail`, read and not acted on) [*Brown Men and Women* v1, 2026-11-22] | `publish.py` refuses compile warnings other than hyphen joins; test `test_publish_refuses_compile_warnings`. A table in a footnote is made one line of its note |
 
 ## Always
 

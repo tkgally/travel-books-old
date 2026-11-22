@@ -570,6 +570,14 @@ class ImageInParagraph(unittest.TestCase):
         _, w = compile_book.compile_book(self.dir)
         self.assertTrue(any("not at the top of a page" in x for x in w), w)
 
+    def test_publish_refuses_compile_warnings(self):
+        import publish
+        self.assertEqual(publish.deploy_blockers(self.dir), [])
+        p = os.path.join(self.dir, "pages", "p0005.txt")
+        t = open(p, encoding="utf-8").read()
+        open(p, "w", encoding="utf-8").write(t.replace("[[image: a mill by a river]]\n[[caption]] The Mill.\n\n", "", 1))
+        self.assertTrue(any("not at the top of a page" in x for x in publish.deploy_blockers(self.dir)))
+
 
 class Drive(unittest.TestCase):
     def test_pack_parts_are_independent_and_small(self):

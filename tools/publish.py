@@ -15,6 +15,15 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import preflight  # noqa: E402
+import compile_book  # noqa: E402
+
+
+def deploy_blockers(bookdir):
+    """Compile warnings other than hyphen joins. Test `Books` fails on any of them once the book is in books/,
+    and a failing test stops the deploy of the whole site, so a preflight waiver of `compile` is not enough
+    (*Brown Men and Women* v1, 2026-11-22). Settle the cause in the page files."""
+    _, w = compile_book.compile_book(bookdir)
+    return [x for x in w if not x.startswith("hyphen join")]
 
 
 def record_first_publication(path, slug, version, when):
@@ -41,6 +50,9 @@ def main():
     print(report)
     if verdict != "PASS":
         sys.exit("not published: preflight did not PASS")
+    blockers = deploy_blockers(src)
+    if blockers:
+        sys.exit("not published: compile warnings would fail test Books and stop the deploy:\n  " + "\n  ".join(blockers))
     if src == wip:
         os.makedirs(pub)
         for name in ("book.json", "source.json", "log.md", "pages", "images"):

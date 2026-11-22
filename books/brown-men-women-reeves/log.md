@@ -28,5 +28,6 @@ To take care of: epigraphs (verse) and drop capitals at chapter openings; small-
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-22 | PASS: 0 to fix, 3 waived — tools@d0e08b43 2026-11-22 | 30/30; 0 real / 6 pages | published in the session of 2026-11-22 16:43 UTC (checks for `[[stream]]` had been extended in the session before) |
+| 2 | 2026-11-22 | PASS: 0 to fix, 11 waived (spacing p0037: ditto marks) — tools@3042e043 2026-11-22 | as v1 (text unchanged except listed fixes) | v1 never deployed: test `Books` failed on its three waived compile warnings. Cause in the book: the footnote tables of pp. 25 and 111 (preflight `note-tail`, read but not acted on) were body text, so the paragraphs on p0038 and p0122 could not continue. Tables made one line of their note (as *Mongolia* p. viii), the * note on Niua Tobutabu folded into note 1; [[cont]] dropped at p0143 (after the music pages: a new paragraph, as the editions already showed). Rendered look of both notes. |
 
 ## Known issues

@@ -1,6 +1,6 @@
 {
  "id": "surface-japan-seitz",
- "version": 1,
+ "version": 2,
  "date": "2026-11-22",
  "title": "Surface Japan",
  "subtitle": "Short Notes of a Swift Survey",
@@ -62,9 +62,23 @@
   }
  ],
  "frontispiece": "p0010-1",
+ "editor_images": [
+  {
+   "file": "editor-p0019",
+   "leaf": "p0019",
+   "alt": "Page 1 of the book as printed: the opening text inside a double frame of bamboo canes, with a drawing of a kneeling woman above the title and a man holding up a pole in the margin",
+   "caption": "Page 1, as printed. Every text page of the book is set inside a double frame of bamboo canes, with one or two small figure drawings “after Hokusai” in its margins, used in rotation. The text of this edition leaves the frame and the drawings out. (Picture added for this edition.)"
+  },
+  {
+   "file": "editor-p0160",
+   "leaf": "p0160",
+   "alt": "Page 114 of the book as printed: text inside the double frame of bamboo canes, with a drawing of a man hanging from the frame at the top left and a standing figure at the bottom right",
+   "caption": "Page 114, as printed. Every text page of the book is set inside a double frame of bamboo canes, with one or two small figure drawings “after Hokusai” in its margins, used in rotation. The text of this edition leaves the frame and the drawings out. (Picture added for this edition.)"
+  }
+ ],
  "omitted_from_reading": "The half-title is in the JSON only.",
  "notes_on_text": [
-  "Every text page of the book is printed inside a frame of bamboo canes, with one or two small figure drawings “after Hokusai” in its margins, used in rotation as decoration. The frame and the drawings are left out of this edition; the twenty photographs are included.",
+  "Every text page of the book is printed inside a frame of bamboo canes, with one or two small figure drawings “after Hokusai” in its margins, used in rotation as decoration. The frame and the drawings are left out of the text of this edition; two pages, 1 and 114, are shown as printed before the text, as pictures added by the editor. The twenty photographs are included.",
   "The book has no chapters, only sections separated by a small ornament. The contents entries and the page divisions of the web and EPUB editions, at those breaks, are the editor’s."
  ],
  "history": [
@@ -72,6 +86,11 @@
    "version": 1,
    "date": "2026-11-22",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "Pages 1 and 114 shown as printed, with the bamboo frame and the marginal drawings, as pictures before the text (Tom’s request)."
   }
  ],
  "toc_entries": [
@@ -133,12 +152,13 @@
  ],
  "summary": "Don C. Seitz, an American newspaper manager, made a short visit to Japan in the summer, a year or two before the book appeared in 1911 (the year of the visit is not given), and set down what he saw in short notes, from a paragraph to a few pages each. He lands at Yokohama, stays in Tokyo, calls on Count Okuma at Kodzu, and goes to Kyoto, Kobe and Osaka, the Inland Sea, Nikko, and Hakone. His notes are on customs and dress, women and their work, wrestlers and festivals, the press, poverty and taxes, education, conscription, and Japan’s place in Korea and Manchuria. A few pages give English phrases with their Japanese equivalents. The book has twenty photographs.",
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-22",
   "pages": 6,
   "recall": "30/30",
   "real_errors": 0,
-  "fixed": 0
+  "fixed": 0,
+  "note": "text unchanged except listed fixes"
  },
  "keep_hyphens": [
   "p0047",

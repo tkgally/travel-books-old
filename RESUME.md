@@ -44,11 +44,7 @@ next piece is whatever now comes first here.
    embassy-to-china-staunton (both volumes),
    trans-caspia-shoemaker, via-rhodesia-mansfield, woman-alone-in-the-heart-of-japan-fisher,
    womans-trip-to-alaska-collis, yachting-cruise-wood, zephyrus-edgcumbe.
-   **Surface Japan (Seitz), by Tom's answer of 2026-11-22** (small work, first in the next session): v2 is ready — the
-   key `editor_images` exists (test `EditorImages`), but preflight's `images` check was extended for it in the session
-   that built it, so the next session publishes: redo the two crops and apply the book.json change written out in
-   `books/surface-japan-seitz/log.md` "Known issues", preflight, look at 03.html, `publish.py surface-japan-seitz`.
-   While there, read the other 32 title pages in the build once against their scans when a session has the
+   **Title pages typed line by line:** read the other 32 title pages in the build once against their scans when a session has the
    leaf at hand for another reason; they were typed line by line but were never looked at as pages of the editions.
 3. **A `waiting` book** whose question Tom has answered (`notes/preferences.md`, the queue row, the book log).
    A book Tom set aside to "try again in the future" (`waiting_for` in its queue row) is taken up again once
