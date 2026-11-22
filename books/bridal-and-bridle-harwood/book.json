@@ -1,0 +1,131 @@
+{
+ "id": "bridal-and-bridle-harwood",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "The Bridal and the Bridle; or, Our Honeymoon-Trip in the East, in 1850",
+ "short_title": "The Bridal and the Bridle",
+ "authors": [
+  {
+   "name": "[John Berwick Harwood]",
+   "sort": "Harwood, John Berwick",
+   "born": 1828,
+   "died": 1899
+  }
+ ],
+ "place": "London",
+ "publisher": "Richard Bentley",
+ "year": 1851,
+ "edition_statement": "First edition",
+ "regions": [
+  "Croatia",
+  "Serbia",
+  "Bulgaria",
+  "Turkey"
+ ],
+ "period": "1850",
+ "source": {
+  "ia_identifier": "bridalbridleorou00harwiala",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": []
+ },
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {
+   "at": "p0005",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0007",
+   "kind": "dedication"
+  },
+  {
+   "at": "p0009",
+   "kind": "front",
+   "title": "The Bridal and the Bridle"
+  },
+  {
+   "at": "p0009",
+   "kind": "chapter",
+   "title": "Chapter I",
+   "toc_title": "Chapter I. Paris to Trieste; Fiume; Carlstadt",
+   "n": 2
+  },
+  {
+   "at": "p0040",
+   "kind": "chapter",
+   "title": "Chapter II",
+   "toc_title": "Chapter II. Carlstadt to Semlin and Belgrade"
+  },
+  {
+   "at": "p0077",
+   "kind": "chapter",
+   "title": "Chapter III",
+   "toc_title": "Chapter III. Belgrade; Grojsko; Hassan Pacha Palanka"
+  },
+  {
+   "at": "p0106",
+   "kind": "chapter",
+   "title": "Chapter IV",
+   "toc_title": "Chapter IV. Through Servia to Nissa"
+  },
+  {
+   "at": "p0133",
+   "kind": "chapter",
+   "title": "Chapter V",
+   "toc_title": "Chapter V. Nissa"
+  },
+  {
+   "at": "p0163",
+   "kind": "chapter",
+   "title": "Chapter VI",
+   "toc_title": "Chapter VI. Nissa to Sophia"
+  },
+  {
+   "at": "p0187",
+   "kind": "chapter",
+   "title": "Chapter VII",
+   "toc_title": "Chapter VII. Sophia; the fair at Glioubian"
+  },
+  {
+   "at": "p0213",
+   "kind": "chapter",
+   "title": "Chapter VIII",
+   "toc_title": "Chapter VIII. Over the mountains to Tatar Bazardchick and Philippopoli"
+  },
+  {
+   "at": "p0235",
+   "kind": "chapter",
+   "title": "Chapter IX",
+   "toc_title": "Chapter IX. Philippopoli to Adrianople and Constantinople"
+  }
+ ],
+ "subjects": [
+  "Ottoman Empire",
+  "Balkans",
+  "honeymoons",
+  "travel on horseback"
+ ],
+ "summary": [
+  "In April 1850 an English traveller, newly married in Belgium, set out from Paris with his wife Emily for Constantinople by the overland road. They went through Italy to Trieste and Fiume, by carriage through Croatia and along the Austrian frontier to Semlin and Belgrade, and then on horseback with a courier, guards and baggage horses through Servia and Ottoman Bulgaria to Nissa, Sophia, Philippopoli and Adrianople. The book describes the roads, inns and khans, Austrian frontier officials, Turkish pachas and garrisons, the Christian villagers, gipsies and fellow travellers, often in a joking tone.",
+  "The book was published without the author’s name. It is attributed to John Berwick Harwood, who married Emily Trollope at Ostend in April 1850."
+ ],
+ "omitted_from_reading": "The title page and the line “The Bridal and the Bridle” above Chapter I are in the JSON only.",
+ "notes_on_text": [
+  "The book was published anonymously. The attribution to John Berwick Harwood (1828–1899) is that of library catalogues; the book itself gives the wife’s name, Emily, and the date and place of the wedding, which agree with his marriage to Emily Trollope.",
+  "The book has no printed contents and its chapters have no titles; the places in the contents entries after each chapter number are the editor’s, spelled as the book spells them."
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
+}

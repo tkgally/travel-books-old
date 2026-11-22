@@ -366,6 +366,7 @@ MISPRINTS = {
     "conld", "wonld", "shonld", "bnt", "uot", "fiom", "frorn", "rnore", "liave", "liis", "witli", "wbo", "wliat",
     "tbis", "tliis", "tbey", "tliey", "tbere", "tliere", "tbeir", "tlieir", "witb", "mncb", "mnch", "verv",
     "aaid", "beeu", "tbem", "tliem", "ouly", "anv", "bave",
+    "iustead", "wc", "ofl",                 # *The Bridal and the Bridle* (2026-11-22): found by the spot-read only
 }
 
 

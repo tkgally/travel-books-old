@@ -1,0 +1,8 @@
+judge opus: 7 spots on 7 pages: {'draft': 1, 'verified': 1, 'draft (could not undo: edit by hand)': 5}; cost $0.29
+p0040 #1 [draft, sure: high] draft '## The Busy Bazaars\n\nIn the bazaa' | verified 'In the bazaa' | judge reads '## The Busy Bazaars\n\nIn the bazaa'
+p0099 #1 [verified, sure: low] draft 'holding a fan standing' | verified 'holding a sword standing' | judge reads 'holding a sword standing'
+p0137 #1 [draft (could not undo: edit by hand), sure: high] draft '## The Great Procession of the Shoguns’ Spirits\n\n' | verified '' | judge reads '## The Great Procession of the Shoguns’ Spirits\n\n'
+p0205 #1 [draft (could not undo: edit by hand), sure: high] draft '## <i>The Hot Springs</i>\n\n' | verified '' | judge reads '## <i>The Hot Springs</i>\n\n'
+p0229 #1 [draft (could not undo: edit by hand), sure: high] draft '## <i>An Hour of Agony</i>\n\n' | verified '' | judge reads '## <i>An Hour of Agony</i>\n\n'
+p0241 #1 [draft (could not undo: edit by hand), sure: high] draft '## Back at Kindayu’s Inn\n\n' | verified '' | judge reads '## Back at Kindayu’s Inn\n\n'
+p0343 #1 [draft (could not undo: edit by hand), sure: high] draft '## <i>Artificial Flowers</i>\n\n' | verified '' | judge reads '## <i>Artificial Flowers</i>\n\n'

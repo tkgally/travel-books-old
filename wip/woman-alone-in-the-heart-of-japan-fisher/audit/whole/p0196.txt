@@ -1,0 +1,5 @@
+{"given": "I hurried famed Matsushima, an", "print": "I hurried to famed Matsushima, an", "sure": "high"}
+{"given": "in the deep blue; surrounded by", "print": "in the deep blue, surrounded by", "sure": "high"}
+{"given": "of the present. His is the only", "print": "of the present. This is the only", "sure": "high"}
+{"given": "seals of grotesque carviugs of the", "print": "seals of grotesque carvings of the", "sure": "high"}
+{"given": "A Night Ride on the train", "print": "A Night Ride on the Train", "sure": "high"}

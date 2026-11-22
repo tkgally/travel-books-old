@@ -1,0 +1,79 @@
+{
+ "p0040": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "## The Busy Bazaars\n\nIn the bazaars",
+   "replace": "In the bazaars",
+   "draft": "## The Busy Bazaars\n\nIn the bazaa",
+   "verified": "In the bazaa",
+   "context": "[[page 16]] ⏎  ⏎ ## The Busy Bazaars ⏎  ⏎ In the bazaars one is lost in a Grecian border of roofed stalls with their"
+  }
+ ],
+ "p0099": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "holding a fan standing",
+   "replace": "holding a sword standing",
+   "draft": "holding a fan standing",
+   "verified": "holding a sword standing",
+   "context": "sumo wrestlers crouching face to face, with a robed referee holding a fan standing behind them]] ⏎ [[caption]] The Prelude to a Wrestling Bout ⏎ "
+  }
+ ],
+ "p0137": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "## The Great Procession of the Shoguns’ Spirits\n\n",
+   "replace": "",
+   "draft": "## The Great Procession of the Shoguns’ Spirits\n\n",
+   "verified": "",
+   "context": "[[page 97]] ⏎  ⏎ ## The Great Procession of the Shoguns’ Spirits ⏎  ⏎ Day dawned in glory, and tourists and pilgrims were zealous "
+  }
+ ],
+ "p0205": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "## <i>The Hot Springs</i>\n\n",
+   "replace": "",
+   "draft": "## <i>The Hot Springs</i>\n\n",
+   "verified": "",
+   "context": "[[page 147]] ⏎  ⏎ ## <i>The Hot Springs</i> ⏎  ⏎ Hot springs are the safety-valve of this wild volcanic regio"
+  }
+ ],
+ "p0229": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "## <i>An Hour of Agony</i>\n\n",
+   "replace": "",
+   "draft": "## <i>An Hour of Agony</i>\n\n",
+   "verified": "",
+   "context": "[[page 167]] ⏎  ⏎ ## <i>An Hour of Agony</i> ⏎  ⏎ A trumpet sounded a semi-military note. The deserted village"
+  }
+ ],
+ "p0241": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "## Back at Kindayu’s Inn\n\n",
+   "replace": "",
+   "draft": "## Back at Kindayu’s Inn\n\n",
+   "verified": "",
+   "context": "[[page 177]] ⏎  ⏎ ## Back at Kindayu’s Inn ⏎  ⏎ Never was home more attractive to tired traveller than the c"
+  }
+ ],
+ "p0343": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "## <i>Artificial Flowers</i>\n\n",
+   "replace": "",
+   "draft": "## <i>Artificial Flowers</i>\n\n",
+   "verified": "",
+   "context": "[[page 265]] ⏎  ⏎ ## <i>Artificial Flowers</i> ⏎  ⏎ Imitation is at its best in the flower manufacture. This is "
+  }
+ ]
+}
