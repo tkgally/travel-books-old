@@ -27,8 +27,10 @@
 [       ok] contents: entries of the printed contents with no matching heading
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [look (14)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0007, p0009, p0010, p0011, p0012, p0013…); à (p0049, p0050, p0056, p0062, p0063, p0069…); á (p0110)
             - bab: bâb (p0103, p0124, p0125, p0126, p0127); bāb (p0016)
@@ -44,6 +46,28 @@
             - re: re (p0057, p0144, p0154, p0198, p0262, p0325…); rè (p0057, p0143)
             - si: si (p0057, p0080, p0096, p0113, p0142); sì (p0142, p0143)
             - theatre: theatre (p0015, p0057, p0058, p0062, p0063, p0332); théâtre (p0062)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (9)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0058: “provincia” — “provincial” is common (62; a letter dropped or transposed?)
+            - p0080: “altra” — “altar” is common (204; a letter dropped or transposed?)
+            - p0138: “awing” — “awning” is common (59; a letter dropped or transposed?)
+            - p0141: “intese” — “intense” is common (173; a letter dropped or transposed?)
+            - p0141: “valle” — “valley” is common (1072; a letter dropped or transposed?)
+            - p0141: “latte” — “latter” is common (1122; a letter dropped or transposed?)
+            - p0141: “bere” — “here” is common (3834)
+            - p0142: “persona” — “personal” is common (288; a letter dropped or transposed?)
+            - p0143: “gente” — “gentle” is common (258; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (6)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …er along the Black Sea to Poti, and in midwinter by post-cart and on horseback through…
+            - book.json summary: …ck through Georgia and Armenia, by Tiflis and Erivan, to Tabriz an…
+            - book.json summary: … Armenia, by Tiflis and Erivan, to Tabriz and Tehran, where he liv…
+            - book.json summary: …fahan to Persepolis and Shiraz, and in 1867 west to Kermanshah and Hamadan; in July 186…
+            - book.json summary: …of Tehran and the Shah’s court, Persian government and revenue, the Armenia…
+            - book.json summary: … Armenian church, Zoroastrians, and the Bâb and his followers, with …
+[ look (2)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+            - p0175: “attain His” in …ssist you is God; but to attain His friendship you must…
+            - p0175: “blessings He” in …ould be grateful for the blessings He continually bestows o…
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: journey-through-the-caucasus-mounsey v3 — 0 to fix, 0 waived; to look at: hyphen-joins 5, accents 14 — tools@28b48c1e 2026-11-21
+preflight PASS: journey-through-the-caucasus-mounsey v4 — 0 to fix, 0 waived; to look at: hyphen-joins 5, accents 14, rare-forms 9, serial-commas 6, missing-stop 2 — tools@dc366c71 2026-11-22

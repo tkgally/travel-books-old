@@ -42,4 +42,4 @@
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: japan-a-sailors-visit-cook v2 — 0 to fix, 0 waived; to look at: hyphen-joins 4, contents 2, serial-commas 2 — tools@ed86e62f 2026-11-22
+preflight PASS: japan-a-sailors-visit-cook v3 — 0 to fix, 0 waived; to look at: hyphen-joins 4, contents 2, serial-commas 2 — tools@dc366c71 2026-11-22

@@ -80,6 +80,7 @@ problems: none (every printed page present; the folding map was opened).
 |---|---|---|---|---|
 | 1 | 2026-11-19 | PASS — 0 to fix, 2 waived (leaves p0007 tissue guard, p0008 blank); to look at: hyphen-joins 44, joins 9, contents 1 (all read) — tools@9999377 | 30/30; 0 real errors / 6 pages | first publication; one drawing left out (Thompson) |
 | 4 | 2026-11-21 | corona-and-coronet-todd v4 — 0 to fix, 2 waived; to look at: hyphen-joins 9, joins 1, contents 1, verse-joins 2, accents 7 — tools@28b48c1e 2026-11-21 | as v3 (text unchanged except listed fixes) | p. 255 “tbe” misread for “the” (found by the sweep after issue #100) |
+| 5 | 2026-11-22 | PASS, 0 to fix, 2 waived — tools@dc366c71 | as before | title page typed line by line as printed (from a `#` heading), checked on the scan; `01.html` looked at; no model calls |
 
 | 2 | 2026-11-20 | PASS — 0 to fix, 2 waived; to look at: hyphen-joins 9, joins 9, contents 1 — tools@20307e9 | as v1 (text unchanged) | the plate "Lighthouse on the Beach at Esashi" added: one leaf fetched again from IA (viewer page n420, full size), cropped `0.03,0.125,0.905,0.88 --gray --rotate 270`; looked at in the browser build |
 | 3 | 2026-11-20 | PASS — 0 to fix, 2 waived; to look at: hyphen-joins 9, joins 1, contents 1 — tools@1653f9e | record copied (text unchanged) | subtitle: two straight apostrophes curled (new check site-text, review after fifteen books) |

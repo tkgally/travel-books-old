@@ -38,10 +38,10 @@
             - hacone: hacone (p0007, p0016); haconé (p0230, p0231)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
 [ look (4)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0014: “sau” — “san” is common (209)
-            - p0048: “leau” — “lean” is common (49)
-            - p0237: “potatoe” — “potatoes” is common (106; a letter dropped or transposed?)
-            - p0242: “cambers” — “chambers” is common (55; a letter dropped or transposed?)
+            - p0014: “sau” — “san” is common (211)
+            - p0048: “leau” — “lean” is common (51)
+            - p0237: “potatoe” — “potatoes” is common (117; a letter dropped or transposed?)
+            - p0242: “cambers” — “chambers” is common (56; a letter dropped or transposed?)
 [       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
 [ look (1)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
             - book.json summary: …ut by troopship round the Cape, the book follows the Dwarf along the coast of China and Formosa: Amoy and th…
@@ -49,4 +49,4 @@
             - p0047: “ask His” in …hen needed to those that ask His help earnestly…
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: eastern-seas-bax v2 — 0 to fix, 2 waived; to look at: hyphen-joins 4, folios 1, quote-balance 1, accents 3, rare-forms 4, serial-commas 1, missing-stop 1 — tools@ed86e62f 2026-11-22
+preflight PASS: eastern-seas-bax v3 — 0 to fix, 2 waived; to look at: hyphen-joins 4, folios 1, quote-balance 1, accents 3, rare-forms 4, serial-commas 1, missing-stop 1 — tools@dc366c71 2026-11-22

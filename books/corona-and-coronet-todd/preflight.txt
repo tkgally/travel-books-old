@@ -33,10 +33,12 @@
             - p0017: 'Deep-Sea Yachting by A. C. James'
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [ look (2)] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
             - p0090: verse continued from p0089: stanzas before [10] | here [3] (a stanza ending at the page foot needs no [[cont]])
             - p0186: verse continued from p0185: stanzas before [4] | here [2] (a stanza ending at the page foot needs no [[cont]])
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (7)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0009, p0013, p0014, p0015, p0016, p0017…); à (p0440)
             - canon: canon (p0444); cañon (p0473, p0475, p0481, p0483, p0484, p0492)
@@ -45,6 +47,19 @@
             - general: general (p0014, p0015, p0045, p0064, p0071, p0081…); général (p0444)
             - himiongami: himiongami (p0493); himiōngami (p0287)
             - la: la (p0355, p0357, p0440, p0443, p0444, p0494); là (p0440)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (4)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0135: “tinest” — “finest” is common (259)
+            - p0221: “refections” — “reflections” is common (41; a letter dropped or transposed?)
+            - p0271: “inscribe” — “inscribed” is common (52; a letter dropped or transposed?)
+            - p0444: “batterie” — “batteries” is common (51; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (4)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …Mabel Loomis Todd (1856–1932), writer and one of the first edi…
+            - book.json summary: …oner-yacht Coronet to Honolulu, where they stayed some weeks and visited Hawaii’s vol…
+            - book.json summary: …e summer at Esashi in Hokkaido, where the expedition set up its instruments among Japanese and Ainu villagers and c…
+            - book.json notes_on_text: … fold is missing from the scan, so a few letters near San Francisco and in the title are los…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: corona-and-coronet-todd v4 — 0 to fix, 2 waived; to look at: hyphen-joins 9, joins 1, contents 1, verse-joins 2, accents 7 — tools@28b48c1e 2026-11-21
+preflight PASS: corona-and-coronet-todd v5 — 0 to fix, 2 waived; to look at: hyphen-joins 9, joins 1, contents 1, verse-joins 2, accents 7, rare-forms 4, serial-commas 4 — tools@dc366c71 2026-11-22

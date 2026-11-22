@@ -1,7 +1,7 @@
 {
  "id": "corona-and-coronet-todd",
- "version": 4,
- "date": "2026-11-21",
+ "version": 5,
+ "date": "2026-11-22",
  "title": "Corona and Coronet",
  "subtitle": "Being a Narrative of the Amherst Eclipse Expedition to Japan, in Mr. James’s Schooner-Yacht Coronet, to Observe the Sun’s Total Obscuration, 9th August, 1896",
  "short_title": "Corona and Coronet",
@@ -42,6 +42,11 @@
    "version": 4,
    "date": "2026-11-21",
    "note": "A word misread in transcription corrected: “tbe” for “the” (p. 255)."
+  },
+  {
+   "version": 5,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "regions": [
@@ -131,7 +136,7 @@
   "p0457"
  ],
  "audit": {
-  "version": 4,
+  "version": 5,
   "date": "2026-11-19",
   "pages": 6,
   "recall": "30/30",

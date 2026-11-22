@@ -32,6 +32,7 @@
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
 [       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
 [       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [look (20)] accents: words the book spells with different accents (or with and without): look at each group on the scan
@@ -56,8 +57,19 @@
             - spalato: spalato (p0259, p0262, p0264, p0265, p0266, p0268…); spálato (p0137, p0237, p0238, p0239, p0244, p0245…); spálató (p0248)
             - trau: traù (p0262, p0263, p0265, p0266, p0267, p0274…); traü (p0247)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[       ok] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+[ look (4)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0246: “bassi” — “basis” is common (46; a letter dropped or transposed?)
+            - p0317: “soldi” — “solid” is common (284; a letter dropped or transposed?)
+            - p0361: “bards” — “boards” is common (262; a letter dropped or transposed?)
+            - p0378: “pettiest” — “prettiest” is common (66; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (5)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: … rode through southern Albania, by Delvino and Zitza, to Ioannina a…
+            - book.json summary: … Albania, by Delvino and Zitza, to Ioannina and the mountains of Sul…
+            - book.json summary: …y she went on through Dalmatia, by Spalato and Salona, Sebenico and…
+            - book.json summary: …almatia, by Spalato and Salona, Sebenico and Zara, to Fiume and a…
+            - book.json summary: … and Salona, Sebenico and Zara, to Fiume and along the coast of I…
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: eastern-shores-adriatic-strangford v1 — 0 to fix, 0 waived; to look at: hyphen-joins 8, joins 1, accents 20 — tools@d67dcc4b 2026-11-21
+preflight PASS: eastern-shores-adriatic-strangford v2 — 0 to fix, 0 waived; to look at: hyphen-joins 8, joins 1, accents 20, rare-forms 4, serial-commas 5 — tools@dc366c71 2026-11-22

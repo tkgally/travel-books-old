@@ -61,6 +61,7 @@ sums in "l." italic. No non-Latin script, no side-notes.
 | 1 | 2026-11-20 | PASS — 0 to fix, 0 waived; to look at: hyphen-joins 5 (read) — tools@5aede16 | 30/30; 0 real errors / 6 pages | first publication; spot-read of 21 special pages; rendered look (Opus subagent): book page, preface, ch. I, VIII, XII, XVI, appendix at 390 and 1280, EPUB nav |
 | 2 | 2026-11-20 | PASS — 0 to fix, 0 waived; to look at: hyphen-joins 5 — tools@1653f9e | record copied (text unchanged) | summary: one straight apostrophe curled (new check site-text) |
 | 3 | 2026-11-21 | journey-through-the-caucasus-mounsey v3 — 0 to fix, 0 waived; to look at: hyphen-joins 5, accents 14 — tools@28b48c1e 2026-11-21 | as v2 (text unchanged except listed fixes) | p. 71 printed “tbe” → [[corr]] (sweep after issue #100) |
+| 4 | 2026-11-22 | PASS, 0 to fix, 0 waived — tools@dc366c71 | as before | title page typed line by line as printed (from a `#` heading), checked on the scan; `01.html` looked at; no model calls |
 
 ## Known issues
 - Footnotes printed in two paragraphs (p0057, p0143–p0144) are one paragraph each: the page markup has no paragraph
