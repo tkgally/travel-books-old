@@ -373,6 +373,7 @@ MISPRINTS = {
     "tbis", "tliis", "tbey", "tliey", "tbere", "tliere", "tbeir", "tlieir", "witb", "mncb", "mnch", "verv",
     "aaid", "beeu", "tbem", "tliem", "ouly", "anv", "bave",
     "iustead", "wc", "ofl",                 # *The Bridal and the Bridle* (2026-11-22): found by the spot-read only
+    "th",                                   # “depôt of th Pacific” (*Cordillera and Pampa*, a reader, issue #169)
 }
 
 
@@ -385,6 +386,8 @@ def check_misprints(pages):
         t = re.sub(r"<[^>]+>", "", t)                 # M<sc>c</sc>L<sc>ean</sc> is one word
         for m in re.finditer(WORD, t):
             w = m.group(0)
+            if w.lower() == "th" and (re.search(r"\d\s*$", t[:m.start()]) or t[m.end():m.end() + 1] in ("’", "'")):
+                continue                                # 4<sup>th</sup>, “5 th”; dialect “th’”
             if w.lower() in MISPRINTS and w != "Aud":      # Aud the Deeply Wealthy (*By Fell and Fjord*)
                 out.append(f"{leaf}: “{m.group(0)}” in …{t[max(0, m.start() - 25):m.end() + 25].strip()}…")
     return out

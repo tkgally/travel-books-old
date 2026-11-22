@@ -1629,6 +1629,13 @@ class Misprints(unittest.TestCase):
         pages = [("p0101", "far when, iustead of his overtaking us, wc met him"), ("p0224", "a brazier ofl ive coals")]
         self.assertEqual(len(preflight.check_misprints(pages)), 3)
 
+    def test_th_for_the(self):
+        """*Cordillera and Pampa* “depôt of th Pacific” (a reader, issue #169) and *The Bridal and the Bridle* “was th
+        response”: a letter dropped at a line end. “4<sup>th</sup>” and “th’” (dialect) are not listed."""
+        pages = [("p0017", "the depôt of th Pacific coast"), ("p0097", "was th response"),
+                 ("p0041", "on the 4<sup>th</sup> of May, the 21th day; 5 th. Wi’ th’ lads")]
+        self.assertEqual([i.split(":")[0] for i in preflight.check_misprints(pages)], ["p0017", "p0097"])
+
     def test_observe(self):
         self.assertEqual(preflight.CHECKS["misprints"][0], "observe")
 
