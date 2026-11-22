@@ -90,7 +90,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
   Africa*: the royal arms of the advertisements showed at the end of the last chapter).
 - A plate bound just before the page it faces, where a letter or section begins, ends the division before; `leaf_order` reads it after that page (*A Trip to Mexico*: 3 plates; caught by the rendered look).
 - Tissue guards over plates show the plate or the facing text through: leave them out of the draft (they invite ghost text) and waive each in `leaves`.
-- A picture printed above a chapter's `#` heading (a head-piece photograph) ends the previous chapter unless it is an ornament: put its `[[image:]]` after the heading (*Trans-Caspia* p0166: caught by the rendered look).
+- A picture printed above a chapter's `#` heading (a head-piece photograph) ends the previous chapter unless it is an ornament: put its `[[image:]]` after the heading (*Trans-Caspia* p0166: caught by the rendered look); and after the `[[subtitle]]` line, or the chapter's title drops out of the contents (*An Artist in the Himalayas*: 8 chapters, caught by reading the compiled contents).
 - A `toc_title` written by hand is plain text: its italics are lost.
 - Decorative chapter head-pieces and tail-pieces: drafts mark each as `[[image:]]`; keep them, crop them, list them
   in `book.json` `ornaments` (shown small; Tom, 2026-11-20).

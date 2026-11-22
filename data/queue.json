@@ -1365,11 +1365,13 @@
    "place": "New York",
    "publisher": "Macmillan & Co.",
    "images": 340,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv (only books he illustrated); The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Reprints: Kessinger only; Open Library: the 1895 Macmillan and Unwin editions. Arthur David McCormick 1860–1943; he drew all the illustrations. Not checked: WorldCat. Re-checked 2026-11-22 (session): pg_catalog.csv nothing; web search: facsimile reprints only (Kessinger, BiblioLife); the British Library scan (London, Unwin) has raw OCR only.",
    "note": "Library of Congress scan, 400 ppi. Over 100 of his own sketches set in the text, many small: a heavy crop load. The expedition artist's account of Conway's 1892 Karakoram expedition: Karachi, Srinagar, Gilgit, Hunza-Nagyr, the Hispar and Baltoro glaciers, Skardu to Leh and back to Srinagar. Light and personal.",
-   "started": "2026-11-22"
+   "started": "2026-11-22",
+   "version": 1,
+   "published": "2026-11-22"
   },
   {
    "order": 75,
@@ -1539,6 +1541,126 @@
    "checked": "2026-11-22",
    "eligibility": "JATSI 89. Rules 1–4 met, rule 1 with the map left out (Tom, 2026-11-22: a book missing only a map may be published). Rule 1: only two IA scans, both Google (University of California wanderingswonde01aubegoog, with the portrait frontispiece; Harvard wanderingswonde00aubegoog); text pages clean greyscale; the folding map at the end is scanned folded in both, so it is missing (say so in notes_on_text); the 6 plates not yet checked one by one. Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page; Wikisource author page; web search of a sentence). Rule 3: only print-on-demand (Forgotten Books); not found in the NDL catalogue under Ganesha. Rule 4: first-person narrative of a journey round the world 1888–91, addressed to four friends; ch. XXVI (pp. 262–301) on Japan. Rule 5 (for the record): John James Aubertin 1818–1900. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP.",
    "note": "448 pp. plus 80 pp. of publisher's list (leave out of the reading editions). Portrait frontispiece, 6 plates, folding map missing. A strong, eccentric voice: Ming tombs, camel trains at the Nankou pass, an evening at Sir Robert Hart's. Long (562 images)."
+  },
+  {
+   "order": 84,
+   "ia": "panimain185500tomerich",
+   "slug": "panama-in-1855-tomes",
+   "title": "Panama in 1855: An Account of the Panama Rail-Road, of the Cities of Panama and Aspinwall, with Sketches of Life and Character on the Isthmus",
+   "author": "Robert Tomes",
+   "year": 1855,
+   "place": "New York",
+   "publisher": "Harper & Brothers",
+   "images": 258,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) University of California scan, 500 ppi, jp2 zip present. (2) Not in pg_catalog.csv ('Tomes', 'Panama in'); The Online Books Page: HathiTrust page images only; no web hit for a sentence from the middle ('compounding a draught for a brother Yankee'); Faded Page nothing. Wikisource NOT checked (API rate-limited): check before starting. (3) Open Library: print-on-demand only (Michigan SPO 2005 scan reprint, Nabu-type 2011, Creative Media 2018). (4) First-person account of the inaugural excursion of the Panama Railroad, February 1855. (5) Robert Tomes 1817–1882 (LC heading; Wikipedia). No illustrations.",
+   "note": "Clean library scan; page images not yet looked at. Eight chapters: New York to Aspinwall, the railway ride, Panama, Taboga, the Pearl Islands. Ch. IV ('The Railroad Considered') is about the company; the rest a lively, ironic narrative of the excursion party."
+  },
+  {
+   "order": 85,
+   "ia": "paraorscenesadve00warr",
+   "slug": "para-scenes-adventures-amazon-warren",
+   "title": "Para; or, Scenes and Adventures on the Banks of the Amazon",
+   "author": "John Esaias Warren",
+   "year": 1851,
+   "place": "New York",
+   "publisher": "G. P. Putnam",
+   "images": 288,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) UCLA copy (University of California Libraries), 400 ppi, jp2 zip and scandata. (2) Not in pg_catalog.csv ('Warren, John', 'Para; or'); The Online Books Page: HathiTrust page images only; no web hit for 'Our bloodthirsty feelings being now'; Faded Page nothing. Wikisource NOT checked (rate-limited): check before starting. (3) Open Library: the 1851 Putnam edition only; no reprint found. (4) First-person account of his stay at Pará and excursions to Marajó and up the river. (5) John Esaias Warren 1827–1896 (LC heading; VIAF).",
+   "note": "Library scan, not looked at page by page. A young American's narrative with a companion 'J.': canoe trips, monkeys, fandangos; some natural-history digressions and much shooting of animals. Chapter heads carry summary lines."
+  },
+  {
+   "order": 86,
+   "ia": "cu31924021183177",
+   "slug": "europe-to-paraguay-matto-grosso-mulhall",
+   "title": "From Europe to Paraguay and Matto-Grosso",
+   "author": "Mrs. M. G. Mulhall [Marion McMurrough Mulhall]",
+   "year": 1877,
+   "place": "London",
+   "publisher": "Edward Stanford",
+   "images": 150,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) Cornell (Herbert H. Smith collection) Microsoft/Kirtas scan, 300 ppi, jp2 zip and scandata; the folding map and table of distances on n4–n5 looked at. (2) Not in pg_catalog.csv ('Mulhall'); The Online Books Page: HathiTrust page images only; no web hit for 'There is a kind of spider, perfectly harmless, which clusters like bees'; Faded Page nothing. Wikisource NOT checked (rate-limited). (3) Open Library: the 1877 edition only; no reprint. (4) First-person: Lisbon, Brazil, the River Plate, up the Paraná and Paraguay to Asunción, Corumbá and Cuiabá. (5) Marion McMurrough Mulhall d. 1922 (Atlantipedia; one source only: confirm at the start); her husband Michael G. Mulhall 1836–1900.",
+   "note": "About 120 pages of text; twenty short chapters, often in the present tense. Kirtas scan, near-bilevel but legible; a 'Digitized by Microsoft' footer on every leaf. The aftermath of the Paraguayan war; Guaycurú, Payaguá and Guató Indians; the Jesuit missions; some passages from her husband's notes, Southey and Charlevoix. Keep the map and the distance table."
+  },
+  {
+   "order": 87,
+   "ia": "britishofficerin00hend",
+   "slug": "british-officer-balkans-henderson",
+   "title": "A British Officer in the Balkans: The Account of a Journey through Dalmatia, Montenegro, Turkey in Austria, Magyarland, Bosnia and Hercegovina",
+   "author": "Major Percy E. Henderson (“Selim”)",
+   "year": 1909,
+   "place": "London",
+   "publisher": "Seeley and Co.",
+   "images": 402,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv (full): no English text (PG #27659 is a Dutch translation, not the English book). The Online Books Page, Wikisource: none. Web search of 'Had we been impulsive foreigners we should have fallen upon that old man's neck': nothing. Reprints: Open Library only 1909 Seeley/Lippincott and Creative Media print-on-demand; CiNii 1909 only. Rule 5: Henderson born 1852 (LC authority), death date not found: qualifies by the birth-before-1856 rule. The 50 photographs are the party's own (said in the text). Faded Page not searchable by script.",
+   "note": "University of California scan of the London Seeley issue, 400 ppi; second scan britishofficerin00henduoft (Toronto, Lippincott issue). 50 photographic plates with long captions and a map (map not seen: check it). A retired Indian Army major and companions down the Dalmatian coast, to Cetinje, Mostar, Sarajevo and into Hungary; light and humorous; chapters with summary headings."
+  },
+  {
+   "order": 88,
+   "ia": "koreafromitscapi00gilm",
+   "slug": "korea-from-its-capital-gilmore",
+   "title": "Korea from Its Capital: With a Chapter on Missions",
+   "author": "Rev. George W. Gilmore",
+   "year": 1892,
+   "place": "Philadelphia",
+   "publisher": "Presbyterian Board of Publication and Sabbath-School Work",
+   "images": 368,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv (full): no Gilmore. The Online Books Page, Wikisource: none. Web search of 'Koreans are a dyspeptic folk': nothing. Reprints: print-on-demand only (Read Books 2011, Creative Media/Franklin Classics); an Open Library '1990' entry probably the ATLA microfiche (not verified: check before starting); a Korean translation (1999) does not count; no Kyungin Munhwasa facsimile found. Rule 5: Gilmore 1858–1933 (LC); photographs partly by Rev. H. G. Underwood (1859–1916). Faded Page not searchable.",
+   "note": "Princeton Theological Seminary scan, 500 ppi; frontispiece and 25 plates. Gilmore taught at the government's English school in Seoul 1886–89; first-hand account of the city and people arranged by topic (people, homes, dress, women's work, religion, resources, foreign life), partly from his letters to the New York Evening Post; last chapter on missions. The site has no Korea book yet. Rule 4 note: topical rather than a journey narrative, but first-person and from his own residence."
+  },
+  {
+   "order": 89,
+   "ia": "summerinnorwaywi00cato",
+   "slug": "summer-in-norway-caton",
+   "title": "A Summer in Norway; with Notes on the Industries, Habits, Customs and Peculiarities of the People, the History and Institutions of the Country, Its Climate, Topography and Productions. Also, an Account of the Red-Deer, Reindeer and Elk",
+   "author": "John Dean Caton",
+   "year": 1875,
+   "place": "Chicago",
+   "publisher": "Jansen, McClurg and Company",
+   "images": 430,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv (full): no Caton travel book. The Online Books Page: none. Web search of 'how ingeniously the little rascal had managed to get me to help him over the brook': nothing (distantreader.org has HathiTrust raw OCR: does not count). Reprints: Kessinger, Creative Media, Sagwan (print-on-demand). Rule 5: Caton 1812–1895 (LC). Wikisource NOT checked (rate-limited); Faded Page not searchable.",
+   "note": "Library of Congress scan of the 1875 first edition, 500 ppi; second scan summerinnorwaywi00catoiala (UC, 1880 second edition, adds a map). Portrait frontispiece and a few plates of deer. A former Chief Justice of Illinois in 1874: coastal steamer from Hull to Trondhjem, Hammerfest and the North Cape, Lapp herders near Tromsø, by carriole over the Dovrefjeld to Christiania, home by Stockholm; anecdotal, with long passages of Norse history and natural history."
+  },
+  {
+   "order": 90,
+   "ia": "syriafromsaddle00terh",
+   "slug": "syria-from-the-saddle-terhune",
+   "title": "Syria from the Saddle",
+   "author": "Albert Payson Terhune",
+   "year": 1896,
+   "place": "New York, Boston, Chicago",
+   "publisher": "Silver, Burdett and Company",
+   "images": 332,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) Library of Congress scan, 300 ppi, jp2 zip; page numbers continuous in the OCR. (2) Not in pg_catalog.csv (full); The Online Books Page: HathiTrust page images only; exact-phrase searches of two sentences (ch. XIII–XIV): nothing; Qatar National Library: scan and OCR only. NOT CHECKED: Wikisource (rate-limited), Faded Page, a Terhune fan bibliography page at math.ttu.edu (403; probably a description, look before starting). (3) Print-on-demand only (Franklin Classics, Creative Media, Legare Street, British Library HPE, Forgotten Books). (4) First-person: his ride through Lebanon, Damascus, the Hauran, Galilee, Samaria, Jerusalem, Bethlehem, Jericho and the Dead Sea, late 1893. (5) Terhune 1872–1942; illustrations uncredited, apparently his own photographs.",
+   "note": "LoC scan, 300 ppi; 318 pp, 33 short chapters, about 40 photographs. The author aged 21, with a dragoman David: Druze and Bedouin camps, a camp thief, a Syrian wedding, Christmas at Bethlehem. Plain and lively."
+  },
+  {
+   "order": 91,
+   "ia": "insavageafricaor00glavrich",
+   "slug": "in-savage-africa-glave",
+   "title": "In Savage Africa: or, Six Years of Adventure in Congo-Land",
+   "author": "E. J. Glave",
+   "year": 1892,
+   "place": "New York",
+   "publisher": "R. H. Russell & Son",
+   "images": 262,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) University of California scan, 500 ppi, jp2 zip; page numbers continuous. (2) Not in pg_catalog.csv (full); The Online Books Page: scans only; Wikisource: nothing; exact-phrase search of a sentence from ch. V: nothing; Faded Page not checked. (3) Print-on-demand only (Kessinger, Franklin Classics, Creative Media, Forgotten Books). (4) First-person: six years (1883–89) as a station chief on the Congo under Stanley. (5) Glave 1863–1895; introduction by H. M. Stanley (1841–1904); illustrations by the author, Otto H. Bacher (1856–1909), F. A. Bridgman (1847–1928), V. Gribayedoff (1858–1908), E. W. Kemble (1861–1933), I. Walton Taber (c.1857–1933): Bacher's and Gribayedoff's dates to be confirmed at the start.",
+   "note": "UC scan, 500 ppi; 247 pp, 12 chapters, many text illustrations, a map and a portrait. Lukolela and Bolobo: hunting, palm wine, slave raids, Tippu Tib; parts first in the Century Magazine. London issue: Six Years of Adventure in Congo-Land (1893). Contains the period's language about Africans."
   }
  ],
  "rejected": [
@@ -2110,6 +2232,21 @@
   {
    "title": "Bisiker, Across Iceland; Symington, Pen and Pencil Sketches of Faröe and Iceland; Pliny Miles, Norðurfari; Crosse, Round about the Carpathians; W. H. Knight, Diary of a Pedestrian in Cashmere and Thibet; Millington, To Lhassa at Last; Kendall, A Wayfarer in China; F. Moore, The Balkan Trail; Mrs Whitwell, Through Bosnia and Herzegovina with a Paint Brush; R. H. R., Rambles in Istria; Richardson, Vacation Days in Greece",
    "why": "on Project Gutenberg",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Simson, Travels in the Wilds of Ecuador (author's dates not found; a reserve if found); Smyth & Lowe, Journey from Lima to Para (Cambridge Library Collection reprint); Humphrey, A Summer Journey to Brazil (Gutenberg); Stewart, Brazil and La Plata (Gutenberg); Clark, Twelve Months in Peru (author unidentified, compiled); Cole, The Peruvians at Home (compiled chapters)",
+   "why": "vetted 2026-11-22 by an Opus subagent: the reasons in the title",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Weeks, From the Black Sea through Persia and India (Long Riders' Guild reset); Younghusband, The Philippines and Round About (NHI Manila 2004); T. Stevens, Through Russia on a Mustang (Arno 1970); Cavendish, Korea and the Sacred White Mountain and Carles, Life in Corea (Kyungin 2001); Child, The Pearl of Asia (Adamant 2005); Pryer, A Decade in Borneo (Leicester UP 2001); Cator, Everyday Life among the Head-Hunters (dates); Sommerville, Siam on the Meinam (72-ppi scan only); Cort, Siam (compiled); Higginson, Java (not a journey); Knight, Albania; Worsfold, A Visit to Java; Russel, A Woman's Journey through the Philippines; Miln, Quaint Korea; Hapgood, Russian Rambles; Pritchett, Gamle Norge; Ladd, In Korea with Marquis Ito; Conger, An Ohio Woman in the Philippines; J. E. Stevens, Yesterdays in the Philippines; Dauncey, An Englishwoman in the Philippines; Evans, Through Bosnia and the Herzegóvina on Foot (Gutenberg)",
+   "why": "vetted 2026-11-22 by an Opus subagent: reprinted, on Project Gutenberg, or as in the title",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Gleichen, With the Mission to Menelik (Gregg 1968); Vivian, Abyssinia (Negro Universities Press 1969); Dufton, Journey through Abyssinia (NUP 1970); Larymore, A Resident's Wife in Nigeria (Gutenberg); Melly, Khartoum and the Blue and White Niles (Gutenberg); Hadji Khan and Sparroy, With the Pilgrims to Mecca (Gutenberg); Hallé, To Menelek in a Motor-Car (not his own journey); Vischer, Across the Sahara (Darf 1995); Sykes, Dar-ul-Islam (Darf); Hutchinson, Impressions of Western Africa (Cass 1970); C. H. Robinson, Hausaland (Cambridge Library Collection); Oliphant, Haifa (reprinted 1976); W. B. Harris, A Journey through the Yemen (Hyperion 1985); R. Campbell, A Pilgrimage to My Motherland (1971 reprint); M. E. Rogers, Domestic Life in Palestine (Kegan Paul 1989); Inchbold, Under the Syrian Sun (Gorgias 2004); Wavell, A Modern Pilgrim in Mecca (reissued 1918); H. Ward, Five Years with the Congo Cannibals (illustrator Pérard d. 1957?); Mackintosh, Damascus and Its People (author unidentified)",
+   "why": "vetted 2026-11-22 by an Opus subagent: as in the title",
    "checked": "2026-11-22"
   }
  ]
