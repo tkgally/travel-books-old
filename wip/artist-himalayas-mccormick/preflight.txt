@@ -12,8 +12,7 @@
 [       ok] nav: contents: at least one reading division; each has a title and text
 [       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
 [       ok] odt: LibreOffice opens the ODT and converts it to PDF
-[ FAIL (1)] audit: book.json records the sampled audit of this version
-            - book.json "audit" must record this version: {"version", "date", "pages", "recall", "real_errors", "fixed"}
+[       ok] audit: book.json records the sampled audit of this version
 [ look (4)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
             - hyphen join at p0148: …ghting and dis-|regard for life… (hyphen removed; check)
             - hyphen join at p0208: … and while wel-|coming and cong… (hyphen removed; check)
@@ -50,4 +49,4 @@
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight FAIL: artist-himalayas-mccormick v1 — 1 to fix, 3 waived; to look at: hyphen-joins 4, joins 3, rare-forms 6, serial-commas 2 — tools@f4fd2ed9 2026-11-22
+preflight PASS: artist-himalayas-mccormick v1 — 0 to fix, 3 waived; to look at: hyphen-joins 4, joins 3, rare-forms 6, serial-commas 2 — tools@4b89be98 2026-11-22
