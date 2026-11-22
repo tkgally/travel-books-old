@@ -1,5 +1,0 @@
-{"given": "lages, slanghtered people and general", "print": "lages, slaughtered people and general", "sure": "high"}
-{"given": "we go to a village take slaves", "print": "we go to a village to take slaves", "sure": "high"}
-{"given": "take them peaceably; but if the", "print": "take them peaceably, but if the", "sure": "high"}
-{"given": "ivory is scarce, and when, to prevent", "print": "ivory is scarce, and then, to prevent", "sure": "high"}
-{"given": "I once brought a mnyamwezi girl", "print": "I once brought a Mnyamwezi girl", "sure": "high"}

@@ -1167,11 +1167,13 @@
    "place": "New York",
    "publisher": "Cassell Publishing Company",
    "images": 348,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-21",
    "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (only his bicycle books); The Online Books Page: nothing; Wikisource author page lists it with an external scan only; Open Library and web: print-on-demand only (Franklin Classics, Wentworth, Legare Street, Kessinger). Stevens 1854–1935. Photographs, no artist named. Risk: Negro Universities Press reprinted many Africa books in the 1960s–70s; WorldCat not checked — check before starting. Not checked: Faded Page. Re-checked 2026-11-22: web search for reprints (Negro Universities Press, Books for Libraries and others): none; only print on demand (Kessinger 2010, Wentworth 2019, Legare Street 2022). Scan check passed (Opus subagent).",
    "note": "UCLA scan, JP2. About 288 pp., 18 chapters, 16 photographic plates. A New York World correspondent in 1889: Zanzibar and Mombasa, Taveta and Kilimanjaro, Masai-land hunting with Dr W. L. Abbott, held on parole by the Germans, then inland to reach Stanley and Emin Pasha and march with them to Bagamoyo.",
-   "started": "2026-11-22"
+   "started": "2026-11-22",
+   "version": 1,
+   "published": "2026-11-22"
   },
   {
    "order": 64,

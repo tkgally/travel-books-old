@@ -1,5 +1,0 @@
-{"given": "innocent of guile; straightway fell", "print": "innocent of guile, straightway fell", "sure": "high"}
-{"given": "and sound himself a captive", "print": "and found himself a captive", "sure": "high"}
-{"given": "What a fisherman’s paradize!—but look!", "print": "What a fisherman’s paradise!—but look!", "sure": "high"}
-{"given": "but so distorted by water as", "print": "but so distorted by the water as", "sure": "high"}
-{"given": "in this isolated cratcr lake, had", "print": "in this isolated crater lake, had", "sure": "high"}

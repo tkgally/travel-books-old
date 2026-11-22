@@ -113,6 +113,11 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 - Scans of old multi-volume sets: the scan check found a missing first page of text and a missing frontispiece
   (UC copy) that IA's own page numbers did not show; another library's scan supplied them page by page.
 
+## Trigger: a carelessly printed book
+
+- *Scouting for Stanley* (1890): 14 printed misprints, 11 of them transposed or dropped letters (“themsleves”, “argeed”, “vegtables”) that neither `misprints` nor `rare-forms` lists; the spot-read's tesseract comparison of every page found them. When preflight lists two or more misprints, ask the spot-read for a full-page tesseract comparison (and a check for such words is a candidate for the next review).
+- An italic word hyphenated across a page break (`<i>Bagh-</i>` | `<i>dad,</i>`) is not joined: put the hyphen outside the closing tag.
+
 ## Trigger: broken type
 
 - A damaged corner or edge (*Around the World through Japan* p. 95): draft, verifier, judge and a spot-read all filled the lost words with plausible ones (“away” for *free*, “little” for *shade*); only the two letters typed 〓 showed it. Read such lines from another scan or edition of the same setting (IA OCR text is enough to find the page); otherwise `[[supplied]]`/`[[gap]]`.

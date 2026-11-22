@@ -1,5 +1,0 @@
-{"given": "of all african game—save in", "print": "of all African game—save in", "sure": "high"}
-{"given": "grizzly bear, and wound him with", "print": "grizzly bear, and to wound him with", "sure": "high"}
-{"given": "he has no valnable robe on", "print": "he has no valuable robe on", "sure": "high"}
-{"given": "another point in this favor against", "print": "another point in his favor against", "sure": "high"}
-{"given": "on the plains to graze; and usually", "print": "on the plains to graze, and usually", "sure": "medium"}

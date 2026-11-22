@@ -1,5 +1,0 @@
-{"given": "when Suliman hassan, who carried", "print": "when Suliman Hassan, who carried", "sure": "high"}
-{"given": "Only in ignorauce or accident", "print": "Only in ignorance or accident", "sure": "high"}
-{"given": "startled by tremendous crashing in", "print": "startled by a tremendous crashing in", "sure": "high"}
-{"given": "through the wait-a-bits; and breaking", "print": "through the wait-a-bits, and breaking", "sure": "high"}
-{"given": "the fact that be might", "print": "the fact that he might", "sure": "high"}
