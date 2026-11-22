@@ -1,0 +1,278 @@
+{
+ "p0022": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page x]]",
+   "replace": "[[page X]]",
+   "draft": "[[page x]]",
+   "verified": "[[page X]]",
+   "context": "[[page x]] ⏎  ⏎ [[center]] XVIII. ⏎  ⏎ Hong Kong,[[fnref *]] Canton, and Macao"
+  }
+ ],
+ "p0037": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "MY last",
+   "replace": "M<sc>y</sc> last",
+   "draft": "MY last",
+   "verified": "M<sc>y</sc> last",
+   "context": "on spa, england.</sc> ⏎  ⏎ [[right]] <i>October 22d, 1885.</i> ⏎  ⏎ MY last closed on October 17th, as we were steaming through the Iri"
+  }
+ ],
+ "p0054": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "noislessly",
+   "replace": "noiselessly",
+   "draft": "noislessly",
+   "verified": "noiselessly",
+   "context": "tended at table, performed their duties, and moved about so noislessly that their presence was hardly perceived, and to my taste, "
+  }
+ ],
+ "p0059": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THE above caption",
+   "replace": "T<sc>he</sc> above caption",
+   "draft": "THE above capti",
+   "verified": "T<sc>he</sc> above capti",
+   "context": ", venice, italy.</sc> ⏎  ⏎ [[right]] <i>December 2d, 1885.</i> ⏎  ⏎ THE above caption gives the locality from which I write, and will convey to y"
+  }
+ ],
+ "p0062": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "crosses the Atlantic—is",
+   "replace": "crosses the Atantic—is",
+   "draft": "osses the Atlantic—is",
+   "verified": "osses the Atantic—is",
+   "context": "gage, too—which, by the by, becomes “luggage” as soon as it crosses the Atlantic—is also an expensive luxury. My trunk, weighing about 100 poun"
+  }
+ ],
+ "p0077": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "IT is not often",
+   "replace": "I<sc>t</sc> is not often",
+   "draft": "IT is not ofte",
+   "verified": "I<sc>t</sc> is not ofte",
+   "context": "ion.</sc>”) ⏎  ⏎ [[right]] <i>Sunday, December 20th, 1885.</i> ⏎  ⏎ IT is not often that a Long Island man crosses the line of “no variation,” "
+  }
+ ],
+ "p0094": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "I PROMISED you",
+   "replace": "I <sc>promised</sc> you",
+   "draft": "I PROMISED you",
+   "verified": "I <sc>promised</sc> you",
+   "context": "india.</sc> ⏎  ⏎ [[right]] <i>Tuesday, December, 30,</i> 1885. ⏎  ⏎ I PROMISED you a few items, from some point in my journey to the East, and"
+  }
+ ],
+ "p0103": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THE ride from",
+   "replace": "T<sc>he</sc> ride from",
+   "draft": "THE ride from",
+   "verified": "T<sc>he</sc> ride from",
+   "context": "7 e., temp.</sc> 63°. ⏎  ⏎ [[right]] <i>January 8th, 1886.</i> ⏎  ⏎ THE ride from Bombay to this place, which we reached on the 3d inst., pro"
+  }
+ ],
+ "p0128": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "at this seaon,",
+   "replace": "at this season,",
+   "draft": "at this seaon,",
+   "verified": "at this season,",
+   "context": "of the large rivers Beas and Sutlej, both comparatively dry at this seaon, but indicating from their wide and sandy beds the enormous "
+  }
+ ],
+ "p0131": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "<sc>a. m</sc>, lunch",
+   "replace": "<sc>a. m.</sc>, lunch",
+   "draft": "<sc>a. m</sc>, lunch",
+   "verified": "<sc>a. m.</sc>, lunch",
+   "context": "00. The hours as established are: Breakfast from 8:30 to 10 <sc>a. m</sc>, lunch from 1 to 3 <sc>p.m.</sc>, and dinner at 8 <sc>p. m.</sc> C"
+  }
+ ],
+ "p0141": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>laurie's hotel. agra, temp. in shade, 62°.</sc>",
+   "replace": "<sc>Laurie's Hotel. Agra, Temp. in Shade, 62°.</sc>",
+   "draft": "<sc>laurie's hotel. agra, temp. in shade, 62°.</",
+   "verified": "<sc>Laurie's Hotel. Agra, Temp. in Shade, 62°.</",
+   "context": "[[page ?]] ⏎  ⏎ # XII. ⏎  ⏎ [[subtitle]] Delhi to Agra. ⏎  ⏎ [[right]] <sc>laurie's hotel. agra, temp. in shade, 62°.</sc> ⏎  ⏎ [[right]] <i>January 27th, 1886.</i> ⏎  ⏎ REALISING that there"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "REALISING that",
+   "replace": "R<sc>ealising</sc> that",
+   "draft": "REALISING that",
+   "verified": "R<sc>ealising</sc> that",
+   "context": " in Shade, 62°.</sc> ⏎  ⏎ [[right]] <i>January 27th, 1886.</i> ⏎  ⏎ REALISING that there would be a crowd at the railway station, I left camp "
+  }
+ ],
+ "p0157": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>clark’s hotel,</sc>",
+   "replace": "<sc>Clark’s Hotel,</sc>",
+   "draft": "<sc>clark’s hotel,</sc>",
+   "verified": "<sc>Clark’s Hotel,</sc>",
+   "context": "page ?]] ⏎  ⏎ # XIII. ⏎  ⏎ [[subtitle]] Agra to Benares. ⏎  ⏎ [[right]] <sc>clark’s hotel,</sc> ⏎  ⏎ [[right]] <sc>holy hindoo city of benares,</sc> ⏎  ⏎ [[right]]"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "<sc>holy hindoo city of benares,</sc>",
+   "replace": "<sc>Holy Hindoo City of Benares,</sc>",
+   "draft": "<sc>holy hindoo city of benares,</sc>",
+   "verified": "<sc>Holy Hindoo City of Benares,</sc>",
+   "context": "a to Benares. ⏎  ⏎ [[right]] <sc>Clark’s Hotel,</sc> ⏎  ⏎ [[right]] <sc>holy hindoo city of benares,</sc> ⏎  ⏎ [[right]] <i>January 31st, 1886.</i> ⏎  ⏎ COMING directly from"
+  }
+ ],
+ "p0161": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "meaning, but I respectfully",
+   "replace": "meaning, but, I respectfully",
+   "draft": "meaning, but I respectfu",
+   "verified": "meaning, but, I respectfu",
+   "context": "the wearer, I should go into a further explanation of their meaning, but I respectfully decline—it being a subject beyond my comprehension. Various"
+  }
+ ],
+ "p0171": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "plants. and the young",
+   "replace": "plants, and the young",
+   "draft": "plants. and the you",
+   "verified": "plants, and the you",
+   "context": "ter heat than black tea. Both teas are picked from the same plants. and the young and tender leaves give the best article. As tea can be grow"
+  }
+ ],
+ "p0186": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>austrio-hungarian steamer “argo”,</sc>",
+   "replace": "<sc>Austrio-Hungarian steamer “Argo”,</sc>",
+   "draft": "<sc>austrio-hungarian steamer “argo”,</sc>",
+   "verified": "<sc>Austrio-Hungarian steamer “Argo”,</sc>",
+   "context": "page ?]] ⏎  ⏎ # XVI. ⏎  ⏎ [[subtitle]] Madras to Ceylon. ⏎  ⏎ [[right]] <sc>austrio-hungarian steamer “argo”,</sc> ⏎  ⏎ [[right]] <sc>nearing colombo, ceylon.</sc> ⏎  ⏎ [[right]] <sc"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "<sc>nearing colombo, ceylon.</sc>",
+   "replace": "<sc>Nearing Colombo, Çeylon.</sc>",
+   "draft": "<sc>nearing colombo, ceylon.</sc>",
+   "verified": "<sc>Nearing Colombo, Çeylon.</sc>",
+   "context": "ght]] <sc>Austrio-Hungarian steamer “Argo”,</sc> ⏎  ⏎ [[right]] <sc>nearing colombo, ceylon.</sc> ⏎  ⏎ [[right]] <sc>temp. in shade,</sc> 80°. ⏎  ⏎ [[right]] <i>Febr"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "<sc>temp. in shade,</sc>",
+   "replace": "<sc>Temp. in shade,</sc>",
+   "draft": "<sc>temp. in shad",
+   "verified": "<sc>Temp. in shad",
+   "context": "sc> ⏎  ⏎ [[right]] <sc>Nearing Colombo, Çeylon.</sc> ⏎  ⏎ [[right]] <sc>temp. in shade,</sc> 80°. ⏎  ⏎ [[right]] <i>February 19th, 1886.</i> ⏎  ⏎ OUR stay in Ma"
+  },
+  {
+   "n": 4,
+   "kind": "words",
+   "find": "OUR stay",
+   "replace": "O<sc>ur</sc> stay",
+   "draft": "OUR stay",
+   "verified": "O<sc>ur</sc> stay",
+   "context": "in shade,</sc> 80°. ⏎  ⏎ [[right]] <i>February 19th, 1886.</i> ⏎  ⏎ OUR stay in Madras was longer than anticipated (being some twenty-tw"
+  }
+ ],
+ "p0203": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "constructed, We reach",
+   "replace": "constructed. We reach",
+   "draft": "constructed, We reach",
+   "verified": "constructed. We reach",
+   "context": "nt harbor, Singapore, where extensive earth-works have been constructed, We reach that port early to-morrow, and, as we take on quite a large"
+  }
+ ],
+ "p0208": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "AS predicted",
+   "replace": "A<sc>s</sc> predicted",
+   "draft": "AS predicted",
+   "verified": "A<sc>s</sc> predicted",
+   "context": " 65° <sc>and</sc> 70°. ⏎  ⏎ [[right]] <i>March 21st, 1886.</i> ⏎  ⏎ AS predicted in my last, land was sighted very early on the morning of t"
+  }
+ ],
+ "p0227": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "FROM the caption",
+   "replace": "F<sc>rom</sc> the caption",
+   "draft": "FROM the caption",
+   "verified": "F<sc>rom</sc> the caption",
+   "context": " temperature 55°.,</sc> ⏎  ⏎ [[right]] <i>March 25th 1886.</i> ⏎  ⏎ FROM the caption of this you will learn I'm now traveling in a French steame"
+  }
+ ],
+ "p0246": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "such as tea, melon",
+   "replace": "such as tea; melon",
+   "draft": "such as tea, melon",
+   "verified": "such as tea; melon",
+   "context": " given a choice seat, asked to partake of some refreshment, such as tea, melon seeds, preserved fruits and cakes, and treated with every c"
+  }
+ ],
+ "p0274": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THERE is a Japanese",
+   "replace": "T<sc>here</sc> is a Japanese",
+   "draft": "THERE is a Japane",
+   "verified": "T<sc>here</sc> is a Japane",
+   "context": "kko (sun’s brightness), japan,</sc> <i>May 18th, 1886.</i> ⏎  ⏎ THERE is a Japanese saying, “Until you have seen Nikko don’t say ‘Kekko’”—grand"
+  }
+ ],
+ "p0320": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "a long time, we continued",
+   "replace": "a long time we continued",
+   "draft": "a long time, we continue",
+   "verified": "a long time we continue",
+   "context": "utiful a rainbow as I've ever beheld. After admiring it for a long time, we continued on up the stream and stopped upon a graceful wooden bridge "
+  }
+ ]
+}

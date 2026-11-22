@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "<sc>laurie's hotel. agra, temp. in shade, 62°.</", "sure": "medium"}
+{"n": 2, "is": "B", "print": "REALISING that", "sure": "medium"}

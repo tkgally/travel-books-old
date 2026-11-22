@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "<sc>clark’s hotel,</sc>", "sure": "medium"}
+{"n": 2, "is": "A", "print": "<sc>holy hindoo city of benares,</sc>", "sure": "medium"}

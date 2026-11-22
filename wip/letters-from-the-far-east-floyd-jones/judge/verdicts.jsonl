@@ -1,0 +1,26 @@
+{"page": "p0022", "n": 1, "who": "verified", "draft": "[[page x]]", "verified": "[[page X]]", "judge": {"n": 1, "is": "A", "print": "[[page X]]", "sure": "low"}}
+{"page": "p0037", "n": 1, "who": "draft", "draft": "MY last", "verified": "M<sc>y</sc> last", "judge": {"n": 1, "is": "B", "print": "MY last", "sure": "medium"}}
+{"page": "p0054", "n": 1, "who": "draft", "draft": "noislessly", "verified": "noiselessly", "judge": {"n": 1, "is": "A", "print": "noislessly", "sure": "high"}}
+{"page": "p0059", "n": 1, "who": "draft", "draft": "THE above capti", "verified": "T<sc>he</sc> above capti", "judge": {"n": 1, "is": "B", "print": "THE above capti", "sure": "medium"}}
+{"page": "p0062", "n": 1, "who": "verified", "draft": "osses the Atlantic—is", "verified": "osses the Atantic—is", "judge": {"n": 1, "is": "A", "print": "osses the Atantic—is", "sure": "high"}}
+{"page": "p0077", "n": 1, "who": "draft", "draft": "IT is not ofte", "verified": "I<sc>t</sc> is not ofte", "judge": {"n": 1, "is": "B", "print": "IT is not ofte", "sure": "high"}}
+{"page": "p0094", "n": 1, "who": "draft", "draft": "I PROMISED you", "verified": "I <sc>promised</sc> you", "judge": {"n": 1, "is": "B", "print": "I PROMISED you", "sure": "medium"}}
+{"page": "p0103", "n": 1, "who": "draft", "draft": "THE ride from", "verified": "T<sc>he</sc> ride from", "judge": {"n": 1, "is": "A", "print": "THE ride from", "sure": "medium"}}
+{"page": "p0128", "n": 1, "who": "draft", "draft": "at this seaon,", "verified": "at this season,", "judge": {"n": 1, "is": "B", "print": "at this seaon,", "sure": "high"}}
+{"page": "p0131", "n": 1, "who": "draft", "draft": "<sc>a. m</sc>, lunch", "verified": "<sc>a. m.</sc>, lunch", "judge": {"n": 1, "is": "B", "print": "<sc>a. m</sc>, lunch", "sure": "medium"}}
+{"page": "p0141", "n": 1, "who": "draft", "draft": "<sc>laurie's hotel. agra, temp. in shade, 62°.</", "verified": "<sc>Laurie's Hotel. Agra, Temp. in Shade, 62°.</", "judge": {"n": 1, "is": "B", "print": "<sc>laurie's hotel. agra, temp. in shade, 62°.</", "sure": "medium"}}
+{"page": "p0141", "n": 2, "who": "draft", "draft": "REALISING that", "verified": "R<sc>ealising</sc> that", "judge": {"n": 2, "is": "B", "print": "REALISING that", "sure": "medium"}}
+{"page": "p0157", "n": 1, "who": "draft", "draft": "<sc>clark’s hotel,</sc>", "verified": "<sc>Clark’s Hotel,</sc>", "judge": {"n": 1, "is": "B", "print": "<sc>clark’s hotel,</sc>", "sure": "medium"}}
+{"page": "p0157", "n": 2, "who": "draft", "draft": "<sc>holy hindoo city of benares,</sc>", "verified": "<sc>Holy Hindoo City of Benares,</sc>", "judge": {"n": 2, "is": "A", "print": "<sc>holy hindoo city of benares,</sc>", "sure": "medium"}}
+{"page": "p0161", "n": 1, "who": "verified", "draft": "meaning, but I respectfu", "verified": "meaning, but, I respectfu", "judge": {"n": 1, "is": "B", "print": "meaning, but, I respectfu", "sure": "low"}}
+{"page": "p0171", "n": 1, "who": "verified", "draft": "plants. and the you", "verified": "plants, and the you", "judge": {"n": 1, "is": "B", "print": "plants, and the you", "sure": "medium"}}
+{"page": "p0186", "n": 1, "who": "draft", "draft": "<sc>austrio-hungarian steamer “argo”,</sc>", "verified": "<sc>Austrio-Hungarian steamer “Argo”,</sc>", "judge": {"n": 1, "is": "A", "print": "<sc>austrio-hungarian steamer “argo”,</sc>", "sure": "high"}}
+{"page": "p0186", "n": 2, "who": "neither", "draft": "<sc>nearing colombo, ceylon.</sc>", "verified": "<sc>Nearing Colombo, Çeylon.</sc>", "judge": {"n": 2, "is": "neither", "print": "<sc>nearing colombo, çeylon.</sc>", "sure": "medium"}}
+{"page": "p0186", "n": 3, "who": "draft", "draft": "<sc>temp. in shad", "verified": "<sc>Temp. in shad", "judge": {"n": 3, "is": "B", "print": "<sc>temp. in shad", "sure": "high"}}
+{"page": "p0186", "n": 4, "who": "draft", "draft": "OUR stay", "verified": "O<sc>ur</sc> stay", "judge": {"n": 4, "is": "B", "print": "OUR stay", "sure": "medium"}}
+{"page": "p0203", "n": 1, "who": "draft", "draft": "constructed, We reach", "verified": "constructed. We reach", "judge": {"n": 1, "is": "B", "print": "constructed, We reach", "sure": "medium"}}
+{"page": "p0208", "n": 1, "who": "draft", "draft": "AS predicted", "verified": "A<sc>s</sc> predicted", "judge": {"n": 1, "is": "B", "print": "AS predicted", "sure": "medium"}}
+{"page": "p0227", "n": 1, "who": "draft", "draft": "FROM the caption", "verified": "F<sc>rom</sc> the caption", "judge": {"n": 1, "is": "A", "print": "FROM the caption", "sure": "medium"}}
+{"page": "p0246", "n": 1, "who": "verified", "draft": "such as tea, melon", "verified": "such as tea; melon", "judge": {"n": 1, "is": "A", "print": "such as tea; melon", "sure": "low"}}
+{"page": "p0274", "n": 1, "who": "draft", "draft": "THERE is a Japane", "verified": "T<sc>here</sc> is a Japane", "judge": {"n": 1, "is": "A", "print": "THERE is a Japane", "sure": "medium"}}
+{"page": "p0320", "n": 1, "who": "draft", "draft": "a long time, we continue", "verified": "a long time we continue", "judge": {"n": 1, "is": "A", "print": "a long time, we continue", "sure": "medium"}}

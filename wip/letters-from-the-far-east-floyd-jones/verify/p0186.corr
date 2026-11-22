@@ -1,0 +1,4 @@
+{"find": "<sc>austrio-hungarian steamer “argo”,</sc>", "replace": "<sc>Austrio-Hungarian steamer “Argo”,</sc>"}
+{"find": "<sc>nearing colombo, ceylon.</sc>", "replace": "<sc>Nearing Colombo, Çeylon.</sc>"}
+{"find": "<sc>temp. in shade,</sc>", "replace": "<sc>Temp. in shade,</sc>"}
+{"find": "OUR stay", "replace": "O<sc>ur</sc> stay"}

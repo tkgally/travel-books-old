@@ -1,0 +1,3 @@
+Comparing the draft with the scan, I found one difference: the printed text has "it for a long time we continued" with no comma after "time", while the draft has "a long time, we continued".
+
+{"find": "a long time, we continued", "replace": "a long time we continued"}

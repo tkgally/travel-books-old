@@ -1,0 +1,3 @@
+{"find": "10 o'clock", "replace": "10 o’clock"}
+{"find": "crossed 'till", "replace": "crossed ’till"}
+{"find": "MY last", "replace": "M<sc>y</sc> last"}
