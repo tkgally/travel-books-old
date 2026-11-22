@@ -1,0 +1,108 @@
+{
+ "id": "brown-men-women-reeves",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Brown Men and Women",
+ "subtitle": "or, The South Sea Islands in 1895 and 1896",
+ "short_title": "Brown Men and Women",
+ "authors": [
+  {
+   "name": "Edward Reeves",
+   "sort": "Reeves, Edward"
+  }
+ ],
+ "place": "London",
+ "publisher": "Swan Sonnenschein & Co.",
+ "year": 1898,
+ "edition_statement": "First edition",
+ "regions": [
+  "Tonga",
+  "Samoa",
+  "Fiji",
+  "Cook Islands",
+  "Tahiti"
+ ],
+ "period": "1895–96",
+ "subjects": [
+  "Pacific islands",
+  "missions",
+  "music",
+  "colonial administration"
+ ],
+ "summary": "Edward Reeves, a New Zealander and the author of “Homeward Bound after Thirty Years,” describes two voyages from Auckland on Union Steamship Company steamers: in July and August 1895 to Tonga, Samoa, and Fiji, and in July 1896 to the Cook Islands and the Society Islands, Tahiti among them. The book opens with Bully Hayes and memories of the New Zealand goldfields and with passengers’ yarns told at sea. It covers Tongan laws, land, and statistics; kava, marriage customs, and music, with seven tunes in notation; Stevenson’s house in Samoa; the queen of Rarotonga; and French rule in Tahiti. The last chapter is a sharp criticism of the rival missions in Tonga. Its descriptions of islanders, and especially of island women, are those of its time.",
+ "source": {
+  "ia_identifier": "brownmenwomenors00reevuoft",
+  "contributor": "University of Toronto",
+  "hidden_leaves": [],
+  "extra_leaves": {
+   "p0088a": {
+    "ia_identifier": "brownmenandwome01reevgoog",
+    "n": 93,
+    "what": "p. 77, missing from the Toronto scan"
+   },
+   "p0088b": {
+    "ia_identifier": "brownmenandwome01reevgoog",
+    "n": 94,
+    "what": "p. 78, with the picture “Simalesi in her native dress”, missing from the Toronto scan"
+   },
+   "p0142a": {
+    "ia_identifier": "brownmenandwome01reevgoog",
+    "n": 149,
+    "what": "p. 133, printed music, missing from the Toronto scan"
+   },
+   "p0142b": {
+    "ia_identifier": "brownmenandwome01reevgoog",
+    "n": 150,
+    "what": "p. 134, printed music, missing from the Toronto scan"
+   },
+   "p0142c": {
+    "ia_identifier": "brownmenandwome01reevgoog",
+    "n": 151,
+    "what": "p. 135, printed music, missing from the Toronto scan"
+   },
+   "p0142d": {
+    "ia_identifier": "brownmenandwome01reevgoog",
+    "n": 152,
+    "what": "p. 136, printed music, missing from the Toronto scan"
+   }
+  }
+ },
+ "divisions": [
+  {
+   "at": "p0007",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0009",
+   "kind": "contents"
+  },
+  {
+   "at": "p0011",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0013",
+   "kind": "front",
+   "title": "Brown Men and Women"
+  },
+  {
+   "at": "p0013",
+   "kind": "chapter",
+   "n": 2
+  }
+ ],
+ "frontispiece": "p0006-1",
+ "omitted_from_reading": "The printed contents, the list of illustrations, and the line “Brown Men and Women” above Chapter I are in the JSON only.",
+ "notes_on_text": [
+  "Pages 77–78 and 133–136 are missing from the scan used (University of Toronto) and are taken from another copy at the Internet Archive (University of California).",
+  "The map of Tongatabu, which the title page and the text announce as the frontispiece of Chapter III, is in none of the scans at the Internet Archive and is missing here.",
+  "The seven tunes on pp. 133–136 and elsewhere are given as pictures of the printed music."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ]
+}
