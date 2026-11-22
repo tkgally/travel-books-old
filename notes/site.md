@@ -55,8 +55,8 @@ the title page (Tom, 2026-11-22). The contents list every page of the editions; 
 nested under its title.
 Safari on the Mac and the iPad left the heading half under the bar (Tom, 2026-11-22: the browser goes to `#start`
 before `site.js` has made the bar and set `scroll-padding-top`), so `site.js` places the heading just below the bar
-itself, at once and again after `load`, unless the reader has moved. Checked here in Chromium only: no WebKit in the
-container; Tom checks Safari.
+itself, at once and again after `load`, unless the reader has moved. Checked here in Chromium only (no WebKit in the
+container); Tom confirmed it on Safari on the Mac and the iPad the same day.
 
 ## The carousel of covers on the home page (Tom, 2026-11-21)
 
