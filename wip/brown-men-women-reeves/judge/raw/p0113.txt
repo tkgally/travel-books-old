@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "stige of the\n\n[[image: Portrait photograph of King George II. of Tonga in military uniform with sash and aiguillettes]]\n[[caption]] King George II. of Tonga, in December, 1895. “Koe Otua mo Toga ko Hokui Tofia.”\n\nchiefs, thes", "sure": "high"}
-{"n": 2, "is": "B", "print": "“Whoever", "sure": "high"}

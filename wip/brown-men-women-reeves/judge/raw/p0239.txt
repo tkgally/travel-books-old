@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "one. The\n\n[[image: photograph of an elderly bearded Tahitian man in a shirt and patterned pareu, standing before a wooden shed, his legs greatly swollen by disease]]\n[[caption]] “The First Man to Welcome Us In.”\n\n[[cont]]deep-water e", "sure": "high"}
-{"n": 2, "is": "B", "print": "ctorate, and", "sure": "high"}

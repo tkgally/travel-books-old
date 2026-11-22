@@ -1,5 +1,0 @@
-{"given": "to the nearest men also offer", "print": "to the nearest men and also offer", "sure": "high"}
-{"given": "some of them saw arriviug a", "print": "some of them saw arriving a", "sure": "high"}
-{"given": "characterizes all south Sea Island races", "print": "characterizes all South Sea Island races", "sure": "high"}
-{"given": "the village did nor take the", "print": "the village did not take the", "sure": "high"}
-{"given": "Waipi, the principal village; before the", "print": "Waipi, the principal village, before the", "sure": "high"}

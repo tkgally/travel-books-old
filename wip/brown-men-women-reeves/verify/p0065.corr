@@ -1,9 +1,0 @@
-{"find": "yarns:—\n\n<blockquote>\n“Once", "replace": "yarns:—\n\n“Once"}
-{"find": "moonlight.\n“‘What", "replace": "moonlight.\n\n“‘What"}
-{"find": "the men.\n“‘It is,’", "replace": "the men.\n\n“‘It is,’"}
-{"find": "happens!’”\n</blockquote>", "replace": "happens!’”"}
-{"find": "occasion:—\n\n<blockquote>\n“At", "replace": "occasion:—\n\n“At"}
-{"find": "water.\n“‘Monsieur", "replace": "water.\n\n“‘Monsieur"}
-{"find": "Frenchman. Sandy", "replace": "Frenchman. Sandy"}
-{"find": "purse.\n“How", "replace": "purse.\n\n“How"}
-{"find": "that?’\n“‘Nothing, nothing, monsieur!’\n</blockquote>", "replace": "that?’\n\n“‘Nothing, nothing, monsieur!’"}

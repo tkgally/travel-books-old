@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "al, but that\n\n[[image: photograph of a young Samoan woman seated on a mossy bank, wearing a fringed skirt and bead necklaces, holding a large leaf over her head]]\n[[caption]] “One very pretty girl. It was Fanini.”\n\n[[cont]]there was", "sure": "high"}
-{"n": 2, "is": "A", "print": "“You see", "sure": "high"}

@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "gets awfully\n\n[[image: Photograph of a Tahitian man standing in a fringed ceremonial cape and tall headdress, resting one hand on a pedestal before a painted studio backdrop]]\n[[caption]] Tahitian Ancient Costume. Worn now on July 14th, anniversary of the taking of the Bastille!\n\n[[cont]]excited arra", "sure": "high"}
-{"n": 2, "is": "A", "print": "Unhappily he", "sure": "high"}

@@ -1,5 +1,0 @@
-{"given": "shall enjoy right to exercise the", "print": "shall enjoy the right to exercise the", "sure": "high"}
-{"given": "responsible for its proper excrcise.", "print": "responsible for its proper exercise.", "sure": "high"}
-{"given": "their children are forever bondsmen.", "print": "their children are for ever bondsmen.", "sure": "high"}
-{"given": "the discretion of the Governor; who,", "print": "the discretion of the Governor, who,", "sure": "high"}
-{"given": "Lala means that it a chief", "print": "Lala means that if a chief", "sure": "high"}
