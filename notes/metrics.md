@@ -174,6 +174,7 @@
 | A Yankee on the Yangtze v1 | 2026-11-22 | 432 (+4 plate pages from the New York issue) | Opus draft → Sonnet corrections → Opus judge; scan check, crops (2), plate captions, spot-reads (openings and Chinese; word lists and tesseract), rendered look by Opus subagents; Drive uploads (Haiku) | 109 | 28+11 / 69 / 0 (most on plate numbers and the order of Chinese characters) | 6 proverbs left in printed order by the judge (reversed by the spot-read) | 47.39 | 0 | PASS, 13 waived (half-folded sheets, ditto marks) | 30/30; 1 real (printed “thcusand”, unmarked) / 6 | |
 | Vacation Days in Hawaii and Japan v1 | 2026-11-22 | 362 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (with tesseract), rendered look by Opus subagents; Drive uploads (Haiku) | 73 | 5+1 / 64 / 0 | 0 (but the judge passed a Sonnet drop of two lines on p0058, found by the rendered look) | 39.03 | 0 | PASS, 0 waived | 29/29; 0 / 6 | |
 | An Artist in the Himalayas v1 | 2026-11-22 | 320 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (with tesseract), rendered look by Opus subagents; Drive uploads (Haiku) | 110 | 43 / 66 / 0 | 0 | 32.90 | 0 | PASS, 3 waived (folded map, its blank back) | 29/29; 0 / 6 | |
+| Panama in 1855 v1 | 2026-11-22 | 241 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (with tesseract), rendered look by Opus subagents; Drive uploads (Haiku) | 8 | 6 / 2 / 0 | 0 | 23.82 | 0 | PASS, 0 waived | 30/30; 0 / 6 (spot-read: 2 broken-type misreadings and an accent) | |
 
 ## Calibrations
 

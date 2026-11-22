@@ -1,0 +1,85 @@
+{
+ "id": "panama-in-1855-tomes",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Panama in 1855",
+ "subtitle": "An Account of the Panama Rail-Road, of the Cities of Panama and Aspinwall, with Sketches of Life and Character on the Isthmus",
+ "short_title": "Panama in 1855",
+ "authors": [
+  {
+   "name": "Robert Tomes",
+   "sort": "Tomes, Robert",
+   "born": 1817,
+   "died": 1882
+  }
+ ],
+ "place": "New York",
+ "publisher": "Harper & Brothers",
+ "year": 1855,
+ "source": {
+  "ia_identifier": "panimain185500tomerich",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": []
+ },
+ "edition_statement": "First edition",
+ "regions": [
+  "Panama"
+ ],
+ "period": "1855",
+ "subjects": [
+  "Panama Railroad",
+  "railways",
+  "Panama City",
+  "Taboga"
+ ],
+ "summary": "Robert Tomes (1817–1882), an American physician and writer, went to the Isthmus of Panama in February 1855 as one of the guests of the Panama Rail-Road Company when its line from Aspinwall on the Atlantic to Panama on the Pacific was opened. He describes the voyage from New York, the new town of Aspinwall, the ride across the isthmus by rail, and the railway’s building, cost, and prospects, and then the old city of Panama, the island of Taboga, and an excursion to the Pearl Islands. He writes with humour about his fellow travellers, hotels, churches, officials, and the people of the isthmus. The book has a map of the railway and a few engravings.",
+ "omitted_from_reading": "The printed contents are in the JSON only.",
+ "notes_on_text": [
+  "Chapter I has no title in the text; the contents gives it the title of the printed contents.",
+  "A paragraph that runs on after the table of costs in Chapter IV (p. 128) starts a new paragraph here."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {
+   "at": "p0009",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0011",
+   "kind": "preface"
+  },
+  {
+   "at": "p0013",
+   "kind": "contents"
+  },
+  {
+   "at": "p0015",
+   "kind": "front",
+   "title": "Panama in 1855"
+  },
+  {
+   "at": "p0015",
+   "kind": "chapter",
+   "n": 2,
+   "toc_title": "Chapter I. From New York to Aspinwall"
+  }
+ ],
+ "frontispiece": "p0008-1",
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ },
+ "keep_hyphens": [
+  "p0030"
+ ]
+}
