@@ -1193,7 +1193,7 @@
    "eligibility": "Checked 2026-11-22 (Opus subagent): not in pg_catalog.csv (Eastwick only as translator of Schiller); The Online Books Page: nothing; Wikisource: only DNB, EB1911 and obituary entries; web search of a sentence: nothing. Dickens Journals Online has about ten of his 1865–66 All the Year Round articles (the magazine version of parts of the narrative, not the book): recorded, not taken as disqualifying. Open Library: 1868 copies, a 1977 Lost Cause Press microfiche, a 1959 Spanish translation, print on demand (Creative Media, Legare Street). Eastwick 1814–1883 (DNB). One folding map, no artist credited. Not checked: WorldCat. Re-checked 2026-11-22 (Opus subagent): pg_catalog.csv only Schiller translation; web search of a sentence nothing; Distant Reader has raw HathiTrust OCR (not an edited text); print-on-demand only. The map is in none of the three IA copies (Toronto, UC, Cornell): published without it (Tom, 2026-11-22).",
    "note": "Toronto (Robarts) scan, 500 ppi; a UC copy venezuelaorsketc00east (400 ppi) as fallback. Check that the pocket map is present and unfolded. 1864: by Royal Mail steamer via St Thomas to La Guaira as commissioner for a Venezuelan loan; Caracas, Valencia, Carabobo, President Falcón, the coffee valleys of Aragua. Chapters I–XII (to p. 242) are the narrative, ironic and quick; XIII–XIV and the appendix (about 100 pp.) are statistics and the loan question, with tables.",
    "started": "2026-11-22",
-   "version": 1,
+   "version": 2,
    "published": "2026-11-22"
   },
   {

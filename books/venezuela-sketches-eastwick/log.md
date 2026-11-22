@@ -31,5 +31,6 @@ To take care of: tables (p0263, p0295–p0306, p0328–p0329, p0338–p0342 £ s
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-22 | PASS: 0 to fix, 59 waived (spacing: ditto marks on twelve pages) — tools@6b798b12 2026-11-22 | 35/35; 0 real / 7 pages | two spot-reads (Opus subagents): front matter, every table/note/quotation page figure by figure, 42 accent groups (each as printed: the book varies), word lists, tesseract comparison p0017–p0360: about 25 fixes; printed misprints marked: Goverment, Achagnas, notwithanding, Gnayana, Lr, iu, a missing stop; a letter in a footnote (p. 336) joined into the note; p0347–p0348 a continued quotation; ditto marks typed ,, throughout. Rendered look: book page, Preface, the debt tables (p. 291). |
+| 2 | 2026-11-22 | PASS: 0 to fix, 59 waived — tools@e7c5bc62 2026-11-22 | as v1 (text unchanged except listed fixes) | the live pass of the review found an h3 before any h2 in Chapter XIII (p0306 “Details of the Foreign Debt”): made ## |
 
 ## Known issues

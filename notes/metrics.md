@@ -169,7 +169,8 @@
 | Embassy to China v5 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS | as before | |
 | A Woman Alone in the Heart of Japan v2 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS | as before | |
 | China and Japan, and a Voyage Thither v1 | 2026-11-22 | 473 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (tesseract comparison, UC copy for blots and a folded corner) by subagents; Drive uploads (Haiku) | 10 | 7 / 3 / 0 | 1 (p0226 “and”: the verifier's word, not applied by review.py, real) | 49.65 | 0 | PASS, 3 waived | 30/30; 0 / 6 (spot-read: 14 printed misprints marked, small-capital initials, 1 stanza join; a folded corner found by the draft's 〓) | |
-| Venezuela v1 | 2026-11-22 | 430 | Opus draft (1 page by ocr_fallback) → Sonnet corrections → Opus judge; scan check, two spot-reads (tables and notes; word lists and tesseract) by subagents; Drive uploads (Haiku) | 11 | 8 / 3 / 0 | 1 (p0430: 14 not 11, the draft was right) | 45.53 | 0 | PASS, 59 waived (ditto marks) | 35/35; 0 / 7 (spot-reads: 7 printed misprints marked, ~60 ditto marks retyped, a footnote letter set as body text) | |
+| Venezuela v1 | 2026-11-22 | 430 | Opus draft (1 page by ocr_fallback) → Sonnet corrections → Opus judge; scan check, two spot-reads (tables and notes; word lists and tesseract) by subagents; Drive uploads (Haiku) | 11 | 8 / 3 / 0 | 1 (p0430: 14 not 11, the draft was right) | 45.46 | 0 | PASS, 59 waived (ditto marks) | 35/35; 0 / 7 (spot-reads: 7 printed misprints marked, ~60 ditto marks retyped, a footnote letter set as body text) | |
+| Venezuela v2 | 2026-11-22 | – | (no new model calls; a heading level, found by the review's live pass) | – | – | – | 0 | 0 | PASS, 59 waived | as v1 | |
 
 ## Calibrations
 
