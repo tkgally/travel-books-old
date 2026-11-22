@@ -1,0 +1,5 @@
+{"given": "into a Moslem country; by the ceremony", "print": "into a Moslem country, by the ceremony", "sure": "high"}
+{"given": "That clumsy heavy portal seemed", "print": "That clumsy and heavy portal seemed", "sure": "high"}
+{"given": "side of the gate where several policemen", "print": "side of the gate were several policemen", "sure": "high"}
+{"given": "an old gray-bearded Mussulman soldier", "print": "an old grey-bearded Mussulman soldier", "sure": "high"}
+{"given": "of which was protccted against the wet", "print": "of which was protected against the wet", "sure": "high"}

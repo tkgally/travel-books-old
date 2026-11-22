@@ -1,0 +1,5 @@
+{"given": "and soon after, one them brought", "print": "and soon after, one of them brought", "sure": "high"}
+{"given": "two pipe-bcarers entered bringing", "print": "two pipe-bearers entered bringing", "sure": "high"}
+{"given": "mouth-piece to my lips; the delicious", "print": "mouth-piece to my lips, the delicious", "sure": "high"}
+{"given": "the indolent and illiterate oriental would", "print": "the indolent and illiterate Oriental would", "sure": "high"}
+{"given": "but give him this loved", "print": "but give him his loved", "sure": "high"}

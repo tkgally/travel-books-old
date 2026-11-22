@@ -1,0 +1,41 @@
+{
+ "id": "woman-alone-in-the-heart-of-japan-fisher",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "A Woman Alone in the Heart of Japan",
+ "short_title": "A Woman Alone in the Heart of Japan",
+ "authors": [
+  {
+   "name": "Gertrude Adams Fisher",
+   "sort": "Fisher, Gertrude Adams"
+  }
+ ],
+ "place": "Boston",
+ "publisher": "L. C. Page & Company",
+ "year": 1906,
+ "edition_statement": "First edition",
+ "collection": "jatsi",
+ "regions": [
+  "Japan"
+ ],
+ "period": "",
+ "source": {
+  "ia_identifier": "womanaloneinhear00fish",
+  "contributor": "The Library of Congress",
+  "hidden_leaves": [
+   0,
+   387,
+   388,
+   389,
+   390,
+   391
+  ]
+ },
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ]
+}

@@ -119,5 +119,13 @@
  "notes_on_text": [
   "The book was published anonymously. The attribution to John Berwick Harwood (1828–1899) is that of library catalogues; the book itself gives the wife’s name, Emily, and the date and place of the wedding, which agree with his marriage to Emily Trollope.",
   "The book has no printed contents and its chapters have no titles; the places in the contents entries after each chapter number are the editor’s, spelled as the book spells them."
- ]
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
 }

@@ -587,10 +587,11 @@
    "place": "Boston",
    "publisher": "L. C. Page & Company",
    "images": 390,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-20",
-   "eligibility": "JATSI 197. Rules 1, 3, 4 met; rule 2 to settle. Rule 1: Library of Congress copy of the first edition, colour, clean (JATSI links womanaloneinhear00fishiala, an undated London issue by Sisley's from the same setting). Rule 2: no text found at Gutenberg, The Online Books Page or Wikisource; a ManyBooks entry ('fishergaother08woman_alone_in_Japan') could not be opened: look at it before starting (probably IA's OCR). Rule 3: print-on-demand only. Rule 4: first-person, an American woman travelling alone about 1905; the last four chapters are reports on institutions. People: Gertrude Adams Fisher, dates not found. Searched 2026-11-20 (Opus subagent): Project Gutenberg catalogue, The Online Books Page, Wikisource, a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 does not apply to JATSI books (Tom, 2026-11-20).",
-   "note": "About 293 pp.; about 37 halftone plates, several printed sideways, uncredited (probably her own); centred italic subheadings inside chapters; much dialogue in pidgin English, to be kept as printed."
+   "eligibility": "JATSI 197. Rules 1, 3, 4 met; rule 2 to settle. Rule 1: Library of Congress copy of the first edition, colour, clean (JATSI links womanaloneinhear00fishiala, an undated London issue by Sisley's from the same setting). Rule 2: no text found at Gutenberg, The Online Books Page or Wikisource; a ManyBooks entry ('fishergaother08woman_alone_in_Japan') could not be opened: look at it before starting (probably IA's OCR). Rule 3: print-on-demand only. Rule 4: first-person, an American woman travelling alone about 1905; the last four chapters are reports on institutions. People: Gertrude Adams Fisher, dates not found. Searched 2026-11-20 (Opus subagent): Project Gutenberg catalogue, The Online Books Page, Wikisource, a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 does not apply to JATSI books (Tom, 2026-11-20). Re-checked 2026-11-22: web search: no Gutenberg or other reading text found; the ManyBooks page (an 'other08' entry, from its 2008 import of Internet Archive texts) refused the request (403), so whether it is more than IA's OCR is still not settled; reprints: Legare Street (print on demand) only. Scan check passed (Opus subagent).",
+   "note": "About 293 pp.; about 37 halftone plates, several printed sideways, uncredited (probably her own); centred italic subheadings inside chapters; much dialogue in pidgin English, to be kept as printed.",
+   "started": "2026-11-22"
   },
   {
    "order": 32,

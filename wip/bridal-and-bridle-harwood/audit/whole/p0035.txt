@@ -1,0 +1,5 @@
+{"given": "was persisted in throughout east of", "print": "was persisted in throughout the east of", "sure": "high"}
+{"given": "of which fact I bad a", "print": "of which fact I had a", "sure": "high"}
+{"given": "I had walked out bcfore breakfast", "print": "I had walked out before breakfast", "sure": "high"}
+{"given": "the taboo province of bosnia, when,", "print": "the taboo province of Bosnia, when,", "sure": "high"}
+{"given": "the summit of the mound; from whence", "print": "the summit of the mound, from whence", "sure": "high"}
