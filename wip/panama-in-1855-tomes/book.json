@@ -70,5 +70,13 @@
    "toc_title": "Chapter I. From New York to Aspinwall"
   }
  ],
- "frontispiece": "p0008-1"
+ "frontispiece": "p0008-1",
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
 }
