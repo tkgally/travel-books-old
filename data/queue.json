@@ -1584,6 +1584,51 @@
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent): (1) Cornell (Herbert H. Smith collection) Microsoft/Kirtas scan, 300 ppi, jp2 zip and scandata; the folding map and table of distances on n4–n5 looked at. (2) Not in pg_catalog.csv ('Mulhall'); The Online Books Page: HathiTrust page images only; no web hit for 'There is a kind of spider, perfectly harmless, which clusters like bees'; Faded Page nothing. Wikisource NOT checked (rate-limited). (3) Open Library: the 1877 edition only; no reprint. (4) First-person: Lisbon, Brazil, the River Plate, up the Paraná and Paraguay to Asunción, Corumbá and Cuiabá. (5) Marion McMurrough Mulhall d. 1922 (Atlantipedia; one source only: confirm at the start); her husband Michael G. Mulhall 1836–1900.",
    "note": "About 120 pages of text; twenty short chapters, often in the present tense. Kirtas scan, near-bilevel but legible; a 'Digitized by Microsoft' footer on every leaf. The aftermath of the Paraguayan war; Guaycurú, Payaguá and Guató Indians; the Jesuit missions; some passages from her husband's notes, Southey and Charlevoix. Keep the map and the distance table."
+  },
+  {
+   "order": 87,
+   "ia": "britishofficerin00hend",
+   "slug": "british-officer-balkans-henderson",
+   "title": "A British Officer in the Balkans: The Account of a Journey through Dalmatia, Montenegro, Turkey in Austria, Magyarland, Bosnia and Hercegovina",
+   "author": "Major Percy E. Henderson (“Selim”)",
+   "year": 1909,
+   "place": "London",
+   "publisher": "Seeley and Co.",
+   "images": 402,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv (full): no English text (PG #27659 is a Dutch translation, not the English book). The Online Books Page, Wikisource: none. Web search of 'Had we been impulsive foreigners we should have fallen upon that old man's neck': nothing. Reprints: Open Library only 1909 Seeley/Lippincott and Creative Media print-on-demand; CiNii 1909 only. Rule 5: Henderson born 1852 (LC authority), death date not found: qualifies by the birth-before-1856 rule. The 50 photographs are the party's own (said in the text). Faded Page not searchable by script.",
+   "note": "University of California scan of the London Seeley issue, 400 ppi; second scan britishofficerin00henduoft (Toronto, Lippincott issue). 50 photographic plates with long captions and a map (map not seen: check it). A retired Indian Army major and companions down the Dalmatian coast, to Cetinje, Mostar, Sarajevo and into Hungary; light and humorous; chapters with summary headings."
+  },
+  {
+   "order": 88,
+   "ia": "koreafromitscapi00gilm",
+   "slug": "korea-from-its-capital-gilmore",
+   "title": "Korea from Its Capital: With a Chapter on Missions",
+   "author": "Rev. George W. Gilmore",
+   "year": 1892,
+   "place": "Philadelphia",
+   "publisher": "Presbyterian Board of Publication and Sabbath-School Work",
+   "images": 368,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv (full): no Gilmore. The Online Books Page, Wikisource: none. Web search of 'Koreans are a dyspeptic folk': nothing. Reprints: print-on-demand only (Read Books 2011, Creative Media/Franklin Classics); an Open Library '1990' entry probably the ATLA microfiche (not verified: check before starting); a Korean translation (1999) does not count; no Kyungin Munhwasa facsimile found. Rule 5: Gilmore 1858–1933 (LC); photographs partly by Rev. H. G. Underwood (1859–1916). Faded Page not searchable.",
+   "note": "Princeton Theological Seminary scan, 500 ppi; frontispiece and 25 plates. Gilmore taught at the government's English school in Seoul 1886–89; first-hand account of the city and people arranged by topic (people, homes, dress, women's work, religion, resources, foreign life), partly from his letters to the New York Evening Post; last chapter on missions. The site has no Korea book yet. Rule 4 note: topical rather than a journey narrative, but first-person and from his own residence."
+  },
+  {
+   "order": 89,
+   "ia": "summerinnorwaywi00cato",
+   "slug": "summer-in-norway-caton",
+   "title": "A Summer in Norway; with Notes on the Industries, Habits, Customs and Peculiarities of the People, the History and Institutions of the Country, Its Climate, Topography and Productions. Also, an Account of the Red-Deer, Reindeer and Elk",
+   "author": "John Dean Caton",
+   "year": 1875,
+   "place": "Chicago",
+   "publisher": "Jansen, McClurg and Company",
+   "images": 430,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv (full): no Caton travel book. The Online Books Page: none. Web search of 'how ingeniously the little rascal had managed to get me to help him over the brook': nothing (distantreader.org has HathiTrust raw OCR: does not count). Reprints: Kessinger, Creative Media, Sagwan (print-on-demand). Rule 5: Caton 1812–1895 (LC). Wikisource NOT checked (rate-limited); Faded Page not searchable.",
+   "note": "Library of Congress scan of the 1875 first edition, 500 ppi; second scan summerinnorwaywi00catoiala (UC, 1880 second edition, adds a map). Portrait frontispiece and a few plates of deer. A former Chief Justice of Illinois in 1874: coastal steamer from Hull to Trondhjem, Hammerfest and the North Cape, Lapp herders near Tromsø, by carriole over the Dovrefjeld to Christiania, home by Stockholm; anecdotal, with long passages of Norse history and natural history."
   }
  ],
  "rejected": [
@@ -2160,6 +2205,11 @@
   {
    "title": "Simson, Travels in the Wilds of Ecuador (author's dates not found; a reserve if found); Smyth & Lowe, Journey from Lima to Para (Cambridge Library Collection reprint); Humphrey, A Summer Journey to Brazil (Gutenberg); Stewart, Brazil and La Plata (Gutenberg); Clark, Twelve Months in Peru (author unidentified, compiled); Cole, The Peruvians at Home (compiled chapters)",
    "why": "vetted 2026-11-22 by an Opus subagent: the reasons in the title",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Weeks, From the Black Sea through Persia and India (Long Riders' Guild reset); Younghusband, The Philippines and Round About (NHI Manila 2004); T. Stevens, Through Russia on a Mustang (Arno 1970); Cavendish, Korea and the Sacred White Mountain and Carles, Life in Corea (Kyungin 2001); Child, The Pearl of Asia (Adamant 2005); Pryer, A Decade in Borneo (Leicester UP 2001); Cator, Everyday Life among the Head-Hunters (dates); Sommerville, Siam on the Meinam (72-ppi scan only); Cort, Siam (compiled); Higginson, Java (not a journey); Knight, Albania; Worsfold, A Visit to Java; Russel, A Woman's Journey through the Philippines; Miln, Quaint Korea; Hapgood, Russian Rambles; Pritchett, Gamle Norge; Ladd, In Korea with Marquis Ito; Conger, An Ohio Woman in the Philippines; J. E. Stevens, Yesterdays in the Philippines; Dauncey, An Englishwoman in the Philippines; Evans, Through Bosnia and the Herzegóvina on Foot (Gutenberg)",
+   "why": "vetted 2026-11-22 by an Opus subagent: reprinted, on Project Gutenberg, or as in the title",
    "checked": "2026-11-22"
   }
  ]
