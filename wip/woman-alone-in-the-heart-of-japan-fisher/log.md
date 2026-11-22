@@ -20,6 +20,7 @@ Each chapter: number, title, an italic subheading; centred italic subheadings in
 Book picture: the title page (the cover has no title).
 
 ## Decisions
+- Crops (Opus subagent, 2026-11-22): 40 photographs from 33 plates, colour, upright, no captions in the crops; cover.jpg = title page (grey). Two photographs: p0023, p0139, p0147, p0231 (-1, -2; on the sideways plates -1 is the photo at the bottom of the leaf, first after turning); p0363 has four portraits with their own names (-1 to -4: Mr. and Mrs. Mitsui, Mme. Hiro-oka, Mr. Morimura; plate caption "Benefactors of the University"). p0095: 大砲 printed in the photograph, kept in the crop.
 
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
