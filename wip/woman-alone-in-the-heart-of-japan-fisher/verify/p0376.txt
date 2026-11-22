@@ -1,0 +1,77 @@
+[[page 292]]
+
+Iron-cloth, <pref>148</pref>-<pref>149</pref>.
+Kindayu House, <pref>143</pref>-<pref>146</pref>, <pref>147</pref>, <pref>156</pref>, <pref>177</pref>.
+Shops, <pref>147</pref>-<pref>148</pref>.
+Inari, <pref>153</pref>.
+
+Judo School, <pref>210</pref>-<pref>217</pref>.
+
+Kakké, Prevalence of, <pref>231</pref>.
+Kano, Professor, <pref>210</pref>-<pref>211</pref>.
+Kawada, Mr., <pref>258</pref>-<pref>259</pref>.
+Kindayu, Mr. and Mrs., <pref>143</pref>-<pref>146</pref>, <pref>156</pref>-<pref>157</pref>.
+Kioto, <pref>29</pref>, <pref>30</pref>-<pref>47</pref>, <pref>54</pref>, <pref>56</pref>, <pref>57</pref>, <pref>71</pref>, <pref>234</pref>.
+Asylum, <pref>181</pref>-<pref>190</pref>.
+Ceremonious tea-party, <pref>30</pref>-<pref>33</pref>.
+Cherry-blossom dance, <pref>33</pref>-<pref>36</pref>.
+Kioto Hotel, <pref>69</pref>, <pref>189</pref>, <pref>190</pref>.
+Public procession of prostitutes, <pref>36</pref>-<pref>47</pref>.
+Wrestling, <pref>61</pref>-<pref>68</pref>.
+Kitai, <pref>86</pref>.
+Kobe, <pref>29</pref>.
+Kusatsu, <pref>166</pref>-<pref>174</pref>.
+Leper village, <pref>170</pref>-<pref>173</pref>.
+Sulphur baths, <pref>155</pref>, <pref>166</pref>-<pref>170</pref>.
+
+Lake Biwa Canal, <pref>54</pref>-<pref>56</pref>.
+Lake Chuzenji, <pref>106</pref>.
+Lake Hakone, <pref>87</pref>-<pref>89</pref>.
+Lake Yumoto, <pref>108</pref>-<pref>110</pref>, <pref>151</pref>.
+Lepers, <pref>164</pref>, <pref>170</pref>-<pref>173</pref>.
+
+Maebashi, <pref>143</pref>, <pref>148</pref>.
+Mason, Mr., <pref>280</pref>-<pref>281</pref>, <pref>283</pref>.
+Massage, School of, <pref>188</pref>-<pref>191</pref>.
+Matsushima, <pref>137</pref>, <pref>140</pref>.
+Miidera, <pref>50</pref>.
+Mitsui, House of, <pref>242</pref>-<pref>249</pref>, <pref>279</pref>.
+Miyanoshita, <pref>84</pref>-<pref>86</pref>.
+Fugiya Hotel, <pref>85</pref>.
+Shops, <pref>86</pref>.
+Monkeys, Sacred, <pref>100</pref>, <pref>126</pref>.
+Morimura, Ichizæmon, <pref>279</pref>.
+Music, Native, <pref>125</pref>-<pref>126</pref>, <pref>196</pref>-<pref>197</pref>.
+
+Nagoya, <pref>75</pref>-<pref>78</pref>.
+Castle, <pref>76</pref>-<pref>77</pref>.
+Nantaizan, <pref>107</pref>-<pref>108</pref>.
+Naruse, President, <pref>269</pref>-<pref>270</pref>, <pref>277</pref>-<pref>278</pref>, <pref>279</pref>.
+Nectarine of Yokohama, <pref>2</pref>, <pref>21</pref>-<pref>25</pref>.
+Nicolai, Bishop, <pref>219</pref>-<pref>225</pref>.
+Nikko, <pref>92</pref>-<pref>103</pref>, <pref>106</pref>, <pref>111</pref>-<pref>133</pref>, <pref>148</pref>.
+Procession of the Shoguns’ spirits, <pref>92</pref>, <pref>97</pref>-<pref>103</pref>.
+Shops, <pref>93</pref>, <pref>113</pref>-<pref>128</pref>.
+Temple bell, <pref>131</pref>-<pref>132</pref>.
+Wet season, <pref>128</pref>-<pref>130</pref>.
+Nippon Yusen Kaisha, <pref>255</pref>-<pref>258</pref>.
+
+Okuma, Count, <pref>270</pref>, <pref>278</pref>.
+Otani, Kahei, <pref>235</pref>-<pref>241</pref>.
+
+Perry, Commodore, <pref>151</pref>.
+Pine-tree, The Sacred, <pref>51</pref>-<pref>54</pref>.
+Politeness, <pref>8</pref>-<pref>9</pref>, <pref>17</pref>-<pref>19</pref>, <pref>52</pref>-<pref>54</pref>, <pref>71</pref>-<pref>72</pref>, <pref>75</pref>, <pref>118</pref>, <pref>151</pref>-<pref>152</pref>.
+Prostitutes, Public procession of, at Kioto, <pref>36</pref>-<pref>47</pref>.
+
+Railroad, Travelling by, <pref>69</pref>-<pref>75</pref>, <pref>140</pref>-<pref>142</pref>.
+Red Cross in Japan, The, <pref>225</pref>-<pref>233</pref>.
+Rice culture, <pref>249</pref>-<pref>251</pref>.
+Rice Exchange, <pref>251</pref>-<pref>253</pref>.
+Rikshas and rikmen, <pref>2</pref>-<pref>5</pref>, <pref>48</pref>, <pref>52</pref>-<pref>53</pref>, <pref>65</pref>, <pref>75</pref>, <pref>77</pref>, <pref>84</pref>-<pref>85</pref>, <pref>104</pref>-<pref>106</pref>, <pref>110</pref>, <pref>159</pref>, <pref>175</pref>-<pref>176</pref>, <pref>248</pref>-<pref>249</pref>.
+
+Sanitation, <pref>9</pref>-<pref>10</pref>.
+Sendai, <pref>134</pref>-<pref>139</pref>, <pref>165</pref>.
+Famous chests, <pref>134</pref>-<pref>136</pref>.
+Shintoism, <pref>48</pref>-<pref>49</pref>, <pref>98</pref>-<pref>104</pref>, <pref>200</pref>.
+Shinto shrine, <pref>153</pref>-<pref>154</pref>.
