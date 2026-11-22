@@ -1,0 +1,5 @@
+{"given": "not likely to turn back from work which", "print": "not likely to turn back from the work which", "sure": "high"}
+{"given": "the solution might he safely left", "print": "the solution might be safely left", "sure": "high"}
+{"given": "and tends to make christianity burdensome", "print": "and tends to make Christianity burdensome", "sure": "high"}
+{"given": "might now, it is feared; be danger", "print": "might now, it is feared, be danger", "sure": "high"}
+{"given": "Nothing could show more clcarly the need", "print": "Nothing could show more clearly the need", "sure": "high"}

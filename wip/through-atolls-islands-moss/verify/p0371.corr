@@ -1,0 +1,3 @@
+{"find": "[[center]] <sc>london:</sc>", "replace": "[[center]] LONDON:"}
+{"find": "[[center]] <sc>printed by gilbert and rivington, limited,</sc>", "replace": "[[center]] PRINTED BY GILBERT AND RIVINGTON, LIMITED,"}
+{"find": "[[center]] <sc>st. john’s house, clerkenwell road.</sc>", "replace": "[[center]] ST. JOHN’S HOUSE, CLERKENWELL ROAD."}

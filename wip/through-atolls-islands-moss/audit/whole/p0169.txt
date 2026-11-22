@@ -1,0 +1,5 @@
+{"given": "in which he travcls over his", "print": "in which he travels over his", "sure": "high"}
+{"given": "Peritanè,”—but greater than Jibberik has", "print": "Peritanè,”—but a greater than Jibberik has", "sure": "high"}
+{"given": "the brave! He; with 200 others,", "print": "the brave! He, with 200 others,", "sure": "high"}
+{"given": "to the north. This object was", "print": "to the north. His object was", "sure": "high"}
+{"given": "on the reef at milli.", "print": "on the reef at Milli.", "sure": "high"}
