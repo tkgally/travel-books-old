@@ -262,7 +262,8 @@ visibly differs from newer ones.
   here. Run the two-draft method on a sample first (p2e found Opus modernizes old spellings when drafting).
 - Multi-volume works: one book id per work, volumes as parts; leaves named by item (`source.items` in
   `book-json.md`: vol. I p1000+, vol. II p2000+), tested on invented data only; the book page links and embeds every item.
-- Endnotes printed at the end of the book rather than at the foot of the page.
+- Endnotes printed at the end of the book rather than at the foot of the page. Tried in *Snioland* (2026-11-22): a “Notes” division, the numerals kept as `<sup>`, not linked.
+- A second stream of small type running along the foot of many pages under the main text (not footnotes: “Excerpts from Tongan Official Documents”, *Brown Men and Women* pp. 268–286). The markup has no way to keep it apart; see that book’s log.
 - A paragraph that runs on after a quoted verse or block (the next line set flush): the markup cannot continue it, so it
   starts a new paragraph (*Between Two Oceans* pp. 221, 331; said in the log's known issues).
 - A footnote printed in more than one paragraph: the markup has none; typed as one paragraph and said in `notes_on_text`
