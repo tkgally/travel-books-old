@@ -89,7 +89,8 @@ LibreOffice (`soffice`) is in the image; preflight needs it for the ODT check.
    duplicated in place of another, cut off, out of focus, hidden by a hand, a fold or a loose slip of paper (IA's page
    numbers count straight through such a leaf: *A Woman's Winter in Africa*, rejected 2026-11-20), or if a folding plate or
    map was not opened. A failed scan → try another IA scan of the same edition; none → queue row `rejected`
-   with the reason. A few leaves missing or damaged (a missing first page, a plate cut off at the edge) can be taken from
+   with the reason — except that a missing map alone does not fail it (Tom, 2026-11-22: published without the map,
+   said in `notes_on_text`), and a book short of only one or two other elements is put to Tom as a possible exception. A few leaves missing or damaged (a missing first page, a plate cut off at the edge) can be taken from
    another scan of the same edition, page by page, without fetching its whole archive:
    `https://archive.org/download/<id>/page/n<N>.jpg` (n = the viewer's page index); name the leaf after the one it
    follows with a letter (`p2029a`), record it in `book.json` `source.extra_leaves`, and say so in `notes_on_text`
