@@ -1,0 +1,8 @@
+{"find": "stimulation of national pride in national", "replace": "stimulation of national pride in national"}
+{"find": "honour in the national Campo Santo", "replace": "honour in the national Campo Santo"}
+
+Wait, those are identical; the only real difference is below.
+
+{"find": "delighted to honour in the national", "replace": "delighted to honour in the national"}
+
+NONE
