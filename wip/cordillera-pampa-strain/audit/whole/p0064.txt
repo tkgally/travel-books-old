@@ -1,5 +1,0 @@
-{"given": "within the city. If contained about", "print": "within the city. It contained about", "sure": "high"}
-{"given": "at certain seasons rcpair to it", "print": "at certain seasons repair to it", "sure": "high"}
-{"given": "this deprivation, and reader may safely", "print": "this deprivation, and the reader may safely", "sure": "high"}
-{"given": "is concerned, santiago is, I presume", "print": "is concerned, Santiago is, I presume", "sure": "high"}
-{"given": "(he says; speaking of women", "print": "(he says, speaking of women", "sure": "high"}

@@ -1,7 +1,0 @@
-whole: found 4 of 4 planted errors (100%)
-    dropped word   1/1
-    letter         1/1
-    punctuation    1/1
-    real word      1/1
-    other differences reported (candidates to check on the scan): 0
-pages: 1 (p0189); model opus; cost $0.06; failed calls 0

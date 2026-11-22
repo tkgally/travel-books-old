@@ -1,5 +1,0 @@
-{"given": "evidently belonged that school of", "print": "evidently belonged to that school of", "sure": "high"}
-{"given": "from an intelligent mercbant, who", "print": "from an intelligent merchant, who", "sure": "high"}
-{"given": "isolated case of goiter, which", "print": "isolated case of goitre, which", "sure": "high"}
-{"given": "a few weeks before, be had", "print": "a few weeks before, he had", "sure": "high"}
-{"given": "The vicious, unbroken colt; had doubtless", "print": "The vicious, unbroken colt, had doubtless", "sure": "high"}

@@ -1,4 +1,0 @@
-{"given": "hundred and sevcnty-one dollars", "print": "hundred and seventy-one dollars", "sure": "high"}
-{"given": "altogether one hundred four vessels", "print": "altogether one hundred and four vessels", "sure": "high"}
-{"given": "thirty-two where built in the", "print": "thirty-two were built in the", "sure": "high"}
-{"given": "Denmark, Austria, brazil, and the", "print": "Denmark, Austria, Brazil, and the", "sure": "high"}

@@ -1,5 +1,0 @@
-{"find": "Pedro de Valdina", "replace": "Pedro de Valdivia"}
-
-Wait — the image reads "Valdina". Keeping it as printed means no change is needed there. Corrected output:
-
-{"find": "[[cont]]Argentines", "replace": "[[cont]]Argentines"}
