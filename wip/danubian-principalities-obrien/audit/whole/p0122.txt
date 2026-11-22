@@ -1,0 +1,5 @@
+{"given": "Consul-General for Greece in london, holds", "print": "Consul-General for Greece in London, holds", "sure": "high"}
+{"given": "has large commercial houses Constantinople, St.", "print": "has large commercial houses in Constantinople, St.", "sure": "high"}
+{"given": "They mutually assist each other; and this", "print": "They mutually assist each other, and this", "sure": "high"}
+{"given": "he extends his assistanee to all", "print": "he extends his assistance to all", "sure": "high"}
+{"given": "in the name of this country.", "print": "in the name of his country.", "sure": "high"}

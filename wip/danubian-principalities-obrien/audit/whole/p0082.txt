@@ -1,0 +1,5 @@
+{"given": "clad in chain armor, and", "print": "clad in chain armour, and", "sure": "high"}
+{"given": "but for long time passed", "print": "but for a long time passed", "sure": "high"}
+{"given": "a chance shot, and; though", "print": "a chance shot, and, though", "sure": "high"}
+{"given": "too weak to retnrn to", "print": "too weak to return to", "sure": "high"}
+{"given": "hours of this convalescence in", "print": "hours of his convalescence in", "sure": "high"}

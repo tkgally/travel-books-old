@@ -1,0 +1,5 @@
+{"given": "whom no promize is sacred", "print": "whom no promise is sacred", "sure": "high"}
+{"given": "meeting with only qualified reproval", "print": "meeting with only a qualified reproval", "sure": "high"}
+{"given": "The Czar, under the modest title of Protector, has been; since that period", "print": "The Czar, under the modest title of Protector, has been, since that period", "sure": "high"}
+{"given": "of a village, can he made", "print": "of a village, can be made", "sure": "high"}
+{"given": "the chief of the quarantiue, which", "print": "the chief of the quarantine, which", "sure": "high"}
