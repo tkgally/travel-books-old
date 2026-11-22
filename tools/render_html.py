@@ -178,11 +178,20 @@ SCRIPT_RUNS = [(re.compile(f"[{AR}](?:[{AR}\\s\u200c\u200d]*[{AR}])?"), "ar"),
                (re.compile("[\u0590-\u05ff](?:[\u0590-\u05ff\\s]*[\u0590-\u05ff])?"), "he")]
 
 
+KANA = "\u3040-\u30ff"
+HAN = "\u3005\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff" + KANA
+HAN_RUN = re.compile(f"[{HAN}](?:[{HAN}\\s\u3000-\u303f]*[{HAN}])?")
+
+
 def tag_scripts(s):
     """Words in Arabic or Hebrew script get lang and dir="rtl", so that a screen reader picks a voice for them and
-    the browser sets them right to left (*A Land of Mosques and Marabouts*, 2026-11-20; review 2026-11-21)."""
+    the browser sets them right to left (*A Land of Mosques and Marabouts*, 2026-11-20; review 2026-11-21).
+    Chinese characters get lang="zh", or "ja" when the run has kana, so that the browser picks a font with the
+    right forms (*A Yankee on the Yangtze*, 2026-11-22)."""
     for rx, lang in SCRIPT_RUNS:
         s = rx.sub(lambda m: f'<span lang="{lang}" dir="rtl">{m.group(0)}</span>', s)
+    s = HAN_RUN.sub(lambda m: '<span lang="%s">%s</span>' % (
+        "ja" if re.search(f"[{KANA}]", m.group(0)) else "zh", m.group(0)), s)
     return s
 
 
