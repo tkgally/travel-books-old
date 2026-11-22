@@ -1,0 +1,5 @@
+{"given": "en route to visit the japanese.", "print": "en route to visit the Japanese.", "sure": "high"}
+{"given": "he assented, as if light had dawned.", "print": "he assented, as if a light had dawned.", "sure": "high"}
+{"given": "the ladies are bcginning to have", "print": "the ladies are beginning to have", "sure": "high"}
+{"given": "“chow” in the East; luncheon is", "print": "“chow” in the East, luncheon is", "sure": "high"}
+{"given": "India make those additions to miscellaneous", "print": "India make these additions to miscellaneous", "sure": "high"}

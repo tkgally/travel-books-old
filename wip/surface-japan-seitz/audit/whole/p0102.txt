@@ -1,0 +1,5 @@
+{"given": "tuck their legs under them then riding", "print": "tuck their legs under them when riding", "sure": "high"}
+{"given": "chevaux-de-frise of an american street car", "print": "chevaux-de-frise of an American street car", "sure": "high"}
+{"given": "three grades of inebriety Japan, to wit", "print": "three grades of inebriety in Japan, to wit", "sure": "high"}
+{"given": "plain drunk, honorably drunk; and drunk", "print": "plain drunk, honorably drunk, and drunk", "sure": "high"}
+{"given": "a certain degree of distinetion, and", "print": "a certain degree of distinction, and", "sure": "high"}

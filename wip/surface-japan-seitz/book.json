@@ -64,7 +64,7 @@
  "frontispiece": "p0010-1",
  "omitted_from_reading": "The half-title is in the JSON only.",
  "notes_on_text": [
-  "Every text page of the book is printed inside a frame of bamboo canes, with one or two small figure drawings “after Hokusai” in its margins, used in rotation as decoration. The frame and the drawings are left out of this edition; the twenty photographs are included. The photographs are printed in colour in the book; the scan shows them in brown and grey tones.",
+  "Every text page of the book is printed inside a frame of bamboo canes, with one or two small figure drawings “after Hokusai” in its margins, used in rotation as decoration. The frame and the drawings are left out of this edition; the twenty photographs are included.",
   "The book has no chapters, only sections separated by a small ornament. The contents entries and the page divisions of the web and EPUB editions, at those breaks, are the editor’s."
  ],
  "history": [
@@ -131,5 +131,13 @@
    "title": "Women workers; government industries; Mount Fuji"
   }
  ],
- "summary": "Don C. Seitz, an American newspaper manager, made a short visit to Japan in the summer, a year or two before the book appeared in 1911 (the year of the visit is not given), and set down what he saw in short notes, from a paragraph to a few pages each. He lands at Yokohama, stays in Tokyo, calls on Count Okuma at Kodzu, and goes to Kyoto, Kobe and Osaka, the Inland Sea, Nikko, and Hakone. His notes are on customs and dress, women and their work, wrestlers and festivals, the press, poverty and taxes, education, conscription, and Japan’s place in Korea and Manchuria. A few pages give English phrases with their Japanese equivalents. The book has twenty photographs."
+ "summary": "Don C. Seitz, an American newspaper manager, made a short visit to Japan in the summer, a year or two before the book appeared in 1911 (the year of the visit is not given), and set down what he saw in short notes, from a paragraph to a few pages each. He lands at Yokohama, stays in Tokyo, calls on Count Okuma at Kodzu, and goes to Kyoto, Kobe and Osaka, the Inland Sea, Nikko, and Hakone. His notes are on customs and dress, women and their work, wrestlers and festivals, the press, poverty and taxes, education, conscription, and Japan’s place in Korea and Manchuria. A few pages give English phrases with their Japanese equivalents. The book has twenty photographs.",
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
 }

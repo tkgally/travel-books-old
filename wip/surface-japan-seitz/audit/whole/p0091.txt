@@ -1,0 +1,5 @@
+{"given": "not beloved in america, where", "print": "not beloved in America, where", "sure": "high"}
+{"given": "we have elevated the mcrcantile and", "print": "we have elevated the mercantile and", "sure": "high"}
+{"given": "at the ceremonies. His and the", "print": "at the ceremonies. This and the", "sure": "high"}
+{"given": "no social position in Japan; but", "print": "no social position in Japan, but", "sure": "high"}
+{"given": "persons about whom neighbors", "print": "persons about whom the neighbors", "sure": "high"}
