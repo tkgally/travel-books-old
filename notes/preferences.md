@@ -365,3 +365,4 @@ goes to the to-do list for those sessions (`RESUME.md`).
   *Embassy to China*: side-notes are left out of the reading editions) they are in the JSON only, so the reading editions lose the dates of the
   entries; the book page says so. Should such side-notes be shown in the editions (for example as a small line or a run-in date at the start of
   the paragraph), for this book and others like it? Assumed for now: the standing rule; a new version can show them.
+- **A folding map missing from the only scan** (*Try Cracow and the Carpathians*, Hutchinson, 1872; 2026-11-22). Published without it, by your answer on *Uganda for a Holiday* taken as a standing rule (assumed); the book page says so. Is that the rule for any book whose only good scan lacks its map? (*Wanderings & Wonderings*, Aubertin, JATSI 89, is held back for the same reason: both Google scans have the map folded shut.)

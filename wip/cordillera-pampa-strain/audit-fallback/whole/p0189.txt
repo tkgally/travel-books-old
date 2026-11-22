@@ -1,0 +1,4 @@
+{"given": "With his nose to the ground; literally", "print": "With his nose to the ground, literally", "sure": "high"}
+{"given": "often changing the pofition of his", "print": "often changing the position of his", "sure": "high"}
+{"given": "stones immediately began roll away from", "print": "stones immediately began to roll away from", "sure": "high"}
+{"given": "however, his fore legs where still upon", "print": "however, his fore legs were still upon", "sure": "high"}

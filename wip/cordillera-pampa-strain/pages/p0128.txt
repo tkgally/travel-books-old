@@ -2,7 +2,7 @@
 
 |  | 1845. | 1846. | 1847. |
 |---|---|---|---|
-| C<sc>ustom</sc> H<sc>ouses, including duties on</sc> E<sc>xports and</sc> I<sc>mports</sc>, | $1,763.739 | $2,099,608 | $2,103,076 |
+| C<sc>ustom</sc> H<sc>ouses, including duties on</sc> E<sc>xports and</sc> I<sc>mports</sc>, | $1,763,739 | $2,099,608 | $2,103,076 |
 | Monopolies, | 663,356 | 699,352 | 721,349 |
 | Tithes, | 378,309 | 407,868 | 438,737 |
 | Land Tax, | 75,078 | 72,385 | 71,542 |
@@ -11,7 +11,7 @@
 | Stamps, | 54,725 | 58,273 | 58,171 |
 | Mint, | 23,959 |  |  |
 | Post Office, | 46,256 | 47,036 | 48,971 |
-| Tolls on Roads, | 39,509 | 41,048 | 37.349 |
+| Tolls on Roads, | 39,509 | 41,048 | 37,349 |
 | Auctions, | 6,100 | 6,025 | 6,078 |
 | Other sources not specified, | 31,225 | 37,249 | 50,101 |
 

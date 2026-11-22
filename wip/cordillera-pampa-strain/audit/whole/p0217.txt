@@ -1,0 +1,5 @@
+{"given": "his transit across plains in a carriage", "print": "his transit across the plains in a carriage", "sure": "high"}
+{"given": "log rolling the contracts through Congress; which", "print": "log rolling the contracts through Congress, which", "sure": "high"}
+{"given": "the courier, I bad now to hasten", "print": "the courier, I had now to hasten", "sure": "high"}
+{"given": "show me the utmost kindnefs and attention", "print": "show me the utmost kindness and attention", "sure": "high"}
+{"given": "Mr. Gonzalez at sunrize the following day", "print": "Mr. Gonzalez at sunrise the following day", "sure": "high"}

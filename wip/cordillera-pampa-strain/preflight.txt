@@ -1,0 +1,79 @@
+[       ok] meta: book.json: required fields present and sane
+[ FAIL (1)] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+            - p0052: illegible mark 〓: '[[fn *]] The number of zigzags, or caracols, as they are called in Chi'
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[ FAIL (2)] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+            - notes: …' are called in Chili, is said 〓 ninety on the west side of th'…
+            - notes: …'I did not count them, but can 〓edit the statement. Cañada lit'…
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[look (10)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0029: …European opera-|house, and an i… (hyphen removed; check)
+            - hyphen join in a note at p0032: …uished by a un-|form, so that a… (hyphen removed; check)
+            - hyphen join at p0047: …ions or depres-|sions, as it fo… (hyphen removed; check)
+            - hyphen join at p0050: …na, and Cartha-|gena, had rathe… (hyphen removed; check)
+            - hyphen join at p0077: …ng the adminis-|tion of the Mar… (hyphen removed; check)
+            - hyphen join at p0243: …ding to the hu-|midity of the a… (hyphen removed; check)
+            - hyphen join at p0244: …aining a recog-|nition of our n… (hyphen removed; check)
+            - hyphen join at p0246: …dies who grati-|fied us with so… (hyphen removed; check)
+            - hyphen join at p0248: …ss—heaven fore-|fend—to critici… (hyphen removed; check)
+            - (and 29 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[ look (5)] folios: printed page numbers that break the sequence
+            - p0019: page 15 after page 4 (p0018)
+            - p0097: page 3 after page 92 (p0096)
+            - p0098: page 94 after page 3 (p0097)
+            - p0147: page 14 after page 142 (p0146)
+            - p0148: page 144 after page 14 (p0147)
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[       ok] contents: entries of the printed contents with no matching heading
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[ look (6)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - a: a (p0005, p0007, p0009, p0010, p0011, p0012…); à (p0226)
+            - cana: cana (p0248, p0254); caña (p0201, p0209, p0210, p0211, p0212)
+            - certain: certain (p0019, p0031, p0032, p0044, p0055, p0064…); certâin (p0230)
+            - charge: charge (p0049, p0059, p0061, p0094, p0123, p0126…); chargé (p0060)
+            - chiripa: chiripa (p0223); chiripá (p0167)
+            - matte: matte (p0198, p0208, p0235, p0259); matté (p0179, p0180, p0186, p0203, p0229, p0257)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[look (12)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0029: “belonge” — “belonged” is common (135; a letter dropped or transposed?)
+            - p0033: “ladics” — “ladies” is common (749)
+            - p0037: “eivil” — “civil” is common (195)
+            - p0042: “surrouuding” — “surrounding” is common (284)
+            - p0091: “succesful” — “successful” is common (202; a letter dropped or transposed?)
+            - p0115: “morever” — “moreover” is common (98; a letter dropped or transposed?)
+            - p0146: “ketch” — “sketch” is common (139; a letter dropped or transposed?)
+            - p0152: “acknowlege” — “acknowledge” is common (52; a letter dropped or transposed?)
+            - p0209: “conisted” — “consisted” is common (232; a letter dropped or transposed?)
+            - p0210: “bating” — “bathing” is common (127; a letter dropped or transposed?)
+            - p0298: “laud” — “land” is common (2209)
+            - p0300: “colon” — “colony” is common (118; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …nant of the United States Navy, arrived at Valparaiso from San Francisco in February 1849 and made a journey overl…
+            - book.json summary: …, crossed the Andes to Mendoza, and galloped across the pampas by San Luis and Rio Quarto to Buenos…
+[ look (3)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+            - p0215: “visit His” in …hich I enjoyed during my visit His charming lady, a p…
+            - p0246: “guitar The” in …anying themselves on the guitar The songs were all…
+            - p0250: “sweet The” in …, in distant worlds, how sweet The kindred tongue, t…
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+[   unused] waiver matches nothing: {'check': 'leaves', 'match': 'p0100', 'why': 'a second scan of p. 94 (p0098) in place of p. 96: left out; pp. 95–96 are p0100a and p0100b, from another scan'}
+preflight FAIL: cordillera-pampa-strain v1 — 3 to fix, 1 waived; to look at: hyphen-joins 10, folios 5, accents 6, rare-forms 12, serial-commas 2, missing-stop 3 — tools@2ab2256a 2026-11-22

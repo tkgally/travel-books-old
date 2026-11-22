@@ -1,0 +1,44 @@
+{
+ "p0189": [
+  {
+   "kind": "letter",
+   "at": 280,
+   "was": "s",
+   "now": "f",
+   "context": "ntly on, often changing the pofition of his feet if he found ",
+   "found_by": [
+    "whole"
+   ]
+  },
+  {
+   "kind": "real word",
+   "at": 901,
+   "was": "were",
+   "now": "where",
+   "context": " them; however, his fore legs where still upon the narrow path; h",
+   "found_by": [
+    "whole"
+   ]
+  },
+  {
+   "kind": "dropped word",
+   "at": 850,
+   "was": " to ",
+   "now": " ",
+   "context": "loose stones immediately began roll away from under them; how",
+   "found_by": [
+    "whole"
+   ]
+  },
+  {
+   "kind": "punctuation",
+   "at": 208,
+   "was": ",",
+   "now": ";",
+   "context": "h. With his nose to the ground; literally smelling his way, h",
+   "found_by": [
+    "whole"
+   ]
+  }
+ ]
+}

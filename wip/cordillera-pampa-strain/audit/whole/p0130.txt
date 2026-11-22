@@ -1,0 +1,5 @@
+{"given": "all the sustcnance arising from", "print": "all the sustenance arising from", "sure": "high"}
+{"given": "judicious application such protection, says", "print": "judicious application of such protection, says", "sure": "high"}
+{"given": "continuation, the United states owes", "print": "continuation, the United States owes", "sure": "high"}
+{"given": "above mentioned shall he admitted free", "print": "above mentioned shall be admitted free", "sure": "high"}
+{"given": "vexatious suits at law; which it", "print": "vexatious suits at law, which it", "sure": "medium"}
