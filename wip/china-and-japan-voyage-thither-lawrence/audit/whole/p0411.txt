@@ -1,5 +1,0 @@
-{"given": "with every convcnience and comfort", "print": "with every convenience and comfort", "sure": "high"}
-{"given": "are the forward officers’ mess room", "print": "are the Forward officers’ mess room", "sure": "high"}
-{"given": "where are sergeant’s store room", "print": "where are the sergeant’s store room", "sure": "high"}
-{"given": "bread and sail rooms; and two armories", "print": "bread and sail rooms, and two armories", "sure": "high"}
-{"given": "the cockpit or Orlop deck, were are", "print": "the cockpit or Orlop deck, where are", "sure": "high"}

@@ -168,6 +168,7 @@
 | Through Atolls and Islands v1 | 2026-11-22 | 377 (+4 from a second scan; Appendix B left out) | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (tesseract comparison) by subagents; Drive uploads (Haiku) | 7 | 6 / 1 / 0 | 1 (ùnd: a speck over u) | 37.96 | 0 | PASS, 7 waived (leaves of Appendix B) | 30/30; 0 / 6 (spot-read: 8 printed misprints marked, 2 dashes doubled by the draft, 2 accents) | |
 | Embassy to China v5 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS | as before | |
 | A Woman Alone in the Heart of Japan v2 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS | as before | |
+| China and Japan, and a Voyage Thither v1 | 2026-11-22 | 473 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (tesseract comparison, UC copy for blots and a folded corner) by subagents; Drive uploads (Haiku) | 10 | 7 / 3 / 0 | 1 (p0226 “and”: the verifier's word, not applied by review.py, real) | 49.65 | 0 | PASS, 3 waived | 30/30; 0 / 6 (spot-read: 14 printed misprints marked, small-capital initials, 1 stanza join; a folded corner found by the draft's 〓) | |
 
 ## Calibrations
 

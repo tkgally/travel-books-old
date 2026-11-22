@@ -1,5 +1,0 @@
-{"given": "crying out the mandarin’s rank", "print": "crying out the Mandarin’s rank", "sure": "high"}
-{"given": "the Mandarin of this entire dependence", "print": "the Mandarin of his entire dependence", "sure": "high"}
-{"given": "being varied according his rank", "print": "being varied according to his rank", "sure": "high"}
-{"given": "their long confinement, therefore I", "print": "their long confinement; therefore I", "sure": "high"}
-{"given": "that this sbould be the", "print": "that this should be the", "sure": "high"}
