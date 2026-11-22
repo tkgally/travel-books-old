@@ -1203,10 +1203,11 @@
    "place": "Boston; New York",
    "publisher": "Lee and Shepard; Charles T. Dillingham",
    "images": 410,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): pg_catalog.csv has five other Ober titles, not this one; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Open Library and web: 1880–1907 printings and print on demand (Kessinger, Hansebooks, Creative Media) only. Ober 1849–1913. Engravings by John Andrew (1815–1870) from the author's photographs; the bird list in the appendix probably by George N. Lawrence (1806–1895). Not checked: WorldCat.",
-   "note": "University of California scan, 400 ppi; fallbacks Cornell cu31924021132562 (Douglas, Edinburgh), AMNH campsincaribbees00ober (1899). About 40 engravings; appendix a list of birds (about 20 pp.). 1876–78, collecting birds for the Smithsonian: camps in the forests of Dominica, Martinique, St Vincent, Grenada and other islands, Caribs and hunters, a camp in the Soufrière crater; island by island, first person."
+   "note": "University of California scan, 400 ppi; fallbacks Cornell cu31924021132562 (Douglas, Edinburgh), AMNH campsincaribbees00ober (1899). About 40 engravings; appendix a list of birds (about 20 pp.). 1876–78, collecting birds for the Smithsonian: camps in the forests of Dominica, Martinique, St Vincent, Grenada and other islands, Caribs and hunters, a camp in the Soufrière crater; island by island, first person.",
+   "started": "2026-11-22"
   },
   {
    "order": 66,
