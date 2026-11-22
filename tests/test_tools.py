@@ -1527,6 +1527,20 @@ class NoteTail(unittest.TestCase):
         self.assertEqual(preflight.CHECKS["note-tail"][0], "observe")
 
 
+class ImageBeforeHeading(unittest.TestCase):
+    """*Present-Day Japan* (2026-11-22): a picture printed above "CHAPTER I" fell into the division before."""
+
+    def test_picture_above_heading_listed(self):
+        pages = [("p0025", "[[page 1]]\n[[image: a junk]]\n[[caption]] A Junk.\n\n# Chapter I\n\nOUR first glimpse.\n"),
+                 ("p0026", "[[page 2]]\n# Chapter II\n\n[[image: a boat]]\n[[caption]] A Boat.\n\nText.\n"),
+                 ("p0027", "[[page 3]]\n[[image: a band of leaves]]\n# Chapter III\n\nText.\n")]
+        items = preflight.check_image_before_heading(pages, {"p0027-1"})
+        self.assertEqual([i.split(":")[0] for i in items], ["p0025"])
+
+    def test_observe(self):
+        self.assertEqual(preflight.CHECKS["image-before-heading"][0], "observe")
+
+
 class CaptionTail(unittest.TestCase):
     """*Uganda for a Holiday* (2026-11-21): a plate's cross-reference ("[See page 107.") typed as a `[[right]]` line
     after the caption became a paragraph that the next page's `[[cont]]` joined, so text was right-aligned under the

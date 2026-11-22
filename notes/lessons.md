@@ -46,6 +46,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 | Printed misprints in less common words (“hnndred”, “numher”, “entranee”, “pertorm”) kept faithfully and never marked: 15 in 11 books [review after forty books] | preflight `rare-forms` (observe: the collection as dictionary); test `RareForms` |
 | A full stop left out in print (“hard work and privation His orders”) copied faithfully by every stage and never marked [*The Golden Dagon*, a reader, issue #117, 2026-11-21; 15 more in 12 books] | preflight `missing-stop` (observe: every item looked at on the scan); test `MissingStop` |
 | A plate's cross-reference (“[*See* page 107.”) or “To face p. N” typed as a line of its own after the caption, so the next page's `[[cont]]` text was right-aligned under the picture [*Uganda for a Holiday*, 3 plates; *Argentine Plains*, 26 lines: caught by the rendered look] | preflight `caption-tail` (observe); test `CaptionTail` |
+| A picture printed above a chapter's title on the same page put at the end of the division before [*Present-Day Japan*, six chapters, 2026-11-22: caught by the rendered look] | preflight `image-before-heading` (observe: move the picture after the title and subtitle); test `ImageBeforeHeading` |
 
 ## Always
 
@@ -75,6 +76,8 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 
 ## Trigger: plates (tipped-in leaves) and a frontispiece
 
+- Pictures printed on the contents or list-of-illustrations pages go wherever those pages go (left out of the reading editions): say so in `omitted_from_reading` (*Present-Day Japan*, 2026-11-22).
+- `ocr_claude.py --pages` takes leaf numbers (`7-355`), not names.
 - Captions printed in small capitals: drafts type some as `<sc>…</sc>` in lower case and the rest in upper and lower
   case; grep `[[caption]] <sc>` and make all upper and lower case (12 of 148 in *Via Rhodesia*).
 

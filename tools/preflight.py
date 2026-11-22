@@ -54,6 +54,7 @@ CHECKS = collections.OrderedDict([
     ("site-text",       ("enforce", "book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or \"")),
     ("note-tail",       ("observe", "text after a page's notes that is not a note (a table or paragraph of a note set as body text)")),
     ("caption-tail",    ("observe", "a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?")),
+    ("image-before-heading", ("observe", "a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?")),
     ("verse-joins",     ("observe", "verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan")),
     ("cover",           ("enforce", "images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page")),
     ("accents",         ("observe", "words the book spells with different accents (or with and without): look at each group on the scan")),
@@ -529,6 +530,26 @@ def check_caption_tail(pages):
     return out
 
 
+def check_image_before_heading(pages, ornaments=()):
+    """A picture printed above a chapter's title on the same page: its `[[image:]]` line stands before the `#` line,
+    so the compiler puts it at the end of the division before (or leaves it out with the contents), not at the head
+    of the chapter (*Present-Day Japan*, six chapters: caught only by the rendered look). Ornaments (head-pieces)
+    open the division and are not listed."""
+    out = []
+    for leaf, text in pages:
+        lines = text.splitlines()
+        h = next((i for i, ln in enumerate(lines) if ln.startswith("# ")), None)
+        if h is None:
+            continue
+        k = 0
+        for ln in lines[:h]:
+            if ln.startswith("[[image:"):
+                k += 1
+                if f"{leaf}-{k}" not in ornaments:
+                    out.append(f"{leaf}: picture {leaf}-{k} above {lines[h][:40]!r}")
+    return out
+
+
 def _verse_stanzas(text, first):
     """Line counts of the stanzas of the first (first=True) or last <verse> block of a page."""
     blocks = re.findall(r"<verse>\n?(.*?)\n?</verse>", text, flags=re.S)
@@ -857,6 +878,7 @@ def run(bookdir, epubcheck=None, skip_epubcheck=False, skip_odt=False, verbose=F
         res["note-tail"] = check_note_tail(pages)
         res["verse-joins"] = check_verse_joins(pages)
         res["caption-tail"] = check_caption_tail(pages)
+        res["image-before-heading"] = check_image_before_heading(pages, set(cfg.get("ornaments") or []))
         # conservation
         pc, jc = [], []          # image captions apart: the compiler moves some images (see page_streams)
         ps, js = [], []          # side-notes: in the JSON, not in the reading editions
