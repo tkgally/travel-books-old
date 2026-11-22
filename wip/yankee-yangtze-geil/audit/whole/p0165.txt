@@ -1,0 +1,6 @@
+{"given": "an honor to any city", "print": "an honour to any city", "sure": "high"}
+{"given": "proselytising efforts, be said to me", "print": "proselytising efforts, he said to me", "sure": "high"}
+{"given": "as this Scandinavian; who give the", "print": "as this Scandinavian, who give the", "sure": "high"}
+{"given": "saving the heathen the regions far beyond", "print": "saving the heathen in the regions far beyond", "sure": "high"}
+{"given": "which foreign mcrchants make money", "print": "which foreign merchants make money", "sure": "high"}
+{"given": "bristles, ten thousand piculs", "print": "bristles, ten thcusand piculs", "sure": "low"}

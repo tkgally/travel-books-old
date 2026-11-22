@@ -34,7 +34,7 @@
   "volcanoes"
  ],
  "summary": "Charles M. Taylor, Jr., a Philadelphian, kept this day-by-day journal of a three months’ tour in the summer of 1896, the year worked out from the weekdays he gives with his dates. He crosses the United States to San Francisco and sails to Honolulu, where he describes the town, the plantations, the Pali, and a visit to the crater of Kilauea on Hawaii. In Japan he sees Yokohama, Kamakura, Tokyo, and Nikko, and then makes a long circuit by jinrikisha through the interior, by Naoetsu, Niigata, Bange, and Sendai, delayed by floods and rain, before going on to Kyoto, Osaka, Nara, and Kobe. It is written in the present tense and has nearly a hundred of his own photographs and sketches.",
- "omitted_from_reading": "The half-title, the printed contents, and the publisher’s advertisements are in the JSON only.",
+ "omitted_from_reading": "The printed contents and the publisher’s advertisements are in the JSON only.",
  "notes_on_text": [],
  "history": [
   {
@@ -44,11 +44,6 @@
   }
  ],
  "divisions": [
-  {
-   "at": "p0007",
-   "kind": "front",
-   "title": "Half-title"
-  },
   {
    "at": "p0010",
    "kind": "titlepage"
@@ -60,6 +55,16 @@
   {
    "at": "p0014",
    "kind": "contents"
+  },
+  {
+   "at": "p0020",
+   "kind": "front",
+   "title": "Vacation Days in Hawaii and Japan"
+  },
+  {
+   "at": "p0020",
+   "kind": "chapter",
+   "n": 2
   },
   {
    "at": "p0368",

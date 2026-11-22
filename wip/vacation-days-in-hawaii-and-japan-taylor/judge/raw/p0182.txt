@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "village of\n\n[[image: Bird's-eye photograph of a village street lined with low tiled roofs, with tall trees and hills beyond]]\n[[caption]] T<sc>he</sc> V<sc>illage of</sc> H<sc>achi</sc>-I<sc>shi</sc>.\n\n[[cont]]Hachi-Ishi w", "sure": "high"}
+{"n": 2, "is": "B", "print": "travel along", "sure": "high"}

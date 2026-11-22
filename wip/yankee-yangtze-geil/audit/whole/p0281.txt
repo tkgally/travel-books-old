@@ -1,0 +1,5 @@
+{"given": "divides into two; one branch", "print": "divides into two, one branch", "sure": "high"}
+{"given": "at the head of his grave", "print": "at the head of this grave", "sure": "high"}
+{"given": "a high sense of honor,” determined", "print": "a high sense of honour,” determined", "sure": "high"}
+{"given": "was taken from District Court to", "print": "was taken from the District Court to", "sure": "high"}
+{"given": "The Chinese evidently eudorse that sort", "print": "The Chinese evidently endorse that sort", "sure": "high"}

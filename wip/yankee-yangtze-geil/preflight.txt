@@ -1,68 +1,16 @@
 [       ok] meta: book.json: required fields present and sane
 [       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
-[FAIL (15)] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
-            - [[cont]] with nothing to continue, treated as a new block: p0356
-            - [[cont]] with nothing to continue, treated as a new block: p0382
-            - missing image file for p0028-1 (Fold-out map of central China showing the course of the Yangtze River from the Tibetan border eastward to the sea near Shanghai, with the surrounding provinces, cities, rivers and mountain ranges, and lines of latitude and longitude)
-            - missing image file for p0029-1 (Facsimile of the front page of a Chinese newspaper, The Chinese Christian Intelligencer, a church and family newspaper published weekly by the Presbyterian Missions in China)
-            - missing image file for p0031-1 (Drop capital T with a drawing of a Chinese carrier bearing two loads on a shoulder-pole)
-            - missing image file for p0036-1 (The author's Chinese visiting card: two large Chinese characters in brush script, one above the other)
-            - missing image file for p0046-1 (decorated initial letter M beside a pot of Chinese writing brushes and an ink-stone)
-            - missing image file for p0074-1 (drop capital H beside a drawing of a woman with a fan riding in a jinricksha pulled by a coolie)
-            - missing image file for p0101-1 (a native houseboat with a sail on the river)
-            - missing image file for p0119-1 (a Chinese soldier boat with a striped canvas awning and a flag, beside the initial letter I)
-            - missing image file for p0139-1 (Two Chinese cash coins, front and back, set beside the drop capital T)
-            - missing image file for p0162-1 (Two coolies carrying a sedan chair, set within the initial letter W)
-            - missing image file for p0185-1 (Decorated initial letter M with a Chinese man wearing a cangue (a wooden board locked around the neck))
-            - missing image file for p0205-1 (Decorated initial T with a vignette of a man working a water-lifting device beside a field)
-            - note reference '1' (occurrence 1) has no note in division d016 (p0249…)
-[ FAIL (2)] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
-            - pages→JSON text: insert …sementorrecompense."[]→[1]…
-            - JSON→ODT text: texts differ from character 3181: …ylvania,UnitedStatesofAmerica.ChapterI.TotheYellowfromtheBlu… / …ylvania,UnitedStatesofAmerica.[Illustration:Foldoutmapofcent…
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
 [       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
 [       ok] straight-quotes: no straight ' or " in the text
-[FAIL (11)] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
-            - p0070:  ”'…
-            - p0070:  ”'…
-            - p0070: ½ ”'…
-            - p0070:  ”'…
-            - p0070:  ”'…
-            - p0070:  ”'…
-            - p0070:  ”'…
-            - p0070: ½ ”'…
-            - p0070:  ”'…
-            - p0070:  ”'…
-            - p0070:  ”'…
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
 [       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
 [       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
-[FAIL (12)] links: every link inside the book's web pages and EPUB has a target
-            - web 05.html: missing image 'images/p0074-1.jpg'
-            - web 02.html: missing image 'images/p0028-1.jpg'
-            - web 02.html: missing image 'images/p0029-1.jpg'
-            - web 03.html: missing image 'images/p0031-1.jpg'
-            - web 03.html: missing image 'images/p0036-1.jpg'
-            - web 08.html: missing image 'images/p0139-1.jpg'
-            - web 09.html: missing image 'images/p0162-1.jpg'
-            - web 04.html: missing image 'images/p0046-1.jpg'
-            - web 07.html: missing image 'images/p0119-1.jpg'
-            - web 11.html: missing image 'images/p0205-1.jpg'
-            - web 10.html: missing image 'images/p0185-1.jpg'
-            - web 06.html: missing image 'images/p0101-1.jpg'
+[       ok] links: every link inside the book's web pages and EPUB has a target
 [       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
 [       ok] nav: contents: at least one reading division; each has a title and text
-[FAIL (12)] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/02.xhtml(19,282): Referenced resource "OEBPS/images/p0028-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/02.xhtml(20,223): Referenced resource "OEBPS/images/p0029-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/03.xhtml(11,154): Referenced resource "OEBPS/images/p0031-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/03.xhtml(17,151): Referenced resource "OEBPS/images/p0036-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/04.xhtml(13,150): Referenced resource "OEBPS/images/p0046-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/05.xhtml(11,162): Referenced resource "OEBPS/images/p0074-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/06.xhtml(11,110): Referenced resource "OEBPS/images/p0101-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/07.xhtml(11,158): Referenced resource "OEBPS/images/p0119-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/08.xhtml(11,136): Referenced resource "OEBPS/images/p0139-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/09.xhtml(11,134): Referenced resource "OEBPS/images/p0162-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/10.xhtml(11,169): Referenced resource "OEBPS/images/p0185-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-qpg1s9ex/books/yankee-yangtze-geil/yankee-yangtze-geil.epub/OEBPS/text/11.xhtml(11,157): Referenced resource "OEBPS/images/p0205-1.jpg" could not be found in the EPUB.
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
 [       ok] odt: LibreOffice opens the ODT and converts it to PDF
 [ FAIL (1)] audit: book.json records the sampled audit of this version
             - book.json "audit" must record this version: {"version", "date", "pages", "recall", "real_errors", "fixed"}
@@ -74,9 +22,7 @@
             - (and 12 joins giving a word the book prints whole elsewhere: not listed)
 [       ok] joins: page joins: missing [[cont]]
 [       ok] folios: printed page numbers that break the sequence
-[ FAIL (2)] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
-            - p0027: no page file
-            - p0030: no page file
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
 [ look (2)] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
             - p0079: closing ” with no opening “: 'He explained that on further thought he had discovered that '
             - p0201: closing ” with no opening “: 'Soldier ‘Crooked Happiness’ and runner ‘Running Out.’”'
@@ -88,8 +34,7 @@
 [       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
 [       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
-[ FAIL (1)] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
-            - images/cover.jpg is missing (the front cover if the title is clearly readable on it, otherwise the title page)
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (3)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - literati: literati (p0073, p0089, p0154, p0161); literàti (p0161)
             - shanghai: shanghai (p0013, p0019, p0031, p0032, p0033, p0034…); shanghaï (p0435)
@@ -114,4 +59,4 @@
             - p0309: “mother He” in …Ts’en never forgave his mother He became a B.A., a…
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight FAIL: yankee-yangtze-geil v1 — 56 to fix, 0 waived; to look at: hyphen-joins 5, quote-balance 2, contents 1, accents 3, rare-forms 7, serial-commas 5, missing-stop 1 — tools@e0bba922 2026-11-22
+preflight FAIL: yankee-yangtze-geil v1 — 1 to fix, 13 waived; to look at: hyphen-joins 5, quote-balance 2, contents 1, accents 3, rare-forms 7, serial-commas 5, missing-stop 1 — tools@6dd0940e 2026-11-22
