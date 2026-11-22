@@ -1326,10 +1326,11 @@
    "place": "London",
    "publisher": "Richard Bentley",
    "images": 194,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "Checked 2026-11-22 (Opus subagent): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing (raw HathiTrust OCR at distantreader.org does not count). Reprints: print on demand only; Open Library: 1854 only. Sir Patrick O'Brien, 2nd Bt., 1823–1895. Not checked: WorldCat.",
-   "note": "University of California scan, 400 ppi, no plates; about 180 pages. From Constantinople by steamer to the Danube; Bucharest under Russian occupation on the eve of the Crimean War; a night ride with despatches to Giurgevo past Russian camps. First person, with some political comment."
+   "eligibility": "Checked 2026-11-22 (Opus subagent): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing (raw HathiTrust OCR at distantreader.org does not count). Reprints: print on demand only; Open Library: 1854 only. Sir Patrick O'Brien, 2nd Bt., 1823–1895. Not checked: WorldCat. Re-checked 2026-11-22: a web search found Open Library, Goodreads and the Distant Reader OCR text only.",
+   "note": "University of California scan, 400 ppi, no plates; about 180 pages. From Constantinople by steamer to the Danube; Bucharest under Russian occupation on the eve of the Crimean War; a night ride with despatches to Giurgevo past Russian camps. First person, with some political comment.",
+   "started": "2026-11-22"
   },
   {
    "order": 74,
