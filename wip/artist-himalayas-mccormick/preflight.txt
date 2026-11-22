@@ -1,0 +1,289 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[FAIL (90)] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+            - missing image file for p0053-1 (pencil sketch of a dancer in flowing robes with an arm raised, with figures watching from a window behind)
+            - missing image file for p0055-1 (pen sketch of a covered two-wheeled cart at night, with figures standing round it)
+            - missing image file for p0056-1 (pencil sketch of village houses on a hillside above a steep slope and valley)
+            - missing image file for p0059-1 (pencil sketch of a two-wheeled hooded native cart (ekka) drawn by a horse)
+            - missing image file for p0061-1 (Sideways plate: a soft pencil or chalk sketch of a riverside, with dark trees and buildings along the bank, a moored boat with a tall mast, and reflections in the water below)
+            - missing image file for p0062-1 (sketch of a cloaked, turbaned figure seen from behind, looking across a river towards a town of flat-roofed buildings)
+            - missing image file for p0063-1 (Full-page drawing printed sideways: figures in a boat on the water, with buildings on the shore behind)
+            - missing image file for p0065-1 (pencil sketch of a tall, narrow wooden building with an overhanging upper storey beside tall poplars, reflected in still water)
+            - missing image file for p0068-1 (sketch of a figure in a boat among reeds on a lake)
+            - missing image file for p0070-1 (sketch of a boatman poling a long narrow boat on the river, with trees on the far bank)
+            - missing image file for p0071-1 (pencil sketch of a turbaned boatman leaning on a long pole beside a wooden frame)
+            - missing image file for p0073-1 (sketch of figures in heavy cloaks beside a tent in the snow, with a line of men walking towards distant huts)
+            - missing image file for p0074-1 (sketch of a crowd of coolies with baggage at a boat landing on the lake shore, mountains beyond)
+            - missing image file for p0076-1 (sketch of cloaked figures in a camp among bare trees, with hills behind)
+            - missing image file for p0079-1 (pencil sketch of men seated under a tent awning round a small fire with cooking pots)
+            - missing image file for p0081-1 (sketch of two turbaned men reclining on the ground, wrapped in cloaks)
+            - missing image file for p0082-1 (small sketch of the head of a bearded man in a turban)
+            - missing image file for p0084-1 (pencil sketch of a man in a turban and cloak, seen from behind, standing in driving wind and snow among huddled, crouching figures)
+            - missing image file for p0086-1 (sketch of a camp of tents on a snowy slope, with cloaked figures standing among the tents)
+            - missing image file for p0087-1 (pencil sketch of dark seated figures in silhouette gathered round a light beneath a great overhanging rock, with a lit face at the right)
+            - missing image file for p0088-1 (sketch of two turbaned coolies huddled together in the snow, one with a staff)
+            - missing image file for p0090-1 (sketch of five muffled figures in turbans and cloaks, seen from behind)
+            - missing image file for p0091-1 (Pencil sketch of a flat-roofed building with a small structure on top, set on a snowy slope, with a hooded figure in the foreground)
+            - missing image file for p0094-1 (sketch of a bearded old man in a skull-cap, sitting hunched with his arms round his knees)
+            - missing image file for p0096-1 (pencil sketch of a figure standing by a tent with another figure seated inside)
+            - missing image file for p0109-1 (pencil sketch of two snow-covered mountain peaks with a steep gully between them)
+            - missing image file for p0111-1 (sketch of a figure seen from behind, bending forward, with legs in striped puttees and pointed boots)
+            - missing image file for p0119-1 (pencil sketch of two figures resting in a pine forest beside a fallen tree trunk)
+            - missing image file for p0131-1 (Watercolour sketch of a dark interior seen through a doorway framed by a wooden post, with a figure sitting hunched under a hanging cloth and leaves in the foreground)
+            - missing image file for p0135-1 (Pencil sketch of a building with arched windows, with figures seated and standing in the open space in front of it)
+            - missing image file for p0137-1 (pencil sketch of a figure in a flowing cloak clambering over rocks on a hillside)
+            - missing image file for p0139-1 (pen sketch of figures in long robes working with hoes on a slope, with smaller sketches of figures above)
+            - missing image file for p0142-1 (sketch of a seated man in a cap and an embroidered robe with a dark waistcoat)
+            - missing image file for p0143-1 (pencil sketch of a group of six seated and standing natives wrapped in cloaks)
+            - missing image file for p0146-1 (Pencil sketch of a turbaned man seated on a rock beneath bare trees, with a small figure on a slope behind)
+            - missing image file for p0151-1 (Pencil sketches of two men from Nagyr: one in a rolled cap and a cloak, the other in profile, with handwritten notes)
+            - missing image file for p0153-1 (pencil sketch of a group of seated and squatting men in turbans and cloaks)
+            - missing image file for p0156-1 (pen sketch of a group of natives in robes and turbans gathered around baggage, with two figures carrying loads to the right)
+            - missing image file for p0158-1 (pencil sketch of a bearded old man in a turban and loose robe, seated and holding a long stick)
+            - missing image file for p0159-1 (sketch of three men in turbans sitting close together on a rocky slope, with mountains behind)
+            - missing image file for p0163-1 (sketch of a figure with a staff climbing along a narrow steep ridge path, seen from behind, with a man ahead at the top)
+            - missing image file for p0164-1 (Sketch of the head of an elderly bearded villager in a rolled cap, with cords hanging from it)
+            - missing image file for p0166-1 (sketch of a hooded old man's head with a grimacing face)
+            - missing image file for p0168-1 (pencil sketch of turbaned men in camp, some standing and some crouching around loads, beneath an awning, with mountains behind)
+            - missing image file for p0170-1 (sketch of snowy mountain peaks and ridges)
+            - missing image file for p0173-1 (sketch of two cloaked figures with staffs standing on a glacier above crevasses, mountains behind)
+            - missing image file for p0174-1 (sketch of a figure in a turban seen from behind, sitting alone on a rock)
+            - missing image file for p0178-1 (pencil sketch of a group of robed figures standing on a snowy ridge, with mountains faintly drawn behind)
+            - missing image file for p0185-1 (pencil sketch of a man in a cap and long striped coat walking down a slope, holding something in one hand)
+            - missing image file for p0189-1 (Pencil sketch of a figure in a hat painting at an easel among tree trunks, watched by a standing native and a seated bearded man)
+            - missing image file for p0194-1 (pen sketch of turbaned men squatting round a smoking camp fire, with baggage boxes in the foreground and tents and figures behind)
+            - missing image file for p0197-1 (pencil sketch of two heavily laden porters, one standing and one stooping, on rough ground)
+            - missing image file for p0200-1 (pencil sketch of two men in turbans and loose robes seated on the ground resting, with a tent behind them)
+            - missing image file for p0203-1 (Pencil sketch of a sharp snow-covered mountain peak rising above a dark foreground ridge)
+            - missing image file for p0205-1 (sketch of two men stooping over a box or sledge in the snow, with two figures wrapped in blankets standing behind them)
+            - missing image file for p0207-1 (pencil sketch of three coolies in cloaks and caps, one standing, one stooping and one squatting on the ground)
+            - missing image file for p0209-1 (sketch of three cloaked figures seated on the ground, seen from behind)
+            - missing image file for p0211-1 (pencil sketch of a man huddled in blankets, writing or reading, inside a tent)
+            - missing image file for p0213-1 (Drawing of a robed figure with a dark sash and outstretched arms rising in the air above a group of hooded men huddled below)
+            - missing image file for p0217-1 (pen sketch of two figures huddled together under wraps, lying on the ground)
+            - missing image file for p0219-1 (sketch of three figures in caps sitting huddled together on the snow, with an ice-axe beside them)
+            - missing image file for p0221-1 (sketch of three heads in turbans, one in profile with a beard)
+            - missing image file for p0223-1 (Pencil sketch of a snow-covered mountain peak with glaciers and dark rocky ridges below, under a hatched sky)
+            - missing image file for p0228-1 (sketch of a snow slope with a small tent and tiny figures of climbers)
+            - missing image file for p0231-1 (sketch of three men huddled in blankets and warm clothing, sitting among rocks)
+            - missing image file for p0237-1 (sketch of a man sitting on the ground, leaning against a bundle)
+            - missing image file for p0243-1 (pencil sketch of a figure standing among steep rock walls and gullies on a mountainside)
+            - missing image file for p0244-1 (Sketch of a man in a cap seated in a tent doorway, with a figure standing among trees outside)
+            - missing image file for p0247-1 (pencil sketch of two men in caps, one bent over, seen through a doorway or between posts)
+            - missing image file for p0250-1 (pencil sketch of a man in a sun helmet and knickerbockers with puttees, standing with one hand resting on a long staff)
+            - missing image file for p0253-1 (pen sketch of oxen yoked together treading out grain round a post, with a man driving them and figures lounging in the straw in the foreground)
+            - missing image file for p0263-1 (pencil sketch of two cloaked figures at the doorway of a low wooden hut beneath bare trees, with a small sketch of a bearded man's head below)
+            - missing image file for p0264-1 (Sketch of village houses with a figure seated under a tree in the foreground)
+            - missing image file for p0269-1 (pencil sketch of two seated figures in turbans seen from behind, one large and cloaked, one small)
+            - missing image file for p0271-1 (small sketch of a turbaned, bearded man's head in profile)
+            - missing image file for p0282-1 (Pencil sketch of monastery buildings perched on top of tall earth towers, with flat-roofed houses and a chorten below)
+            - missing image file for p0286-1 (pen sketches of a seated robed figure and several heads of native men and women in caps and hoods)
+            - missing image file for p0287-1 (sketch of three robed figures seen from behind, standing by a dark doorway)
+            - missing image file for p0289-1 (Sketch of a street in Leh, with flat-roofed buildings and robed figures walking)
+            - missing image file for p0292-1 (pencil sketch of flat-roofed buildings with a hillside behind, seen from a roof)
+            - missing image file for p0295-1 (pencil sketch, printed sideways, of figures under a tent awning: a seated figure, a table or box covered with cloth, and a standing man in a turban holding a staff)
+            - missing image file for p0297-1 (sketch of tall flat-roofed stone houses built close together, with a dark hatched sky behind)
+            - missing image file for p0300-1 (pencil sketch of two figures standing beneath large trees beside a wall, with open country beyond)
+            - missing image file for p0302-1 (sketch of three turbaned men seated under a shelter among bales, with a hookah beside them)
+            - missing image file for p0304-1 (pencil sketch of a seated man in a hat, framed under a roof or awning)
+            - missing image file for p0306-1 (small sketch of a figure in a broad-brimmed hat and loose coat, seen from behind)
+            - missing image file for p0310-1 (sketch of the head of a bearded old man in a large turban-like cap)
+            - missing image file for p0315-1 (Pen sketch of two shrouded figures, one carrying a long pole, walking past a wooden fence)
+            - missing image file for p0317-1 (Sketch of a figure crouching at the water's edge beside boats, with a standing figure and wooden houses behind, under overhanging branches)
+            - missing image file for p0319-1 (pen sketch of a camp of thatched huts by the water, with figures squatting on the ground and a turbaned man standing in the foreground)
+[ FAIL (1)] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+            - JSON→ODT text: texts differ from character 23806: …teady,determinedtogetthereway,wheneachgoesathisownpace,carin… / …teady,determinedtogetthereway,[Illustration:pensketchofacove…
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[FAIL (88)] links: every link inside the book's web pages and EPUB has a target
+            - web 12.html: missing image 'images/p0247-1.jpg'
+            - web 12.html: missing image 'images/p0250-1.jpg'
+            - web 12.html: missing image 'images/p0253-1.jpg'
+            - web 12.html: missing image 'images/p0263-1.jpg'
+            - web 05.html: missing image 'images/p0073-1.jpg'
+            - web 05.html: missing image 'images/p0074-1.jpg'
+            - web 05.html: missing image 'images/p0076-1.jpg'
+            - web 05.html: missing image 'images/p0079-1.jpg'
+            - web 05.html: missing image 'images/p0081-1.jpg'
+            - web 05.html: missing image 'images/p0082-1.jpg'
+            - web 05.html: missing image 'images/p0084-1.jpg'
+            - web 05.html: missing image 'images/p0086-1.jpg'
+            - web 05.html: missing image 'images/p0087-1.jpg'
+            - web 05.html: missing image 'images/p0088-1.jpg'
+            - web 05.html: missing image 'images/p0090-1.jpg'
+            - web 05.html: missing image 'images/p0091-1.jpg'
+            - web 05.html: missing image 'images/p0094-1.jpg'
+            - web 05.html: missing image 'images/p0096-1.jpg'
+            - web 08.html: missing image 'images/p0156-1.jpg'
+            - web 08.html: missing image 'images/p0158-1.jpg'
+            - web 08.html: missing image 'images/p0159-1.jpg'
+            - web 08.html: missing image 'images/p0163-1.jpg'
+            - web 08.html: missing image 'images/p0164-1.jpg'
+            - web 08.html: missing image 'images/p0166-1.jpg'
+            - web 08.html: missing image 'images/p0168-1.jpg'
+            - web 08.html: missing image 'images/p0170-1.jpg'
+            - web 08.html: missing image 'images/p0173-1.jpg'
+            - web 08.html: missing image 'images/p0174-1.jpg'
+            - web 09.html: missing image 'images/p0178-1.jpg'
+            - web 09.html: missing image 'images/p0185-1.jpg'
+            - web 09.html: missing image 'images/p0189-1.jpg'
+            - web 04.html: missing image 'images/p0056-1.jpg'
+            - web 04.html: missing image 'images/p0059-1.jpg'
+            - web 04.html: missing image 'images/p0061-1.jpg'
+            - web 04.html: missing image 'images/p0062-1.jpg'
+            - web 04.html: missing image 'images/p0063-1.jpg'
+            - web 04.html: missing image 'images/p0065-1.jpg'
+            - web 04.html: missing image 'images/p0068-1.jpg'
+            - web 04.html: missing image 'images/p0070-1.jpg'
+            - web 04.html: missing image 'images/p0071-1.jpg'
+            - web 07.html: missing image 'images/p0135-1.jpg'
+            - web 07.html: missing image 'images/p0137-1.jpg'
+            - web 07.html: missing image 'images/p0139-1.jpg'
+            - web 07.html: missing image 'images/p0142-1.jpg'
+            - web 07.html: missing image 'images/p0143-1.jpg'
+            - web 07.html: missing image 'images/p0146-1.jpg'
+            - web 07.html: missing image 'images/p0151-1.jpg'
+            - web 07.html: missing image 'images/p0153-1.jpg'
+            - web 11.html: missing image 'images/p0219-1.jpg'
+            - web 11.html: missing image 'images/p0221-1.jpg'
+            - web 11.html: missing image 'images/p0223-1.jpg'
+            - web 11.html: missing image 'images/p0228-1.jpg'
+            - web 11.html: missing image 'images/p0231-1.jpg'
+            - web 11.html: missing image 'images/p0237-1.jpg'
+            - web 11.html: missing image 'images/p0243-1.jpg'
+            - web 11.html: missing image 'images/p0244-1.jpg'
+            - web 14.html: missing image 'images/p0289-1.jpg'
+            - web 14.html: missing image 'images/p0292-1.jpg'
+            - web 14.html: missing image 'images/p0295-1.jpg'
+            - web 14.html: missing image 'images/p0297-1.jpg'
+            - web 14.html: missing image 'images/p0300-1.jpg'
+            - web 14.html: missing image 'images/p0302-1.jpg'
+            - web 14.html: missing image 'images/p0304-1.jpg'
+            - web 14.html: missing image 'images/p0306-1.jpg'
+            - web 14.html: missing image 'images/p0310-1.jpg'
+            - web 15.html: missing image 'images/p0315-1.jpg'
+            - web 15.html: missing image 'images/p0317-1.jpg'
+            - web 15.html: missing image 'images/p0319-1.jpg'
+            - web 10.html: missing image 'images/p0194-1.jpg'
+            - web 10.html: missing image 'images/p0197-1.jpg'
+            - web 10.html: missing image 'images/p0200-1.jpg'
+            - web 10.html: missing image 'images/p0203-1.jpg'
+            - web 10.html: missing image 'images/p0205-1.jpg'
+            - web 10.html: missing image 'images/p0207-1.jpg'
+            - web 10.html: missing image 'images/p0209-1.jpg'
+            - web 10.html: missing image 'images/p0211-1.jpg'
+            - web 10.html: missing image 'images/p0213-1.jpg'
+            - web 10.html: missing image 'images/p0217-1.jpg'
+            - web 13.html: missing image 'images/p0264-1.jpg'
+            - web 13.html: missing image 'images/p0269-1.jpg'
+            - web 13.html: missing image 'images/p0271-1.jpg'
+            - web 13.html: missing image 'images/p0282-1.jpg'
+            - web 13.html: missing image 'images/p0286-1.jpg'
+            - web 13.html: missing image 'images/p0287-1.jpg'
+            - web 06.html: missing image 'images/p0109-1.jpg'
+            - web 06.html: missing image 'images/p0111-1.jpg'
+            - web 06.html: missing image 'images/p0119-1.jpg'
+            - web 06.html: missing image 'images/p0131-1.jpg'
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[FAIL (30)] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(31,155): Referenced resource "OEBPS/images/p0053-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(33,131): Referenced resource "OEBPS/images/p0055-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(34,126): Referenced resource "OEBPS/images/p0056-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(42,123): Referenced resource "OEBPS/images/p0059-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(43,224): Referenced resource "OEBPS/images/p0061-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(44,167): Referenced resource "OEBPS/images/p0062-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(46,152): Referenced resource "OEBPS/images/p0063-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(49,176): Referenced resource "OEBPS/images/p0065-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(54,100): Referenced resource "OEBPS/images/p0068-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(56,136): Referenced resource "OEBPS/images/p0070-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/04.xhtml(60,130): Referenced resource "OEBPS/images/p0071-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(8,158): Referenced resource "OEBPS/images/p0073-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(13,145): Referenced resource "OEBPS/images/p0074-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(16,121): Referenced resource "OEBPS/images/p0076-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(22,134): Referenced resource "OEBPS/images/p0079-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(25,119): Referenced resource "OEBPS/images/p0081-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(27,103): Referenced resource "OEBPS/images/p0082-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(30,180): Referenced resource "OEBPS/images/p0084-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(35,139): Referenced resource "OEBPS/images/p0086-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(38,186): Referenced resource "OEBPS/images/p0087-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(40,127): Referenced resource "OEBPS/images/p0088-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(45,120): Referenced resource "OEBPS/images/p0090-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(47,181): Referenced resource "OEBPS/images/p0091-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(52,139): Referenced resource "OEBPS/images/p0094-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/05.xhtml(57,128): Referenced resource "OEBPS/images/p0096-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/06.xhtml(11,130): Referenced resource "OEBPS/images/p0109-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/06.xhtml(15,150): Referenced resource "OEBPS/images/p0111-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/06.xhtml(25,130): Referenced resource "OEBPS/images/p0119-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/06.xhtml(43,216): Referenced resource "OEBPS/images/p0131-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-aoaoao6q/books/artist-himalayas-mccormick/artist-himalayas-mccormick.epub/OEBPS/text/07.xhtml(8,164): Referenced resource "OEBPS/images/p0135-1.jpg" could not be found in the EPUB.
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[ FAIL (1)] audit: book.json records the sampled audit of this version
+            - book.json "audit" must record this version: {"version", "date", "pages", "recall", "real_errors", "fixed"}
+[ look (5)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0148: …ghting and dis-|regard for life… (hyphen removed; check)
+            - hyphen join at p0208: … and while wel-|coming and cong… (hyphen removed; check)
+            - hyphen join at p0257: …t being percep-|tible, save the… (hyphen removed; check)
+            - hyphen join at p0281: …d of my riding-|whip over the h… (hyphen removed; check)
+            - (and 8 joins giving a word the book prints whole elsewhere: not listed)
+[ look (3)] joins: page joins: missing [[cont]]
+            - p0018: no [[cont]] but the page before ends …'barramula 38' and this one starts 'on the jhelam, srinagar 3'
+            - p0019: no [[cont]] but the page before ends …'er and ragah of nagyr 127' and this one starts 'natives of nagyr 129'
+            - p0020: no [[cont]] but the page before ends …'houses at askole 219' and this one starts 'repairing a kilta 220'
+[ look (1)] folios: printed page numbers that break the sequence
+            - p0108: page 81 after page 83 (p0107)
+[ FAIL (2)] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+            - p0006: no page file
+            - p0007: no page file
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[FAIL (19)] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+            - p0034: …'l as it seemed afterwards' | picture | 'when I had known the glor'
+            - p0056: …'ermined-to-get-there way,' | picture | 'when each goes at his own'
+            - p0065: …'s and still water, liquid' | picture | 'and refreshing in the gre'
+            - p0068: …'g to be added up, and the' | picture | 'heavenly, or rather, as I'
+            - p0070: …'ed our quarters there and' | picture | 'paid a visit to Samad Sha'
+            - p0084: …'e Pathans caused a lot of' | picture | 'trouble, but when it clea'
+            - p0086: …'inimurg, and surprised us' | picture | 'by getting their loads re'
+            - p0087: …'ft and very insecure, and' | picture | 'we could see that a hard '
+            - p0088: …'men in front made it much' | picture | 'easier for those coming a'
+            - p0109: …'te scarf round my throat,' | picture | 'and for the rest I was li'
+            - p0119: …'mity, and brought us to a' | picture | 'pleasant camping-place, w'
+            - p0139: …'to prayers drew me to the' | picture | 'shade of the chinars, und'
+            - p0142: …'vice he might require. He' | picture | 'invited us to visit his c'
+            - p0143: …'river by a rope bridge of' | picture | 'the usual frail construct'
+            - p0153: …'was seated in an armchair' | picture | 'that looked as if it had '
+            - p0207: …'ut I was very much amused' | picture | 'with his comments on the '
+            - p0287: …' as we cantered in clouds' | picture | 'of dust towards the town.'
+            - p0292: …'sketch looking across the' | picture | 'valley to the dark hills,'
+            - p0300: …'e, stopped, and seeing me' | picture | 'laughing, broke into laug'
+[       ok] contents: entries of the printed contents with no matching heading
+[ FAIL (1)] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+            - book.json edition_statement: …don edition is T. Fisher Unwin's…
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[ FAIL (1)] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+            - images/cover.jpg is missing (the front cover if the title is clearly readable on it, otherwise the title page)
+[       ok] accents: words the book spells with different accents (or with and without): look at each group on the scan
+[ look (1)] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+            - p0138: “thc” in …i range sweeping away to thc north. The distant field…
+[ look (7)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0018: “nomal” — “normal” is common (40; a letter dropped or transposed?)
+            - p0020: “ali” — “all” is common (17580)
+            - p0029: “egging” — “begging” is common (64; a letter dropped or transposed?)
+            - p0138: “thc” — “the” is common (350004)
+            - p0205: “caches” — “coaches” is common (50; a letter dropped or transposed?)
+            - p0210: “medial” — “medical” is common (120; a letter dropped or transposed?)
+            - p0259: “wiling” — “willing” is common (206; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: … by Srinagar to Gilgit, Bagrot, and Hunza and Nagyr, the crossing …
+            - book.json summary: …has of the party, local rulers, and sketching in snow and wind. The book has o…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight FAIL: artist-himalayas-mccormick v1 — 233 to fix, 3 waived; to look at: hyphen-joins 5, joins 3, folios 1, misprints 1, rare-forms 7, serial-commas 2 — tools@22bce05e 2026-11-22

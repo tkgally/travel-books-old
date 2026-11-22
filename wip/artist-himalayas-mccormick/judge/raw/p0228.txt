@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "and I, were\n\n[[image: sketch of a snow slope with a small tent and tiny figures of climbers]]\n\n[[cont]]left alone", "sure": "high"}
+{"n": 2, "is": "A", "print": "homewards.\n\nThe two", "sure": "high"}

@@ -1,0 +1,23 @@
+{"n": 1, "is": "B", "print": "<sc>repairing a kilta</sc>", "sure": "medium"}
+{"n": 2, "is": "A", "print": "<sc>at scardu</sc>", "sure": "medium"}
+{"n": 3, "is": "B", "print": "<sc>a climbing study</sc>", "sure": "medium"}
+{"n": 4, "is": "B", "print": "<sc>threshing in the shigar valley</sc>", "sure": "medium"}
+{"n": 5, "is": "B", "print": "<sc>at scora</sc>", "sure": "medium"}
+{"n": 6, "is": "B", "print": "<sc>at tolti</sc>", "sure": "medium"}
+{"n": 7, "is": "B", "print": "<sc>kashmir sepoys</sc>", "sure": "medium"}
+{"n": 8, "is": "B", "print": "<sc>rahim ali</sc>", "sure": "medium"}
+{"n": 9, "is": "A", "print": "<sc>lama-yuru</sc>", "sure": "medium"}
+{"n": 10, "is": "B", "print": "<sc>ladakhi notes</sc>", "sure": "medium"}
+{"n": 11, "is": "A", "print": "<sc>at lama-yuru</sc> <pr", "sure": "medium"}
+{"n": 12, "is": "A", "print": "<sc>leh bazaar</sc>", "sure": "medium"}
+{"n": 13, "is": "A", "print": "<sc>ladakhi temple</sc>", "sure": "medium"}
+{"n": 14, "is": "B", "print": "<sc>yarkand merchants on the road</sc>", "sure": "medium"}
+{"n": 15, "is": "A", "print": "<sc>at lama-yuru</sc> <pr", "sure": "medium"}
+{"n": 16, "is": "A", "print": "<sc>at kargil</sc> <", "sure": "medium"}
+{"n": 17, "is": "B", "print": "<sc>at kargil</sc> <", "sure": "medium"}
+{"n": 18, "is": "A", "print": "<sc>a ladakhi</sc> ", "sure": "medium"}
+{"n": 19, "is": "B", "print": "<sc>a ladakhi</sc> ", "sure": "medium"}
+{"n": 20, "is": "B", "print": "<sc>a ladakhi</sc> ", "sure": "medium"}
+{"n": 21, "is": "A", "print": "<sc>women pounding grain</sc>", "sure": "medium"}
+{"n": 22, "is": "B", "print": "<sc>on the jhelam, srinagar</sc>", "sure": "medium"}
+{"n": 23, "is": "B", "print": "<sc>our boats in the chinar bagh</sc>", "sure": "medium"}

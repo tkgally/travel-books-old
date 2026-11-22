@@ -1,0 +1,47 @@
+[[page ix]]
+
+# List of Illustrations
+
+<sc>portrait</sc> <i>Frontispiece</i>
+
+<sc>port said</sc> <pref>1</pref>
+
+<sc>terefa</sc> <pref>3</pref>
+
+<sc>lighthouse. entrance to port said</sc> <pref>5</pref>
+
+<sc>in the suez canal</sc> <pref>8</pref>
+
+<sc>on the steamer</sc> <pref>10</pref>
+
+<sc>entering aden</sc> <pref>12</pref>
+
+<sc>aden</sc> <pref>14</pref>
+
+<sc>off port said</sc> <pref>15</pref>
+
+<sc>at karachi</sc> <pref>16</pref>
+
+<sc>on the indus</sc> <pref>18</pref>
+
+<sc>parbir</sc> <pref>19</pref>
+
+<sc>gurkhas</sc> <pref>20</pref>
+
+<sc>a climbing study</sc> <pref>22</pref>
+
+<sc>coolie at tandiani</sc> <pref>23</pref>
+
+<sc>gurkha dancing</sc> <pref>27</pref>
+
+<sc>servants bringing supper</sc> <pref>29</pref>
+
+<sc>departure of jack</sc> <pref>31</pref>
+
+<sc>at domel</sc> <pref>32</pref>
+
+<sc>an ekka</sc> <pref>35</pref>
+
+<sc>evening in chinar bagh</sc> <pref>37</pref>
+
+<sc>barramula</sc> <pref>38</pref>

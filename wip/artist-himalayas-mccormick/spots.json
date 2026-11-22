@@ -1,0 +1,1082 @@
+{
+ "p0015": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>chelsea to karachi</sc>",
+   "replace": "Chelsea to Karachi",
+   "draft": "<sc>chelsea to karachi</sc>",
+   "verified": "Chelsea to Karachi",
+   "context": "[[page ?]] ⏎  ⏎ # Contents ⏎  ⏎ [[center]] I. ⏎  ⏎ [[center]] <sc>chelsea to karachi</sc> <pref>1</pref> ⏎  ⏎ [[center]] II. ⏎  ⏎ [[center]] <sc>karachi to s"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "<sc>karachi to srinagar</sc>",
+   "replace": "Karachi to Srinagar",
+   "draft": "<sc>karachi to srinagar</sc>",
+   "verified": "Karachi to Srinagar",
+   "context": "elsea to Karachi <pref>1</pref> ⏎  ⏎ [[center]] II. ⏎  ⏎ [[center]] <sc>karachi to srinagar</sc> <pref>16</pref> ⏎  ⏎ [[center]] III. ⏎  ⏎ [[center]] <sc>the road t"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "<sc>the road to gilgit</sc>",
+   "replace": "The Road to Gilgit",
+   "draft": "<sc>the road to gilgit</sc>",
+   "verified": "The Road to Gilgit",
+   "context": "hi to Srinagar <pref>16</pref> ⏎  ⏎ [[center]] III. ⏎  ⏎ [[center]] <sc>the road to gilgit</sc> <pref>49</pref> ⏎  ⏎ [[center]] IV. ⏎  ⏎ [[center]] <sc>bagrot, dir"
+  },
+  {
+   "n": 4,
+   "kind": "words",
+   "find": "<sc>bagrot, dirran, and gargo</sc>",
+   "replace": "Bagrot, Dirran, and Gargo",
+   "draft": "<sc>bagrot, dirran, and gargo</sc>",
+   "verified": "Bagrot, Dirran, and Gargo",
+   "context": " Road to Gilgit <pref>49</pref> ⏎  ⏎ [[center]] IV. ⏎  ⏎ [[center]] <sc>bagrot, dirran, and gargo</sc> <pref>84</pref> ⏎  ⏎ [[center]] V. ⏎  ⏎ [[center]] <sc>hunza-nagyr<"
+  },
+  {
+   "n": 5,
+   "kind": "words",
+   "find": "<sc>hunza-nagyr</sc>",
+   "replace": "Hunza-Nagyr",
+   "draft": "<sc>hunza-nagyr</sc>",
+   "verified": "Hunza-Nagyr",
+   "context": "irran, and Gargo <pref>84</pref> ⏎  ⏎ [[center]] V. ⏎  ⏎ [[center]] <sc>hunza-nagyr</sc> <pref>111</pref> ⏎  ⏎ [[center]] VI. ⏎  ⏎ [[center]] <sc>mir and hi"
+  },
+  {
+   "n": 6,
+   "kind": "words",
+   "find": "<sc>mir and hispar</sc>",
+   "replace": "Mir and Hispar",
+   "draft": "<sc>mir and hispar</sc>",
+   "verified": "Mir and Hispar",
+   "context": "]] Hunza-Nagyr <pref>111</pref> ⏎  ⏎ [[center]] VI. ⏎  ⏎ [[center]] <sc>mir and hispar</sc> <pref>132</pref> ⏎  ⏎ [[center]] VII. ⏎  ⏎ [[center]] <sc>hispar pa"
+  },
+  {
+   "n": 7,
+   "kind": "words",
+   "find": "<sc>hispar pass to askole</sc>",
+   "replace": "Hispar Pass to Askole",
+   "draft": "<sc>hispar pass to askole</sc>",
+   "verified": "Hispar Pass to Askole",
+   "context": "ir and Hispar <pref>132</pref> ⏎  ⏎ [[center]] VII. ⏎  ⏎ [[center]] <sc>hispar pass to askole</sc> <pref>154</pref> ⏎  ⏎ [[center]] VIII. ⏎  ⏎ [[center]] <sc>askole t"
+  },
+  {
+   "n": 8,
+   "kind": "words",
+   "find": "<sc>askole to the golden throne</sc>",
+   "replace": "Askole to the Golden Throne",
+   "draft": "<sc>askole to the golden throne</sc>",
+   "verified": "Askole to the Golden Throne",
+   "context": "ss to Askole <pref>154</pref> ⏎  ⏎ [[center]] VIII. ⏎  ⏎ [[center]] <sc>askole to the golden throne</sc> <pref>168</pref> ⏎  ⏎ [[center]] IX. ⏎  ⏎ [[center]] <sc>pioneer pe"
+  },
+  {
+   "n": 9,
+   "kind": "words",
+   "find": "<sc>pioneer peak to askole</sc>",
+   "replace": "Pioneer Peak to Askole",
+   "draft": "<sc>pioneer peak to askole</sc>",
+   "verified": "Pioneer Peak to Askole",
+   "context": " Golden Throne <pref>168</pref> ⏎  ⏎ [[center]] IX. ⏎  ⏎ [[center]] <sc>pioneer peak to askole</sc> <pref>194</pref> ⏎  ⏎ [[center]] X. ⏎  ⏎ [[center]] <sc>askole to s"
+  },
+  {
+   "n": 10,
+   "kind": "words",
+   "find": "<sc>askole to scardu</sc>",
+   "replace": "Askole to Scardu",
+   "draft": "<sc>askole to scardu</sc>",
+   "verified": "Askole to Scardu",
+   "context": " Peak to Askole <pref>194</pref> ⏎  ⏎ [[center]] X. ⏎  ⏎ [[center]] <sc>askole to scardu</sc> <pref>221</pref> ⏎  ⏎ [[center]] XI. ⏎  ⏎ [[center]] <sc>scardu to "
+  },
+  {
+   "n": 11,
+   "kind": "words",
+   "find": "<sc>scardu to leh</sc>",
+   "replace": "Scardu to Leh",
+   "draft": "<sc>scardu to leh</sc>",
+   "verified": "Scardu to Leh",
+   "context": "kole to Scardu <pref>221</pref> ⏎  ⏎ [[center]] XI. ⏎  ⏎ [[center]] <sc>scardu to leh</sc> <pref>240</pref> ⏎  ⏎ [[center]] XII. ⏎  ⏎ [[center]] <sc>leh to sr"
+  },
+  {
+   "n": 12,
+   "kind": "words",
+   "find": "<sc>leh to srinagar</sc>",
+   "replace": "Leh to Srinagar",
+   "draft": "<sc>leh to srinagar</sc>",
+   "verified": "Leh to Srinagar",
+   "context": "Scardu to Leh <pref>240</pref> ⏎  ⏎ [[center]] XII. ⏎  ⏎ [[center]] <sc>leh to srinagar</sc> <pref>265</pref> ⏎  ⏎ [[center]] XIII. ⏎  ⏎ [[center]] <sc>srinagar"
+  },
+  {
+   "n": 13,
+   "kind": "words",
+   "find": "<sc>srinagar</sc>",
+   "replace": "Srinagar",
+   "draft": "<sc>srinagar</sc>",
+   "verified": "Srinagar",
+   "context": " to Srinagar <pref>265</pref> ⏎  ⏎ [[center]] XIII. ⏎  ⏎ [[center]] <sc>srinagar</sc> <pref>289</pref> ⏎ "
+  }
+ ],
+ "p0018": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page x]]\n\n<sc>on the jhelam",
+   "replace": "[[page x]]\n\n# List of Illustrations.\n\n<sc>on the jhelam",
+   "draft": "[[page x]]\n\n<sc>on the",
+   "verified": "[[page x]]\n\n# List of Illustrations.\n\n<sc>on the",
+   "context": "[[page x]] ⏎  ⏎ <sc>on the jhelam, srinagar</sc> <pref>39</pref> ⏎  ⏎ <sc>towing up the jhelam</s"
+  }
+ ],
+ "p0020": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>repairing a kilta</sc>",
+   "replace": "<sc>Repairing a Kilta</sc>",
+   "draft": "<sc>repairing a kilta</sc>",
+   "verified": "<sc>Repairing a Kilta</sc>",
+   "context": "[[page xii]] ⏎  ⏎ <sc>repairing a kilta</sc> <pref>220</pref> ⏎  ⏎ <sc>at scardu</sc> <pref>223</pref> ⏎  ⏎ <sc>"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "<sc>at scardu</sc>",
+   "replace": "<sc>At Scardu</sc>",
+   "draft": "<sc>at scardu</sc>",
+   "verified": "<sc>At Scardu</sc>",
+   "context": "[[page xii]] ⏎  ⏎ <sc>Repairing a Kilta</sc> <pref>220</pref> ⏎  ⏎ <sc>at scardu</sc> <pref>223</pref> ⏎  ⏎ <sc>a climbing study</sc> <pref>226</pref"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "<sc>a climbing study</sc>",
+   "replace": "<sc>A Climbing Study</sc>",
+   "draft": "<sc>a climbing study</sc>",
+   "verified": "<sc>A Climbing Study</sc>",
+   "context": "/sc> <pref>220</pref> ⏎  ⏎ <sc>At Scardu</sc> <pref>223</pref> ⏎  ⏎ <sc>a climbing study</sc> <pref>226</pref> ⏎  ⏎ <sc>threshing in the shigar valley</sc> <"
+  },
+  {
+   "n": 4,
+   "kind": "words",
+   "find": "<sc>threshing in the shigar valley</sc>",
+   "replace": "<sc>Threshing in the Shigar Valley</sc>",
+   "draft": "<sc>threshing in the shigar valley</sc>",
+   "verified": "<sc>Threshing in the Shigar Valley</sc>",
+   "context": "ref>223</pref> ⏎  ⏎ <sc>A Climbing Study</sc> <pref>226</pref> ⏎  ⏎ <sc>threshing in the shigar valley</sc> <pref>229</pref> ⏎  ⏎ <sc>at scora</sc> <pref>239</pref> ⏎  ⏎ <sc>a"
+  },
+  {
+   "n": 5,
+   "kind": "words",
+   "find": "<sc>at scora</sc>",
+   "replace": "<sc>At Scora</sc>",
+   "draft": "<sc>at scora</sc>",
+   "verified": "<sc>At Scora</sc>",
+   "context": " ⏎  ⏎ <sc>Threshing in the Shigar Valley</sc> <pref>229</pref> ⏎  ⏎ <sc>at scora</sc> <pref>239</pref> ⏎  ⏎ <sc>at tolti</sc> <pref>240</pref> ⏎  ⏎ <sc>k"
+  },
+  {
+   "n": 6,
+   "kind": "words",
+   "find": "<sc>at tolti</sc>",
+   "replace": "<sc>At Tolti</sc>",
+   "draft": "<sc>at tolti</sc>",
+   "verified": "<sc>At Tolti</sc>",
+   "context": "</sc> <pref>229</pref> ⏎  ⏎ <sc>At Scora</sc> <pref>239</pref> ⏎  ⏎ <sc>at tolti</sc> <pref>240</pref> ⏎  ⏎ <sc>kashmir sepoys</sc> <pref>245</pref> ⏎ "
+  },
+  {
+   "n": 7,
+   "kind": "words",
+   "find": "<sc>kashmir sepoys</sc>",
+   "replace": "<sc>Kashmir Sepoys</sc>",
+   "draft": "<sc>kashmir sepoys</sc>",
+   "verified": "<sc>Kashmir Sepoys</sc>",
+   "context": "</sc> <pref>239</pref> ⏎  ⏎ <sc>At Tolti</sc> <pref>240</pref> ⏎  ⏎ <sc>kashmir sepoys</sc> <pref>245</pref> ⏎  ⏎ <sc>rahim ali</sc> <pref>247</pref> ⏎  ⏎ <sc>"
+  },
+  {
+   "n": 8,
+   "kind": "words",
+   "find": "<sc>rahim ali</sc>",
+   "replace": "<sc>Rahim Ali</sc>",
+   "draft": "<sc>rahim ali</sc>",
+   "verified": "<sc>Rahim Ali</sc>",
+   "context": "<pref>240</pref> ⏎  ⏎ <sc>Kashmir Sepoys</sc> <pref>245</pref> ⏎  ⏎ <sc>rahim ali</sc> <pref>247</pref> ⏎  ⏎ <sc>lama-yuru</sc> <pref>258</pref> ⏎  ⏎ <sc>"
+  },
+  {
+   "n": 9,
+   "kind": "words",
+   "find": "<sc>lama-yuru</sc>",
+   "replace": "<sc>Lama-Yuru</sc>",
+   "draft": "<sc>lama-yuru</sc>",
+   "verified": "<sc>Lama-Yuru</sc>",
+   "context": "/sc> <pref>245</pref> ⏎  ⏎ <sc>Rahim Ali</sc> <pref>247</pref> ⏎  ⏎ <sc>lama-yuru</sc> <pref>258</pref> ⏎  ⏎ <sc>ladakhi notes</sc> <pref>262</pref> ⏎  ⏎ "
+  },
+  {
+   "n": 10,
+   "kind": "words",
+   "find": "<sc>ladakhi notes</sc>",
+   "replace": "<sc>Ladakhi Notes</sc>",
+   "draft": "<sc>ladakhi notes</sc>",
+   "verified": "<sc>Ladakhi Notes</sc>",
+   "context": "/sc> <pref>247</pref> ⏎  ⏎ <sc>Lama-Yuru</sc> <pref>258</pref> ⏎  ⏎ <sc>ladakhi notes</sc> <pref>262</pref> ⏎  ⏎ <sc>at lama-yuru</sc> <pref>263</pref> ⏎  ⏎ <"
+  },
+  {
+   "n": 11,
+   "kind": "words",
+   "find": "<sc>at lama-yuru</sc> <pref>263",
+   "replace": "<sc>At Lama-Yuru</sc> <pref>263",
+   "draft": "<sc>at lama-yuru</sc> <pr",
+   "verified": "<sc>At Lama-Yuru</sc> <pr",
+   "context": " <pref>258</pref> ⏎  ⏎ <sc>Ladakhi Notes</sc> <pref>262</pref> ⏎  ⏎ <sc>at lama-yuru</sc> <pref>263</pref> ⏎  ⏎ <sc>leh bazaar</sc> <pref>265</pref> ⏎  ⏎ <sc>ladakhi t"
+  },
+  {
+   "n": 12,
+   "kind": "words",
+   "find": "<sc>leh bazaar</sc>",
+   "replace": "<sc>Leh Bazaar</sc>",
+   "draft": "<sc>leh bazaar</sc>",
+   "verified": "<sc>Leh Bazaar</sc>",
+   "context": "> <pref>262</pref> ⏎  ⏎ <sc>At Lama-Yuru</sc> <pref>263</pref> ⏎  ⏎ <sc>leh bazaar</sc> <pref>265</pref> ⏎  ⏎ <sc>ladakhi temple</sc> <pref>268</pref> ⏎ "
+  },
+  {
+   "n": 13,
+   "kind": "words",
+   "find": "<sc>ladakhi temple</sc>",
+   "replace": "<sc>Ladakhi Temple</sc>",
+   "draft": "<sc>ladakhi temple</sc>",
+   "verified": "<sc>Ladakhi Temple</sc>",
+   "context": "sc> <pref>263</pref> ⏎  ⏎ <sc>Leh Bazaar</sc> <pref>265</pref> ⏎  ⏎ <sc>ladakhi temple</sc> <pref>268</pref> ⏎  ⏎ <sc>yarkand merchants on the road</sc> <p"
+  },
+  {
+   "n": 14,
+   "kind": "words",
+   "find": "<sc>yarkand merchants on the road</sc>",
+   "replace": "<sc>Yarkand Merchants on the Road</sc>",
+   "draft": "<sc>yarkand merchants on the road</sc>",
+   "verified": "<sc>Yarkand Merchants on the Road</sc>",
+   "context": "<pref>265</pref> ⏎  ⏎ <sc>Ladakhi Temple</sc> <pref>268</pref> ⏎  ⏎ <sc>yarkand merchants on the road</sc> <pref>271</pref> ⏎  ⏎ <sc>at lama-yuru</sc> <pref>273</pref> ⏎  ⏎ <"
+  },
+  {
+   "n": 15,
+   "kind": "words",
+   "find": "<sc>at lama-yuru</sc> <pref>273",
+   "replace": "<sc>At Lama-Yuru</sc> <pref>273",
+   "draft": "<sc>at lama-yuru</sc> <pr",
+   "verified": "<sc>At Lama-Yuru</sc> <pr",
+   "context": "> ⏎  ⏎ <sc>Yarkand Merchants on the Road</sc> <pref>271</pref> ⏎  ⏎ <sc>at lama-yuru</sc> <pref>273</pref> ⏎  ⏎ <sc>at kargil</sc> <pref>276</pref> ⏎  ⏎ <sc>at kargil<"
+  },
+  {
+   "n": 16,
+   "kind": "words",
+   "find": "<sc>at kargil</sc> <pref>276",
+   "replace": "<sc>At Kargil</sc> <pref>276",
+   "draft": "<sc>at kargil</sc> <",
+   "verified": "<sc>At Kargil</sc> <",
+   "context": "> <pref>271</pref> ⏎  ⏎ <sc>At Lama-Yuru</sc> <pref>273</pref> ⏎  ⏎ <sc>at kargil</sc> <pref>276</pref> ⏎  ⏎ <sc>at kargil</sc> <pref>278</pref> ⏎  ⏎ <sc>a ladakhi<"
+  },
+  {
+   "n": 17,
+   "kind": "words",
+   "find": "<sc>at kargil</sc> <pref>278",
+   "replace": "<sc>At Kargil</sc> <pref>278",
+   "draft": "<sc>at kargil</sc> <",
+   "verified": "<sc>At Kargil</sc> <",
+   "context": "/sc> <pref>273</pref> ⏎  ⏎ <sc>At Kargil</sc> <pref>276</pref> ⏎  ⏎ <sc>at kargil</sc> <pref>278</pref> ⏎  ⏎ <sc>a ladakhi</sc> <pref>280</pref> ⏎  ⏎ <sc>a ladakhi<"
+  },
+  {
+   "n": 18,
+   "kind": "words",
+   "find": "<sc>a ladakhi</sc> <pref>280",
+   "replace": "<sc>A Ladakhi</sc> <pref>280",
+   "draft": "<sc>a ladakhi</sc> ",
+   "verified": "<sc>A Ladakhi</sc> ",
+   "context": "/sc> <pref>276</pref> ⏎  ⏎ <sc>At Kargil</sc> <pref>278</pref> ⏎  ⏎ <sc>a ladakhi</sc> <pref>280</pref> ⏎  ⏎ <sc>a ladakhi</sc> <pref>282</pref> ⏎  ⏎ <sc>a ladakhi<"
+  },
+  {
+   "n": 19,
+   "kind": "words",
+   "find": "<sc>a ladakhi</sc> <pref>282",
+   "replace": "<sc>A Ladakhi</sc> <pref>282",
+   "draft": "<sc>a ladakhi</sc> ",
+   "verified": "<sc>A Ladakhi</sc> ",
+   "context": "/sc> <pref>278</pref> ⏎  ⏎ <sc>A Ladakhi</sc> <pref>280</pref> ⏎  ⏎ <sc>a ladakhi</sc> <pref>282</pref> ⏎  ⏎ <sc>a ladakhi</sc> <pref>286</pref> ⏎  ⏎ <sc>women poun"
+  },
+  {
+   "n": 20,
+   "kind": "words",
+   "find": "<sc>a ladakhi</sc> <pref>286",
+   "replace": "<sc>A Ladakhi</sc> <pref>286",
+   "draft": "<sc>a ladakhi</sc> ",
+   "verified": "<sc>A Ladakhi</sc> ",
+   "context": "/sc> <pref>280</pref> ⏎  ⏎ <sc>A Ladakhi</sc> <pref>282</pref> ⏎  ⏎ <sc>a ladakhi</sc> <pref>286</pref> ⏎  ⏎ <sc>women pounding grain</sc> <pref>291</pref> ⏎  ⏎ <sc"
+  },
+  {
+   "n": 21,
+   "kind": "words",
+   "find": "<sc>women pounding grain</sc>",
+   "replace": "<sc>Women Pounding Grain</sc>",
+   "draft": "<sc>women pounding grain</sc>",
+   "verified": "<sc>Women Pounding Grain</sc>",
+   "context": "/sc> <pref>282</pref> ⏎  ⏎ <sc>A Ladakhi</sc> <pref>286</pref> ⏎  ⏎ <sc>women pounding grain</sc> <pref>291</pref> ⏎  ⏎ <sc>on the jhelam, srinagar</sc> <pref>29"
+  },
+  {
+   "n": 22,
+   "kind": "words",
+   "find": "<sc>on the jhelam, srinagar</sc>",
+   "replace": "<sc>On the Jhelam, Srinagar</sc>",
+   "draft": "<sc>on the jhelam, srinagar</sc>",
+   "verified": "<sc>On the Jhelam, Srinagar</sc>",
+   "context": "286</pref> ⏎  ⏎ <sc>Women Pounding Grain</sc> <pref>291</pref> ⏎  ⏎ <sc>on the jhelam, srinagar</sc> <pref>293</pref> ⏎  ⏎ <sc>our boats in the chinar bagh</sc> <pr"
+  },
+  {
+   "n": 23,
+   "kind": "words",
+   "find": "<sc>our boats in the chinar bagh</sc>",
+   "replace": "<sc>Our Boats in the Chinar Bagh</sc>",
+   "draft": "<sc>our boats in the chinar bagh</sc>",
+   "verified": "<sc>Our Boats in the Chinar Bagh</sc>",
+   "context": "</pref> ⏎  ⏎ <sc>On the Jhelam, Srinagar</sc> <pref>293</pref> ⏎  ⏎ <sc>our boats in the chinar bagh</sc> <pref>295</pref> ⏎ "
+  }
+ ],
+ "p0032": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Though Conway had",
+   "replace": "Though\n\n[[image: Pen sketch of a river steamer moving along a broad river, with a bank of trees, buildings and posts on the left]]\n\n[[cont]]Conway had",
+   "draft": "Though Conway had",
+   "verified": "Though\n\n[[image: Pen sketch of a river steamer moving along a broad river, with a bank of trees, buildings and posts on the left]]\n\n[[cont]]Conway had",
+   "context": "s not with us all the time, while Zurbriggen never left us. Though Conway had not known him before, there is little doubt that if he were"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "sang or\n\n[[image: Pen sketch of a river steamer moving along a broad river, with a bank of trees, buildings and posts on the left]]",
+   "replace": "sang or",
+   "draft": "sang or\n\n[[image: Pen sketch of a river steamer moving along a broad river, with a bank of trees, buildings and posts on the left]]",
+   "verified": "sang or",
+   "context": "Mountains to him existed to be climbed; while he climbed he sang or ⏎  ⏎ [[image: Pen sketch of a river steamer moving along a broad river, with a bank of trees, buildings and posts on the left]] ⏎ "
+  }
+ ],
+ "p0036": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "another boat pass, one sees",
+   "replace": "another boat\n\n[[image: Sketch of ships at anchor in the Canal, with two figures in a small boat in the foreground and hills behind]]\n\n[[cont]]pass, one sees",
+   "draft": "another boat pass, one se",
+   "verified": "another boat\n\n[[image: Sketch of ships at anchor in the Canal, with two figures in a small boat in the foreground and hills behind]]\n\n[[cont]]pass, one se",
+   "context": "in the Canal is the most wonderful: when one ties up to let another boat pass, one sees at first its white eye, the big search-light, that grows an"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "Chinese garden.\n\n[[image: Sketch of ships at anchor in the Canal, with two figures in a small boat in the foreground and hills behind]]",
+   "replace": "Chinese garden.",
+   "draft": "nese garden.\n\n[[image: Sketch of ships at anchor in the Canal, with two figures in a small boat in the foreground and hills behind]]",
+   "verified": "nese garden.",
+   "context": "aters illuminated with lighted buoys, till they look like a Chinese garden. ⏎  ⏎ [[image: Sketch of ships at anchor in the Canal, with two figures in a small boat in the foreground and hills behind]] ⏎ "
+  }
+ ],
+ "p0038": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "playing loo, we went on",
+   "replace": "playing loo,\n\n[[image: sketch of a harbour town at the foot of mountains, seen across the water, with a small boat in the foreground]]\n\n[[cont]]we went on",
+   "draft": "playing loo, we went on",
+   "verified": "playing loo,\n\n[[image: sketch of a harbour town at the foot of mountains, seen across the water, with a small boat in the foreground]]\n\n[[cont]]we went on",
+   "context": " out of time clean and for ever. ⏎  ⏎ So working, dreaming, and playing loo, we went on eastward through the Arabian Sea and across the mouth of th"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "and before\n\n[[image: sketch of a harbour town at the foot of mountains, seen across the water, with a small boat in the foreground]]",
+   "replace": "and before",
+   "draft": "and before\n\n[[image: sketch of a harbour town at the foot of mountains, seen across the water, with a small boat in the foreground]]",
+   "verified": "and before",
+   "context": "pents lazily rolling in dark oil. Sometimes we lay on deck, and before ⏎  ⏎ [[image: sketch of a harbour town at the foot of mountains, seen across the water, with a small boat in the foreground]] ⏎ "
+  }
+ ],
+ "p0040": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "KARACHI is now",
+   "replace": "K<sc>arachi</sc> is now",
+   "draft": "KARACHI is now",
+   "verified": "K<sc>arachi</sc> is now",
+   "context": "stance]] ⏎  ⏎ # Chapter II. ⏎  ⏎ [[subtitle]] Karachi to Srinagar. ⏎  ⏎ KARACHI is now to me only a big burning blot of colour—sashes, turbans, an"
+  }
+ ],
+ "p0042": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Once we caught sight of",
+   "replace": "Once we caught\n\n[[image: pen sketch of a river with steep banks and buildings on the left, a sailing boat and figures on a raft in the foreground]]\n\n[[cont]]sight of",
+   "draft": "ce we caught sight of",
+   "verified": "ce we caught\n\n[[image: pen sketch of a river with steep banks and buildings on the left, a sailing boat and figures on a raft in the foreground]]\n\n[[cont]]sight of",
+   "context": " ⏎ We went through the town, and it was coloured Pandemonium. Once we caught sight of some young natives playing cricket, but that familiar thing"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "gigantic\n\n[[image: pen sketch of a river with steep banks and buildings on the left, a sailing boat and figures on a raft in the foreground]]",
+   "replace": "gigantic",
+   "draft": "gigantic\n\n[[image: pen sketch of a river with steep banks and buildings on the left, a sailing boat and figures on a raft in the foreground]]",
+   "verified": "gigantic",
+   "context": "ening. To come to the railway station was like leaving some gigantic ⏎  ⏎ [[image: pen sketch of a river with steep banks and buildings on the left, a sailing boat and figures on a raft in the foreground]] ⏎ "
+  }
+ ],
+ "p0051": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "return for their services",
+   "replace": "return for\n\n[[image: pencil sketch of a dancing figure with raised arms in a tent, watched by seated men in turbans]]\n\n[[cont]]their services",
+   "draft": "return for their servic",
+   "verified": "return for\n\n[[image: pencil sketch of a dancing figure with raised arms in a tent, watched by seated men in turbans]]\n\n[[cont]]their servic",
+   "context": "ad been purchased and presented to them by Jack as a slight return for their services the day before, and of course we must see them killed in tr"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "past\n\n[[image: pencil sketch of a dancing figure with raised arms in a tent, watched by seated men in turbans]]\n",
+   "replace": "past\n",
+   "draft": "past\n\n[[image: pencil sketch of a dancing figure with raised arms in a tent, watched by seated men in turbans]]\n",
+   "verified": "past\n",
+   "context": "wing of his arm brought the knife down through the neck and past ⏎  ⏎ [[image: pencil sketch of a dancing figure with raised arms in a tent, watched by seated men in turbans]] ⏎ "
+  }
+ ],
+ "p0055": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "catch us up. It turned out",
+   "replace": "catch us\n\n[[image: pen sketch of a covered two-wheeled cart at night, with figures standing round it]]\n\n[[cont]]up. It turned out",
+   "draft": "catch us up. It turne",
+   "verified": "catch us\n\n[[image: pen sketch of a covered two-wheeled cart at night, with figures standing round it]]\n\n[[cont]]up. It turne",
+   "context": " to their cooking and went on, knowing that they would soon catch us up. It turned out one of the hottest days we had experienced, and we wished o"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "had come\n\n[[image: pen sketch of a covered two-wheeled cart at night, with figures standing round it]]",
+   "replace": "had come",
+   "draft": "had come\n\n[[image: pen sketch of a covered two-wheeled cart at night, with figures standing round it]]",
+   "verified": "had come",
+   "context": "bazaar. The natives flew hither and thither, as if an enemy had come ⏎  ⏎ [[image: pen sketch of a covered two-wheeled cart at night, with figures standing round it]] ⏎ "
+  }
+ ],
+ "p0071": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "trees.\n\n[[image: pencil sketch of a turbaned boatman leaning on a long pole beside a wooden frame]]\n\nWe enjoyed the beauty of Srinagar for a week, and",
+   "replace": "trees.\n\nWe enjoyed the beauty of Srinagar for a\n\n[[image: pencil sketch of a turbaned boatman leaning on a long pole beside a wooden frame]]\n\n[[cont]] week, and",
+   "draft": "trees.\n\n[[image: pencil sketch of a turbaned boatman leaning on a long pole beside a wooden frame]]\n\nWe enjoyed the beauty of Srinagar for a week, and",
+   "verified": "trees.\n\nWe enjoyed the beauty of Srinagar for a\n\n[[image: pencil sketch of a turbaned boatman leaning on a long pole beside a wooden frame]]\n\n[[cont]] week, and",
+   "context": "the centre of what has been a lake surrounded by a grove of trees. ⏎  ⏎ [[image: pencil sketch of a turbaned boatman leaning on a long pole beside a wooden frame]] ⏎  ⏎ We enjoyed the beauty of Srinagar for a week, and while waiting for the mule train with our baggage we visite"
+  }
+ ],
+ "p0074": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[image: sketch of a crowd of coolies with baggage at a boat landing on the lake shore, mountains beyond]]\n\nWe started on our first march, a short one to Sanarwain,",
+   "replace": "We started on our first march, a short one\n\n[[image: sketch of a crowd of coolies with baggage at a boat landing on the lake shore, mountains beyond]]\n\n[[cont]]to Sanarwain,",
+   "draft": "[[image: sketch of a crowd of coolies with baggage at a boat landing on the lake shore, mountains beyond]]\n\nWe started on our first march, a short one to Sanarwain",
+   "verified": "We started on our first march, a short one\n\n[[image: sketch of a crowd of coolies with baggage at a boat landing on the lake shore, mountains beyond]]\n\n[[cont]]to Sanarwain",
+   "context": "d were hoisted on the backs of the coolies who awaited us. ⏎  ⏎ [[image: sketch of a crowd of coolies with baggage at a boat landing on the lake shore, mountains beyond]] ⏎  ⏎ We started on our first march, a short one to Sanarwain, by a way which rose gently to the valley at the foot of the"
+  }
+ ],
+ "p0076": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "about the state of the roads",
+   "replace": "about the state of\n\n[[image: sketch of cloaked figures in a camp among bare trees, with hills behind]]\n\n[[cont]]the roads",
+   "draft": "the state of the roads",
+   "verified": "the state of\n\n[[image: sketch of cloaked figures in a camp among bare trees, with hills behind]]\n\n[[cont]]the roads",
+   "context": "nese. They also gave us news, which was of more importance, about the state of the roads, which were covered deep with snow on the passes, and in ma"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "some sketching.\n\n[[image: sketch of cloaked figures in a camp among bare trees, with hills behind]]",
+   "replace": "some sketching.",
+   "draft": "e sketching.\n\n[[image: sketch of cloaked figures in a camp among bare trees, with hills behind]]",
+   "verified": "e sketching.",
+   "context": " bleakest and worst of the passes on the morrow. Then I did some sketching. ⏎  ⏎ [[image: sketch of cloaked figures in a camp among bare trees, with hills behind]] ⏎ "
+  }
+ ],
+ "p0079": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "and then I went on again.",
+   "replace": "and then I went\n\n[[image: pencil sketch of men seated under a tent awning round a small fire with cooking pots]]\n\n[[cont]]on again.",
+   "draft": " then I went on again.",
+   "verified": " then I went\n\n[[image: pencil sketch of men seated under a tent awning round a small fire with cooking pots]]\n\n[[cont]]on again.",
+   "context": "as quite a success, a small fire being made with dry twigs, and then I went on again. A steep, birch-covered slope descended from where we were s"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "not on my feet,\n\n[[image: pencil sketch of men seated under a tent awning round a small fire with cooking pots]]",
+   "replace": "not on my feet,",
+   "draft": " on my feet,\n\n[[image: pencil sketch of men seated under a tent awning round a small fire with cooking pots]]",
+   "verified": " on my feet,",
+   "context": "fter struggling and getting perpendicular again I shot off, not on my feet, ⏎  ⏎ [[image: pencil sketch of men seated under a tent awning round a small fire with cooking pots]] ⏎ "
+  }
+ ],
+ "p0081": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "watered by the river and streams",
+   "replace": "watered by the\n\n[[image: sketch of two turbaned men reclining on the ground, wrapped in cloaks]]\n\n[[cont]]river and streams",
+   "draft": "tered by the river and st",
+   "verified": "tered by the\n\n[[image: sketch of two turbaned men reclining on the ground, wrapped in cloaks]]\n\n[[cont]]river and st",
+   "context": "he valley and village looked very prosperous, and were well watered by the river and streams from hidden glaciers above. There were many interesting and"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "rock faces.\n\n[[image: sketch of two turbaned men reclining on the ground, wrapped in cloaks]]",
+   "replace": "rock faces.",
+   "draft": "rock faces.\n\n[[image: sketch of two turbaned men reclining on the ground, wrapped in cloaks]]",
+   "verified": "rock faces.",
+   "context": " distance as in England, but of sun-litten, yellow-coloured rock faces. ⏎  ⏎ [[image: sketch of two turbaned men reclining on the ground, wrapped in cloaks]] ⏎  ⏎ The next two days, with much the same ⏎ "
+  }
+ ],
+ "p0090": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "egg, which the Colonel",
+   "replace": "egg,\n\n[[image: sketch of five muffled figures in turbans and cloaks, seen from behind]]\n\n[[cont]]which the Colonel",
+   "draft": "egg, which the Co",
+   "verified": "egg,\n\n[[image: sketch of five muffled figures in turbans and cloaks, seen from behind]]\n\n[[cont]]which the Co",
+   "context": "efore us, and with no refreshment except half a hard-boiled egg, which the Colonel shared with me, we began our long descent to the Chelong hu"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "had begun to\n\n[[image: sketch of five muffled figures in turbans and cloaks, seen from behind]]",
+   "replace": "had begun to",
+   "draft": "had begun to\n\n[[image: sketch of five muffled figures in turbans and cloaks, seen from behind]]",
+   "verified": "had begun to",
+   "context": "ittle moment. It was dark when we reached the hut, and snow had begun to ⏎  ⏎ [[image: sketch of five muffled figures in turbans and cloaks, seen from behind]] ⏎ "
+  }
+ ],
+ "p0096": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "palace and the mosque, where",
+   "replace": "palace and the\n\n[[image: pencil sketch of a figure standing by a tent with another figure seated inside]]\n\n[[cont]]mosque, where",
+   "draft": "lace and the mosque, wher",
+   "verified": "lace and the\n\n[[image: pencil sketch of a figure standing by a tent with another figure seated inside]]\n\n[[cont]]mosque, wher",
+   "context": "ildings with any pretence to architecture being the Rajah's palace and the mosque, where they have one, and, of more importance than all, the fort. "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "seemed to take\n\n[[image: pencil sketch of a figure standing by a tent with another figure seated inside]]",
+   "replace": "seemed to take",
+   "draft": "emed to take\n\n[[image: pencil sketch of a figure standing by a tent with another figure seated inside]]",
+   "verified": "emed to take",
+   "context": " all day long with the life and costumes of the people, who seemed to take ⏎  ⏎ [[image: pencil sketch of a figure standing by a tent with another figure seated inside]] ⏎ "
+  }
+ ],
+ "p0137": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "nightfall.\n\n[[image: pencil sketch of a figure in a flowing cloak clambering over rocks on a hillside]]\n\nWe had",
+   "replace": "nightfall.\n\nWe had",
+   "draft": "nightfall.\n\n[[image: pencil sketch of a figure in a flowing cloak clambering over rocks on a hillside]]\n\nWe had",
+   "verified": "nightfall.\n\nWe had",
+   "context": "the green valley nestled under the great, high hills before nightfall. ⏎  ⏎ [[image: pencil sketch of a figure in a flowing cloak clambering over rocks on a hillside]] ⏎  ⏎ We had a long, hot march to Chalt next day. It was the same terrib"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "terrible desolation under a fierce sun",
+   "replace": "terrible desolation\n\n[[image: pencil sketch of a figure in a flowing cloak clambering over rocks on a hillside]]\n\n[[cont]] under a fierce sun",
+   "draft": "e desolation under a fie",
+   "verified": "e desolation\n\n[[image: pencil sketch of a figure in a flowing cloak clambering over rocks on a hillside]]\n\n[[cont]] under a fie",
+   "context": "We had a long, hot march to Chalt next day. It was the same terrible desolation under a fierce sun, and the valley's sides around and above scorched us with t"
+  }
+ ],
+ "p0138": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "thc north",
+   "replace": "the north",
+   "draft": "thc north",
+   "verified": "the north",
+   "context": "open valley and the great Raki Pushi range sweeping away to thc north. The distant fields of Nilt looked green and fresh beyond a"
+  }
+ ],
+ "p0158": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "where to be a stranger meant",
+   "replace": "where to be a\n\n[[image: pencil sketch of a bearded old man in a turban and loose robe, seated and holding a long stick]]\n\n[[cont]]stranger meant",
+   "draft": "here to be a stranger mea",
+   "verified": "here to be a\n\n[[image: pencil sketch of a bearded old man in a turban and loose robe, seated and holding a long stick]]\n\n[[cont]]stranger mea",
+   "context": " of us, as they had always been of any strangers, in a land where to be a stranger meant to be either a prisoner or an enemy. I never was able to ge"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "walked up and\n\n[[image: pencil sketch of a bearded old man in a turban and loose robe, seated and holding a long stick]]",
+   "replace": "walked up and",
+   "draft": "alked up and\n\n[[image: pencil sketch of a bearded old man in a turban and loose robe, seated and holding a long stick]]",
+   "verified": "alked up and",
+   "context": " An old man sat at one end of the web, while two youngsters walked up and ⏎  ⏎ [[image: pencil sketch of a bearded old man in a turban and loose robe, seated and holding a long stick]] ⏎ "
+  }
+ ],
+ "p0163": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "thick liquid, which was",
+   "replace": "thick liquid,\n\n[[image: sketch of a figure with a staff climbing along a narrow steep ridge path, seen from behind, with a man ahead at the top]]\n\n[[cont]] which was",
+   "draft": "hick liquid, which was",
+   "verified": "hick liquid,\n\n[[image: sketch of a figure with a staff climbing along a narrow steep ridge path, seen from behind, with a man ahead at the top]]\n\n[[cont]] which was",
+   "context": "would reach the river, and we would drink bucketsful of its thick liquid, which was half water and half sand. We were stopped for nearly two ho"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "to the river.\n\n[[image: sketch of a figure with a staff climbing along a narrow steep ridge path, seen from behind, with a man ahead at the top]]",
+   "replace": "to the river.",
+   "draft": "o the river.\n\n[[image: sketch of a figure with a staff climbing along a narrow steep ridge path, seen from behind, with a man ahead at the top]]",
+   "verified": "o the river.",
+   "context": "e great hogs, rolled over and over in it as it boiled along to the river. ⏎  ⏎ [[image: sketch of a figure with a staff climbing along a narrow steep ridge path, seen from behind, with a man ahead at the top]] ⏎ "
+  }
+ ],
+ "p0164": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "leave their homes and green fields",
+   "replace": "leave their homes\n\n[[image: Sketch of the head of an elderly bearded villager in a rolled cap, with cords hanging from it]]\n\n[[cont]] and green fields",
+   "draft": " their homes and green f",
+   "verified": " their homes\n\n[[image: Sketch of the head of an elderly bearded villager in a rolled cap, with cords hanging from it]]\n\n[[cont]] and green f",
+   "context": "pany us. The villagers naturally showed great reluctance to leave their homes and green fields for the untrodden snows of the mountains; but with the powe"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "as they were\n\n[[image: Sketch of the head of an elderly bearded villager in a rolled cap, with cords hanging from it]]",
+   "replace": "as they were",
+   "draft": "as they were\n\n[[image: Sketch of the head of an elderly bearded villager in a rolled cap, with cords hanging from it]]",
+   "verified": "as they were",
+   "context": "eed them was obtainable, and sheep were bought to be killed as they were ⏎  ⏎ [[image: Sketch of the head of an elderly bearded villager in a rolled cap, with cords hanging from it]] ⏎ "
+  }
+ ],
+ "p0166": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "seemed made for camping on.",
+   "replace": "seemed made for\n\n[[image: sketch of a hooded old man's head with a grimacing face]]\n\n[[cont]]camping on.",
+   "draft": "med made for camping on.",
+   "verified": "med made for\n\n[[image: sketch of a hooded old man's head with a grimacing face]]\n\n[[cont]]camping on.",
+   "context": " with some shrub growing near under very lofty rock cliffs, seemed made for camping on. The natives called it Chokutens, and it was used by them in"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "once more.\n\n[[image: sketch of a hooded old man's head with a grimacing face]]",
+   "replace": "once more.",
+   "draft": "once more.\n\n[[image: sketch of a hooded old man's head with a grimacing face]]",
+   "verified": "once more.",
+   "context": "s shoot. In the evening Zurbriggen joined us in good health once more. ⏎  ⏎ [[image: sketch of a hooded old man's head with a grimacing face]] ⏎ "
+  }
+ ],
+ "p0170": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "naming the structure “<i>Kaneywai Sahib Ke Tamerai,</i>” which, roughly",
+   "replace": "naming the structure “<i>Kaneywai Sahib Ke Tamerai,</i>”\n\n[[image: sketch of snowy mountain peaks and ridges]]\n\n[[cont]]which, roughly",
+   "draft": "amerai,</i>” which, rough",
+   "verified": "amerai,</i>”\n\n[[image: sketch of snowy mountain peaks and ridges]]\n\n[[cont]]which, rough",
+   "context": "ing a great triangular pointed slab upright on the top, and naming the structure “<i>Kaneywai Sahib Ke Tamerai,</i>” which, roughly interpreted means “Conway, sir, his mark.” Shortly after fi"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "we soon brought him round.\n\n[[image: sketch of snowy mountain peaks and ridges]]",
+   "replace": "we soon brought him round.",
+   "draft": "t him round.\n\n[[image: sketch of snowy mountain peaks and ridges]]",
+   "verified": "t him round.",
+   "context": " so yelling to the gaping servants to bring food and drink, we soon brought him round. ⏎  ⏎ [[image: sketch of snowy mountain peaks and ridges]] ⏎  ⏎ “Where are the Sahibs?” ⏎ "
+  }
+ ],
+ "p0174": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "two of the oldest of their party to take the lead. They came towards us, more shamefaced-looking than defiant, and some I noticed were grinning in the background; but forming in a semicircle around us, they all put up their hands in a prayer-like attitude, and waited for us to give them leave to speak.\n\n[[image: sketch of a figure in a turban seen from behind, sitting alone on a rock]]",
+   "replace": "two of the oldest\n\n[[image: sketch of a figure in a turban seen from behind, sitting alone on a rock]]\n\n[[cont]]of their party to take the lead. They came towards us, more shamefaced-looking than defiant, and some I noticed were grinning in the background; but forming in a semi-circle around us, they all put up their hands in a prayer-like attitude, and waited for us to give them leave to speak.",
+   "draft": "f the oldest of their party to take the lead. They came towards us, more shamefaced-looking than defiant, and some I noticed were grinning in the background; but forming in a semicircle around us, they all put up their hands in a prayer-like attitude, and waited for us to give them leave to speak.\n\n[[image: sketch of a figure in a turban seen from behind, sitting alone on a rock]]",
+   "verified": "f the oldest\n\n[[image: sketch of a figure in a turban seen from behind, sitting alone on a rock]]\n\n[[cont]]of their party to take the lead. They came towards us, more shamefaced-looking than defiant, and some I noticed were grinning in the background; but forming in a semi-circle around us, they all put up their hands in a prayer-like attitude, and waited for us to give them leave to speak.",
+   "context": "nd sat on a rock, silent and alone. ⏎  ⏎ At last they persuaded two of the oldest of their party to take the lead. They came towards us, more shamefaced-looking than defiant, and some I noticed were grinning in the background; but forming in a semicircle around us, they all put up their hands in a prayer-like attitude, and waited for us to give them leave to speak. ⏎  ⏎ [[image: sketch of a figure in a turban seen from behind, sitting alone on a rock]] ⏎  ⏎ I sat silent for some time for fear of spoiling the pictur"
+  }
+ ],
+ "p0178": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "WE had no",
+   "replace": "W<sc>e</sc> had no",
+   "draft": "WE had no",
+   "verified": "W<sc>e</sc> had no",
+   "context": "ind]] ⏎  ⏎ # Chapter VII. ⏎  ⏎ [[subtitle]] Hispar Pass to Askole. ⏎  ⏎ WE had no intention of crossing the pass next morning when we rose at"
+  }
+ ],
+ "p0194": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "on our next march, having",
+   "replace": "on our next\n\n[[image: pen sketch of turbaned men squatting round a smoking camp fire, with baggage boxes in the foreground and tents and figures behind]]\n\n[[cont]]march, having",
+   "draft": "on our next march, havin",
+   "verified": "on our next\n\n[[image: pen sketch of turbaned men squatting round a smoking camp fire, with baggage boxes in the foreground and tents and figures behind]]\n\n[[cont]]march, havin",
+   "context": "lothes and sweated in the sun. ⏎  ⏎ We had a more exciting time on our next march, having to cross a rope bridge over the Punmah river. This, with ou"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "much time.\n\n[[image: pen sketch of turbaned men squatting round a smoking camp fire, with baggage boxes in the foreground and tents and figures behind]]",
+   "replace": "much time.",
+   "draft": "much time.\n\n[[image: pen sketch of turbaned men squatting round a smoking camp fire, with baggage boxes in the foreground and tents and figures behind]]",
+   "verified": "much time.",
+   "context": "the Punmah river. This, with our numerous caravan, occupied much time. ⏎  ⏎ [[image: pen sketch of turbaned men squatting round a smoking camp fire, with baggage boxes in the foreground and tents and figures behind]] ⏎  ⏎ The bridge had been newly repaired, and the leaves having "
+  }
+ ],
+ "p0200": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "spared that trouble by",
+   "replace": "spared that\n\n[[image: pencil sketch of two men in turbans and loose robes seated on the ground resting, with a tent behind them]]\n\n[[cont]] trouble by",
+   "draft": "spared that trouble by",
+   "verified": "spared that\n\n[[image: pencil sketch of two men in turbans and loose robes seated on the ground resting, with a tent behind them]]\n\n[[cont]] trouble by",
+   "context": "urse, meant scrambling down again, though we were sometimes spared that trouble by the whole surface of rubble starting of its own accord and "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "so hot and\n\n[[image: pencil sketch of two men in turbans and loose robes seated on the ground resting, with a tent behind them]]",
+   "replace": "so hot and",
+   "draft": "so hot and\n\n[[image: pencil sketch of two men in turbans and loose robes seated on the ground resting, with a tent behind them]]",
+   "verified": "so hot and",
+   "context": "We came across each other at intervals resting, but we were so hot and ⏎  ⏎ [[image: pencil sketch of two men in turbans and loose robes seated on the ground resting, with a tent behind them]] ⏎ "
+  }
+ ],
+ "p0205": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "filled the great hollows",
+   "replace": "filled the\n\n[[image: sketch of two men stooping over a box or sledge in the snow, with two figures wrapped in blankets standing behind them]]\n\n[[cont]] great hollows",
+   "draft": "filled the great hollo",
+   "verified": "filled the\n\n[[image: sketch of two men stooping over a box or sledge in the snow, with two figures wrapped in blankets standing behind them]]\n\n[[cont]] great hollo",
+   "context": "the faces of the rocks. ⏎  ⏎ The clouds still hid the peaks and filled the great hollows of the valley, and we had no view of the mighty giants we k"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "possible way\n\n[[image: sketch of two men stooping over a box or sledge in the snow, with two figures wrapped in blankets standing behind them]]",
+   "replace": "possible way",
+   "draft": "possible way\n\n[[image: sketch of two men stooping over a box or sledge in the snow, with two figures wrapped in blankets standing behind them]]",
+   "verified": "possible way",
+   "context": "exploring, and Conway and I, with Harkbir, this day found a possible way ⏎  ⏎ [[image: sketch of two men stooping over a box or sledge in the snow, with two figures wrapped in blankets standing behind them]] ⏎ "
+  }
+ ],
+ "p0211": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "a stone hut, roofing",
+   "replace": "a stone\n\n[[image: pencil sketch of a man huddled in blankets, writing or reading, inside a tent]]\n\n[[cont]]hut, roofing",
+   "draft": "a stone hut, roofing",
+   "verified": "a stone\n\n[[image: pencil sketch of a man huddled in blankets, writing or reading, inside a tent]]\n\n[[cont]]hut, roofing",
+   "context": " up supplies, while the Gurkhas set to and built themselves a stone hut, roofing it with a mackintosh sheet, and very comfortable quarters t"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "had fallen\n\n[[image: pencil sketch of a man huddled in blankets, writing or reading, inside a tent]]",
+   "replace": "had fallen",
+   "draft": "had fallen\n\n[[image: pencil sketch of a man huddled in blankets, writing or reading, inside a tent]]",
+   "verified": "had fallen",
+   "context": "ed our faces, for it was borne down by the heavy snow which had fallen ⏎  ⏎ [[image: pencil sketch of a man huddled in blankets, writing or reading, inside a tent]] ⏎ "
+  }
+ ],
+ "p0218": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "BRUCE and Zurbriggen",
+   "replace": "B<sc>ruce</sc> and Zurbriggen",
+   "draft": "BRUCE and Zurbrig",
+   "verified": "B<sc>ruce</sc> and Zurbrig",
+   "context": "194]] ⏎  ⏎ # Chapter IX. ⏎  ⏎ [[subtitle]] Pioneer Peak to Askole. ⏎  ⏎ BRUCE and Zurbriggen had not been able, on account of bad weather, to find a way"
+  }
+ ],
+ "p0219": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "it was soon evening. When the sun",
+   "replace": "it was soon evening.\n\n[[image: sketch of three figures in caps sitting huddled together on the snow, with an ice-axe beside them]]\n\n[[cont]]When the sun",
+   "draft": "oon evening. When the sun",
+   "verified": "oon evening.\n\n[[image: sketch of three figures in caps sitting huddled together on the snow, with an ice-axe beside them]]\n\n[[cont]]When the sun",
+   "context": "n had sunk behind the hills, and as they were so very high, it was soon evening. When the sun disappeared the temperature immediately dropped about one h"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "effects afterwards.\n\n[[image: sketch of three figures in caps sitting huddled together on the snow, with an ice-axe beside them]]\n\nOn August",
+   "replace": "effects afterwards.\n\nOn August",
+   "draft": "fterwards.\n\n[[image: sketch of three figures in caps sitting huddled together on the snow, with an ice-axe beside them]]\n\nOn August",
+   "verified": "fterwards.\n\nOn August",
+   "context": "rse, to take off mine when sketching, but I always felt the effects afterwards. ⏎  ⏎ [[image: sketch of three figures in caps sitting huddled together on the snow, with an ice-axe beside them]] ⏎  ⏎ On August 21st we commenced the great ascent of the Golden Throne ice"
+  }
+ ],
+ "p0228": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "and I, were left alone",
+   "replace": "and I, were\n\n[[image: sketch of a snow slope with a small tent and tiny figures of climbers]]\n\n[[cont]]left alone",
+   "draft": "and I, were left alone",
+   "verified": "and I, were\n\n[[image: sketch of a snow slope with a small tent and tiny figures of climbers]]\n\n[[cont]]left alone",
+   "context": "urkhas went on down to their tents, and Conway, Zurbriggen, and I, were left alone to sleep the nearest, I suppose, to heaven of any living cr"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "homewards.\n\n[[image: sketch of a snow slope with a small tent and tiny figures of climbers]]\n\nThe two",
+   "replace": "homewards.\n\nThe two",
+   "draft": "homewards.\n\n[[image: sketch of a snow slope with a small tent and tiny figures of climbers]]\n\nThe two",
+   "verified": "homewards.\n\nThe two",
+   "context": "d no matter what lay before us, we knew it would be working homewards. ⏎  ⏎ [[image: sketch of a snow slope with a small tent and tiny figures of climbers]] ⏎  ⏎ The two Gurkhas came up in the morning, and we each bundled up our "
+  }
+ ],
+ "p0231": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "warm clothing, we awaited",
+   "replace": "warm\n\n[[image: sketch of three men huddled in blankets and warm clothing, sitting among rocks]]\n\n[[cont]]clothing, we awaited",
+   "draft": "warm clothing, we",
+   "verified": "warm\n\n[[image: sketch of three men huddled in blankets and warm clothing, sitting among rocks]]\n\n[[cont]]clothing, we",
+   "context": "r breakfast, which comforted us greatly. Wrapped in all our warm clothing, we awaited the sun, which came out in a couple of hours, and soon melt"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "way down.\n\n[[image: sketch of three men huddled in blankets and warm clothing, sitting among rocks]]",
+   "replace": "way down.",
+   "draft": "way down.\n\n[[image: sketch of three men huddled in blankets and warm clothing, sitting among rocks]]",
+   "verified": "way down.",
+   "context": "reater part of the new snow, and enabled us to continue our way down. ⏎  ⏎ [[image: sketch of three men huddled in blankets and warm clothing, sitting among rocks]] ⏎  ⏎ Conway determined to keep to the left of the Baltoro on th"
+  }
+ ],
+ "p0237": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "and expense, and yet going on",
+   "replace": "and expense,\n\n[[image: sketch of a man sitting on the ground, leaning against a bundle]]\n\n[[cont]]and yet going on",
+   "draft": "and expense, and yet goin",
+   "verified": "and expense,\n\n[[image: sketch of a man sitting on the ground, leaning against a bundle]]\n\n[[cont]]and yet goin",
+   "context": "ping there would have meant the loss of very valuable time, and expense, and yet going on seemed selfish. It is one of those things bound to happen i"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "wants.\n\n[[image: sketch of a man sitting on the ground, leaning against a bundle]]\n\nToiling",
+   "replace": "wants.\n\nToiling",
+   "draft": "wants.\n\n[[image: sketch of a man sitting on the ground, leaning against a bundle]]\n\nToiling",
+   "verified": "wants.\n\nToiling",
+   "context": "had his faithful and affectionate Gurkhas to look after his wants. ⏎  ⏎ [[image: sketch of a man sitting on the ground, leaning against a bundle]] ⏎  ⏎ Toiling on to noon in agony unspeakable ⏎ "
+  }
+ ],
+ "p0243": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "got round the same way",
+   "replace": "got round the\n\n[[image: pencil sketch of a figure standing among steep rock walls and gullies on a mountainside]]\n\n[[cont]]same way",
+   "draft": "ot round the same way",
+   "verified": "ot round the\n\n[[image: pencil sketch of a figure standing among steep rock walls and gullies on a mountainside]]\n\n[[cont]]same way",
+   "context": "was easy to get on to a larger surface. The party following got round the same way, and the rest of the traverse was comparatively without ris"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "great buttress\n\n[[image: pencil sketch of a figure standing among steep rock walls and gullies on a mountainside]]",
+   "replace": "great buttress",
+   "draft": "eat buttress\n\n[[image: pencil sketch of a figure standing among steep rock walls and gullies on a mountainside]]",
+   "verified": "eat buttress",
+   "context": "afo glacier without having to wade this time, we passed the great buttress ⏎  ⏎ [[image: pencil sketch of a figure standing among steep rock walls and gullies on a mountainside]] ⏎ "
+  }
+ ],
+ "p0245": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "WE did not forget",
+   "replace": "W<sc>e</sc> did not forget",
+   "draft": "WE did not for",
+   "verified": "W<sc>e</sc> did not for",
+   "context": "[[page 221]] ⏎  ⏎ # Chapter X. ⏎  ⏎ [[subtitle]] Askole to Scardu. ⏎  ⏎ WE did not forget the poor coolie left in the mountains, and the Lambadhar se"
+  }
+ ],
+ "p0264": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THE trip",
+   "replace": "T<sc>he</sc> trip",
+   "draft": "THE trip",
+   "verified": "T<sc>he</sc> trip",
+   "context": "e foreground]] ⏎  ⏎ # Chapter XI. ⏎  ⏎ [[subtitle]] Scardu to Leh. ⏎  ⏎ THE trip to Leh in Ladak, or Little Thibet, was undertaken principal"
+  }
+ ],
+ "p0269": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "itself, most\n\n[[image: pencil sketch of two seated figures in turbans seen from behind, one large and cloaked, one small]]",
+   "replace": "itself, most",
+   "draft": "itself, most\n\n[[image: pencil sketch of two seated figures in turbans seen from behind, one large and cloaked, one small]]",
+   "verified": "itself, most",
+   "context": "mals for Zurbriggen and Rahim Ali, we walked up to Parkutta itself, most ⏎  ⏎ [[image: pencil sketch of two seated figures in turbans seen from behind, one large and cloaked, one small]] ⏎ "
+  }
+ ],
+ "p0274": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Dras and Suru rivers",
+   "replace": "Dras and Sura rivers",
+   "draft": "Dras and Suru rivers",
+   "verified": "Dras and Sura rivers",
+   "context": "Sahara without water. We turned away at the junction of the Dras and Suru rivers, and keeping along the left bank of the Dras, reached the v"
+  }
+ ],
+ "p0282": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "buildings was erected",
+   "replace": "buildings was\n\n[[image: Pencil sketch of monastery buildings perched on top of tall earth towers, with flat-roofed houses and a chorten below]]\n\n[[cont]]erected",
+   "draft": "uildings was erected",
+   "verified": "uildings was\n\n[[image: Pencil sketch of monastery buildings perched on top of tall earth towers, with flat-roofed houses and a chorten below]]\n\n[[cont]]erected",
+   "context": " the Buddhist architects. A bewildering fantastic series of buildings was erected on top of a series of earth towers, and, built in between t"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "For miles along the road\n\n[[image: Pencil sketch of monastery buildings perched on top of tall earth towers, with flat-roofed houses and a chorten below]]",
+   "replace": "For miles along the road",
+   "draft": "ong the road\n\n[[image: Pencil sketch of monastery buildings perched on top of tall earth towers, with flat-roofed houses and a chorten below]]",
+   "verified": "ong the road",
+   "context": "in at the bottom, hardly leaving room to pass between them. For miles along the road ⏎  ⏎ [[image: Pencil sketch of monastery buildings perched on top of tall earth towers, with flat-roofed houses and a chorten below]] ⏎ "
+  }
+ ],
+ "p0297": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "exposed on the top that",
+   "replace": "exposed on\n\n[[image: sketch of tall flat-roofed stone houses built close together, with a dark hatched sky behind]]\n\n[[cont]]the top that",
+   "draft": "exposed on the top that",
+   "verified": "exposed on\n\n[[image: sketch of tall flat-roofed stone houses built close together, with a dark hatched sky behind]]\n\n[[cont]]the top that",
+   "context": ", but we made good way to the top of the Futu La. It was so exposed on the top that we made down the other side as quickly as possible. ⏎  ⏎ [[imag"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "possible.\n\n[[image: sketch of tall flat-roofed stone houses built close together, with a dark hatched sky behind]]\n\nConway",
+   "replace": "possible.\n\nConway",
+   "draft": "possible.\n\n[[image: sketch of tall flat-roofed stone houses built close together, with a dark hatched sky behind]]\n\nConway",
+   "verified": "possible.\n\nConway",
+   "context": "ont]]the top that we made down the other side as quickly as possible. ⏎  ⏎ [[image: sketch of tall flat-roofed stone houses built close together, with a dark hatched sky behind]] ⏎  ⏎ Conway determined to remain behind and drive the baggage ponies, a"
+  }
+ ],
+ "p0302": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "animals and men of",
+   "replace": "animals\n\n[[image: sketch of three turbaned men seated under a shelter among bales, with a hookah beside them]]\n\n[[cont]] and men of",
+   "draft": "animals and men of",
+   "verified": "animals\n\n[[image: sketch of three turbaned men seated under a shelter among bales, with a hookah beside them]]\n\n[[cont]] and men of",
+   "context": "amped in our old place. The <i>Serai</i> was alive with the animals and men of our Yarkandi friend of Shargol; in the evening, we had his "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "reached London.\n\n[[image: sketch of three turbaned men seated under a shelter among bales, with a hookah beside them]]",
+   "replace": "reached London.",
+   "draft": "ched London.\n\n[[image: sketch of three turbaned men seated under a shelter among bales, with a hookah beside them]]",
+   "verified": "ched London.",
+   "context": " into a great bale which was not opened, I believe, till it reached London. ⏎  ⏎ [[image: sketch of three turbaned men seated under a shelter among bales, with a hookah beside them]] ⏎  ⏎ Conway sent a telegram to Jack Roudebush ⏎ "
+  }
+ ],
+ "p0315": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "About a quarter of the town was",
+   "replace": "About a quarter of the\n\n[[image: Pen sketch of two shrouded figures, one carrying a long pole, walking past a wooden fence]]\n\n[[cont]]town was",
+   "draft": "arter of the town was",
+   "verified": "arter of the\n\n[[image: Pen sketch of two shrouded figures, one carrying a long pole, walking past a wooden fence]]\n\n[[cont]]town was",
+   "context": " all the agonies of death. And after the cholera came fire. About a quarter of the town was burnt to the ground, as the ruined and blackened walls stil"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "a time for rest.\n\n[[image: Pen sketch of two shrouded figures, one carrying a long pole, walking past a wooden fence]]",
+   "replace": "a time for rest.",
+   "draft": "me for rest.\n\n[[image: Pen sketch of two shrouded figures, one carrying a long pole, walking past a wooden fence]]",
+   "verified": "me for rest.",
+   "context": "t all these horrors were past. The present was with us, and a time for rest. ⏎  ⏎ [[image: Pen sketch of two shrouded figures, one carrying a long pole, walking past a wooden fence]] ⏎  ⏎ Before Conway left, we had an invitation from Samad Shah t"
+  }
+ ],
+ "p0319": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "the ground was strewn",
+   "replace": "the ground was\n\n[[image: pen sketch of a camp of thatched huts by the water, with figures squatting on the ground and a turbaned man standing in the foreground]]\n\n[[cont]]strewn",
+   "draft": "e ground was strewn",
+   "verified": "e ground was\n\n[[image: pen sketch of a camp of thatched huts by the water, with figures squatting on the ground and a turbaned man standing in the foreground]]\n\n[[cont]]strewn",
+   "context": "rt spread out over the grass in front of our tents. One day the ground was strewn with silver ware, and another day with copper, then came th"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "only Sahib\n\n[[image: pen sketch of a camp of thatched huts by the water, with figures squatting on the ground and a turbaned man standing in the foreground]]",
+   "replace": "only Sahib",
+   "draft": "only Sahib\n\n[[image: pen sketch of a camp of thatched huts by the water, with figures squatting on the ground and a turbaned man standing in the foreground]]",
+   "verified": "only Sahib",
+   "context": "usy to look, “Oh! I don't mind, Sahib; I wait here all day; only Sahib ⏎  ⏎ [[image: pen sketch of a camp of thatched huts by the water, with figures squatting on the ground and a turbaned man standing in the foreground]] ⏎ "
+  }
+ ]
+}

@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "med made for\n\n[[image: sketch of a hooded old man's head with a grimacing face]]\n\n[[cont]]camping on.", "sure": "high"}
+{"n": 2, "is": "B", "print": "once more.", "sure": "high"}

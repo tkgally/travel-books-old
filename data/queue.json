@@ -1539,6 +1539,51 @@
    "checked": "2026-11-22",
    "eligibility": "JATSI 89. Rules 1–4 met, rule 1 with the map left out (Tom, 2026-11-22: a book missing only a map may be published). Rule 1: only two IA scans, both Google (University of California wanderingswonde01aubegoog, with the portrait frontispiece; Harvard wanderingswonde00aubegoog); text pages clean greyscale; the folding map at the end is scanned folded in both, so it is missing (say so in notes_on_text); the 6 plates not yet checked one by one. Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page; Wikisource author page; web search of a sentence). Rule 3: only print-on-demand (Forgotten Books); not found in the NDL catalogue under Ganesha. Rule 4: first-person narrative of a journey round the world 1888–91, addressed to four friends; ch. XXVI (pp. 262–301) on Japan. Rule 5 (for the record): John James Aubertin 1818–1900. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP.",
    "note": "448 pp. plus 80 pp. of publisher's list (leave out of the reading editions). Portrait frontispiece, 6 plates, folding map missing. A strong, eccentric voice: Ming tombs, camel trains at the Nankou pass, an evening at Sir Robert Hart's. Long (562 images)."
+  },
+  {
+   "order": 84,
+   "ia": "panimain185500tomerich",
+   "slug": "panama-in-1855-tomes",
+   "title": "Panama in 1855: An Account of the Panama Rail-Road, of the Cities of Panama and Aspinwall, with Sketches of Life and Character on the Isthmus",
+   "author": "Robert Tomes",
+   "year": 1855,
+   "place": "New York",
+   "publisher": "Harper & Brothers",
+   "images": 258,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) University of California scan, 500 ppi, jp2 zip present. (2) Not in pg_catalog.csv ('Tomes', 'Panama in'); The Online Books Page: HathiTrust page images only; no web hit for a sentence from the middle ('compounding a draught for a brother Yankee'); Faded Page nothing. Wikisource NOT checked (API rate-limited): check before starting. (3) Open Library: print-on-demand only (Michigan SPO 2005 scan reprint, Nabu-type 2011, Creative Media 2018). (4) First-person account of the inaugural excursion of the Panama Railroad, February 1855. (5) Robert Tomes 1817–1882 (LC heading; Wikipedia). No illustrations.",
+   "note": "Clean library scan; page images not yet looked at. Eight chapters: New York to Aspinwall, the railway ride, Panama, Taboga, the Pearl Islands. Ch. IV ('The Railroad Considered') is about the company; the rest a lively, ironic narrative of the excursion party."
+  },
+  {
+   "order": 85,
+   "ia": "paraorscenesadve00warr",
+   "slug": "para-scenes-adventures-amazon-warren",
+   "title": "Para; or, Scenes and Adventures on the Banks of the Amazon",
+   "author": "John Esaias Warren",
+   "year": 1851,
+   "place": "New York",
+   "publisher": "G. P. Putnam",
+   "images": 288,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) UCLA copy (University of California Libraries), 400 ppi, jp2 zip and scandata. (2) Not in pg_catalog.csv ('Warren, John', 'Para; or'); The Online Books Page: HathiTrust page images only; no web hit for 'Our bloodthirsty feelings being now'; Faded Page nothing. Wikisource NOT checked (rate-limited): check before starting. (3) Open Library: the 1851 Putnam edition only; no reprint found. (4) First-person account of his stay at Pará and excursions to Marajó and up the river. (5) John Esaias Warren 1827–1896 (LC heading; VIAF).",
+   "note": "Library scan, not looked at page by page. A young American's narrative with a companion 'J.': canoe trips, monkeys, fandangos; some natural-history digressions and much shooting of animals. Chapter heads carry summary lines."
+  },
+  {
+   "order": 86,
+   "ia": "cu31924021183177",
+   "slug": "europe-to-paraguay-matto-grosso-mulhall",
+   "title": "From Europe to Paraguay and Matto-Grosso",
+   "author": "Mrs. M. G. Mulhall [Marion McMurrough Mulhall]",
+   "year": 1877,
+   "place": "London",
+   "publisher": "Edward Stanford",
+   "images": 150,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) Cornell (Herbert H. Smith collection) Microsoft/Kirtas scan, 300 ppi, jp2 zip and scandata; the folding map and table of distances on n4–n5 looked at. (2) Not in pg_catalog.csv ('Mulhall'); The Online Books Page: HathiTrust page images only; no web hit for 'There is a kind of spider, perfectly harmless, which clusters like bees'; Faded Page nothing. Wikisource NOT checked (rate-limited). (3) Open Library: the 1877 edition only; no reprint. (4) First-person: Lisbon, Brazil, the River Plate, up the Paraná and Paraguay to Asunción, Corumbá and Cuiabá. (5) Marion McMurrough Mulhall d. 1922 (Atlantipedia; one source only: confirm at the start); her husband Michael G. Mulhall 1836–1900.",
+   "note": "About 120 pages of text; twenty short chapters, often in the present tense. Kirtas scan, near-bilevel but legible; a 'Digitized by Microsoft' footer on every leaf. The aftermath of the Paraguayan war; Guaycurú, Payaguá and Guató Indians; the Jesuit missions; some passages from her husband's notes, Southey and Charlevoix. Keep the map and the distance table."
   }
  ],
  "rejected": [
@@ -2110,6 +2155,11 @@
   {
    "title": "Bisiker, Across Iceland; Symington, Pen and Pencil Sketches of Faröe and Iceland; Pliny Miles, Norðurfari; Crosse, Round about the Carpathians; W. H. Knight, Diary of a Pedestrian in Cashmere and Thibet; Millington, To Lhassa at Last; Kendall, A Wayfarer in China; F. Moore, The Balkan Trail; Mrs Whitwell, Through Bosnia and Herzegovina with a Paint Brush; R. H. R., Rambles in Istria; Richardson, Vacation Days in Greece",
    "why": "on Project Gutenberg",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Simson, Travels in the Wilds of Ecuador (author's dates not found; a reserve if found); Smyth & Lowe, Journey from Lima to Para (Cambridge Library Collection reprint); Humphrey, A Summer Journey to Brazil (Gutenberg); Stewart, Brazil and La Plata (Gutenberg); Clark, Twelve Months in Peru (author unidentified, compiled); Cole, The Peruvians at Home (compiled chapters)",
+   "why": "vetted 2026-11-22 by an Opus subagent: the reasons in the title",
    "checked": "2026-11-22"
   }
  ]

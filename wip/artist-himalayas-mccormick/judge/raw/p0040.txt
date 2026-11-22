@@ -1,0 +1,1 @@
+{"n": 1, "is": "A", "print": "KARACHI is now", "sure": "medium"}
