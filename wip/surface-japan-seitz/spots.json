@@ -1,0 +1,33 @@
+{
+ "p0019": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page 1]]",
+   "replace": "[[page I]]",
+   "draft": "[[page 1]]",
+   "verified": "[[page I]]",
+   "context": "[[page 1]] ⏎  ⏎ [[image: Decorative border of bamboo canes enclosing the p"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "THE approach",
+   "replace": "T<sc>he</sc> approach",
+   "draft": "THE approach",
+   "verified": "T<sc>he</sc> approach",
+   "context": "ese woman in kimono with hair ornaments]] ⏎  ⏎ # Surface Japan ⏎  ⏎ THE approach to the island empire of Nippon comes as a soft surprise. Fo"
+  }
+ ],
+ "p0068": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "n’daro,</i>",
+   "replace": "n’daro.</i>",
+   "draft": "n’daro,</i>",
+   "verified": "n’daro.</i>",
+   "context": "otsuite oru no da?</i> or <i>Nani wo uji-uji shite i-yăgaru n’daro,</i> ⏎  ⏎ Make haste (and come here)! ⏎  ⏎ <i>Hayaku konai ka!</i> ⏎  ⏎ What"
+  }
+ ]
+}

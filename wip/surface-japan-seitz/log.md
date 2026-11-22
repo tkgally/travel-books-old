@@ -1,7 +1,7 @@
 # Surface Japan — Don C. Seitz (1911)
 
 IA: surfacejapanshor00seit (The Library of Congress; 222 leaves, 300 ppi). Other scans: surfacejapanshor00seituoft (Toronto), not needed.
-Eligibility: re-checked 2026-11-22: a web search of the title finds HathiTrust page images, booksellers and a print-on-demand reprint only. JATSI 239; Seitz 1860–1935.
+Eligibility: re-checked 2026-11-22: a web search of the title finds HathiTrust page images, booksellers and a print-on-demand reprint only. JATSI 239; Seitz 1862–1935 (LC).
 
 ## Status
 Stage reached: (a) scan checked, page map, Drive cache being uploaded, Opus draft running (leaves 10, 13–214).

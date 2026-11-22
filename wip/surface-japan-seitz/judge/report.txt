@@ -1,0 +1,4 @@
+judge opus: 3 spots on 2 pages: {'draft': 3}; cost $0.10
+p0019 #1 [draft, sure: medium] draft '[[page 1]]' | verified '[[page I]]' | judge reads '[[page 1]]'
+p0019 #2 [draft, sure: medium] draft 'THE approach' | verified 'T<sc>he</sc> approach' | judge reads 'THE approach'
+p0068 #1 [draft, sure: medium] draft 'n’daro,</i>' | verified 'n’daro.</i>' | judge reads 'n’daro,</i>'
