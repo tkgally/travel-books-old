@@ -1376,11 +1376,13 @@
    "place": "London and New York",
    "publisher": "John Lane, The Bodley Head",
    "images": 316,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-22",
    "eligibility": "JATSI 238. Rules 1–4 met. Rule 1: University of California scan, colour, 400 ppi, clean; a second UC copy, japanforweekbrit00thomrich (500 ppi, 316 images), is a fallback. Two Google scans exist and are not wanted. Rule 2: not in the Project Gutenberg catalogue (gutenberg.pglaf.org mirror, 2026-11-22); The Online Books Page lists only HathiTrust page images; nothing on Wikisource; a web search of a sentence found nothing. Rule 3: no edition after 1914 found (web, Open Library); Ganesha and Edition Synapse not found. Rule 4: first-person narrative, London–Berlin–Moscow–Trans-Siberian to Japan (about 2/5: Kyoto, Tokyo, Nikko, Inland Sea), then Shanghai, Hong Kong, Singapore, Colombo; closing essays on the German menace and patriotism. Rule 5 (for the record): Alexander Mattock Thompson 1861–1948 (LC). Snapshots by Robert Courtneidge (1859–1939) and Mrs Courtneidge (dates not found); the decorative frontispiece is by 'the Lady of the Dedication' (not identified). Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, Distributed Proofreaders in progress.",
    "note": "254 pp.; 26 short chapters; 17 half-tone photo plates plus a frontispiece ('At Nikko (the author)'). A John Lane advertisement leaf comes before the title page (leave it out). Comic voice of a journalist and librettist travelling with Courtneidge to find local colour for a musical play. Running heads are the chapter titles; few footnotes.",
-   "started": "2026-11-22"
+   "started": "2026-11-22",
+   "version": 1,
+   "published": "2026-11-22"
   },
   {
    "order": 77,
