@@ -254,6 +254,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 
 ## Environment
 
+- Set shell variables (`slug=…`) in their own command, not in an `a && b && cmd &` chain: the trailing `&` runs the whole chain in a subshell, the variables are lost, and `wip/$slug` became `wip/` (2026-11-22).
 - Several tesseract processes at once (subagents' `crop_spot.py`, `ocr_fallback.py`, a bulk run) each take four threads
   and slowed one page to 15 minutes (2026-11-20): `OMP_THREAD_LIMIT=1` and at most four at a time.
 - A subagent's reading of a single accent is a claim, not a check: the scan check said “chargè” was printed with a grave, and
