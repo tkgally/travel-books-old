@@ -4,12 +4,43 @@
  "date": "2026-11-22",
  "title": "Try Cracow and the Carpathians",
  "short_title": "Try Cracow and the Carpathians",
- "authors": [{"name": "Alexander H. Hutchinson", "sort": "Hutchinson, Alexander H."}],
+ "authors": [
+  {
+   "name": "Alexander H. Hutchinson",
+   "sort": "Hutchinson, Alexander H."
+  }
+ ],
  "place": "London",
  "publisher": "Chapman and Hall",
  "year": 1872,
  "edition_statement": "First edition",
- "regions": ["Poland", "Slovakia"],
- "source": {"ia_identifier": "cu31924031282522", "contributor": "Cornell University Library"},
- "history": [{"version": 1, "date": "2026-11-22", "note": "First publication."}]
+ "regions": [
+  "Poland",
+  "Slovakia",
+  "Czech Republic",
+  "Germany"
+ ],
+ "source": {
+  "ia_identifier": "cu31924031282522",
+  "contributor": "Cornell University Library"
+ },
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "period": "1871",
+ "subjects": [
+  "Poland",
+  "Tatra Mountains",
+  "Carpathians",
+  "fishing",
+  "Galicia"
+ ],
+ "summary": [
+  "Alexander H. Hutchinson, a captain in the Royal Artillery, describes a summer journey with companions from London by Ostend, Cologne, Berlin, and Breslau to Cracow, then in Austrian Galicia. The book gives no year; the troops returning to Berlin from the Franco-Prussian War place it in 1871.",
+  "At Cracow he sees the Cloth Hall, the cathedral and its royal vault, the Jewish quarter, and the Wieliczka salt mine. The party goes on by diligence and hay wagon to Neumarkt and Zakopane, fishing for trout, fording rivers, and attending a double wedding of mountain people, then crosses the Tatra into Upper Hungary (now Slovakia): Javorina, Käsmark, and the spa of Schmeks, with climbs, shooting, gipsy music, and the Czardas. The return is by the Waag valley, Olmütz, Prague, Dresden, and the Rhine. Appendices give prices, plants, heights, and Polish phrases."
+ ]
 }
