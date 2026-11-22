@@ -1,7 +1,7 @@
 {
  "id": "sketches-awheel-workman",
- "version": 2,
- "date": "2026-11-19",
+ "version": 3,
+ "date": "2026-11-22",
  "title": "Sketches Awheel in Modern Iberia",
  "short_title": "Sketches Awheel in Modern Iberia",
  "authors": [
@@ -53,6 +53,11 @@
    "version": 2,
    "date": "2026-11-19",
    "note": "Contents: every chapter entry gives the chapter's full summary, as the printed contents does; the ODT has a contents list. Text unchanged."
+  },
+  {
+   "version": 3,
+   "date": "2026-11-22",
+   "note": "2 printer’s errors of a dropped or transposed letter marked and corrected: “thrity” for “thirty”, “speading” for “spreading”."
   }
  ],
  "divisions": [
@@ -106,13 +111,13 @@
   "The contents of these editions give every chapter its summary in full, as the printed contents does."
  ],
  "audit": {
-  "version": 2,
+  "version": 3,
   "date": "2026-11-19",
   "pages": 6,
   "recall": "30/30",
   "real_errors": 0,
   "fixed": 0,
-  "note": "pages p0104, p0111, p0128, p0149, p0254, p0291; text unchanged since version 1 except listed fixes"
+  "note": "text unchanged except listed fixes"
  },
  "frontispiece": "p0008-1"
 }

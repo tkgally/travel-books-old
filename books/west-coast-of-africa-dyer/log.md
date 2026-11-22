@@ -59,6 +59,7 @@ No footnotes, no tables. "neeé Briton" p. 1 (misprint?). Running heads to drop.
 | 1 | 2026-11-20 | PASS — 0 to fix, 0 waived; to look at: hyphen-joins 1, quote-balance 3, contents 9 (read: the contents items are the summaries, which have no heading in the text) | 30/30; 0 real errors / 6 pages | first publication; spot-read of 17 pages; rendered look (Opus subagent) at 390 and 1280, EPUB nav |
 | 2 | 2026-11-21 | west-coast-of-africa-dyer v2 — 0 to fix, 0 waived; to look at: hyphen-joins 1, quote-balance 3, contents 9 — tools@28b48c1e 2026-11-21 | as v1 (text unchanged except listed fixes) | pp. 107, 137 printed “aud”, “conld” → [[corr]] (sweep after issue #100) |
 | 3 | 2026-11-21 | west-coast-of-africa-dyer v3 — 0 to fix, 0 waived; to look at: hyphen-joins 1, quote-balance 3, contents 9, rare-forms 1 — tools@25267f47 2026-11-21 | as v2 (text unchanged except listed fixes) | “jury” for “jury.” (p. 107) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan). |
+| 4 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 1, quote-balance 3, contents 9, rare-forms 3, serial-commas 2 — tools@ed86e62f 2026-11-22 | as v3 | A printer’s error of a dropped or transposed letter marked and corrected: “pefectly” for “perfectly”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues
 - The list of corrections names the advertisement correction (triumpth) by its leaf, p0191: the page has no number

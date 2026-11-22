@@ -1,7 +1,7 @@
 {
  "id": "journal-of-a-residence-nowrojee-merwanjee",
- "version": 5,
- "date": "2026-11-21",
+ "version": 6,
+ "date": "2026-11-22",
  "title": "Journal of a Residence of Two Years and a Half in Great Britain",
  "short_title": "Journal of a Residence in Great Britain",
  "authors": [
@@ -47,6 +47,11 @@
    "version": 5,
    "date": "2026-11-21",
    "note": "Printer’s errors corrected: “leads” for “leads.” (p. 359); “father” for “father.” (p. 456) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan)."
+  },
+  {
+   "version": 6,
+   "date": "2026-11-22",
+   "note": "8 printer’s errors of a dropped or transposed letter marked and corrected: “posseses” for “possesses”, “assembed” for “assembled”, “tasefully” for “tastefully”, “perod” for “period”, “aferwards” for “afterwards”, “permissoin” for “permission”, “acompanied” for “accompanied”, “possesions” for “possessions”."
   }
  ],
  "regions": [
@@ -161,7 +166,7 @@
   }
  ],
  "audit": {
-  "version": 5,
+  "version": 6,
   "date": "2026-11-21",
   "pages": 7,
   "recall": "35/35",

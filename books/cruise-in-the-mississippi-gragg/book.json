@@ -1,7 +1,7 @@
 {
  "id": "cruise-in-the-mississippi-gragg",
- "version": 3,
- "date": "2026-11-21",
+ "version": 4,
+ "date": "2026-11-22",
  "title": "A Cruise in the U.S. Steam Frigate Mississippi, Wm. C. Nicholson, Captain, to China and Japan, from July, 1857, to February, 1860",
  "short_title": "A Cruise in the U.S. Steam Frigate Mississippi",
  "authors": [
@@ -51,6 +51,11 @@
    "version": 3,
    "date": "2026-11-21",
    "note": "A printer’s error corrected: “day” for “day.” (p. 13) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan)."
+  },
+  {
+   "version": 4,
+   "date": "2026-11-22",
+   "note": "2 printer’s errors of a dropped or transposed letter marked and corrected: “wenty” for “twenty”, “exends” for “extends”."
   }
  ],
  "regions": [
@@ -160,7 +165,7 @@
   "p0008"
  ],
  "audit": {
-  "version": 3,
+  "version": 4,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",

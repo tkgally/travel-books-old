@@ -59,5 +59,6 @@ Features: menu (p0045), dance programme (p0193), verse (p0215, p. 63), quoted pr
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 2 | 2026-11-21 | womans-trip-to-alaska-collis v2 — 0 to fix, 0 waived; to look at: hyphen-joins 7, contents 14, accents 5 — tools@25267f47 2026-11-21 | as v1 (text unchanged except listed fixes) | “diminishes” for “diminishes.” (p. 143) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan). |
+| 3 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 7, contents 14, accents 5, rare-forms 3, serial-commas 7 — tools@ed86e62f 2026-11-22 | as v2 | A printer’s error of a dropped or transposed letter marked and corrected: “adminstration” for “administration”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues

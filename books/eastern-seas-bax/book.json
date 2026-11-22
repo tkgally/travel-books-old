@@ -1,7 +1,7 @@
 {
  "id": "eastern-seas-bax",
- "version": 1,
- "date": "2026-11-21",
+ "version": 2,
+ "date": "2026-11-22",
  "title": "The Eastern Seas",
  "collection": "jatsi",
  "authors": [
@@ -57,6 +57,11 @@
    "version": 1,
    "date": "2026-11-21",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "A printer’s error of a dropped or transposed letter marked and corrected: “teritory” for “territory”."
   }
  ],
  "divisions": [
@@ -117,11 +122,12 @@
   "p0262"
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",
   "real_errors": 0,
-  "fixed": 0
+  "fixed": 0,
+  "note": "text unchanged except listed fixes"
  }
 }

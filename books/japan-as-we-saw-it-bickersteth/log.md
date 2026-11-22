@@ -44,6 +44,7 @@ Has: footnotes (frequent); verse p. 297; quoted letters; tables in Notes A–C; 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
+| 2 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 4, contents 20, accents 5, serial-commas 5, missing-stop 1 — tools@ed86e62f 2026-11-22 | as v1 | A printer’s error of a dropped or transposed letter marked and corrected: “ashion” for “fashion”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues
 - Verse indentation (p. 297) is not kept.

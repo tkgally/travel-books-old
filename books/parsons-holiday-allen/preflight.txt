@@ -41,9 +41,11 @@
             - p0014: 'Colombo, Inhabitants of Ceylon, Kandy, Failure of Coffee Shrub, Tooth '
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [ look (1)] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
             - p0085: verse continued from p0084: stanzas before [5] | here [17] (a stanza ending at the page foot needs no [[cont]])
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [look (10)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - brahman: brahman (p0166); bráhman (p0165)
             - dewan: dewan (p0061); dewân (p0052)
@@ -56,10 +58,16 @@
             - rajput: rajput (p0044, p0045, p0046, p0047, p0057); rájput (p0165)
             - tipu: tipu (p0014, p0023, p0163, p0242); tipú (p0170, p0171, p0173, p0174)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[ look (1)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0182: “talc” — “tale” is common (101)
+[ look (3)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0084: “razing” — “grazing” is common (53; a letter dropped or transposed?)
+            - p0112: “pried” — “pride” is common (173; a letter dropped or transposed?)
+            - p0182: “talc” — “tale” is common (127)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …W. Osborn B. Allen, vicar of Shirburn in Oxfordshire and the son of a member …
+            - book.json summary: …Rajputana, then to Delhi, Agra, Cawnpore and Lucknow, Benares, Da…
 [ look (1)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
             - p0190: “doctrines He” in …ow far superior were the doctrines He taught to those…
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: parsons-holiday-allen v4 — 0 to fix, 0 waived; to look at: hyphen-joins 7, joins 1, contents 11, verse-joins 1, accents 10, rare-forms 1, missing-stop 1 — tools@25267f47 2026-11-21
+preflight PASS: parsons-holiday-allen v5 — 0 to fix, 0 waived; to look at: hyphen-joins 7, joins 1, contents 11, verse-joins 1, accents 10, rare-forms 3, serial-commas 2, missing-stop 1 — tools@ed86e62f 2026-11-22

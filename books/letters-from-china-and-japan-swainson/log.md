@@ -34,6 +34,7 @@ Scan check: all 8 sheets looked at 2026-11-21 (Opus subagent); full size p0004, 
 |---|---|---|---|---|
 | 1 | 2026-11-21 | letters-from-china-and-japan-swainson v1 — 0 to fix, 0 waived; to look at: hyphen-joins 4, folios 1, accents 13 — tools@4949356 2026-11-21 | 30/30; 0 real errors / 6 pages | first publication; hyphen-joins 4 read (3 real breaks, 1 settled); folios 1 = the catalogue's own numbering |
 | 2 | 2026-11-21 | letters-from-china-and-japan-swainson v2 — 0 to fix, 0 waived; to look at: hyphen-joins 4, folios 1, accents 13 — tools@636b1b8d 2026-11-21 | as v1 (text unchanged except listed fixes) | “pertorm” for “perform” (p. 46) (review after forty books, sweep checked on the scan) |
+| 3 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 4, folios 1, accents 13, rare-forms 1, serial-commas 5, missing-stop 1 — tools@ed86e62f 2026-11-22 | as v2 | A printer’s error of a dropped or transposed letter marked and corrected: “mavellous” for “marvellous”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues
 - The footnote “See Note A.” (p. 167) is not a link to the note (the print gives no page).

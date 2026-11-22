@@ -1,7 +1,7 @@
 {
  "id": "west-coast-of-africa-dyer",
- "version": 3,
- "date": "2026-11-21",
+ "version": 4,
+ "date": "2026-11-22",
  "title": "The West Coast of Africa as Seen from the Deck of a Man-of-War",
  "short_title": "The West Coast of Africa",
  "authors": [
@@ -43,6 +43,11 @@
    "version": 3,
    "date": "2026-11-21",
    "note": "A printer’s error corrected: “jury” for “jury.” (p. 107) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan)."
+  },
+  {
+   "version": 4,
+   "date": "2026-11-22",
+   "note": "A printer’s error of a dropped or transposed letter marked and corrected: “pefectly” for “perfectly”."
   }
  ],
  "regions": [
@@ -155,7 +160,7 @@
   "p0040"
  ],
  "audit": {
-  "version": 3,
+  "version": 4,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",

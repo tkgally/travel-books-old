@@ -47,5 +47,6 @@ dated journal entries; running heads; no tables, no other script, few accents. D
 |---|---|---|---|---|
 | 1 | 2026-11-20 | preflight PASS v1, 0 waived (tools@2f8c554) | 27/29, 0 real | look items: contents 12 (topic lists of the printed contents), folios 1 (catalogue numbering), hyphen-joins (decided above), accents (à la, à Kempis) |
 | 2 | 2026-11-21 | twelve-years-in-canterbury-thomson v2 — 0 to fix, 0 waived; to look at: hyphen-joins 3, folios 1, contents 12, verse-joins 6, accents 1, rare-forms 2 — tools@25267f47 2026-11-21 | as v1 (text unchanged except listed fixes) | “manner” for “manner.” (p. 162) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan). |
+| 3 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 3, folios 1, contents 12, verse-joins 6, accents 1, rare-forms 9, serial-commas 3 — tools@ed86e62f 2026-11-22 | as v2 | A printer’s error of a dropped or transposed letter marked and corrected: “ecessary” for “necessary”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues

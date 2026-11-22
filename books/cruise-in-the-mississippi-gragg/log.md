@@ -46,6 +46,7 @@ Total $11.08.
 | 1 | 2026-11-20 | PASS — 0 to fix, 0 waived; to look at: hyphen-joins 2 (read) — tools@84a74c2 | 30/30; 0 real errors / 6 pages | first publication; rendered look (Opus subagent): home, book page, 01–03 at 390 and 1280, contents links, notes, EPUB nav |
 | 2 | 2026-11-21 | cruise-in-the-mississippi-gragg v2 — 0 to fix, 0 waived; to look at: hyphen-joins 2 — tools@636b1b8d 2026-11-21 | as v1 (text unchanged except listed fixes) | “hnndred” for “hundred” (p. 25); “numher” for “number” (p. 64); “resnlt” for “result” (p. 30) (review after forty books, sweep checked on the scan) |
 | 3 | 2026-11-21 | cruise-in-the-mississippi-gragg v3 — 0 to fix, 0 waived; to look at: hyphen-joins 2 — tools@7614af67 2026-11-21 | as v2 (text unchanged except listed fixes) | “day” for “day.” (p. 13) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan). |
+| 4 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 2, rare-forms 1, serial-commas 4 — tools@ed86e62f 2026-11-22 | as v3 | 2 printer’s errors of a dropped or transposed letter marked and corrected: “wenty” for “twenty”, “exends” for “extends”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues
 - The list of corrections on the book page names the first correction by its leaf (p0007), because printed page 5 has

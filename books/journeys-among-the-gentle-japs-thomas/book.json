@@ -1,7 +1,7 @@
 {
  "id": "journeys-among-the-gentle-japs-thomas",
- "version": 1,
- "date": "2026-11-21",
+ "version": 2,
+ "date": "2026-11-22",
  "title": "Journeys among the Gentle Japs in the Summer of 1895",
  "short_title": "Journeys among the Gentle Japs",
  "authors": [
@@ -53,6 +53,11 @@
    "version": 1,
    "date": "2026-11-21",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "A printer’s error of a dropped or transposed letter marked and corrected: “wondeful” for “wonderful”."
   }
  ],
  "divisions": [
@@ -104,11 +109,12 @@
   "p0228"
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",
   "real_errors": 0,
-  "fixed": 0
+  "fixed": 0,
+  "note": "text unchanged except listed fixes"
  }
 }

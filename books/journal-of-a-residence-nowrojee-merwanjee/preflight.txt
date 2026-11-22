@@ -54,17 +54,26 @@
             - p0030: 'Salutations indicative of the Climate—Ice—Beautiful appearance of Snow'
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [ look (2)] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
             - p0298: verse continued from p0297: stanzas before [22] | here [2] (a stanza ending at the page foot needs no [[cont]])
             - p0507: verse continued from p0506: stanzas before [4] | here [4] (a stanza ending at the page foot needs no [[cont]])
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (1)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0007, p0009, p0010, p0011, p0012, p0013…); à (p0306)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[ look (2)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0309: “bard” — “hard” is common (522)
-            - p0345: “hoys” — “boys” is common (504)
+[ look (5)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0171: “chaces” — “chances” is common (64; a letter dropped or transposed?)
+            - p0264: “tories” — “stories” is common (270; a letter dropped or transposed?)
+            - p0345: “hoys” — “boys” is common (615)
+            - p0499: “improv” — “improve” is common (76; a letter dropped or transposed?)
+            - p0522: “finis” — “finish” is common (85; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …pe of Good Hope and St. Helena, spent two and a half years in Engl…
+            - book.json notes_on_text: …ts add entries of the editor’s, by date and place, for the long …
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: journal-of-a-residence-nowrojee-merwanjee v5 — 0 to fix, 8 waived; to look at: hyphen-joins 4, joins 1, folios 1, contents 26, verse-joins 2, accents 1, rare-forms 2 — tools@7614af67 2026-11-21
+preflight PASS: journal-of-a-residence-nowrojee-merwanjee v6 — 0 to fix, 8 waived; to look at: hyphen-joins 4, joins 1, folios 1, contents 26, verse-joins 2, accents 1, rare-forms 5, serial-commas 2 — tools@ed86e62f 2026-11-22

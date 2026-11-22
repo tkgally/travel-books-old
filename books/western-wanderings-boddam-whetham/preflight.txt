@@ -29,15 +29,24 @@
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
 [       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
 [       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (1)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0011, p0015, p0016, p0017, p0018, p0019…); à (p0051, p0083, p0111, p0231, p0273)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[ look (1)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+[ look (4)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0029: “feeing” — “feeling” is common (478; a letter dropped or transposed?)
             - p0181: “hoi” — “hol” is common (58)
+            - p0323: “settin” — “setting” is common (198; a letter dropped or transposed?)
+            - p0403: “winging” — “swinging” is common (64; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …ossed the Atlantic to New York, went by way of Niagara and Chicago to Omaha, an…
+            - book.json summary: …f Niagara and Chicago to Omaha, and took the Union Pacific Railroad to Salt Lake City and on to Virginia City.…
+            - book.json summary: …p the Fraser River, to Nanaimo, and back to San Francisco and the Geysers. The las…
 [ look (1)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
             - p0320: “all His” in …t that God takes care of all His creatures. Happenin…
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: western-wanderings-boddam-whetham v1 — 0 to fix, 0 waived; to look at: hyphen-joins 6, accents 1, rare-forms 1, missing-stop 1 — tools@fe601438 2026-11-22
+preflight PASS: western-wanderings-boddam-whetham v2 — 0 to fix, 0 waived; to look at: hyphen-joins 6, accents 1, rare-forms 4, serial-commas 3, missing-stop 1 — tools@ed86e62f 2026-11-22

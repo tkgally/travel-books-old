@@ -1,7 +1,7 @@
 {
  "id": "golden-dagon-palmer",
- "version": 2,
- "date": "2026-11-21",
+ "version": 3,
+ "date": "2026-11-22",
  "title": "The Golden Dagon",
  "subtitle": "Or, Up and Down the Irrawaddi; Being Passages of Adventure in the Burman Empire",
  "short_title": "The Golden Dagon",
@@ -51,6 +51,11 @@
    "version": 2,
    "date": "2026-11-21",
    "note": "Printer’s errors corrected: “privation” for “privation.” (p. 9; a reader, issue #117); “closing” for “closing.” (p. 254) (found by a reader’s report (issue #117) and the sweep that followed, checked on the scan)."
+  },
+  {
+   "version": 3,
+   "date": "2026-11-22",
+   "note": "A printer’s error of a dropped or transposed letter marked and corrected: “arangements” for “arrangements”."
   }
  ],
  "toc": {
@@ -133,7 +138,7 @@
   }
  ],
  "audit": {
-  "version": 2,
+  "version": 3,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",

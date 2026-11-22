@@ -32,6 +32,7 @@ Watch: footnotes (* †); long quotations in small type (some French, p0093, p02
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-21 | journeys-among-the-gentle-japs-thomas v1 — 0 to fix, 0 waived; to look at: hyphen-joins 2, folios 1, contents 2, accents 31, misprints 1 — tools@0f50618a 2026-11-21 | 30/30; 0 real errors / 6 pages | first publication; misprints 1 = “iu” in a Japanese phrase (p. 117), a real word; contents 2 = the head-title and “Shikoku (continued)” |
+| 2 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 2, folios 1, contents 2, accents 31, misprints 1, rare-forms 11, serial-commas 3 — tools@ed86e62f 2026-11-22 | as v1 | A printer’s error of a dropped or transposed letter marked and corrected: “wondeful” for “wonderful”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues
 - The footnote on p. 249 is printed in three paragraphs; the markup has one (said in notes_on_text).

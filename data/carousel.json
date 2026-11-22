@@ -33,6 +33,12 @@
    "height": 450,
    "sha256": "b9618e7887b8a3450af8615658b80567edcb6c5f85935262dd2e6f16b5477387"
   },
+  "bridal-and-bridle-harwood": {
+   "image": "title page",
+   "width": 262,
+   "height": 450,
+   "sha256": "fb4f8416a09bec5052aec078a4ba799f5212e2c5b178463cac5f11e4cd820621"
+  },
   "by-fell-and-fjord-oswald": {
    "image": "cover",
    "width": 298,
@@ -212,11 +218,23 @@
    "height": 450,
    "sha256": "c4b13fb87811b1bd9d985af6499bc5e797c79a59be687a7752c537a365803a08"
   },
+  "present-day-japan-davidson": {
+   "image": "cover",
+   "width": 268,
+   "height": 450,
+   "sha256": "400a9d1a9582c19c3c45aa72cf41a37f733ea3b88244cf92a14ba13bff72d064"
+  },
   "rambles-through-japan-tracy": {
    "image": "cover",
    "width": 288,
    "height": 450,
    "sha256": "16641efa039be99aaf8f44101fe518d0b3f8154f2298c1dafbef6e87ed966d9b"
+  },
+  "scouting-for-stanley-stevens": {
+   "image": "cover",
+   "width": 300,
+   "height": 447,
+   "sha256": "2b02edbb9bb288d722f7406028a0c08887aaa94a598e6832738e92550bc539b3"
   },
   "sketches-awheel-workman": {
    "image": "title page",
@@ -286,6 +304,18 @@
    "width": 284,
    "height": 450,
    "sha256": "6731197eb10c680932d376cece8b8925d0831cf1a1a2547cb3d4c053ee17bee2"
+  },
+  "western-wanderings-boddam-whetham": {
+   "image": "title page",
+   "width": 279,
+   "height": 450,
+   "sha256": "1b8ecbbe1e2ddf1fc60dce7d833a4f019d56d247a80c48b22af648db2d576493"
+  },
+  "woman-alone-in-the-heart-of-japan-fisher": {
+   "image": "title page",
+   "width": 278,
+   "height": 450,
+   "sha256": "2ab0f125283a576afbf5446a25c52a23f07163f8ebebf0b42ad5d4d9ff434b75"
   },
   "womans-trip-to-alaska-collis": {
    "image": "cover",

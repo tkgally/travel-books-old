@@ -1685,6 +1685,22 @@ class RareForms(unittest.TestCase):
         self.assertEqual(preflight.check_rare_forms([("p0001", "A hnndred cups; a zebra.")], corpus), [])
         self.assertEqual(preflight.CHECKS["rare-forms"][0], "observe")
 
+    def test_dropped_or_transposed_letter_listed(self):
+        """Review after fifty-five books: *Scouting for Stanley* printed “vegtables”, “Christain”, “themsleves”."""
+        import collections
+        corpus = collections.Counter({"vegetables": 60, "themselves": 80, "garden": 70, "gardn": 0})
+        pages = [("p0010", "Fresh vegtables for themsleves; a fine garden."),
+                 ("p0011", "Then Kiwanjo came, and the cat.")]
+        items = preflight.check_rare_forms(pages, corpus)
+        self.assertEqual([i.split(":")[0] for i in items], ["p0010", "p0010"])
+        self.assertIn("“vegtables” — “vegetables”", items[0])
+        self.assertIn("transposed", items[1])
+
+    def test_edit_needs_a_rare_long_word(self):
+        import collections
+        corpus = collections.Counter({"vegetables": 60, "vegtables": 3, "cats": 100})
+        self.assertEqual(preflight.check_rare_forms([("p0001", "Vegtables and cts here.")], corpus), [])
+
 
 class Contents(unittest.TestCase):
     """Contents decided book by book (Tom, 2026-11-19): full summaries, entries inside a division, parts."""

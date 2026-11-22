@@ -13,49 +13,43 @@
 [       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
 [       ok] odt: LibreOffice opens the ODT and converts it to PDF
 [       ok] audit: book.json records the sampled audit of this version
-[look (31)] hyphen-joins: page-break hyphen joins (hyphen removed): read the list once
-            - hyphen join at p0030: …o a duty on en-|trance, and the… (hyphen removed; check)
-            - hyphen join at p0045: …ver us, recall-|ing Street’s wo… (hyphen removed; check)
+[ look (8)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
             - hyphen join at p0047: … and he had re-|sided in Spain … (hyphen removed; check)
-            - hyphen join at p0066: … it by the car-|riage road to M… (hyphen removed; check)
-            - hyphen join at p0074: …eum of the dis-|tinguished dead… (hyphen removed; check)
-            - hyphen join at p0081: …ly less in num-|ber, many of wh… (hyphen removed; check)
-            - hyphen join at p0083: …nd his mind re-|lieved of the f… (hyphen removed; check)
             - hyphen join at p0090: …no other demon-|stration. Occas… (hyphen removed; check)
-            - hyphen join at p0106: … to the loveli-|ness above. Abo… (hyphen removed; check)
             - hyphen join at p0138: …Brussa, in com-|binations as de… (hyphen removed; check)
-            - hyphen join at p0140: … things in Gra-|nada, but they … (hyphen removed; check)
-            - hyphen join at p0162: …tween the Amer-|ican and a cert… (hyphen removed; check)
-            - hyphen join at p0166: …lls, and honey-|suckle. Views o… (hyphen removed; check)
-            - hyphen join at p0180: …ousehold treas-|ures with evide… (hyphen removed; check)
-            - hyphen join at p0186: …nt to work mak-|ing their brown… (hyphen removed; check)
-            - hyphen join at p0195: … state of deca-|dence, and no a… (hyphen removed; check)
-            - hyphen join at p0197: …he mountain re-|gions was never… (hyphen removed; check)
-            - hyphen join at p0217: …t has been sev-|eral times repa… (hyphen removed; check)
             - hyphen join at p0225: …ing after thir-|teen hours of h… (hyphen removed; check)
             - hyphen join at p0236: …nt and æstheti-|cism, the cathe… (hyphen removed; check)
-            - hyphen join at p0250: …pleasant, espe-|cially when com… (hyphen removed; check)
-            - hyphen join at p0251: … French polite-|ness he urged u… (hyphen removed; check)
-            - hyphen join at p0252: …for like a gal-|lant Frenchman … (hyphen removed; check)
             - hyphen join at p0263: …be stated posi-|tively, but the… (hyphen removed; check)
-            - hyphen join at p0264: …o have been ad-|dressed to us w… (hyphen removed; check)
-            - hyphen join at p0269: …ot been so com-|pletely at the … (hyphen removed; check)
             - hyphen join at p0282: …ntent on escap-|ing. As soon as… (hyphen removed; check)
-            - hyphen join at p0294: …d July in Span-|ish cities, whi… (hyphen removed; check)
-            - hyphen join at p0305: …inly not appre-|ciated. It may … (hyphen removed; check)
-            - hyphen join at p0307: … are here soft-|ened, and the g… (hyphen removed; check)
-            - hyphen join at p0323: … absurdly deco-|rated Churrigue… (hyphen removed; check)
-[ look (6)] joins: page joins: missing [[cont]], or [[cont]] after a closed sentence
-            - p0036: [[cont]] after a closed sentence …'them the way to the road.' | 'They gave us a military s'
-            - p0111: [[cont]] after a closed sentence …'ucceeded in securing two.' | 'On our return we found th'
-            - p0119: [[cont]] after a closed sentence …'his we were not mistaken.' | 'After leaving Murcia the '
-            - p0150: [[cont]] after a closed sentence …'oceeded to show us rooms.' | 'In the absence of the por'
-            - p0168: [[cont]] after a closed sentence …'much less for travellers.' | 'Salem submerged the muddy'
-            - p0271: [[cont]] after a closed sentence …'this saccharine addition.' | 'Whether the dash of sugar'
+            - (and 24 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
 [       ok] folios: printed page numbers that break the sequence
 [       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
 [       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
 [       ok] contents: entries of the printed contents with no matching heading
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[ look (2)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - a: a (p0013, p0014, p0015, p0016, p0017, p0018…); à (p0051, p0180)
+            - ultimo: ultimo (p0017, p0127, p0140, p0141, p0143, p0277); ultimó (p0019)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (2)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0019: “guardia” — “guardian” is common (49; a letter dropped or transposed?)
+            - p0055: “panned” — “planned” is common (56; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (6)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …iam Hunter Workman (1847–1937), Americans then living in Germany who later travelled and climbed in the Himal…
+            - book.json summary: …ed and climbed in the Himalaya, crossed Spain by bicycle in the spring and summer of 1895: abou…
+            - book.json summary: …Murcia, Andalucia, Extremadura, New and Old Castile, Aragon,…
+            - book.json summary: …e, Aragon, and Navarre to Irun, with an excursion from Gibraltar to Tangier and Tetuan in Morocco.…
+            - book.json summary: …s, customs officers, teamsters, innkeepers and townspeople, Holy We…
+            - book.json summary: …rs, innkeepers and townspeople, Holy Week and Corpus Christi proce…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: sketches-awheel-workman v2 — 0 to fix, 0 waived; to look at: hyphen-joins 31, joins 6 — tools@6b8af86 2026-11-19
+preflight PASS: sketches-awheel-workman v3 — 0 to fix, 0 waived; to look at: hyphen-joins 8, accents 2, rare-forms 2, serial-commas 6 — tools@ed86e62f 2026-11-22
