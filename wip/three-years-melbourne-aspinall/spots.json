@@ -1,0 +1,24 @@
+{
+ "p0110": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<i>vice versâ</i>",
+   "replace": "<i>vice versá</i>",
+   "draft": "<i>vice versâ</i>",
+   "verified": "<i>vice versá</i>",
+   "context": "are the hot winds and sudden changes from heat to cold, and <i>vice versâ</i>. ⏎  ⏎ The hot wind, which blows from the interior of the contin"
+  }
+ ],
+ "p0307": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "## The Sailor’s Consolation.",
+   "replace": "## The Sailor’s Consolation",
+   "draft": " Consolation.",
+   "verified": " Consolation",
+   "context": "[[page 291]] ⏎  ⏎ ## The Sailor’s Consolation. ⏎  ⏎ <verse> ⏎ O<sc>ne</sc> night came on a hurricane, ⏎ The sea wa"
+  }
+ ]
+}
