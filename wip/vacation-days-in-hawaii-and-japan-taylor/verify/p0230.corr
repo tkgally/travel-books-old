@@ -1,0 +1,2 @@
+{"find": "<blockquote>\nN<sc>ote</sc>.—", "replace": "[[fn ]] N<sc>ote</sc>.—"}
+{"find": "\n</blockquote>", "replace": ""}
