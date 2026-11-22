@@ -20,7 +20,7 @@
  "regions": [
   "Japan"
  ],
- "period": "1911",
+ "period": "1910–11",
  "collection": "jatsi",
  "subjects": [
   "Japan",
@@ -73,5 +73,63 @@
    "date": "2026-11-22",
    "note": "First publication."
   }
- ]
+ ],
+ "toc_entries": [
+  {
+   "at": "p0019",
+   "starts": "THE approach",
+   "title": "Arrival at Yokohama; the custom-house; Tokyo"
+  },
+  {
+   "at": "p0034",
+   "starts": "Once away from",
+   "title": "Count Okuma at Kodzu; the army; Kyoto"
+  },
+  {
+   "at": "p0056",
+   "starts": "The haughtiest figures",
+   "title": "Embassy coachmen; the Inland Sea; Baron Shibusawa"
+  },
+  {
+   "at": "p0073",
+   "starts": "It is easy to see Japan",
+   "title": "Travel and hotels; the English language; business"
+  },
+  {
+   "at": "p0091",
+   "starts": "Where foreign influence",
+   "title": "Foreign influence; conscription; Kobe and Osaka"
+  },
+  {
+   "at": "p0112",
+   "starts": "The Butterfly of Hokusai",
+   "title": "Silk; screens and fans; dress"
+  },
+  {
+   "at": "p0120",
+   "starts": "It is thirty-seven years",
+   "title": "The Samurai’s swords; food and rice; Nikko"
+  },
+  {
+   "at": "p0140",
+   "starts": "While woman is properly",
+   "title": "Women; customs of East and West; wrestlers; pageants"
+  },
+  {
+   "at": "p0161",
+   "starts": "The hen, which is",
+   "title": "Village life; the press; police and fire protection"
+  },
+  {
+   "at": "p0176",
+   "starts": "Japan is poor in capital",
+   "title": "Poverty and taxes; education; Korea and Manchuria"
+  },
+  {
+   "at": "p0194",
+   "starts": "Women are workers",
+   "title": "Women workers; government industries; Mount Fuji"
+  }
+ ],
+ "summary": "Don C. Seitz, an American newspaper manager, made a short visit to Japan in the summer, a year or two before the book appeared in 1911 (the year of the visit is not given), and set down what he saw in short notes, from a paragraph to a few pages each. He lands at Yokohama, stays in Tokyo, calls on Count Okuma at Kodzu, and goes to Kyoto, Kobe and Osaka, the Inland Sea, Nikko, and Hakone. His notes are on customs and dress, women and their work, wrestlers and festivals, the press, poverty and taxes, education, conscription, and Japan’s place in Korea and Manchuria. A few pages give English phrases with their Japanese equivalents. The book has twenty photographs."
 }
