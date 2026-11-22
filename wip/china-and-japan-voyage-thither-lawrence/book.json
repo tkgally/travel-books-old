@@ -1,0 +1,62 @@
+{
+ "id": "china-and-japan-voyage-thither-lawrence",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "China and Japan, and a Voyage Thither",
+ "subtitle": "An Account of a Cruise in the Waters of the East Indies, China, and Japan",
+ "short_title": "China and Japan, and a Voyage Thither",
+ "authors": [
+  {
+   "name": "James B. Lawrence",
+   "sort": "Lawrence, James B."
+  }
+ ],
+ "place": "Hartford",
+ "publisher": "Press of Case, Lockwood & Brainard",
+ "year": 1870,
+ "edition_statement": "First edition",
+ "regions": [
+  "China",
+  "Japan",
+  "Hong Kong",
+  "Macau",
+  "Korea",
+  "Indonesia",
+  "Philippines",
+  "Singapore",
+  "Brazil",
+  "Martinique",
+  "Cape Verde",
+  "South Africa",
+  "Saint Helena",
+  "United States"
+ ],
+ "period": "1865–68",
+ "subjects": [
+  "United States Navy",
+  "Asiatic Squadron",
+  "life at sea",
+  "letters"
+ ],
+ "collection": "jatsi",
+ "source": {
+  "ia_identifier": "chinajapanandvoy00lawr",
+  "contributor": "Library of Congress",
+  "hidden_leaves": [
+   0,
+   493,
+   494,
+   495
+  ]
+ },
+ "divisions": [],
+ "summary": "Forty-four letters to a friend at home (“My dear R.”) by James B. Lawrence of the United States Marine Corps, written between March 1865 and August 1868 while he served in the U.S.S. Wachusett and then in the flagship Hartford of the Asiatic Squadron. The outward voyage goes by Martinique, the Cape Verde Islands, Brazil, Cape Town, Batavia, and Manila to Hong Kong. Most of the letters describe the ports of the China coast and the Yangtze (Canton, Macao, Shanghai, Newchwang, Chefoo, Foochow) and life and discipline on board, with a visit to Korea. In Japan he goes up to Yedo with the American minister, and later writes from Nagasaki, Hiogo, and Osaka at the opening of the ports, where a ship’s barge capsized and men were drowned. He returns by Singapore, the Cape, and St. Helena. An appendix lists the officers of both ships and the ports visited.",
+ "notes_on_text": [],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ]
+}

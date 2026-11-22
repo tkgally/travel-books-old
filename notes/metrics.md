@@ -166,6 +166,8 @@
 | Zephyrus v3 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS | as before | |
 | A Woman’s Trip to Alaska v4 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS | as before | |
 | Through Atolls and Islands v1 | 2026-11-22 | 377 (+4 from a second scan; Appendix B left out) | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (tesseract comparison) by subagents; Drive uploads (Haiku) | 7 | 6 / 1 / 0 | 1 (ùnd: a speck over u) | 37.96 | 0 | PASS, 7 waived (leaves of Appendix B) | 30/30; 0 / 6 (spot-read: 8 printed misprints marked, 2 dashes doubled by the draft, 2 accents) | |
+| Embassy to China v5 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS | as before | |
+| A Woman Alone in the Heart of Japan v2 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS | as before | |
 
 ## Calibrations
 

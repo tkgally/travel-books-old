@@ -1,0 +1,6 @@
+{"find": "dirty alley-ways, and a few", "replace": "dirty alley-ways, and a few"}
+{"find": "Newchwang, to hold", "replace": "Newchwang, to hold"}
+
+Wait — the draft is missing "and a" before "few fine streets". Corrected:
+
+{"find": "alley-ways, a few fine streets", "replace": "alley-ways, and a few fine streets"}

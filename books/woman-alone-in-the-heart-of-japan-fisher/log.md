@@ -41,5 +41,6 @@ Book picture: the title page (the cover has no title).
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-22 | PASS, 2 waived (tools@b4c4d5f7) | 29/29, 0 real / 6 pages | spot-read (front matter, captions, verse, foreign words, index; tesseract comparison of every page): one word regularized by every stage; rendered look: no faults |
+| 2 | 2026-11-22 | PASS: woman-alone-in-the-heart-of-japan-fisher v2 — 0 to fix, 2 waived; to look at: hyphen-joins 14, accents 3, rare-forms 11, serial-commas 2, missing-stop 1 — tools@11181c6a 2026-11-22 | as before (text unchanged except the title page) | Title page typed line by line as printed (checked on the scan by an Opus subagent; 01.html looked at) |
 
 ## Known issues

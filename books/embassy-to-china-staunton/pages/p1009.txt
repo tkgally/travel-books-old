@@ -1,18 +1,20 @@
 [[page ?]]
 
-# An Authentic Account of an Embassy from the King of Great Britain to the Emperor of China;
+[[center]] AN AUTHENTIC ACCOUNT OF AN EMBASSY FROM THE KING OF GREAT BRITAIN TO THE EMPEROR OF CHINA;
 
 [[center]] INCLUDING CURSORY OBSERVATIONS MADE, AND INFORMATION OBTAINED, IN TRAVELLING THROUGH THAT ANCIENT EMPIRE, AND A SMALL PART OF CHINESE TARTARY.
 
 [[center]] TOGETHER WITH A RELATION OF THE VOYAGE UNDERTAKEN ON THE OCCASION BY HIS MAJESTY’S SHIP THE LION, AND THE SHIP HINDOSTAN, IN THE EAST INDIA COMPANY’S SERVICE, TO THE YELLOW SEA, AND GULF OF PEKIN; AS WELL AS OF THEIR RETURN TO EUROPE;
 
-[[center]] WITH NOTICES OF THE SEVERAL PLACES WHERE THEY STOPPED IN THEIR WAY OUT AND HOME; BEING THE ISLANDS OF MADEIRA, TENERIFFE, AND ST.JAGO; THE PORT OF RIO DE JANEIRO IN SOUTH AMERICA; THE ISLANDS OF ST. HELENA, TRISTAN D’ACUNHA, AND AMSTERDAM; THE COAST OF JAVA, AND SUMATRA, THE NANKA ISLES, PULO CONDORE, AND COCHIN-CHINA.
+[[center]] WITH NOTICES OF THE SEVERAL PLACES WHERE THEY STOPPED IN THEIR WAY OUT AND HOME; BEING THE ISLANDS OF MADEIRA, TENERIFFE, AND ST. JAGO; THE PORT OF RIO DE JANEIRO IN SOUTH AMERICA; THE ISLANDS OF ST. HELENA, TRISTAN D’ACUNHA, AND AMSTERDAM; THE COAST OF JAVA, AND SUMATRA, THE NANKA ISLES, PULO CONDORE, AND COCHIN-CHINA.
 
 [[center]] TAKEN CHIEFLY FROM THE PAPERS OF His Excellency the EARL OF MACARTNEY, Knight of the Bath, His Majesty’s Embassador Extraordinary and Plenipotentiary to the Emperor of China; Sir ERASMUS GOWER, Commander of the Expedition, and of other Gentlemen in the several departments of the Embassy.
 
 [[break]]
 
-[[center]] B<sc>y</sc> SIR GEORGE STAUNTON, B<sc>aronet</sc>, Honorary Doctor of Laws of the University of Oxford, Fellow of the Royal Society of London, his Majesty’s Secretary of Embassy to the Emperor of China, and Minister Plenipotentiary in the absence of the Embassador.
+[[center]] B<sc>y</sc> SIR GEORGE STAUNTON, B<sc>aronet</sc>,
+
+[[center]] Honorary Doctor of Laws of the University of Oxford, Fellow of the Royal Society of London, his Majesty’s Secretary of Embassy to the Emperor of China, and Minister Plenipotentiary in the absence of the Embassador.
 
 [[break]]
 
@@ -22,4 +24,8 @@
 
 [[center]] LONDON:
 
-[[center]] PRINTED BY W. BULMER AND CO. FOR G. NICOL, BOOKSELLER TO HIS MAJESTY, PALL-MALL. MDCCXCVII.
+[[center]] PRINTED BY W. BULMER AND CO.
+
+[[center]] FOR G. NICOL, BOOKSELLER TO HIS MAJESTY, PALL-MALL.
+
+[[center]] MDCCXCVII.

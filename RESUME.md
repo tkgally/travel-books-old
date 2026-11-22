@@ -33,15 +33,7 @@ next piece is whatever now comes first here.
    that is ready to publish comes first; then the one furthest along.
 2. **Open errata** that can be fixed without Tom (`notes/errata.md`): fix, republish that book as a new
    version, and do the follow-through that file asks for. Small ones can share a session with other work.
-   **Title pages typed as headings** (to do, from Tom's change of 2026-11-22; small work, up to five books a
-   session, alongside other work, until the list is empty): the title page is now the first page of every
-   edition and is to read as printed. In these books it was typed when it was left out of the editions, with
-   the title as a `#` heading in upper and lower case (some with `[[subtitle]]`): fetch the title-page leaf and
-   its verso from the Drive cache (`tools/drive_cache.py`), retype the page as `prompts/_format.md` now says
-   (no `#`; each printed line or phrase a `[[center]]` paragraph, capitals as printed; `[[right]]` where set
-   right), check every word on the image, look at `01.html` in the build, and publish as a new version ("Title
-   page typed line by line as printed"). Strike a book from this list when done:
-   embassy-to-china-staunton (both volumes), woman-alone-in-the-heart-of-japan-fisher.
+   **Title pages** (from Tom's change of 2026-11-22): all retyped line by line as printed (done 2026-11-22).
    **Title pages typed line by line:** read the other 32 title pages in the build once against their scans when a session has the
    leaf at hand for another reason; they were typed line by line but were never looked at as pages of the editions.
 3. **A `waiting` book** whose question Tom has answered (`notes/preferences.md`, the queue row, the book log).

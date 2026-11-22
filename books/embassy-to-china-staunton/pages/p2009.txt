@@ -10,9 +10,13 @@
 
 [[center]] TAKEN CHIEFLY FROM THE PAPERS OF His Excellency the EARL OF MACARTNEY, Knight of the Bath, His Majesty’s Embassador Extraordinary and Plenipotentiary to the Emperor of China; Sir ERASMUS GOWER, Commander of the Expedition, and of other Gentlemen in the several departments of the Embassy.
 
+[[break]]
+
 [[center]] B<sc>y</sc> SIR GEORGE STAUNTON, B<sc>aronet</sc>,
 
 [[center]] Honorary Doctor of Laws of the University of Oxford, Fellow of the Royal Society of London, his Majesty’s Secretary of Embassy to the Emperor of China, and Minister Plenipotentiary in the absence of the Embassador.
+
+[[break]]
 
 [[center]] In Two Volumes, with Engravings; beside a Folio Volume of Plates.
 
@@ -20,6 +24,8 @@
 
 [[center]] LONDON:
 
-[[center]] PRINTED BY W. BULMER AND CO. FOR G. NICOL, BOOKSELLER TO HIS MAJESTY, PALL-MALL.
+[[center]] PRINTED BY W. BULMER AND CO.
+
+[[center]] FOR G. NICOL, BOOKSELLER TO HIS MAJESTY, PALL-MALL.
 
 [[center]] MDCCXCVII.

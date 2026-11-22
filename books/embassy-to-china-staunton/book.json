@@ -1,6 +1,6 @@
 {
  "id": "embassy-to-china-staunton",
- "version": 4,
+ "version": 5,
  "date": "2026-11-22",
  "title": "An Authentic Account of an Embassy from the King of Great Britain to the Emperor of China",
  "short_title": "Embassy to China",
@@ -107,6 +107,11 @@
    "version": 4,
    "date": "2026-11-22",
    "note": "3 printer’s errors of a dropped or transposed letter marked and corrected: “stongest” for “strongest”, “contructed” for “constructed”, “particulary” for “particularly”."
+  },
+  {
+   "version": 5,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed. (both volumes)"
   }
  ],
  "edition_statement": "First edition, in two quarto volumes with a folio volume of plates",
@@ -212,7 +217,7 @@
   "The leaves of pages 423–426 of the first volume are bound out of order in the scanned copy; they are read here in the right order."
  ],
  "audit": {
-  "version": 4,
+  "version": 5,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",

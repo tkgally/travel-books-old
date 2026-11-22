@@ -1,6 +1,6 @@
 {
  "id": "woman-alone-in-the-heart-of-japan-fisher",
- "version": 1,
+ "version": 2,
  "date": "2026-11-22",
  "title": "A Woman Alone in the Heart of Japan",
  "short_title": "A Woman Alone in the Heart of Japan",
@@ -36,6 +36,11 @@
    "version": 1,
    "date": "2026-11-22",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "divisions": [
@@ -107,11 +112,12 @@
   "Gertrude Adams Fisher, an American, describes some months spent in Japan, for the most part travelling on her own. The book gives no year; the events it mentions place the visit in the early 1900s. She lands at Yokohama, sees the cherry-blossom season in Tokio and goes by boat to Kobe and Kioto, then travels overland by third-class railway through Nagoya and Miyanoshita to Nikko, where she stays six weeks. She goes on to Sendai, Matsushima, and Ikao, and with a hired guide to the hot springs of Kusatsu. The early chapters describe riksha rides, inns, festivals, theatres, wrestling, and baths. The last chapters, written in Tokio, describe institutions she visited: the Buddhist university, Professor Kano’s judo school, the Russian mission, the Red Cross hospital, the tea, silk, and rice industries, the stock exchange, and schools for women."
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-22",
   "pages": 6,
   "recall": "29/29",
   "real_errors": 0,
-  "fixed": 0
+  "fixed": 0,
+  "note": "text unchanged except listed fixes"
  }
 }
