@@ -78,22 +78,22 @@
             - tse: tse (p2021, p2022, p2447, p2452, p2454, p2455…); tsé (p1037)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
 [look (16)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p1248: “easting” — “casting” is common (50)
-            - p1277: “musica” — “musical” is common (137; a letter dropped or transposed?)
-            - p1486: “talc” — “tale” is common (127)
-            - p1500: “observ” — “observe” is common (111; a letter dropped or transposed?)
-            - p2147: “corse” — “course” is common (1703; a letter dropped or transposed?)
-            - p2247: “pleas” — “please” is common (119; a letter dropped or transposed?)
-            - p2256: “chace” — “chance” is common (284; a letter dropped or transposed?)
-            - p2260: “adress” — “address” is common (133; a letter dropped or transposed?)
-            - p2267: “prefered” — “preferred” is common (141; a letter dropped or transposed?)
-            - p2273: “minature” — “miniature” is common (112; a letter dropped or transposed?)
-            - p2277: “articular” — “particular” is common (419; a letter dropped or transposed?)
-            - p2337: “clifts” — “cliffs” is common (216)
-            - p2402: “suprising” — “surprising” is common (86; a letter dropped or transposed?)
-            - p2436: “peole” — “people” is common (3752; a letter dropped or transposed?)
-            - p2437: “salis” — “sails” is common (160; a letter dropped or transposed?)
-            - p2650: “tou” — “ton” is common (48)
+            - p1248: “easting” — “casting” is common (53)
+            - p1277: “musica” — “musical” is common (164; a letter dropped or transposed?)
+            - p1486: “talc” — “tale” is common (137)
+            - p1500: “observ” — “observe” is common (144; a letter dropped or transposed?)
+            - p2147: “corse” — “course” is common (1988; a letter dropped or transposed?)
+            - p2254: “groupe” — “grouped” is common (42; a letter dropped or transposed?)
+            - p2256: “chace” — “chance” is common (349; a letter dropped or transposed?)
+            - p2260: “adress” — “address” is common (151; a letter dropped or transposed?)
+            - p2267: “prefered” — “preferred” is common (160; a letter dropped or transposed?)
+            - p2273: “minature” — “miniature” is common (141; a letter dropped or transposed?)
+            - p2277: “articular” — “particular” is common (464; a letter dropped or transposed?)
+            - p2337: “clifts” — “cliffs” is common (270)
+            - p2402: “suprising” — “surprising” is common (99; a letter dropped or transposed?)
+            - p2436: “peole” — “people” is common (4453; a letter dropped or transposed?)
+            - p2437: “salis” — “sails” is common (180; a letter dropped or transposed?)
+            - p2650: “tou” — “ton” is common (65)
 [       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
 [ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
             - book.json summary: … led by George, Earl Macartney, which sailed from Portsmouth in September 1792 in HMS Lion and the East India Compa…
@@ -102,4 +102,4 @@
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: embassy-to-china-staunton v4 — 0 to fix, 0 waived; to look at: hyphen-joins 10, folios 5, contents 27, accents 7, rare-forms 16, serial-commas 3 — tools@ed86e62f 2026-11-22
+preflight PASS: embassy-to-china-staunton v5 — 0 to fix, 0 waived; to look at: hyphen-joins 10, folios 5, contents 27, accents 7, rare-forms 16, serial-commas 3 — tools@11181c6a 2026-11-22
