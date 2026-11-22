@@ -1,0 +1,5 @@
+{"given": "containing 30,000 feet in all; had been", "print": "containing 30,000 feet in all, had been", "sure": "high"}
+{"given": "who where now so triumphantly", "print": "who were now so triumphantly", "sure": "high"}
+{"given": "statistics were communicated me by the", "print": "statistics were communicated to me by the", "sure": "high"}
+{"given": "and can be dependcd upon,", "print": "and can be depended upon,", "sure": "high"}
+{"given": "The embankment at the summit is", "print": "The embankment at the Summit is", "sure": "high"}

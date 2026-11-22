@@ -1,0 +1,5 @@
+{"given": "at Panama. Or the second occasion", "print": "at Panama. On the second occasion", "sure": "high"}
+{"given": "and had reached obispo, some fifteen", "print": "and had reached Obispo, some fifteen", "sure": "high"}
+{"given": "not being thrown back a sufficient distance", "print": "not being thrown back to a sufficient distance", "sure": "high"}
+{"given": "the track was, of conrse, a not", "print": "the track was, of course, a not", "sure": "high"}
+{"given": "clutching fast to his seat; looks down", "print": "clutching fast to his seat, looks down", "sure": "high"}

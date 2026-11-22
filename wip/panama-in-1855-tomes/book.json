@@ -34,7 +34,10 @@
  ],
  "summary": "Robert Tomes (1817–1882), an American physician and writer, went to the Isthmus of Panama in February 1855 as one of the guests of the Panama Rail-Road Company when its line from Aspinwall on the Atlantic to Panama on the Pacific was opened. He describes the voyage from New York, the new town of Aspinwall, the ride across the isthmus by rail, and the railway’s building, cost, and prospects, and then the old city of Panama, the island of Taboga, and an excursion to the Pearl Islands. He writes with humour about his fellow travellers, hotels, churches, officials, and the people of the isthmus. The book has a map of the railway and a few engravings.",
  "omitted_from_reading": "The printed contents are in the JSON only.",
- "notes_on_text": [],
+ "notes_on_text": [
+  "Chapter I has no title in the text; the contents gives it the title of the printed contents.",
+  "A paragraph that runs on after the table of costs in Chapter IV (p. 128) starts a new paragraph here."
+ ],
  "history": [
   {
    "version": 1,
@@ -63,7 +66,8 @@
   {
    "at": "p0015",
    "kind": "chapter",
-   "n": 2
+   "n": 2,
+   "toc_title": "Chapter I. From New York to Aspinwall"
   }
  ],
  "frontispiece": "p0008-1"

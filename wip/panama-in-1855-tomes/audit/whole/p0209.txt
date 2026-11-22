@@ -1,0 +1,5 @@
+{"given": "hardly perceptible rising the bed-covering above", "print": "hardly perceptible rising of the bed-covering above", "sure": "high"}
+{"given": "a face glowiug red like", "print": "a face glowing red like", "sure": "high"}
+{"given": "until the doctor finally led", "print": "until the Doctor finally led", "sure": "high"}
+{"given": "the piazza, where; in conscious", "print": "the piazza, where, in conscious", "sure": "high"}
+{"given": "felicitations on this abundant opportunities", "print": "felicitations on his abundant opportunities", "sure": "high"}

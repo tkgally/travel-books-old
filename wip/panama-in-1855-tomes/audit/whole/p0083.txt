@@ -1,0 +1,6 @@
+{"given": "at Ahorca lagarto, we reached", "print": "at Ahorca Lagarto, we reached", "sure": "high"}
+{"given": "thatched with palm; and shaded", "print": "thatched with palm, and shaded", "sure": "high"}
+{"given": "water that reflects deep shade of", "print": "water that reflects the deep shade of", "sure": "high"}
+{"given": "shade of the tropical forest", "print": "shade of the tropical forest", "sure": "low"}
+{"given": "into the remote deptbs of the", "print": "into the remote depths of the", "sure": "high"}
+{"given": "and here be enjoyed those intervals", "print": "and here he enjoyed those intervals", "sure": "high"}
