@@ -1,0 +1,123 @@
+{
+ "id": "camps-caribbees-ober",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Camps in the Caribbees",
+ "subtitle": "The Adventures of a Naturalist in the Lesser Antilles",
+ "short_title": "Camps in the Caribbees",
+ "authors": [
+  {
+   "name": "Frederick A. Ober",
+   "sort": "Ober, Frederick Albion",
+   "born": 1849,
+   "died": 1913
+  }
+ ],
+ "place": "Boston; New York",
+ "publisher": "Lee and Shepard; Charles T. Dillingham",
+ "year": 1880,
+ "source": {
+  "ia_identifier": "campsincaribbees00oberiala",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": []
+ },
+ "edition_statement": "First edition",
+ "regions": [
+  "Dominica",
+  "Martinique",
+  "Saint Vincent and the Grenadines",
+  "Grenada",
+  "Guadeloupe"
+ ],
+ "period": "1876–78",
+ "subjects": [
+  "birds",
+  "natural history",
+  "Caribs",
+  "West Indies"
+ ],
+ "divisions": [
+  {
+   "at": "p0008",
+   "kind": "front",
+   "title": "Frontispiece"
+  },
+  {
+   "at": "p0011",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0013",
+   "kind": "dedication",
+   "title": "Dedication"
+  },
+  {
+   "at": "p0015",
+   "kind": "preface"
+  },
+  {
+   "at": "p0019",
+   "kind": "contents"
+  },
+  {
+   "at": "p0027",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0029",
+   "kind": "front",
+   "title": "Camps in the Caribbees"
+  },
+  {
+   "at": "p0029",
+   "kind": "chapter",
+   "n": 2
+  },
+  {
+   "at": "p0381",
+   "kind": "appendix"
+  }
+ ],
+ "frontispiece": "p0008-1",
+ "waivers": [
+  {
+   "check": "leaves",
+   "match": "p0009",
+   "why": "tissue guard over the frontispiece (shows the plate and title through it); not transcribed"
+  },
+  {
+   "check": "leaves",
+   "match": "p0010",
+   "why": "the other side of the tissue guard; not transcribed"
+  }
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "notes_on_text": [
+  "Pages 80, 82, 95, 96, 98, 209, 210, 215–222 and 357 were first read by machine OCR (tesseract) and corrected by a model against the scan, because the model would not transcribe them directly; they were then checked like the others."
+ ],
+ "omitted_from_reading": "The printed contents, the list of illustrations, and the line “Camps in the Caribbees” above Chapter I are in the JSON only.",
+ "summary": "Frederick A. Ober, a young American naturalist, spent 1876 to 1878 collecting birds in the Lesser Antilles for the Smithsonian Institution, and here tells of it island by island. Most of the book is about Dominica: camps in the forest with hunters and guides, the Boiling Lake, the Caribs of the windward coast and their language, and the hunt for the imperial parrot. He sails to St. Vincent in the hurricane season and camps in the crater of the Soufrière, stays on a sugar estate, goes on to Grenada and the Grenadines, hunts monkeys, and ends in Martinique, at the birthplace of the Empress Josephine, and on the Soufrière of Guadeloupe. An appendix by George N. Lawrence lists the birds of the islands and describes the new species Ober found.",
+ "ornaments": [
+  "p0012-1"
+ ],
+ "keep_hyphens": [
+  "p0172",
+  "p0274",
+  "p0283"
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 1,
+  "fixed": 1,
+  "note": "a second run on the 16 pages first read by OCR: 77/79, no candidates"
+ }
+}

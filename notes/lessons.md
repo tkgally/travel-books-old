@@ -103,6 +103,8 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 - A folding map shot in two halves: crop each half; try joining them only if the shots overlap (they did not in
   *Corona and Coronet*: a strip at the fold was missing, said in `notes_on_text`).
 
+- A cut at the top of a page with the paragraph from the page before running on under it: the verifier types `[[image]]`, caption, then `[[cont]]` text, which the compiler drops (“[[cont]] not at the top of a page”; *Camps in the Caribbees*: ten pages). Move the picture after the continued paragraph, which is where the editions would put it.
+
 ## Trigger: eighteenth-century printing
 
 - Quotations with “ repeated at every line start: models keep the repeats, which then stand mid-sentence once lines
