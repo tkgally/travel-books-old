@@ -1,5 +1,0 @@
-{"given": "pearl shell, tortoize shell and fibres", "print": "pearl shell, tortoise shell and fibres", "sure": "high"}
-{"given": "every tropical root fruit. In", "print": "every tropical root and fruit. In", "sure": "high"}
-{"given": "must always be or the cocoanut", "print": "must always be on the cocoanut", "sure": "high"}
-{"given": "which these marvcllous atolls have been", "print": "which these marvellous atolls have been", "sure": "high"}
-{"given": "in the course of ages; they formed", "print": "in the course of ages, they formed", "sure": "high"}

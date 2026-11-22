@@ -1,7 +1,0 @@
-Differences: the page prints "sharper, more defined", but the draft has "sharper, more defined" with an extra "more" inserted before "sharper". The draft reads "the sharper, more defined and more rigidly".
-
-{"find": "the sharper, more defined and more rigidly", "replace": "the sharper, more defined and more rigidly"}
-
-Let me re-check against the draft: the draft says "the people the sharper, more defined and more rigidly maintained". That matches the image, so no change is needed there.
-
-NONE

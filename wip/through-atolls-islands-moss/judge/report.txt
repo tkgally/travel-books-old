@@ -1,8 +1,0 @@
-judge opus: 7 spots on 5 pages: {'draft': 6, 'verified': 1}; cost $0.22
-p0046 #1 [draft, sure: medium] draft '〓ocky' | verified 'rocky' | judge reads '〓ocky'
-p0058 #1 [verified, sure: medium] draft 'Mr. Andrew.' | verified 'Mr. Anarew.' | judge reads 'Mr. Anarew.'
-p0131 #1 [draft, sure: medium] draft 'Handels- ùnd' | verified 'Handels- und' | judge reads 'Handels- ùnd'
-p0185 #1 [draft, sure: high] draft 'He would show me' | verified 'He would shew me' | judge reads 'He would show me'
-p0371 #1 [draft, sure: medium] draft '[[center]] <sc>london:</sc>' | verified '[[center]] LONDON:' | judge reads '[[center]] <sc>london:</sc>'
-p0371 #2 [draft, sure: medium] draft '[[center]] <sc>printed by gilbert and rivington, limited,</sc>' | verified '[[center]] PRINTED BY GILBERT AND RIVINGTON, LIMITED,' | judge reads '[[center]] <sc>printed by gilbert and rivington, limited,</sc>'
-p0371 #3 [draft, sure: medium] draft '[[center]] <sc>st. john’s house, clerkenwell road.</sc>' | verified '[[center]] ST. JOHN’S HOUSE, CLERKENWELL ROAD.' | judge reads '[[center]] <sc>st. john’s house, clerkenwell road.</sc>'

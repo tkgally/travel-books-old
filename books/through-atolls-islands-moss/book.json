@@ -1,0 +1,198 @@
+{
+ "id": "through-atolls-islands-moss",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Through Atolls and Islands in the Great South Sea",
+ "short_title": "Through Atolls and Islands",
+ "authors": [
+  {
+   "name": "Frederick J. Moss",
+   "sort": "Moss, Frederick J.",
+   "born": 1827,
+   "died": 1904
+  }
+ ],
+ "place": "London",
+ "publisher": "Sampson Low, Marston, Searle, & Rivington",
+ "year": 1889,
+ "edition_statement": "First edition",
+ "regions": [
+  "Niue",
+  "Kiribati",
+  "Cook Islands",
+  "Tokelau",
+  "Marshall Islands",
+  "Nauru",
+  "Federated States of Micronesia",
+  "Fiji"
+ ],
+ "period": "September 1886 to April 1887",
+ "subjects": [
+  "Pacific islands",
+  "coral atolls",
+  "missions",
+  "traders",
+  "copra trade",
+  "Fiji politics"
+ ],
+ "source": {
+  "ia_identifier": "throughatollsisl00mossuoft",
+  "contributor": "University of Toronto (Robarts Library)",
+  "hidden_leaves": [
+   0,
+   377,
+   378,
+   379,
+   380,
+   381
+  ],
+  "extra_leaves": {
+   "p0012a": {
+    "ia_identifier": "throughatollsan00mossgoog",
+    "n": 9,
+    "what": "the dedication (p. v), missing from the Toronto copy"
+   },
+   "p0161a": {
+    "ia_identifier": "throughatollsan00mossgoog",
+    "n": 158,
+    "what": "p. 122, missing from the Toronto copy"
+   },
+   "p0339a": {
+    "ia_identifier": "throughatollsan00mossgoog",
+    "n": 331,
+    "what": "p. 284, missing from the Toronto copy"
+   },
+   "p0339b": {
+    "ia_identifier": "throughatollsan00mossgoog",
+    "n": 336,
+    "what": "p. 285, missing from the Toronto copy"
+   }
+  }
+ },
+ "divisions": [
+  {
+   "at": "p0011",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0012a",
+   "kind": "dedication",
+   "title": "Dedication"
+  },
+  {
+   "at": "p0013",
+   "kind": "preface"
+  },
+  {
+   "at": "p0015",
+   "kind": "contents"
+  },
+  {
+   "at": "p0022",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0023",
+   "kind": "front",
+   "n": 1
+  },
+  {
+   "at": "p0339",
+   "kind": "appendix"
+  },
+  {
+   "at": "p0347",
+   "kind": "appendix"
+  },
+  {
+   "at": "p0350",
+   "kind": "appendix"
+  },
+  {
+   "at": "p0352",
+   "kind": "appendix"
+  },
+  {
+   "at": "p0354",
+   "kind": "appendix"
+  },
+  {
+   "at": "p0358",
+   "kind": "appendix"
+  },
+  {
+   "at": "p0362",
+   "kind": "appendix"
+  },
+  {
+   "at": "p0367",
+   "kind": "appendix"
+  }
+ ],
+ "summary": "In September 1886 Frederick J. Moss, a member of the New Zealand House of Representatives, left Auckland in the trading schooner Buster for a voyage of seven months among the less visited islands of the central Pacific. He calls at Niue, Christmas Island, Suwarrow, Manihiki, Atafu, the Marshall Islands, Nauru (then Pleasant Island), Mokil, and Ponape, among others, and describes the traders, missionaries, chiefs, and islanders he meets, the copra trade, and the making of coral atolls. Later chapters turn to mission rule, the ruins at Ponape, the government of Fiji as a Crown colony since 1874, and the claims of Britain, Germany, and other powers in the Pacific. Appendices print documents on the history of Fiji and a list of Pacific steamer lines. With a portrait of the author, seventeen photographs credited to Mr. Andrew, and a ground plan of the Ponape ruins.",
+ "notes_on_text": [
+  "The Toronto copy scanned for this edition lacks the dedication, p. 122, and pp. 284–287; the dedication, p. 122, and pp. 284–285 (the end of Appendix A) are taken from another copy at the Internet Archive (throughatollsan00mossgoog).",
+  "Appendix B, “Private Circular sent to the Planters preliminary to an attempted formation of Native Government in 1870” (pp. 286–294), is left out: its first two pages are missing from the Toronto copy, and in the other copy the right third of every line of its first page is lost.",
+  "The folding map of the Pacific that the text mentions (“The map attached to this book”) is not in the Toronto copy, and in the other copy it was photographed folded and cannot be read; it is missing here."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "omitted_from_reading": "The half-title, the publisher’s advertisement, the printed contents, and the list of illustrations are in the JSON only.",
+ "frontispiece": "p0010-1",
+ "toc": {
+  "subtitles": "all"
+ },
+ "keep_hyphens": [
+  "p0184"
+ ],
+ "waivers": [
+  {
+   "check": "leaves",
+   "match": "p0340",
+   "why": "Appendix B (pp. 288–294 in this copy), left out: its first two pages are missing here and the first is cut off in the only other scan (Tom, 2026-11-22; notes_on_text)"
+  },
+  {
+   "check": "leaves",
+   "match": "p0341",
+   "why": "Appendix B (pp. 288–294 in this copy), left out: its first two pages are missing here and the first is cut off in the only other scan (Tom, 2026-11-22; notes_on_text)"
+  },
+  {
+   "check": "leaves",
+   "match": "p0342",
+   "why": "Appendix B (pp. 288–294 in this copy), left out: its first two pages are missing here and the first is cut off in the only other scan (Tom, 2026-11-22; notes_on_text)"
+  },
+  {
+   "check": "leaves",
+   "match": "p0343",
+   "why": "Appendix B (pp. 288–294 in this copy), left out: its first two pages are missing here and the first is cut off in the only other scan (Tom, 2026-11-22; notes_on_text)"
+  },
+  {
+   "check": "leaves",
+   "match": "p0344",
+   "why": "Appendix B (pp. 288–294 in this copy), left out: its first two pages are missing here and the first is cut off in the only other scan (Tom, 2026-11-22; notes_on_text)"
+  },
+  {
+   "check": "leaves",
+   "match": "p0345",
+   "why": "Appendix B (pp. 288–294 in this copy), left out: its first two pages are missing here and the first is cut off in the only other scan (Tom, 2026-11-22; notes_on_text)"
+  },
+  {
+   "check": "leaves",
+   "match": "p0346",
+   "why": "Appendix B (pp. 288–294 in this copy), left out: its first two pages are missing here and the first is cut off in the only other scan (Tom, 2026-11-22; notes_on_text)"
+  }
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
+}

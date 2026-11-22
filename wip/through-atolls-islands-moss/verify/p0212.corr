@@ -1,6 +1,0 @@
-{"find": "carrying off", "replace": "carrying off"}
-{"find": "Eastern islands are larger", "replace": "Eastern islands are larger"}
-
-Correction needed: the first one is a no-op, so here is the real list:
-
-{"find": "Samson carrying off", "replace": "Samson carrying off"}
