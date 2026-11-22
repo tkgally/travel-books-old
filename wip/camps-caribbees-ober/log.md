@@ -14,6 +14,8 @@ To take care of: chapter synopses in small capitals; drop capitals; French, Creo
 Scan check: all sheets and 15 leaves at full size by an Opus subagent 2026-11-22: complete and good; all 34 engravings present.
 
 ## Decisions
+- Pictures (34) cropped by an Opus subagent with `--gray` (p0008 rotate 270; p0187, p0215, p0245 rotate 90); four with text set into a notch (p0075, p0151, p0169, p0276) were cropped from a copy with the text lines whited out, so the notch shows as paper. Cover: the title page (the front cover has no title). Looked at by the session.
+- Places added to data/places.json: Dominica, Martinique, Saint Vincent and the Grenadines, Guadeloupe.
 
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
