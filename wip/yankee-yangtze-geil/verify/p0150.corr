@@ -1,0 +1,7 @@
+The image shows "Prosperous-Man-of-the-World", not "Prosperous-Man…" as I'd have guessed from the draft, which reads "“Prosperous-Man-of-the-World,”". The draft matches that. I found one difference: the draft has "i.e.</i>," where the page has "i.e.," in italics with the comma outside.
+
+{"find": "<i>i.e.</i>,", "replace": "<i>i.e.</i>,"}
+
+Correction: on reflection, that entry changes nothing, so I'm withdrawing it. The draft matches the page, so:
+
+NONE

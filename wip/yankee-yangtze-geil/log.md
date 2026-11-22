@@ -1,7 +1,7 @@
 # A Yankee on the Yangtze — William Edgar Geil (1904)
 
 IA: yankeeonyangtzeb00geil (University of California, 400 ppi; 448 images, 450 prepared leaves). Other scans looked at: yankeeonyangtzeb00geilrich (New York, A. C. Armstrong issue of the same sheets, 500 ppi): plates xxi–xxiv taken from it.
-Eligibility: re-checked 2026-11-22: pg_catalog.csv nothing; web search: print-on-demand reprints only; Cornell Southeast Asia Visions copy is page images only (as for earlier books). Geil 1865–1925; photographs mostly his, a few by G. F. Stooks, W. C. Taylor, A. H. Faers (minor contributors, uncredited on the plates).
+Eligibility: re-checked 2026-11-22: pg_catalog.csv nothing; web search: print-on-demand reprints only; Cornell Southeast Asia Visions copy is page images only (as for earlier books); Virtual Shanghai's e-library (Book ID 1675) has a PDF of the Google Books scan, page images only (JBIG2, no text layer). Geil 1865–1925; photographs mostly his, a few by G. F. Stooks, W. C. Taylor, A. H. Faers (minor contributors, uncredited on the plates).
 
 ## Status
 Stage reached: (a) scan checked, extra leaves made, Opus draft started 2026-11-22 20:58 UTC.
@@ -16,6 +16,9 @@ Plates: 48 leaves printed both sides, numbered i–c at the foot, many with two 
 Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-11-22; pp. 1–312 complete; folding plates opened. Pencil marks p0031, p0123–p0124.
 
 ## Decisions
+- p0312 caption: a letter lost in printing (“〓hu Siung Fu”); the New York issue’s plate prints “Chu Siung Fu” → typed Chu. The New York issue’s plate captions were reset (line breaks differ; it reads “frantic” where London has “fanatic”), so plates xxi–xxiv (from that copy) may differ slightly from the London captions: said in `notes_on_text`.
+- Period 1902–03: Christmas at Ichang (ch. IV); Wikipedia dates the Yangtze journey to 1902; a caption mentions a ceremony of 28 August 1903 (assumed; the book prints no year for the journey).
+- Chapter openings: a Chinese proverb (characters stored in reading order, right to left as printed) and a pictorial initial with a caption (ornaments, shown small; the letter typed in the text).
 - Cover picture: the title page (the cover is plain cloth).
 
 ## Runs
