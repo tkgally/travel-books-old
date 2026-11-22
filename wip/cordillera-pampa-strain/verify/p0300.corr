@@ -1,0 +1,2 @@
+{"find": "“<i>pasco</i>,” read “<i>paseo</i>.”", "replace": "“<i>pasco,</i>” read “<i>paseo.</i>”"}
+{"find": "“<i>reveuons</i>,” read <i>revenons</i>.”", "replace": "“<i>reveuons,</i>” read <i>revenons.</i>”"}

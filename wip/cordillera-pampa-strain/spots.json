@@ -1,0 +1,176 @@
+{
+ "p0015": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>the pampas</sc>",
+   "replace": "The Pampas",
+   "draft": "<sc>the pampas</sc>",
+   "verified": "The Pampas",
+   "context": "[[page xi]] ⏎  ⏎ [[center]] Chapter XVII. ⏎  ⏎ [[center]] <sc>the pampas</sc> <pref>259</pref> ⏎  ⏎ [[center]] Chapter XVIII. ⏎  ⏎ [[center]] <sc"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "<sc>buenos ayres</sc>",
+   "replace": "Buenos Ayres",
+   "draft": "<sc>buenos ayres</sc>",
+   "verified": "Buenos Ayres",
+   "context": "pas <pref>259</pref> ⏎  ⏎ [[center]] Chapter XVIII. ⏎  ⏎ [[center]] <sc>buenos ayres</sc> <pref>273</pref> ⏎ "
+  }
+ ],
+ "p0022": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "sücceeded",
+   "replace": "succeeded",
+   "draft": "sücceeded",
+   "verified": "succeeded",
+   "context": "was fully attained, as after a few convulsive throes, which sücceeded the dissolution of the confederation, Peru, the most import"
+  }
+ ],
+ "p0037": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "voluuteers",
+   "replace": "volunteers",
+   "draft": "voluuteers",
+   "verified": "volunteers",
+   "context": "e of a garrison. ⏎  ⏎ If the subaltern officers and privates of voluuteers, who served during the Mexican war, would not, in the event"
+  }
+ ],
+ "p0038": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page 32]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page 32]]",
+   "context": "[[page ?]] ⏎  ⏎ # Chapter III. ⏎  ⏎ [[subtitle]] Journey to Santiago. ⏎  ⏎ O<sc>n<"
+  }
+ ],
+ "p0046": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page 41]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page 41]]",
+   "context": "[[page ?]] ⏎  ⏎ # Chapter IV. ⏎  ⏎ [[subtitle]] Santiago. ⏎  ⏎ A<sc>t</sc> about h"
+  }
+ ],
+ "p0051": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Pedro de Valdina",
+   "replace": "Pedro de Valdivia",
+   "draft": "dro de Valdina",
+   "verified": "dro de Valdivia",
+   "context": "style, that one could easily believe them contemporaries of Pedro de Valdina, the conquestador. Few vehicles were met during our journey"
+  }
+ ],
+ "p0052": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "extremely tedious;",
+   "replace": "extremely tedicus;",
+   "draft": "tremely tedious;",
+   "verified": "tremely tedicus;",
+   "context": " respiration painful and difficult. The ascent was slow and extremely tedious; the road, consisting of zigzags, which appeared almost innu"
+  }
+ ],
+ "p0057": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page 64]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page 64]]",
+   "context": "[[page ?]] ⏎ # Chapter V. ⏎ [[subtitle]] Santiago. ⏎  ⏎ W<sc>e</sc> rose early"
+  }
+ ],
+ "p0115": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "impassible desert",
+   "replace": "impassable desert",
+   "draft": "impassible desert",
+   "verified": "impassable desert",
+   "context": "es its shores during its whole extent; on the north, by the impassible desert of <i>Atacama;</i> on the east, by difficult, at some seaso"
+  }
+ ],
+ "p0128": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "I<sc>mports</sc>,",
+   "replace": "I<sc>mports</sc>.",
+   "draft": ">mports</sc>,",
+   "verified": ">mports</sc>.",
+   "context": "> H<sc>ouses, including duties on</sc> E<sc>xports and</sc> I<sc>mports</sc>, | $1,763.739 | $2,099,608 | $2,103,076 | ⏎ | Monopolies, | 66"
+  }
+ ],
+ "p0150": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "## The Mercantile Marine\n\nof Chili",
+   "replace": "<sc>The Mercantile Marine</sc> of Chili",
+   "draft": "## The Mercantile Marine\n\nof Chili",
+   "verified": "<sc>The Mercantile Marine</sc> of Chili",
+   "context": "eventy-five thousand five hundred and seventy-one dollars. ⏎  ⏎ ## The Mercantile Marine ⏎  ⏎ of Chili numbers altogether one hundred and four vessels, forty-five"
+  }
+ ],
+ "p0186": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "mattrasses",
+   "replace": "mattresses",
+   "draft": "mattrasses",
+   "verified": "mattresses",
+   "context": "ere several women, who were in the act of rising from their mattrasses which were spread upon the ground, and making their toilett"
+  }
+ ],
+ "p0198": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page 193]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page 193]]",
+   "context": "[[page ?]] ⏎  ⏎ # Chapter XIII. ⏎  ⏎ [[subtitle]] Mendoza. ⏎  ⏎ <i>March</i> 7.—Ro"
+  }
+ ],
+ "p0223": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]",
+   "replace": "[[page 223]]",
+   "draft": "[[page ?]]",
+   "verified": "[[page 223]]",
+   "context": "[[page ?]] ⏎ # Chapter XIV. ⏎ [[subtitle]] A Gallop across the Pampas. ⏎  ⏎ <i"
+  }
+ ],
+ "p0261": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "Sclavonic race.",
+   "replace": "Sclavonic race",
+   "draft": "lavonic race.",
+   "verified": "lavonic race",
+   "context": "n by unfortunate individuals of that peculiarly unfortunate Sclavonic race. ⏎ "
+  }
+ ]
+}

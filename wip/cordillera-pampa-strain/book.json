@@ -86,9 +86,19 @@
    "kind": "contents"
   },
   {
+   "at": "p0017",
+   "kind": "front",
+   "n": 1
+  },
+  {
    "at": "p0300",
    "kind": "errata"
   }
  ],
- "omitted_from_reading": "The printed contents, the head title above Chapter I, and the list of errata are in the JSON only; the errata are applied to the text."
+ "omitted_from_reading": "The printed contents, the head title above Chapter I, and the list of errata are in the JSON only; the errata are applied to the text.",
+ "notes_on_text": [
+  "Pages 95–96 are missing from the scan used (pages 93–94 were photographed twice in their place); they are transcribed from another copy of the same edition, scanned by Google from a copy at Harvard (Internet Archive item cordilleraandpa01stragoog).",
+  "Page 185 was first read by machine OCR (the model refused to transcribe it) and then corrected and checked like the others.",
+  "The printed list of errata is applied: each correction is marked in the text and listed below."
+ ]
 }

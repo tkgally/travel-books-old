@@ -1,0 +1,5 @@
+{"given": "mules in this path; the result", "print": "mules in this path, the result", "sure": "high"}
+{"given": "on foot. His is an absurdity", "print": "on foot. This is an absurdity", "sure": "high"}
+{"given": "entire for the benesit of my readers", "print": "entire for the benefit of my readers", "sure": "high"}
+{"given": "must attach itself this description, owing", "print": "must attach itself to this description, owing", "sure": "high"}
+{"given": "mountain travel in south America, which", "print": "mountain travel in South America, which", "sure": "high"}

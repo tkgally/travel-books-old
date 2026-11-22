@@ -1,0 +1,26 @@
+[[page ?]]
+# Errata.
+
+Page <pref>15</pref>, line 15, for “they” read “he.”
+
+Page <pref>47</pref>, line 4, for “Valdina” read “Valdivia.”
+
+Page <pref>80</pref>, line 27, for “ereole” read “creole.”
+
+Page <pref>91</pref>, line 24, comma (,) for colon. (:)
+
+Page <pref>102</pref>, line 17, for “these” read “their.”
+
+Page <pref>107</pref>, line 33, for “Boliva” read “Bolivia.”
+
+Page <pref>113</pref>, line 2, for “Danvin” read “Darwin”
+
+Page <pref>199</pref>, line 25, for “of,” read “for.”
+
+Page <pref>206</pref>, line 9, for “<i>pasco,</i>” read “<i>paseo.</i>”
+
+Page <pref>222</pref>, line 9, for “<i>reveuons,</i>” read <i>revenons.</i>”
+
+Page <pref>224</pref>, line 27, for “was” read “were.”
+
+Page <pref>256</pref>, line 25, for “Mono” read “Moro.”
