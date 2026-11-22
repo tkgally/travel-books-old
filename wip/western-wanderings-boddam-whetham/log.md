@@ -8,7 +8,7 @@ Stage reached: (a) scan checked; draft started 2026-11-22 (--pages 5-8,11-406, p
 
 ## Page map
 Scan check (Opus subagent, 2026-11-22): pp. 1–364 present, no gaps; 11 of the 12 listed plates; "Father of the Forest" (to face p. 112) is missing from this copy:
-taken from westernwandering00bodd n141 (sideways, after its p. 112) as p0142a (`source.extra_leaves`).
+taken from westernwandering00bodd n140 (sideways, after its p. 112) as p0142a (`source.extra_leaves`).
 p0001 cover (no title) · p0002–p0004 endpapers · p0005 half-title · p0006 verso (printer) · p0008 frontispiece (sideways, Niagara Falls—Whirlpool Rapids) · p0009–p0010 IA tissue shots (hidden) ·
 p0011 title · p0013 preface (8 lines, signed J. W. B.-W.) · p0015–p0020 Contents (with chapter summaries) · p0021 List of Illustrations · p0022 erratum (p. 47, Yauhton → Yancton) ·
 p0023 p. 1 (heading "Western Wanderings." above Chapter I; +22, rising by 2 after each plate) · 24 chapters: I 23, II 29, III 42, IV 56, V 73, VI 99, VII 117, VIII 133, IX 150, X 175,

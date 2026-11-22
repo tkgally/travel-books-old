@@ -1,5 +1,0 @@
-{"given": "a quarter of a century; had trained", "print": "a quarter of a century, had trained", "sure": "high"}
-{"given": "training rather then by weight", "print": "training rather than by weight", "sure": "high"}
-{"given": "motive in his private enterprize, and", "print": "motive in his private enterprise, and", "sure": "high"}
-{"given": "The true sportiug spirit for", "print": "The true sporting spirit for", "sure": "high"}
-{"given": "and skill throwing is the", "print": "and skill in throwing is the", "sure": "high"}
