@@ -1218,10 +1218,11 @@
    "place": "New York",
    "publisher": "Horace H. Moore",
    "images": 306,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Open Library: the 1853 edition and print on demand (Kessinger, Creative Media) only. Strain 1821–1857. No illustrations. Not checked: WorldCat.",
-   "note": "Library of Congress scan, 500 ppi. Plain single volume, 18 chapters, no plates. 1849: from the USS Lexington at Valparaíso by mule to Santiago, over the Andes by Uspallata to Mendoza, across the pampas to Buenos Aires, then by a leaking brig, with fever, to Rio. A plain, wry naval voice."
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Open Library: the 1853 edition and print on demand (Kessinger, Creative Media) only. Strain 1821–1857. No illustrations. Not checked: WorldCat. Re-checked 2026-11-22: a web search found only the HathiTrust record.",
+   "note": "Library of Congress scan, 500 ppi. Plain single volume, 18 chapters, no plates. 1849: from the USS Lexington at Valparaíso by mule to Santiago, over the Andes by Uspallata to Mendoza, across the pampas to Buenos Aires, then by a leaking brig, with fever, to Rio. A plain, wry naval voice.",
+   "started": "2026-11-22"
   },
   {
    "order": 67,
