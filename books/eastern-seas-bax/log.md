@@ -36,6 +36,7 @@ Has: a footnote p0198; a translated Chinese proclamation pp. 264–266 (p0287–
 |---|---|---|---|---|
 | 1 | 2026-11-21 | PASS — eastern-seas-bax v1 — 0 to fix, 2 waived; to look at: hyphen-joins 4, folios 1, quote-balance 1, accents 3, rare-forms 1, missing-stop 1 — tools@cfc7cfc0 2026-11-21 | 30/30; 0 real errors / 6 pages | first publication; spot-read of 41 pages and rendered look (Opus subagent) at 390 and 1280, EPUB nav |
 | 2 | 2026-11-22 | PASS, 0 to fix, 2 waived; to look at: hyphen-joins 4, folios 1, quote-balance 1, accents 3, rare-forms 4, serial-commas 1, missing-stop 1 — tools@ed86e62f 2026-11-22 | as v1 | A printer’s error of a dropped or transposed letter marked and corrected: “teritory” for “territory”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
+| 3 | 2026-11-22 | PASS, 0 to fix, 2 waived — tools@dc366c71 | as before | title page typed line by line as printed (from a `#` heading), checked on the scan; `01.html` looked at; no model calls |
 
 ## Known issues
 

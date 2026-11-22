@@ -370,3 +370,9 @@ goes to the to-do list for those sessions (`RESUME.md`).
   *Embassy to China*: side-notes are left out of the reading editions) they are in the JSON only, so the reading editions lose the dates of the
   entries; the book page says so. Should such side-notes be shown in the editions (for example as a small line or a run-in date at the start of
   the paragraph), for this book and others like it? Assumed for now: the standing rule; a new version can show them.
+- **An appendix page cut off in the only other scan** (*Through Atolls and Islands in the Great South Sea*, Moss, 1889; 2026-11-22). The
+  Toronto scan lacks p. 122 (narrative) and pp. 284–287 (the end of Appendix A, the start of Appendix B). The Google scan supplies pp. 122,
+  284, 285 and 287, but p. 286, the first page of Appendix B (a circular sent to the Fiji settlers in 1870), is curled at the fold: the right
+  third of each of its 30 or so lines is lost. Publish with that page marked as incomplete in the scan (`[[gap]]`, said in `notes_on_text`),
+  or leave the book aside? Set to `waiting` meanwhile; the narrative itself would be complete.
+

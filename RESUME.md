@@ -41,9 +41,7 @@ next piece is whatever now comes first here.
    (no `#`; each printed line or phrase a `[[center]]` paragraph, capitals as printed; `[[right]]` where set
    right), check every word on the image, look at `01.html` in the build, and publish as a new version ("Title
    page typed line by line as printed"). Strike a book from this list when done:
-   corona-and-coronet-todd, eastern-seas-bax,
-   eastern-shores-adriatic-strangford, embassy-to-china-staunton (both volumes), japan-a-sailors-visit-cook,
-   journey-through-the-caucasus-mounsey, land-of-mosques-greville-nugent, land-of-the-tatami-murray,
+   embassy-to-china-staunton (both volumes), land-of-mosques-greville-nugent, land-of-the-tatami-murray,
    mongolia-siberia-sheepshanks, nile-without-dragoman-eden, summer-greetings-from-japan-sheldon,
    trans-caspia-shoemaker, via-rhodesia-mansfield, woman-alone-in-the-heart-of-japan-fisher,
    womans-trip-to-alaska-collis, yachting-cruise-wood, zephyrus-edgcumbe.

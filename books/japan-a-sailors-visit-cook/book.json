@@ -1,6 +1,6 @@
 {
  "id": "japan-a-sailors-visit-cook",
- "version": 2,
+ "version": 3,
  "date": "2026-11-22",
  "title": "Japan",
  "subtitle": "A Sailor’s Visit to the Island Empire",
@@ -38,6 +38,11 @@
    "version": 2,
    "date": "2026-11-22",
    "note": "A printer’s error of a dropped or transposed letter marked and corrected: “clebrated” for “celebrated”."
+  },
+  {
+   "version": 3,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "divisions": [
@@ -103,7 +108,7 @@
   "Quotation marks follow modern practice: in a quotation of more than one paragraph each paragraph opens with a quotation mark (page 116)."
  ],
  "audit": {
-  "version": 2,
+  "version": 3,
   "date": "2026-11-20",
   "pages": 6,
   "recall": "30/30",

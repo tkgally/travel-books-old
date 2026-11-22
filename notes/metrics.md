@@ -142,6 +142,11 @@
 | Cordillera and Pampa v1 | 2026-11-22 | 296 (+2 leaves from another scan) | Opus draft (1 page refused: fallback) → Sonnet corrections (13 word spots) → Opus judge; scan check, spot-reads (errata, front matter, the fallback page, tables) by subagents | 16 | 15 / 1 / 0 (1 could not undo) | 0 | 32.60 | 0 | PASS, 1 waived | 29/30 + 4/4; 0 / 7 (spot-reads: 3 and 24 printed errors incl. the 12 errata) || 1 printed misprint unmarked (“th”, p. 2; a reader, issue #169) |
 | Cordillera and Pampa v2 | 2026-11-22 | – | (no new model calls; printer’s error marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 1 waived | as v1 | |
 | The Bridal and the Bridle v2 | 2026-11-22 | – | (no new model calls; printer’s error marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v1 | |
+| Corona and Coronet v5 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS, 0 to fix, 2 waived | as before | |
+| The Eastern Seas v3 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS, 0 to fix, 2 waived | as before | |
+| The Eastern Shores of the Adriatic v2 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as before | |
+| Japan: A Sailor’s Visit v3 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as before | |
+| A Journey through the Caucasus and the Interior of Persia v4 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as before | |
 
 ## Calibrations
 

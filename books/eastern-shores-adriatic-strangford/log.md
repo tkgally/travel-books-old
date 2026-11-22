@@ -44,6 +44,7 @@ Book picture: the title page (p0005; the cover has no title).
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-22 | PASS, 0 waived (tools@d67dcc4b) | 30/30, 0 real / 6 pages | spot-read: 4 fixes (an italic, a drop capital, a ditto, a misprint); accents: 1 stray grave; rendered look: a caption stop |
+| 2 | 2026-11-22 | PASS, 0 to fix, 0 waived — tools@dc366c71 | as before | title page typed line by line as printed (from a `#` heading), checked on the scan; `01.html` looked at; no model calls |
 
 ## Known issues
 - Verse indentation is not kept; the paragraph after the verse on p. 77 starts a new paragraph.

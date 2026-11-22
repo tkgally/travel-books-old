@@ -199,8 +199,8 @@
    "checked": "2026-11-19",
    "eligibility": "Checked 2026-11-19: not in the Project Gutenberg catalogue, The Online Books Page (page images only, if listed), Wikisource or Faded Page; only print-on-demand reprints found. Not checked: WorldCat, Distributed Proofreaders in progress. Reprints seen: Creative Media (print on demand). Re-checked 2026-11-19 before starting: same result (Online Books Page: IA scan only; General Books 2009 is a print-on-demand OCR reprint; one chapter as a PDF on nefas.org, a brief excerpt). Arthur Curtiss James (one chapter) 1867–1941. One drawing by E. A. Thompson (death date unknown, young in 1896) is left out of the editions.",
    "note": "University of California scan (another: coronacoronetbei00todd). Many plates.",
-   "version": 4,
-   "published": "2026-11-21"
+   "version": 5,
+   "published": "2026-11-22"
   },
   {
    "order": 11,
@@ -326,7 +326,7 @@
    "eligibility": "JATSI 40. Four of five. Rule 1: Cornell scan (Kirtas, greyscale), clean and sharp. Rule 2: no text elsewhere (Wikisource has an author page only). Rule 3 NOT met: facsimile in Ganesha / Edition Synapse 'Japan in English', 2nd series vol. 32 (2004; National Diet Library catalogue), and Elibron (2002). Rule 4: first-person narrative of his command of a survey gun-vessel, 1871–74; about a third on Japan, the rest China, Formosa and the Siberian coast; chapter II is a compiled history of Formosa. Rule 5: Bonham Ward Bax 1837–1877 (AIM25). Searched 2026-11-20 (Opus subagent, sample checked): Project Gutenberg catalogue, The Online Books Page, Wikisource (title search; the API was rate-limited at times), a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse 'Japan in English'. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 no longer applies to JATSI books (Tom, 2026-11-20); the dates are kept for the record.",
    "note": "x + 287 pp.; 13 woodcuts (no artist named) and a map: look at how the map was scanned; few footnotes; Murray's advertisements at the end.",
    "started": "2026-11-21",
-   "version": 2,
+   "version": 3,
    "published": "2026-11-22"
   },
   {
@@ -426,7 +426,7 @@
    "eligibility": "JATSI 83. All five rules met, rule 4 in part. Rule 1: Brigham Young University scan, colour 400 ppi, clean. Rules 2, 3: no text elsewhere; print-on-demand only. Rule 4: a ship's captain's two visits in 1889 with his wife and daughter, first-hand in part and in part compiled (legends, history, the Constitution summarized), as his introduction says. Rule 5: 'M. B. C., Friendship, Maine' is very probably Melville Bradford Cook (1838–1927; VIAF; listed aged 52 at Friendship in 1892); no source joins the name to this book in so many words, but on either reading the author was born before 1856 (rule 5, unknown death). Searched 2026-11-20 (Opus subagent, sample checked): Project Gutenberg catalogue, The Online Books Page, Wikisource (title search; the API was rate-limited at times), a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse 'Japan in English'. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 no longer applies to JATSI books (Tom, 2026-11-20); the dates are kept for the record. Re-checked 2026-11-20 (session): a web search of the title finds the 1891 edition, a print-on-demand paperback and the Nichibun catalogue record; no text edition.",
    "note": "About 144 pp., 14 chapters, no illustrations listed; proverbs in smaller type. Put the identification of the author in notes_on_text as probable, not as fact.",
    "started": "2026-11-20",
-   "version": 2,
+   "version": 3,
    "published": "2026-11-22"
   },
   {
@@ -781,8 +781,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent; Gutenberg re-checked by the session): not in pg_catalog.csv; The Online Books Page: HathiTrust page images only; no Wikisource hits; web search of a distinctive sentence found nothing. Reprints: Kessinger 2008 and a buecher.de facsimile (print on demand). Author 1834–1882 (Online Books Page; DAI catalogue). Not checked: WorldCat. Re-checked 2026-11-20 at the start: not in pg_catalog.csv; a web search of the title finds catalogue records, booksellers and the Kessinger print-on-demand reprint only.",
    "note": "University of Toronto scan, 500 ppi; one folding map, no other illustrations; running heads give the topic of the page. A British diplomat through Georgia and the Caucasus in winter to Tehran, an audience with the Shah, a ride into the southern provinces (1860s).",
    "started": "2026-11-20",
-   "version": 3,
-   "published": "2026-11-21"
+   "version": 4,
+   "published": "2026-11-22"
   },
   {
    "order": 42,
@@ -1015,7 +1015,7 @@
    "eligibility": "Checked 2026-11-21 (Opus subagent): PG catalogue: none. Online Books Page: page images only (Google, IA, HathiTrust). Wikisource: no work or Index page. Faded Page: web search only, nothing. Web search of the title and of a sentence from the middle: no text found. Reprints: Kessinger 2010, Legare Street 2023 and an Antigonos listing (not confirmed whether a scan reprint; check before starting). Lady Strangford d. 1887 (ODNB); Percy Smythe, 8th Viscount Strangford, 1826-1869 (DNB). Re-checked 2026-11-21 (session): web search finds only the IA and HathiTrust scans, catalogue records and the Kessinger (2010) and Legare Street (2023) print-on-demand reprints; no Antigonos edition found; Project Gutenberg's search was unavailable (503), the earlier check found none.",
    "note": "Trent University copy scanned by IA, 300 ppi, JP2 zip (the other IA copies are Google scans). Text 386 pp. 5 lithograph plates. Southern Albania (Ioannina), Ragusa, three days at the Montenegrin court at Cetinje, and Dalmatia. Her husband's political chapters (II, V, VII) fill about a third of the book.",
    "started": "2026-11-21",
-   "version": 1,
+   "version": 2,
    "published": "2026-11-22"
   },
   {
@@ -1236,10 +1236,11 @@
    "place": "London",
    "publisher": "L. Booth",
    "images": 324,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv or Project Gutenberg Australia; The Online Books Page: HathiTrust page images only; Wikisource: only entries on her brother; web search of a sentence: nothing. Open Library: 1862, print on demand (Creative Media 2023, Legare Street 2023). Rule 5: death date not found; she spent about 1858–61 in Melbourne as an adult in society, visiting her brother Butler Cole Aspinall (1830–1875), so born before about 1840. Not checked: Faded Page (script-only search), WorldCat, Trove.",
-   "note": "University of California scan, 600 ppi, plain text, no plates seen. Arrival and first impressions of Melbourne (society, servants, prices, churches, children); a coach trip up-country to Avoca, Castlemaine, Kyneton and Mount Macedon; Chinese diggers; the voyage home past icebergs. Chatty and observant. One chapter of emigrant advice."
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv or Project Gutenberg Australia; The Online Books Page: HathiTrust page images only; Wikisource: only entries on her brother; web search of a sentence: nothing. Open Library: 1862, print on demand (Creative Media 2023, Legare Street 2023). Rule 5: death date not found; she spent about 1858–61 in Melbourne as an adult in society, visiting her brother Butler Cole Aspinall (1830–1875), so born before about 1840. Not checked: Faded Page (script-only search), WorldCat, Trove. Re-checked 2026-11-22: web search of the title: no online text, no new edition (AustLit has a record only).",
+   "note": "University of California scan, 600 ppi, plain text, no plates seen. Arrival and first impressions of Melbourne (society, servants, prices, churches, children); a coach trip up-country to Avoca, Castlemaine, Kyneton and Mount Macedon; Chinese diggers; the voyage home past icebergs. Chatty and observant. One chapter of emigrant advice.",
+   "started": "2026-11-22"
   },
   {
    "order": 68,
@@ -1266,10 +1267,11 @@
    "place": "London",
    "publisher": "Sampson Low, Marston, Searle, & Rivington",
    "images": 380,
-   "status": "queued",
+   "status": "waiting",
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page: HathiTrust page images only; Wikisource: only his Dictionary of Australasian Biography entry; web search of a sentence: nothing. Open Library and web: print on demand only (Creative Media, Forgotten Books). Moss 1827/28–1904 (DNZB). Photographs by Thomas Andrew (1855–1939). Not checked: WorldCat.",
-   "note": "Toronto (Robarts) scan, 400 ppi, plain layout; some photographs (count not checked). A New Zealand MP's seven-month voyage in 1886–87 in the trading schooner Buster: Niue, Christmas Island, Suwarrow, Manihiki, the Marshalls and Jaluit; traders, a French ex-soldier, King Aporo, native missionaries; opinions on mission rule. Some passages on coral formation."
+   "note": "Toronto (Robarts) scan, 400 ppi, plain layout; some photographs (count not checked). A New Zealand MP's seven-month voyage in 1886–87 in the trading schooner Buster: Niue, Christmas Island, Suwarrow, Manihiki, the Marshalls and Jaluit; traders, a French ex-soldier, King Aporo, native missionaries; opinions on mission rule. Some passages on coral formation.",
+   "waiting_for": "Tom: an exception? The Toronto scan lacks p. 122 (a plate leaf counted in its place) and pp. 284–287 (Appendix A end, Appendix B start). The only other IA scan (throughatollsan00mossgoog, Google) has pp. 122, 284, 285 and 287 whole, and a folding map of the Pacific (not in the Toronto copy), but p. 286 (the opening of Appendix B, a planters’ circular of 1870) is curled at the fold and the right third of every line is lost. Checked 2026-11-22."
   },
   {
    "order": 70,

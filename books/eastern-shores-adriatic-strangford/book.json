@@ -1,6 +1,6 @@
 {
  "id": "eastern-shores-adriatic-strangford",
- "version": 1,
+ "version": 2,
  "date": "2026-11-22",
  "title": "The Eastern Shores of the Adriatic in 1863",
  "subtitle": "With a Visit to Montenegro",
@@ -50,6 +50,11 @@
    "version": 1,
    "date": "2026-11-22",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "frontispiece": "p0004-1",
@@ -93,11 +98,12 @@
   "p0055"
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-22",
   "pages": 6,
   "recall": "30/30",
   "real_errors": 0,
-  "fixed": 0
+  "fixed": 0,
+  "note": "text unchanged except listed fixes"
  }
 }
