@@ -33,7 +33,7 @@
  "period": "1871–1872",
  "summary": [
   "Rose Kingsley (1845–1925), a daughter of Charles Kingsley, who edited the book and wrote its preface, crossed the Atlantic in the autumn of 1871 with the family of the Dean of Chester, who was attending the Episcopal Church Convention at Baltimore. She then went west by rail to join her brother in Colorado and spent the winter of 1871–72 at Colorado Springs, a new town at the foot of Pike’s Peak: its building and settlers, housekeeping in a shanty, rides into the cañons.",
-  "In the spring of 1872 she went by the Pacific Railroad to San Francisco and by steamer to Manzanillo, and travelled by coach and on horseback through Colima, Guadalajara and Querétaro to the city of Mexico during a revolt against the government, and on to Vera Cruz. Most of the book is letters and journal entries. Two chapters describe the resources of Colorado and of Mexico."
+  "In the spring of 1872 she went by the Pacific Railroad to San Francisco and by steamer to Manzanillo, and travelled by coach and on horseback through Colima, Guadalajara, and Querétaro to the city of Mexico during a revolt against the government, and on to Vera Cruz. Most of the book is letters and journal entries. Two chapters describe the resources of Colorado and of Mexico."
  ],
  "source": {
   "ia_identifier": "southbywestorwin00king",
@@ -58,7 +58,7 @@
   {
    "version": 2,
    "date": "2026-11-20",
-   "note": "Four paragraphs that an engraving interrupts in mid-sentence (printed pages 51, 74, 90 and 198) were shown as two paragraphs each; each is now one."
+   "note": "Four paragraphs that an engraving interrupts in mid-sentence (printed pages 51, 74, 90, and 198) were shown as two paragraphs each; each is now one."
   },
   {
    "version": 3,
@@ -108,9 +108,9 @@
   }
  ],
  "frontispiece": "p0006-1",
- "omitted_from_reading": "The title page and its verso, the printed contents, the list of illustrations and the publisher’s advertisement are in the JSON only.",
+ "omitted_from_reading": "The printed contents, the list of illustrations, and the publisher’s advertisement are in the JSON only.",
  "notes_on_text": [
-  "Printed pages 48, 81 and 161 were first read by an OCR program (Tesseract), because the Claude models would not transcribe them; that reading was corrected against the page images by a Claude model and then proofread like the other pages.",
+  "Printed pages 48, 81, and 161 were first read by an OCR program (Tesseract), because the Claude models would not transcribe them; that reading was corrected against the page images by a Claude model and then proofread like the other pages.",
   "The printed contents lists the topics of each chapter; the same lists are printed at the head of each chapter, where these editions keep them. The contents of these editions give the number and title of each chapter.",
   "The table of Western coals on printed page 142 is printed sideways, with its key below in columns with ditto marks; here the key is a small table, with the ditto marks as printed."
  ],

@@ -164,7 +164,11 @@ mkdir -p $W/pages && cp $W/judge/p*.txt $W/pages/
 - Headings: one `#` per main division, matched against the printed contents; chapter summaries as
   `[[subtitle]]`; running heads gone. Models choose heading levels page by page: make them consistent.
 - `book.json` `divisions`: front matter, title page, contents, list of illustrations, index, advertisements
-  (kinds and which are left out of the reading editions: `style.md`).
+  (kinds and which are left out of the reading editions: `style.md`). **The title page is the first page of the
+  editions** (Tom, 2026-11-22): give it kind `titlepage` (its verso goes with it), check its page file against the
+  scan line by line (every printed line or phrase a `[[center]]` paragraph, capitals as printed; `[[right]]` where
+  set right), and give every `#` heading before the first chapter its kind (preface, introduction …), since the
+  picture on the book's page links to the first `chapter` (`book-json.md`). Look at `01.html` in the build.
 - **Contents** (Tom, 2026-11-19, `preferences.md`): decided book by book, the same in the web pages, EPUB and
   ODT. Follow the printed contents; deviate where a reader of the digital edition is better served. Compile and
   print the entries (`python3 -c "import json,sys; sys.path.insert(0,'$R/tools'); import compile_book,
@@ -175,6 +179,10 @@ mkdir -p $W/pages && cp $W/judge/p*.txt $W/pages/
   - neither too many nor too few: a long text with one entry (a diary, a journal, one long chapter) gets
     entries of the editor's, about one per 5–10 printed pages, at natural breaks: spans of dates and the places
     visited (`toc_entries`); sections the printed contents lists (appendices) get its titles (`"editor": false`);
+  - a long division with such entries (over 50,000 characters) is **split**: each entry is a page of its own in the
+    web pages and the EPUB and starts a page in the ODT, under its title (Tom, 2026-11-22; `style.md` §Editions).
+    Choose the entries as pages: each of a comfortable length (about 5–15 printed pages), beginning at a paragraph
+    where a reader could start, with a title that says what it covers. Look at two of the pages in the build;
   - parts nest their chapters; a part title with only a subtitle is still a part.
   Say in `notes_on_text` what the contents add to the print, and in the log what was decided and why.
 - Page joins: preflight's `joins` and `hyphen-joins` lists; `keep_hyphens` for real compounds.

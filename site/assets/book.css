@@ -35,9 +35,17 @@
 .book a.noteref { font-size: 0.75em; vertical-align: super; line-height: 0; text-decoration: none; padding: 0 0.1em; }
 .book a.noteback { text-decoration: none; }
 .book a.pageref { color: inherit; }
+/* The book's title page, transcribed (the first page of the reading editions), and the EPUB's page about the edition:
+   every line centred unless the page files say flush right; the verso (imprint) is set apart. */
 .book .titlepage { text-align: center; }
 .book .titlepage h1 { margin-top: 3em; }
-.book .titlepage p { text-indent: 0; text-align: center; }
+.book .titlepage p { text-indent: 0; text-align: center; margin: 0.8em 0; -webkit-hyphens: none; hyphens: none; }
+.book .titlepage p.right { text-align: right; }
+.book .titlepage p.subtitle { font-size: 1em; margin: 0.8em 0; }
+.book .titlepage .tp-verso { height: 5em; page-break-before: always; break-before: page; }
+/* The title of a section made for this edition, where the book has no division (a diary, a run of letters) */
+h2.added, .book h2.added { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif; font-size: 1.05em;
+  font-style: italic; font-weight: normal; text-align: center; margin: 2em 0 1.2em 0; border: 0; padding: 0; }
 .book .tp-sub { font-size: 1.05em; margin: 0 1em 2em 1em; }
 .book .tp-author { font-size: 1.15em; margin: 2em 0; }
 .book .tp-imprint { margin: 2em 0 4em 0; }

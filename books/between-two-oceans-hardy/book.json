@@ -50,7 +50,7 @@
   "Canada"
  ],
  "period": "1881–83",
- "summary": "Iza Duffus Hardy, an English novelist, travelled in the United States and Canada in the early 1880s with a companion (“we”), and this book collects her sketches of the journey, each a separate piece rather than one continuous narrative. It begins with the Atlantic crossing by steamer, Quebec and Niagara, and New York in summer heat, in the mourning for President Garfield in 1881, on Blackwell’s Island and in the sleighing season. It goes on by rail to Salt Lake City, San Francisco (Chinatown, the Chinese New Year, the redwoods) and back across the Sierras to Colorado, and then to Washington, Richmond, Charleston and Fort Sumter in 1883, Georgia and Florida, ending on a river steamer on the Ocklawaha. The period is inferred from events named in the text.",
+ "summary": "Iza Duffus Hardy, an English novelist, travelled in the United States and Canada in the early 1880s with a companion (“we”), and this book collects her sketches of the journey, each a separate piece rather than one continuous narrative. It begins with the Atlantic crossing by steamer, Quebec and Niagara, and New York in summer heat, in the mourning for President Garfield in 1881, on Blackwell’s Island, and in the sleighing season. It goes on by rail to Salt Lake City, San Francisco (Chinatown, the Chinese New Year, the redwoods), and back across the Sierras to Colorado, and then to Washington, Richmond, Charleston and Fort Sumter in 1883, Georgia and Florida, ending on a river steamer on the Ocklawaha. The period is inferred from events named in the text.",
  "divisions": [
   {
    "at": "p0007",
@@ -83,7 +83,7 @@
    "kind": "advertisements"
   }
  ],
- "omitted_from_reading": "The half-title, the title page and its back, the printed contents, the book title repeated above the first chapter and the publishers’ advertisements are in the JSON only.",
+ "omitted_from_reading": "The half-title, the back of the title page, the printed contents, the book title repeated above the first chapter, and the publishers’ advertisements are in the JSON only.",
  "toc_entries": [
   {
    "at": "p0072",

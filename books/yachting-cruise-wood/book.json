@@ -26,7 +26,7 @@
   "Tuvalu"
  ],
  "period": "1873",
- "summary": "In 1873 C. F. Wood, who had made several earlier voyages in the South Seas, bought a ninety-two-ton schooner at Auckland and sailed in her for eight months among the islands, with a photographer, George Smith, and a crew of Pacific islanders. He went by Rotumah, Futuna, Samoa and Fiji to the New Hebrides and the Solomons, then north to Bonabi (Ponape) and Strong’s Island (Kosrae) in the Carolines, the Marshall Islands and the Ellice Islands, returning to Auckland in December. He writes about trading, canoes, chiefs and customs, the stone ruins at Bonabi, beachcombers and traders, the missions, of which he is often critical, and the labour traffic to Fiji. The six plates are photographs from the voyage.",
+ "summary": "In 1873 C. F. Wood, who had made several earlier voyages in the South Seas, bought a ninety-two-ton schooner at Auckland and sailed in her for eight months among the islands, with a photographer, George Smith, and a crew of Pacific islanders. He went by Rotumah, Futuna, Samoa, and Fiji to the New Hebrides and the Solomons, then north to Bonabi (Ponape) and Strong’s Island (Kosrae) in the Carolines, the Marshall Islands, and the Ellice Islands, returning to Auckland in December. He writes about trading, canoes, chiefs and customs, the stone ruins at Bonabi, beachcombers and traders, the missions, of which he is often critical, and the labour traffic to Fiji. The six plates are photographs from the voyage.",
  "source": {
   "ia_identifier": "yachtingcruisein00wood",
   "contributor": "Getty Research Institute",
@@ -35,7 +35,7 @@
    261
   ]
  },
- "omitted_from_reading": "The publisher’s list at the front, the half-title, title page, list of illustrations and the book title above Chapter I are in the JSON only.",
+ "omitted_from_reading": "The publisher’s list at the front, the half-title, list of illustrations, and the book title above Chapter I are in the JSON only.",
  "notes_on_text": [
   "No contents are printed and the chapters have numbers only: the contents entries are the editor’s, with the places and dates of each chapter.",
   "The six photographs are by George Smith, who sailed with the author as photographer (Preface).",
@@ -84,7 +84,7 @@
   {
    "at": "p0038",
    "kind": "chapter",
-   "toc_title": "Chapter II. Rotumah: chiefs, customs, tombs and stories; May 1873"
+   "toc_title": "Chapter II. Rotumah: chiefs, customs, tombs, and stories; May 1873"
   },
   {
    "at": "p0062",
@@ -109,12 +109,12 @@
   {
    "at": "p0204",
    "kind": "chapter",
-   "toc_title": "Chapter VII. Strong’s Island, Namarik and the Mulgrave Islands; October–November 1873"
+   "toc_title": "Chapter VII. Strong’s Island, Namarik, and the Mulgrave Islands; October–November 1873"
   },
   {
    "at": "p0238",
    "kind": "chapter",
-   "toc_title": "Chapter VIII. Nukufatau, Rotumah and back to Auckland; November–December 1873"
+   "toc_title": "Chapter VIII. Nukufatau, Rotumah, and back to Auckland; November–December 1873"
   }
  ],
  "frontispiece": "p0014-1",

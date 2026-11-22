@@ -24,8 +24,8 @@
  ],
  "period": "1882–1884",
  "summary": [
-  "Emily Pfeiffer (1827–1890), a Welsh-born poet, describes two journeys. In the autumn and winter of 1882–83 she stayed with relatives near Smyrna (now İzmir, Turkey), visited the harem of the former governor Midhat Pasha and made an excursion to Magnesia, then went on to Athens, where she writes at length about Greek sculpture, Greek drama and Plato’s view of women.",
-  "In September 1884 she and her husband landed at New York and travelled by rail through Saratoga, Montreal, Ottawa, Toronto and Niagara to Chicago, a German farming settlement in Wisconsin where his relatives lived, Colorado, Salt Lake City, San Francisco and the Yosemite Valley, returning east by St. Louis, Washington and Boston. The Salt Lake City chapters report conversations with Mormon women about polygamy. The last chapters are reflections on American society, the position of women, and race. The chapters are called “Leaves”."
+  "Emily Pfeiffer (1827–1890), a Welsh-born poet, describes two journeys. In the autumn and winter of 1882–83 she stayed with relatives near Smyrna (now İzmir, Turkey), visited the harem of the former governor Midhat Pasha and made an excursion to Magnesia, then went on to Athens, where she writes at length about Greek sculpture, Greek drama, and Plato’s view of women.",
+  "In September 1884 she and her husband landed at New York and travelled by rail through Saratoga, Montreal, Ottawa, Toronto, and Niagara to Chicago, a German farming settlement in Wisconsin where his relatives lived, Colorado, Salt Lake City, San Francisco, and the Yosemite Valley, returning east by St. Louis, Washington, and Boston. The Salt Lake City chapters report conversations with Mormon women about polygamy. The last chapters are reflections on American society, the position of women, and race. The chapters are called “Leaves”."
  ],
  "source": {
   "ia_identifier": "flyingleavesfrom00pfeirich",
@@ -91,7 +91,7 @@
   {
    "at": "p0098",
    "kind": "chapter",
-   "toc_title": "Leaf II. Montreal, Ottawa, Toronto, Niagara and Chicago"
+   "toc_title": "Leaf II. Montreal, Ottawa, Toronto, Niagara, and Chicago"
   },
   {
    "at": "p0114",
@@ -101,7 +101,7 @@
   {
    "at": "p0126",
    "kind": "chapter",
-   "toc_title": "Leaf IV. West to Denver, Colorado Springs and Manitou"
+   "toc_title": "Leaf IV. West to Denver, Colorado Springs, and Manitou"
   },
   {
    "at": "p0138",
@@ -184,7 +184,7 @@
   "Travel in the United States and Canada",
   "Mormon women"
  ],
- "omitted_from_reading": "The half-title, the title page and its verso are in the JSON only.",
+ "omitted_from_reading": "The half-title is in the JSON only.",
  "keep_hyphens": [
   "p0176"
  ],

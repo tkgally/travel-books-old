@@ -59,6 +59,8 @@ CHECKS = collections.OrderedDict([
     ("accents",         ("observe", "words the book spells with different accents (or with and without): look at each group on the scan")),
     ("misprints",       ("observe", "common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan")),
     ("rare-forms",      ("observe", "words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan")),
+    ("title-page",      ("observe", "the reading editions do not begin with the book's title page (divisions: kind \"titlepage\")")),
+    ("serial-commas",   ("observe", "book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)")),
     ("missing-stop",    ("observe", "a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan")),
     ("images",          ("enforce", "image files not used by any page")),
     ("source",          ("enforce", "source.json: the Drive cache of the page images is recorded")),
@@ -152,6 +154,9 @@ def html_streams(docs):
 
 T = "{urn:oasis:names:tc:opendocument:xmlns:text:1.0}"
 SKIP_STYLES = {"Title", "Subtitle", "Author", "Imprint", "Edition_20_Note", "Section_20_Break", "VerseEnd",
+               # the title of a section made for this edition (render_html.split_division): not book text; it
+               # stands outside <article> on the web and outside <section> in the EPUB
+               "Added_20_Heading",
                # the generated contents list after the title page (render_odt.contents): not book text
                "Contents_20_Heading", "Contents_20_1", "Contents_20_2", "Contents_20_3"}
 
@@ -622,7 +627,7 @@ def check_image_splits(book):
     """Review 2026-11-20 (*South by West* v1: four paragraphs split mid-sentence by an engraving)."""
     items = []
     for d in book["divisions"]:
-        if not d.get("reading"):
+        if not d.get("reading") or d.get("kind") == "titlepage":   # a title page's lines are not sentences
             continue
         last, pic = None, False   # the last paragraph; whether only pictures have stood since it
         for b in d["blocks"]:
@@ -740,6 +745,32 @@ def check_site_text(cfg):
     return items
 
 
+SERIAL = re.compile(r",\s[^,;:.()—–“”]{1,60}?\s(?:and|or)\s")
+
+
+def check_serial_commas(cfg):
+    """Tom, 2026-11-22: text written for the site has the comma before the last "and" or "or" of a list of three
+    or more. Lists every place where a comma is followed, before the next comma or stop, by "and"/"or": most are
+    lists; a pair after a comma ("In 1870, he sailed and returned") is not, and is left."""
+    items = []
+    fields = [(k, x) for k in ("summary", "notes_on_text", "omitted_from_reading")
+              for x in (cfg.get(k) if isinstance(cfg.get(k), list) else [cfg.get(k)] if cfg.get(k) else [])]
+    fields += [(f"toc_entries {e.get('at')}", e["title"]) for e in cfg.get("toc_entries", []) if e.get("title") and e.get("editor", True)]
+    for where, x in fields:
+        for m in SERIAL.finditer(x if isinstance(x, str) else ""):
+            items.append(f"book.json {where}: …{x[max(0, m.start() - 30):m.end() + 20]}…")
+    return items[:40]
+
+
+def check_title_page(book):
+    """Tom, 2026-11-22: the title page is the first page of the reading editions."""
+    rd = [d for d in book["divisions"] if d.get("reading")]
+    if rd and rd[0]["kind"] != "titlepage":
+        return [f"the first division of the reading editions is {rd[0]['kind']} ({rd[0]['first_leaf']}): give the title page "
+                'a "divisions" entry of kind "titlepage" (the half-title and what else stands before it stay out)']
+    return []
+
+
 def check_meta(cfg, bookdir):
     items = []
     need = ("id", "version", "date", "title", "authors", "place", "publisher", "year", "regions", "summary", "source", "history")
@@ -804,6 +835,7 @@ def run(bookdir, epubcheck=None, skip_epubcheck=False, skip_odt=False, verbose=F
         epub_path, odt_path = os.path.join(bdir, slug + ".epub"), os.path.join(bdir, slug + ".odt")
         res["meta"] = check_meta(cfg, bookdir)
         res["site-text"] = check_site_text(cfg)
+        res["serial-commas"] = check_serial_commas(cfg)
         res["markup"] = check_markup(pages)
         res["accents"] = check_accents(pages)
         res["misprints"] = check_misprints(pages)
@@ -864,6 +896,7 @@ def run(bookdir, epubcheck=None, skip_epubcheck=False, skip_odt=False, verbose=F
         res["quote-balance"] = check_quote_balance(book)
         res["image-splits"] = check_image_splits(book)
         res["contents"] = check_contents(book)
+        res["title-page"] = check_title_page(book)
         res["links"] = check_links(tmp, slug, epub_path)
         res["wellformed"] = check_wellformed(tmp, slug, epub_path, odt_path)
         rd = rh.reading_divisions(book)

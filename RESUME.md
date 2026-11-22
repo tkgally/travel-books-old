@@ -33,6 +33,23 @@ next piece is whatever now comes first here.
    that is ready to publish comes first; then the one furthest along.
 2. **Open errata** that can be fixed without Tom (`notes/errata.md`): fix, republish that book as a new
    version, and do the follow-through that file asks for. Small ones can share a session with other work.
+   **Title pages typed as headings** (to do, from Tom's change of 2026-11-22; small work, up to five books a
+   session, alongside other work, until the list is empty): the title page is now the first page of every
+   edition and is to read as printed. In these 22 books it was typed when it was left out of the editions, with
+   the title as a `#` heading in upper and lower case (some with `[[subtitle]]`): fetch the title-page leaf and
+   its verso from the Drive cache (`tools/drive_cache.py`), retype the page as `prompts/_format.md` now says
+   (no `#`; each printed line or phrase a `[[center]]` paragraph, capitals as printed; `[[right]]` where set
+   right), check every word on the image, look at `01.html` in the build, and publish as a new version ("Title
+   page typed line by line as printed"). Strike a book from this list when done:
+   argentine-plains-larden, around-the-world-through-japan-del-mar, autumn-tour-in-western-persia-durand,
+   between-two-oceans-hardy, by-fell-and-fjord-oswald, corona-and-coronet-todd, eastern-seas-bax,
+   eastern-shores-adriatic-strangford, embassy-to-china-staunton (both volumes), japan-a-sailors-visit-cook,
+   journey-through-the-caucasus-mounsey, land-of-mosques-greville-nugent, land-of-the-tatami-murray,
+   mongolia-siberia-sheepshanks, nile-without-dragoman-eden, summer-greetings-from-japan-sheldon,
+   trans-caspia-shoemaker, via-rhodesia-mansfield, woman-alone-in-the-heart-of-japan-fisher,
+   womans-trip-to-alaska-collis, yachting-cruise-wood, zephyrus-edgcumbe.
+   While there, read the other 32 title pages in the build once against their scans when a session has the
+   leaf at hand for another reason; they were typed line by line but were never looked at as pages of the editions.
 3. **A `waiting` book** whose question Tom has answered (`notes/preferences.md`, the queue row, the book log).
    A book Tom set aside to "try again in the future" (`waiting_for` in its queue row) is taken up again once
    at least two other books have been published since (assumed), or sooner if he says so.
@@ -67,10 +84,16 @@ every finished piece of work and every checkpoint**, and write its line in the b
 
 | The meter says | Then |
 |---|---|
-| under **40%**, never summarized | take the next piece of work from §2, a new book included |
-| **40% to 60%**, never summarized | no new book. Finish the book in hand if it is at stage (c) or close to it; otherwise bring it to its next checkpoint. Small work that needs little reading may still be done (an erratum, vetting candidates by subagents) |
-| over **60%**, or summarized at any time | finish the step in hand, checkpoint, and close the session (§5) |
+| under **50%**, never summarized | take the next piece of work from §2, a new book included |
+| **50% to 65%**, never summarized | no new book. Finish the book in hand if it is at stage (c) or close to it; otherwise bring it to its next checkpoint. Small work that needs little reading may still be done (an erratum, vetting candidates by subagents) |
+| over **65%**, or summarized at any time | finish the step in hand, checkpoint, and close the session (§5) |
 
+- The figures were 40% and 60% until 2026-11-22, when Tom asked for 50% or 60% if accuracy is in no danger. They
+  are safe because the reading that decides accuracy (drafts, corrections, judge, audit, spot-reads) is done by
+  headless calls and subagents that start empty, not in this conversation. What a full conversation risks is the
+  session's own judgement late on (structure, contents, the checks of candidates on crops): so above 50% do not
+  skip or shorten a step of `workflow.md`, and the reviews compare the books begun above 40% with the earlier ones
+  (`notes/improvement.md`); if their audits or errata are worse, go back to 40%.
 - **At least one piece of work is done in every session**, whatever the meter says at the start.
 - **No meter** (it finds no transcript): at most two books published or one long book advanced, then close.
 - **After a summary** the earlier conversation is gone from view: read this file's §4 and §5 and the book's log

@@ -46,7 +46,7 @@
   "Hawaii",
   "Diaries"
  ],
- "summary": "A diary of a spring journey to Japan made by the author and a woman companion, published in a limited edition in 1912; the year of the journey is not printed and was probably 1911. They cross Canada by the Canadian Pacific in February, sail to Honolulu, where Hawaii is described as an American territory, and on to Yokohama. In Japan they travel by the Inland Sea to Kobe and Kyoto, see the cherry dance, temples and gardens, go to Otsu and Karasaki and shoot the rapids at Arashiyama, and spend the cherry-blossom season in Tokyo, with an Easter service, Japanese hospitality and a view of Fujiyama, before sailing home across the Pacific. The book has twenty-one photographs, a Japanese print of the pine at Karasaki, and facsimiles of a dining-car menu, a theatre bill and a hotel bill.",
+ "summary": "A diary of a spring journey to Japan made by the author and a woman companion, published in a limited edition in 1912; the year of the journey is not printed and was probably 1911. They cross Canada by the Canadian Pacific in February, sail to Honolulu, where Hawaii is described as an American territory, and on to Yokohama. In Japan they travel by the Inland Sea to Kobe and Kyoto, see the cherry dance, temples, and gardens, go to Otsu and Karasaki and shoot the rapids at Arashiyama, and spend the cherry-blossom season in Tokyo, with an Easter service, Japanese hospitality, and a view of Fujiyama, before sailing home across the Pacific. The book has twenty-one photographs, a Japanese print of the pine at Karasaki, and facsimiles of a dining-car menu, a theatre bill, and a hotel bill.",
  "frontispiece": "p0012-1",
  "divisions": [
   {
@@ -81,7 +81,7 @@
    "n": 2
   }
  ],
- "omitted_from_reading": "The half-title, the limitation notice, the title page and its back, the printed contents and the book title repeated above Chapter I are in the JSON only; the frontispiece opens the reading editions.",
+ "omitted_from_reading": "The half-title, the limitation notice, the printed contents, and the book title repeated above Chapter I are in the JSON only; the frontispiece follows the title page.",
  "notes_on_text": [
   "The photographs are printed in decorative frames with a small chrysanthemum ornament below each; the editions show the photographs without the frames and ornaments. The facsimiles contain Japanese script, which is shown only in the pictures.",
   "Each chapter opens with a decorated initial, given here as an ordinary capital.",

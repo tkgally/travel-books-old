@@ -29,14 +29,14 @@
   "Buddhism"
  ],
  "summary": [
-  "John Williamson Palmer (1825–1906), a doctor from Baltimore, published this book without his name. In 1851–52 he went from Hong Kong by way of Singapore and Penang to Moulmein, and served as surgeon of the East India Company’s war steamer Phlegethon in the Second Anglo-Burmese War. He describes the British capture of Rangoon in April 1852, the Shwe Dagon pagoda, river fighting and convoys on the Irrawaddy, Pegu and Prome, and Burmese houses, monks, law, games, theatre and the lives of women. One chapter retells a Burmese story told to him. Five short appendices quote earlier writers, among them Ralph Fitch on the pagoda in the sixteenth century. Some dialogue is printed in pidgin English, and the book uses the period’s words for Burmese people and religion."
+  "John Williamson Palmer (1825–1906), a doctor from Baltimore, published this book without his name. In 1851–52 he went from Hong Kong by way of Singapore and Penang to Moulmein, and served as surgeon of the East India Company’s war steamer Phlegethon in the Second Anglo-Burmese War. He describes the British capture of Rangoon in April 1852, the Shwe Dagon pagoda, river fighting and convoys on the Irrawaddy, Pegu and Prome, and Burmese houses, monks, law, games, theatre, and the lives of women. One chapter retells a Burmese story told to him. Five short appendices quote earlier writers, among them Ralph Fitch on the pagoda in the sixteenth century. Some dialogue is printed in pidgin English, and the book uses the period’s words for Burmese people and religion."
  ],
  "source": {
   "ia_identifier": "goldendagon00palm",
   "contributor": "The Library of Congress"
  },
  "frontispiece": "p0009-1",
- "omitted_from_reading": "The title page, the printed contents, the two epigraphs facing page 1 with the half-title above Chapter I, and the publisher’s advertisements are in the JSON only; the engraved title opens the reading editions.",
+ "omitted_from_reading": "The printed contents, the two epigraphs facing page 1 with the half-title above Chapter I, and the publisher’s advertisements are in the JSON only; the engraved title follows the title page.",
  "notes_on_text": [
   "The engraved title page, the book’s only illustration, is placed at the start of the reading editions.",
   "The contents entries give each chapter’s summary as the printed contents has it."

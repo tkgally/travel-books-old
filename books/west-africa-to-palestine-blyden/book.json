@@ -58,7 +58,7 @@
   "Holy Land",
   "Pilgrimage"
  ],
- "summary": "Edward W. Blyden, a scholar and Presbyterian minister born in the Danish West Indies who had settled in Liberia, left Monrovia in June 1866 to see Egypt and the Holy Land. The book is his journal of the journey, kept for friends at home: by steamer along the coast to Sherbro’, Sierra Leone and the Gambia, by Teneriffe and Madeira to Liverpool, some weeks in London (the House of Commons, a reading by Charles Dickens, a meeting of the Royal Geographical Society), then by the P. and O. line to Gibraltar, Malta and Alexandria. In Egypt he visits Cairo and the Pyramids, which he argues were built by ancient Negroes; then Beirut and Mount Lebanon, Jaffa, Jerusalem, Bethlehem and Bethany. The last chapter describes the religious sects of the Holy Land.",
+ "summary": "Edward W. Blyden, a scholar and Presbyterian minister born in the Danish West Indies who had settled in Liberia, left Monrovia in June 1866 to see Egypt and the Holy Land. The book is his journal of the journey, kept for friends at home: by steamer along the coast to Sherbro’, Sierra Leone, and the Gambia, by Teneriffe and Madeira to Liverpool, some weeks in London (the House of Commons, a reading by Charles Dickens, a meeting of the Royal Geographical Society), then by the P. and O. line to Gibraltar, Malta, and Alexandria. In Egypt he visits Cairo and the Pyramids, which he argues were built by ancient Negroes; then Beirut and Mount Lebanon, Jaffa, Jerusalem, Bethlehem, and Bethany. The last chapter describes the religious sects of the Holy Land.",
  "frontispiece": "p0006-1",
  "ornaments": [
   "p0015-1",
@@ -164,7 +164,7 @@
    "toc_title": "Chapter XII. Political and Religious Condition of the Holy Land—Description of the Principal Religious Sects—Conclusion."
   }
  ],
- "omitted_from_reading": "The title page with the printer’s imprint on its back, the printed contents and the half-title above Chapter I are in the JSON only.",
+ "omitted_from_reading": "The printed contents and the half-title above Chapter I are in the JSON only.",
  "notes_on_text": [
   "The chapters have no titles; the contents entries give each chapter’s topics as the printed contents lists them."
  ],

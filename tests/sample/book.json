@@ -39,9 +39,17 @@
  ],
  "divisions": [
   {
+   "at": "p0001",
+   "kind": "titlepage"
+  },
+  {
    "at": "p0003",
    "kind": "contents",
    "title": "Contents"
+  },
+  {
+   "at": "p0004",
+   "split": true
   },
   {
    "at": "p0010",
@@ -58,5 +66,17 @@
   "recall": "30/30",
   "real_errors": 0,
   "fixed": 0
- }
+ },
+ "toc_entries": [
+  {
+   "at": "p0004",
+   "starts": "“Shall we arrive",
+   "title": "The first morning: on the road"
+  },
+  {
+   "at": "p0006",
+   "starts": "The road is long",
+   "title": "The carrier’s song"
+  }
+ ]
 }

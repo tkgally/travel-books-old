@@ -62,6 +62,10 @@
    "kind": "front"
   },
   {
+   "at": "p0007",
+   "kind": "titlepage"
+  },
+  {
    "at": "p0009",
    "kind": "preface"
   },
@@ -90,7 +94,7 @@
   {
    "at": "p0013",
    "starts": "1883, May 1.",
-   "title": "1–20 May 1883: by sea from Bombay to Aden, Suez and Brindisi"
+   "title": "1–20 May 1883: by sea from Bombay to Aden, Suez, and Brindisi"
   },
   {
    "at": "p0022",
@@ -202,13 +206,13 @@
   "p0013-1"
  ],
  "summary": [
-  "Jehangir Hormusji Kothari (1857–1934), a Parsi merchant of Karachi, travelled round the world from May 1883 to March 1884 and printed this account of it in 1889 for private circulation. It is a diary of what he saw: by steamer from Bombay to Brindisi; London, Paris and a summer tour of Switzerland, Germany, the Low Countries, Austria and Italy; tours of Scotland, England and Ireland; New York, Boston, Washington, Canada, Chicago, Salt Lake City and San Francisco; then Japan, Shanghai, Hong Kong, Singapore and Penang, and home by way of Calcutta. Much of it describes buildings, galleries, factories and hotels, with notes on railways, prices and the people he met. Japan takes about twelve pages."
+  "Jehangir Hormusji Kothari (1857–1934), a Parsi merchant of Karachi, travelled round the world from May 1883 to March 1884 and printed this account of it in 1889 for private circulation. It is a diary of what he saw: by steamer from Bombay to Brindisi; London, Paris, and a summer tour of Switzerland, Germany, the Low Countries, Austria, and Italy; tours of Scotland, England, and Ireland; New York, Boston, Washington, Canada, Chicago, Salt Lake City, and San Francisco; then Japan, Shanghai, Hong Kong, Singapore and Penang, and home by way of Calcutta. Much of it describes buildings, galleries, factories, and hotels, with notes on railways, prices, and the people he met. Japan takes about twelve pages."
  ],
  "notes_on_text": [
   "Transcribed from the copy at the Boston Public Library (Internet Archive: impressionsoffir00koth). The book is one of three hundred copies printed.",
-  "The contents of these editions follow the sections printed in the text (Europe, the Scotch, British, Irish and American tours, Canada, the Eastern tour). Inside them, entries of the editor’s give the dates and places of the European journey and of the American tour; the entries Japan, China and Straits Settlement are from the printed contents, placed where those parts begin. The printed contents’ last entry, Portions of Northern India, has no place of its own in the text (the last two paragraphs)."
+  "The contents of these editions follow the sections printed in the text (Europe, the Scotch, British, Irish, and American tours, Canada, the Eastern tour). Inside them, entries of the editor’s give the dates and places of the European journey and of the American tour; the entries Japan, China, and Straits Settlement are from the printed contents, placed where those parts begin. The printed contents’ last entry, Portions of Northern India, has no place of its own in the text (the last two paragraphs)."
  ],
- "omitted_from_reading": "The covers, the half-title, the title page and the printed contents are in the JSON only.",
+ "omitted_from_reading": "The covers, the half-title, and the printed contents are in the JSON only.",
  "keep_hyphens": [
   "p0035",
   "p0148"

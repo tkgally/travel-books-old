@@ -42,6 +42,10 @@ No new book. Read `metrics.md`, `errata.md`, `lessons.md` and the last five book
 Benchmarks before changing models or pipeline: 12–16 pages of a published book whose text has been through
 audit and errata (the best ground truth available), `tools/score.py`, results in `metrics.md`.
 
+- **Since 2026-11-22 a session may start a book up to 50% of the context (before: 40%).** At each review, compare the
+  audits (recall, real errors) and the errata of the books begun above 40% (the context share after each book is in
+  `sessions.md`) with the earlier ones; if they are worse, put `RESUME.md` §3 back to 40% and 60% and tell Tom.
+
 ## Review log
 
 | Date | Books covered | What changed |

@@ -42,7 +42,7 @@
   "Sudan"
  ],
  "period": "1869–70",
- "summary": "Ordered south for his health in 1869, Frederic Eden and his wife spent the winter of 1869–70 on the Nile in the Lotus, a dahabeah hired from an acquaintance at Alexandria, and ran the voyage themselves instead of engaging a dragoman to do it for them. The book follows the journey from Alexandria by the canal and the Delta to Cairo, up the river by Minieh, Sioot, Keneh, Esné and Assouan to Philæ, through Nubia to Wadi Halfeh, and back down by the cataract, Thebes and Cairo. Alongside the temples, villages and river life it gives practical detail for other travellers of modest means: the stores brought from England, with a list, prices in the markets, money, wages, and dealings with the reis and crew. The last page puts the whole cost from Cairo and back at £60 a month.",
+ "summary": "Ordered south for his health in 1869, Frederic Eden and his wife spent the winter of 1869–70 on the Nile in the Lotus, a dahabeah hired from an acquaintance at Alexandria, and ran the voyage themselves instead of engaging a dragoman to do it for them. The book follows the journey from Alexandria by the canal and the Delta to Cairo, up the river by Minieh, Sioot, Keneh, Esné, and Assouan to Philæ, through Nubia to Wadi Halfeh, and back down by the cataract, Thebes, and Cairo. Alongside the temples, villages, and river life it gives practical detail for other travellers of modest means: the stores brought from England, with a list, prices in the markets, money, wages, and dealings with the reis and crew. The last page puts the whole cost from Cairo and back at £60 a month.",
  "divisions": [
   {
    "at": "p0003",
@@ -71,7 +71,7 @@
    "n": 2
   }
  ],
- "omitted_from_reading": "The half-title, the title page and its back, the printed contents and the book title repeated above Chapter I are in the JSON only.",
+ "omitted_from_reading": "The half-title, the printed contents, and the book title repeated above Chapter I are in the JSON only.",
  "subjects": [
   "Nile River",
   "Dahabeahs",

@@ -56,6 +56,8 @@ STYLES = f"""<?xml version="1.0" encoding="UTF-8"?>
 {pstyle("Heading_20_1", "Heading 1", para='fo:text-align="center" fo:margin-top="2cm" fo:margin-bottom="0.8cm" fo:break-before="page" fo:keep-with-next="always"', text='fo:font-size="16pt" fo:hyphenate="false"', nxt="First_20_Paragraph", outline=1)}
 {pstyle("Heading_20_2", "Heading 2", para='fo:text-align="center" fo:margin-top="0.8cm" fo:margin-bottom="0.5cm" fo:keep-with-next="always"', text='fo:font-size="13pt" fo:hyphenate="false"', nxt="First_20_Paragraph", outline=2)}
 {pstyle("Heading_20_3", "Heading 3", para='fo:text-align="center" fo:margin-top="0.6cm" fo:margin-bottom="0.3cm" fo:keep-with-next="always"', text='fo:font-size="11.5pt" fo:font-style="italic" fo:hyphenate="false"', nxt="First_20_Paragraph", outline=3)}
+{pstyle("Added_20_Heading", "Added Heading", para='fo:text-align="center" fo:margin-top="1.2cm" fo:margin-bottom="0.6cm" fo:break-before="page" fo:keep-with-next="always"', text='fo:font-size="11pt" fo:font-style="italic" fo:hyphenate="false"', nxt="Text_20_body", outline=2)}
+{pstyle("Title_20_Page_20_Verso", "Title Page Verso", para='fo:text-align="center" fo:break-before="page"')}
 {pstyle("Chapter_20_Title", "Chapter Title", para='fo:text-align="center" fo:margin-bottom="0.6cm" fo:keep-with-next="always"', text='fo:font-size="11pt" fo:hyphenate="false"', nxt="First_20_Paragraph")}
 {pstyle("Chapter_20_Summary", "Chapter Summary", para='fo:text-align="start" fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-bottom="0.6cm" fo:keep-with-next="always"', text='fo:font-size="10pt" fo:hyphenate="false"', nxt="First_20_Paragraph")}
 {pstyle("Quotation", "Quotation", para='fo:text-align="justify" fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.2cm" fo:margin-bottom="0.2cm"', text='fo:font-size="10.5pt"')}
@@ -192,11 +194,18 @@ class Odt:
     def division(self, d):
         d = rh.roman_long_italics(d)
         self.notes = {n["id"]: n for n in d["notes"]}
-        out, prev = [], None
+        out, prev = [], "paragraph" if d.get("runs_on") else None
         marks = {i: f'div-{d["id"]}-{v}' for i, v in rh.section_targets(d).items()}
+        tp, leaf0 = d["kind"] == "titlepage", None
+        if d.get("added"):        # the title of a section made for this edition: a heading that is not the book's
+            out.append(f'<text:h text:style-name="Added_20_Heading" text:outline-level="2">{self.text(d["added"])}</text:h>')
         for bi, b in enumerate(d["blocks"]):
             n0 = len(out)
             t = b["type"]
+            if tp and leaf0 is not None and b["leaf"] > leaf0:       # the verso of the title page: a new page
+                out.append(self.p("Title_20_Page_20_Verso", ""))
+                n0 = len(out)
+            leaf0 = max(leaf0 or "", b["leaf"])
             pbs = "".join(self.pb(x["n"]) for x in b.get("pb", []))
             if t == "heading":
                 lv = b["level"]
@@ -206,9 +215,9 @@ class Odt:
                     st = "Chapter_20_Title" if rh.short_subtitle(b["text"]) else "Chapter_20_Summary"
                 elif b.get("align") == "right":
                     st = "Right_20_Aligned"
-                elif b.get("align") == "center":
+                elif b.get("align") == "center" or tp:
                     st = "Centered"
-                elif prev in (None, "heading", "image", "break", "subtitle", "table", "quote", "verse"):
+                elif prev in (None, "heading", "break", "subtitle", "table", "quote", "verse"):
                     st = "First_20_Paragraph"
                 else:
                     st = "Text_20_body"
@@ -255,12 +264,13 @@ class Odt:
             names = ([f'div-{d["id"]}'] if bi == 0 else []) + ([marks[bi]] if bi in marks else [])
             if names and len(out) > n0:
                 bm = "".join(f'<text:bookmark text:name="{x}"/>' for x in names)
-                for j in range(n0, len(out)):
+                for j in range(0 if bi == 0 else n0, len(out)):
                     new = re.sub(r"<text:(p|h)\b[^>]*>", lambda m: m.group(0) + bm, out[j], count=1)
                     if new != out[j]:
                         out[j] = new
                         break
-            prev = "subtitle" if b.get("role") == "subtitle" else t
+            if t != "image":      # as in render_html: a paragraph after a picture is indented
+                prev = "subtitle" if b.get("role") == "subtitle" else t
         return "\n".join(out)
 
     def contents(self):
@@ -276,14 +286,20 @@ class Odt:
         walk(rh.toc_tree(self.book), 1)
         return "\n".join(out)
 
-    def title_page(self):
+    def title_page(self, transcribed=False):
+        """The note about this edition; with transcribed=False (the book's title page is not in the text) under
+        a title page made from the metadata."""
         b = self.book
         src = b.get("source", {})
-        out = [self.p("Title", self.text(b["title"]))]
-        if b.get("subtitle"):
-            out.append(self.p("Subtitle", self.text(b["subtitle"])))
-        out.append(self.p("Author", self.text(rh.authors_text(b))))
-        out.append(self.p("Imprint", self.text(", ".join(x for x in (b.get("place"), b.get("publisher"), str(b.get("year", ""))) if x))))
+        out = []
+        if not transcribed:
+            out.append(self.p("Title", self.text(b["title"])))
+            if b.get("subtitle"):
+                out.append(self.p("Subtitle", self.text(b["subtitle"])))
+            out.append(self.p("Author", self.text(rh.authors_text(b))))
+            out.append(self.p("Imprint", self.text(", ".join(x for x in (b.get("place"), b.get("publisher"), str(b.get("year", ""))) if x))))
+        else:
+            out.append(self.p("Title_20_Page_20_Verso", ""))
         out.append(self.p("Edition_20_Note", self.text(f'Travel Books edition, version {b["version"]}, {b["date"]}.')))
         if src.get("ia_identifier"):
             url = f'https://archive.org/details/{src["ia_identifier"]}'
@@ -292,7 +308,11 @@ class Odt:
         return "\n".join(out)
 
     def content(self):
-        body = [self.title_page(), self.contents()] + [self.division(d) for d in rh.reading_divisions(self.book)]
+        rd = rh.reading_divisions(self.book)
+        if rd and rd[0]["kind"] == "titlepage":     # the book's own title page, then the note on this edition
+            body = [self.division(rd[0]), self.title_page(True), self.contents()] + [self.division(d) for d in rd[1:]]
+        else:
+            body = [self.title_page(), self.contents()] + [self.division(d) for d in rd]
         auto = """<style:style style:name="QuoteRight" style:family="paragraph" style:parent-style-name="Quotation"><style:paragraph-properties fo:text-align="end"/></style:style>
 <style:style style:name="QuoteCenter" style:family="paragraph" style:parent-style-name="Quotation"><style:paragraph-properties fo:text-align="center"/></style:style>
 <style:style style:name="VerseFirst" style:family="paragraph" style:parent-style-name="Verse"><style:paragraph-properties fo:margin-top="0.3cm"/></style:style>

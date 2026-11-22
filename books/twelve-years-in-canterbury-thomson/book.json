@@ -126,8 +126,8 @@
   "Colonial life",
   "Voyages home by the overland route"
  ],
- "summary": "Mrs. Charles Thomson (Maria Thomson) sailed for the new Canterbury settlement in New Zealand in December 1852 and lived there for twelve years. The book, taken from her journal, opens with an account of the province in the 1860s: its founding, Christchurch and Lyttelton, soil and crops, wages and prices, the Maori, churches, schools and societies. In 1865 she left for England by a long route: by coastal steamer to Dunedin, Wellington, Picton, Nelson, New Plymouth and Auckland, where she stayed some weeks in boarding-houses; then to Sydney, Melbourne and Adelaide, by mail steamer to King George’s Sound, Galle and Aden, up the Red Sea to Suez, by rail across the desert to Alexandria in a season of cholera, and by Malta to Marseilles, where the passengers were kept in quarantine. An appendix has a stewardess’s story and the author’s verses written on the voyage out and in the colony.",
- "omitted_from_reading": "The half-titles, title page, printed contents and the publisher’s catalogue are in the JSON only.",
+ "summary": "Mrs. Charles Thomson (Maria Thomson) sailed for the new Canterbury settlement in New Zealand in December 1852 and lived there for twelve years. The book, taken from her journal, opens with an account of the province in the 1860s: its founding, Christchurch and Lyttelton, soil and crops, wages and prices, the Maori, churches, schools, and societies. In 1865 she left for England by a long route: by coastal steamer to Dunedin, Wellington, Picton, Nelson, New Plymouth, and Auckland, where she stayed some weeks in boarding-houses; then to Sydney, Melbourne, and Adelaide, by mail steamer to King George’s Sound, Galle, and Aden, up the Red Sea to Suez, by rail across the desert to Alexandria in a season of cholera, and by Malta to Marseilles, where the passengers were kept in quarantine. An appendix has a stewardess’s story and the author’s verses written on the voyage out and in the colony.",
+ "omitted_from_reading": "The half-titles, printed contents, and the publisher’s catalogue are in the JSON only.",
  "notes_on_text": [
   "The title page is undated; the book was published in 1867 (the publisher’s catalogue bound in at the end is dated May 1867).",
   "The scanned copy has no frontispiece, and no sign of one; a bookseller’s description of another copy mentions a lithographed frontispiece.",
@@ -147,5 +147,12 @@
   "real_errors": 0,
   "fixed": 0,
   "note": "text unchanged except listed fixes"
- }
+ },
+ "leaf_order": [
+  [
+   "p0007",
+   "p0008",
+   "p0006"
+  ]
+ ]
 }

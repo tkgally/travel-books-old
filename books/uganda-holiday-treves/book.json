@@ -27,7 +27,7 @@
   "Tanzania"
  ],
  "period": "1910",
- "omitted_from_reading": "The half-title, title page, printed contents, list of illustrations and index are in the JSON only.",
+ "omitted_from_reading": "The half-title, printed contents, list of illustrations, and index are in the JSON only.",
  "notes_on_text": [
   "The list of illustrations names a “Map of Uganda … At end of volume”, a folding map. It is not in either of the scans at the Internet Archive (in one it is missing; in the other it was photographed folded), so it is not in this edition.",
   "Printed page 167 (leaf p0226) was first read by machine OCR (tesseract) and corrected by Claude against the scan, because the model would not transcribe the page directly; it was then checked like the others."
@@ -77,7 +77,7 @@
    "kind": "index"
   }
  ],
- "summary": "Sir Frederick Treves, surgeon to King Edward VII, made this journey to British East Africa and Uganda as an ordinary traveller looking, as his preface says, for “somewhere to go to”; the figures he quotes for 1909 and the preface, dated August 1910, place it early in 1910. He goes by the mail train to Marseilles and by steamer by way of Aden and Cape Guardafui to Mombasa, takes the Uganda Railway through the game country to Nairobi, makes a safari in the Rift Valley, and goes on by Nakuru to Port Florence. A steamer then takes him round Lake Victoria Nyanza: Rusinga Island, the east shore, Muanza in German East Africa, the west shore and Entebbe, with a chapter on sleeping sickness. The book ends at Kampala, among the Baganda, and at the source of the Nile. There are seventy-two of his photographs; the folding map is not in the scans.",
+ "summary": "Sir Frederick Treves, surgeon to King Edward VII, made this journey to British East Africa and Uganda as an ordinary traveller looking, as his preface says, for “somewhere to go to”; the figures he quotes for 1909 and the preface, dated August 1910, place it early in 1910. He goes by the mail train to Marseilles and by steamer by way of Aden and Cape Guardafui to Mombasa, takes the Uganda Railway through the game country to Nairobi, makes a safari in the Rift Valley, and goes on by Nakuru to Port Florence. A steamer then takes him round Lake Victoria Nyanza: Rusinga Island, the east shore, Muanza in German East Africa, the west shore, and Entebbe, with a chapter on sleeping sickness. The book ends at Kampala, among the Baganda, and at the source of the Nile. There are seventy-two of his photographs; the folding map is not in the scans.",
  "audit": {
   "version": 1,
   "date": "2026-11-21",

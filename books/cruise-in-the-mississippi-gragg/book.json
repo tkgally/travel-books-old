@@ -90,8 +90,8 @@
   }
  ],
  "summary": [
-  "William F. Gragg (1810–1864) sailed in the United States steam frigate Mississippi, Captain William C. Nicholson, on her cruise of 1857–60, and wrote this account for his shipmates. The ship left New York in August 1857 and went by Madeira, St. Helena, Cape Town, Mauritius, Batavia and Singapore to Hong Kong. In 1858 she lay in the Gulf of Pechili while the British and French took the forts at the mouth of the Peiho.",
-  "Much of the book is about Japan in the first years after the treaties: Nagasaki, Shimoda and Hakodate in 1858, Kanagawa and the Bay of Edo in 1859, with Townsend Harris often on board or ashore nearby. Gragg writes in the order of the cruise, of ports, people, salutes, deaths and funerals, sickness and the life of the crew; the last page gives the distance sailed and the stores used. He writes of the Chinese with contempt, in the language of his time."
+  "William F. Gragg (1810–1864) sailed in the United States steam frigate Mississippi, Captain William C. Nicholson, on her cruise of 1857–60, and wrote this account for his shipmates. The ship left New York in August 1857 and went by Madeira, St. Helena, Cape Town, Mauritius, Batavia, and Singapore to Hong Kong. In 1858 she lay in the Gulf of Pechili while the British and French took the forts at the mouth of the Peiho.",
+  "Much of the book is about Japan in the first years after the treaties: Nagasaki, Shimoda and Hakodate in 1858, Kanagawa and the Bay of Edo in 1859, with Townsend Harris often on board or ashore nearby. Gragg writes in the order of the cruise, of ports, people, salutes, deaths and funerals, sickness, and the life of the crew; the last page gives the distance sailed and the stores used. He writes of the Chinese with contempt, in the language of his time."
  ],
  "notes_on_text": [
   "Transcribed from the copy at the Library of Congress (Internet Archive: cruiseinussteamf00grag). The last page (page 76) is cut off at the right edge in that copy and is transcribed from the University of California copy (acruiseinusstea01graggoog, page n80).",
@@ -102,7 +102,7 @@
   {
    "at": "p0007",
    "starts": "The “Mississippi” was put",
-   "title": "July–October 1857: Brooklyn, Madeira and St. Helena"
+   "title": "July–October 1857: Brooklyn, Madeira, and St. Helena"
   },
   {
    "at": "p0012",
@@ -117,7 +117,7 @@
   {
    "at": "p0017",
    "starts": "On the fourteenth, Hon. William",
-   "title": "January–March 1858: Hong Kong, Macao, Woosung and Manilla"
+   "title": "January–March 1858: Hong Kong, Macao, Woosung, and Manilla"
   },
   {
    "at": "p0024",
@@ -137,7 +137,7 @@
   {
    "at": "p0052",
    "starts": "October first, preparing for sea",
-   "title": "October 1858–February 1859: Nangasaki, Ningpo, Amoy, Hong Kong and Canton"
+   "title": "October 1858–February 1859: Nangasaki, Ningpo, Amoy, Hong Kong, and Canton"
   },
   {
    "at": "p0059",
@@ -147,7 +147,7 @@
   {
    "at": "p0065",
    "starts": "We arrived in Nangasaki at half-past",
-   "title": "April–September 1859: Nangasaki, Shanghae, Jeddo and Hong Kong"
+   "title": "April–September 1859: Nangasaki, Shanghae, Jeddo, and Hong Kong"
   },
   {
    "at": "p0073",
@@ -155,7 +155,7 @@
    "title": "October 1859–January 1860: the voyage home to Boston"
   }
  ],
- "omitted_from_reading": "The printed paper cover and the title page are in the JSON only.",
+ "omitted_from_reading": "The printed paper cover is in the JSON only.",
  "keep_hyphens": [
   "p0008"
  ],
