@@ -204,3 +204,7 @@
 {"page": "p0211", "model": "opus", "corrections": null, "seconds": 6.1, "cost": 0.0574792, "completion_tokens": 126, "turns": 2, "attempts": 1}
 {"page": "p0212", "model": "opus", "corrections": null, "seconds": 11.7, "cost": 0.0737428, "completion_tokens": 940, "turns": 2, "attempts": 1}
 {"page": "p0213", "model": "opus", "corrections": null, "seconds": 7.8, "cost": 0.0666474, "completion_tokens": 584, "turns": 2, "attempts": 1}
+{"page": "p0214", "model": "opus", "corrections": null, "seconds": 12.1, "cost": 0.072111, "completion_tokens": 858, "turns": 2, "attempts": 1}
+{"page": "p0215", "model": "opus", "corrections": null, "seconds": 8.9, "cost": 0.06885820000000001, "completion_tokens": 697, "turns": 2, "attempts": 1}
+{"page": "p0216", "model": "opus", "corrections": null, "seconds": 9.8, "cost": 0.0682182, "completion_tokens": 665, "turns": 2, "attempts": 1}
+{"page": "p0217", "model": "opus", "corrections": null, "seconds": 8.6, "cost": 0.0690546, "completion_tokens": 706, "turns": 2, "attempts": 1}
