@@ -1,0 +1,5 @@
+{"given": "has no entrance through the reef; there", "print": "has no entrance through the reef, there", "sure": "high"}
+{"given": "runs down the center of each", "print": "runs down the centre of each", "sure": "high"}
+{"given": "white coral stone on of wattle", "print": "white coral stone or of wattle", "sure": "high"}
+{"given": "the same style as houses but", "print": "the same style as the houses but", "sure": "high"}
+{"given": "style and, tbough roofed with iron,", "print": "style and, though roofed with iron,", "sure": "high"}

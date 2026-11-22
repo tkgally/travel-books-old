@@ -4,7 +4,7 @@ IA: throughatollsisl00mossuoft (Robarts, University of Toronto; 380 leaves). Oth
 Eligibility: re-checked 2026-11-22 (queue row): Moss 1827/28–1904; photographs by Thomas Andrew (1855–1939); no free digital text; print on demand only.
 
 ## Status
-Stage reached: (a) begun 2026-11-22 (session of 16:43 UTC): scan fetched; scan check and page map next.
+Stage reached: (b) done; (c) in progress (session of 2026-11-22 16:43 UTC): pages/ from the judge, captions made alike (title, then the credit in italics), appendix titles as [[subtitle]], cover/bookplate/card leaves and the back leaves after the imprint dropped from pages/, seals typed “L. S.”, divisions set. Preflight: only `audit` to fix. Running: spot-read (Opus subagent), audit. Next: settle the spot-read and audit, rendered look, record the audit, publish.
 
 ## Page map
 p0000 hidden · p0001 cover (title readable: the book's picture) · p0002 bookplate · p0003 IA card · p0004 blank · p0005 half-title (owner's inscription) · p0006 publisher's advertisement · p0007–p0009 blank · p0010 frontispiece (portrait, signature) · p0011 title · p0012 verso · [p0012a dedication, p. v, from throughatollsan00mossgoog n9; its blank verso n10 not taken] · p0013–p0014 Preface vii–viii · p0015–p0021 Contents ix–xv · p0022 List of Illustrations xvii · p0023 = p. 1 (half-title repeated, Chapter I) … p0369 = p. 317.
@@ -22,6 +22,9 @@ Scan check: all 10 contact sheets and a dozen leaves at full size by an Opus sub
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
 |---|---|---|---|---|---|
+| draft | 2026-11-22 | opus | 386 | 25.14 | none refused (4 leaves from the Google scan drafted in a second run) |
+| corrections | 2026-11-22 | sonnet | 373 | 12.26 | 7 words, 5 markup; none unapplied |
+| judge | 2026-11-22 | opus | 7 spots | 0.22 | 6 draft, 1 verifier; all looked at on crops: “ocky” and “Anarew” printed (marked), “ùnd” a speck over u (typed und) |
 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |

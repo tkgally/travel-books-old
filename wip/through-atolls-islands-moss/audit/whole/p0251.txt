@@ -1,0 +1,5 @@
+{"given": "about five feet sqnare, and", "print": "about five feet square, and", "sure": "high"}
+{"given": "18 feet wide at the base; and continue", "print": "18 feet wide at the base, and continue", "sure": "high"}
+{"given": "remaining fourteen on fifteen feet", "print": "remaining fourteen or fifteen feet", "sure": "high"}
+{"given": "Near the east end the inner court", "print": "Near the east end of the inner court", "sure": "high"}
+{"given": "having in the center of its front", "print": "having in the centre of its front", "sure": "high"}

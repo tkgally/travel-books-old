@@ -1,0 +1,5 @@
+{"given": "fault—not least doubt of it", "print": "fault—not the least doubt of it", "sure": "high"}
+{"given": "One more little surprize awaited me.", "print": "One more little surprise awaited me.", "sure": "high"}
+{"given": "you see in the door; and", "print": "you see in the door, and", "sure": "high"}
+{"given": "for the nativcs have no animosity", "print": "for the natives have no animosity", "sure": "high"}
+{"given": "slept too soundly to bear the", "print": "slept too soundly to hear the", "sure": "high"}
