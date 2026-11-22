@@ -14,7 +14,7 @@
   }
  ],
  "place": "New York",
- "publisher": "H. H. Moore",
+ "publisher": "Horace H. Moore",
  "year": 1853,
  "edition_statement": "First edition",
  "regions": [
@@ -24,13 +24,37 @@
  "period": "1849",
  "source": {
   "ia_identifier": "cordillerapampa00stra",
-  "contributor": "The Library of Congress"
+  "contributor": "The Library of Congress",
+  "extra_leaves": {
+   "p0100a": {
+    "ia_identifier": "cordilleraandpa01stragoog",
+    "n": 100,
+    "what": "p. 95, missing from the LoC scan (pp. 93–94 scanned twice)"
+   },
+   "p0100b": {
+    "ia_identifier": "cordilleraandpa01stragoog",
+    "n": 101,
+    "what": "p. 96, missing from the LoC scan"
+   }
+  }
  },
  "history": [
   {
    "version": 1,
    "date": "2026-11-22",
    "note": "First publication."
+  }
+ ],
+ "waivers": [
+  {
+   "check": "leaves",
+   "match": "p0099",
+   "why": "a second scan of p. 93 (p0097) in place of p. 95: left out"
+  },
+  {
+   "check": "leaves",
+   "match": "p0100",
+   "why": "a second scan of p. 94 (p0098) in place of p. 96: left out; pp. 95–96 are p0100a and p0100b, from another scan"
   }
  ]
 }

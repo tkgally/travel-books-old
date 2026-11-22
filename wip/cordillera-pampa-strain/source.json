@@ -549,6 +549,16 @@
     "cordillerapampa00stra_djvu.txt"
    ],
    "drive_id": "1DwVvZ8G5S0jyhFZv-VdQvLvOmk-mmwgh"
+  },
+  {
+   "name": "pages-031.zip",
+   "sha256": "3df7bd031119d3b503acb5bea6a0ebe62ccf0962a24fd720373b95205efde29d",
+   "bytes": 619777,
+   "files": [
+    "p0100a.jpg",
+    "p0100b.jpg"
+   ],
+   "drive_id": "1LDW6B_otubkGaKRpdmQ3C9a6vEhisu6h"
   }
  ]
 }
