@@ -1,8 +1,6 @@
 [       ok] meta: book.json: required fields present and sane
 [       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
-[FAIL (97)] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
-            - [[cont]] with nothing to continue, treated as a new block: p0063
-            - book.json divisions entry matches no division start: at p0007 n 1
+[FAIL (95)] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
             - missing image file for p0009-1 (Photograph of a line of jinrikishas with their runners in white hats and tunics, two passengers seated, trees behind; plate printed sideways)
             - missing image file for p0010-1 (small floral ornament)
             - missing image file for p0010-2 (small floral ornament)
@@ -204,36 +202,36 @@
 [       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
 [       ok] nav: contents: at least one reading division; each has a title and text
 [FAIL (30)] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/01.xhtml(10,88): Referenced resource "OEBPS/images/p0010-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/01.xhtml(12,88): Referenced resource "OEBPS/images/p0010-2.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/01.xhtml(17,190): Referenced resource "OEBPS/images/p0009-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/04.xhtml(13,154): Referenced resource "OEBPS/images/p0030-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/04.xhtml(25,169): Referenced resource "OEBPS/images/p0035-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(24,132): Referenced resource "OEBPS/images/p0058-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(33,183): Referenced resource "OEBPS/images/p0060-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(54,158): Referenced resource "OEBPS/images/p0064-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(62,164): Referenced resource "OEBPS/images/p0066-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(64,165): Referenced resource "OEBPS/images/p0067-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(69,147): Referenced resource "OEBPS/images/p0069-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(75,237): Referenced resource "OEBPS/images/p0071-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(87,159): Referenced resource "OEBPS/images/p0074-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(20,165): Referenced resource "OEBPS/images/p0079-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(35,139): Referenced resource "OEBPS/images/p0083-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(42,171): Referenced resource "OEBPS/images/p0085-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(52,183): Referenced resource "OEBPS/images/p0087-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(57,112): Referenced resource "OEBPS/images/p0089-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(58,274): Referenced resource "OEBPS/images/p0090-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(33,128): Referenced resource "OEBPS/images/p0100-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(63,115): Referenced resource "OEBPS/images/p0107-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(65,137): Referenced resource "OEBPS/images/p0108-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(71,107): Referenced resource "OEBPS/images/p0110-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(78,107): Referenced resource "OEBPS/images/p0112-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(93,172): Referenced resource "OEBPS/images/p0116-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(39,172): Referenced resource "OEBPS/images/p0125-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(45,145): Referenced resource "OEBPS/images/p0127-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(51,155): Referenced resource "OEBPS/images/p0129-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(61,215): Referenced resource "OEBPS/images/p0132-1.jpg" could not be found in the EPUB.
-            - ERROR(RSC-007): /tmp/preflight-h6y7cq4d/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(64,214): Referenced resource "OEBPS/images/p0133-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/01.xhtml(10,88): Referenced resource "OEBPS/images/p0010-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/01.xhtml(12,88): Referenced resource "OEBPS/images/p0010-2.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/01.xhtml(17,190): Referenced resource "OEBPS/images/p0009-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/04.xhtml(13,154): Referenced resource "OEBPS/images/p0030-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/04.xhtml(25,169): Referenced resource "OEBPS/images/p0035-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(24,132): Referenced resource "OEBPS/images/p0058-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(33,183): Referenced resource "OEBPS/images/p0060-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(54,158): Referenced resource "OEBPS/images/p0064-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(62,164): Referenced resource "OEBPS/images/p0066-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(64,165): Referenced resource "OEBPS/images/p0067-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(69,147): Referenced resource "OEBPS/images/p0069-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(75,237): Referenced resource "OEBPS/images/p0071-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/05.xhtml(87,159): Referenced resource "OEBPS/images/p0074-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(20,165): Referenced resource "OEBPS/images/p0079-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(35,139): Referenced resource "OEBPS/images/p0083-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(42,171): Referenced resource "OEBPS/images/p0085-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(52,183): Referenced resource "OEBPS/images/p0087-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(57,112): Referenced resource "OEBPS/images/p0089-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/06.xhtml(58,274): Referenced resource "OEBPS/images/p0090-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(33,128): Referenced resource "OEBPS/images/p0100-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(63,115): Referenced resource "OEBPS/images/p0107-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(65,137): Referenced resource "OEBPS/images/p0108-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(71,107): Referenced resource "OEBPS/images/p0110-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(78,107): Referenced resource "OEBPS/images/p0112-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/07.xhtml(93,172): Referenced resource "OEBPS/images/p0116-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(39,172): Referenced resource "OEBPS/images/p0125-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(45,145): Referenced resource "OEBPS/images/p0127-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(51,155): Referenced resource "OEBPS/images/p0129-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(61,215): Referenced resource "OEBPS/images/p0132-1.jpg" could not be found in the EPUB.
+            - ERROR(RSC-007): /tmp/preflight-v92iik_l/books/vacation-days-in-hawaii-and-japan-taylor/vacation-days-in-hawaii-and-japan-taylor.epub/OEBPS/text/08.xhtml(64,214): Referenced resource "OEBPS/images/p0133-1.jpg" could not be found in the EPUB.
 [       ok] odt: LibreOffice opens the ODT and converts it to PDF
 [ FAIL (1)] audit: book.json records the sampled audit of this version
             - book.json "audit" must record this version: {"version", "date", "pages", "recall", "real_errors", "fixed"}
@@ -246,13 +244,9 @@
             - (and 22 joins giving a word the book prints whole elsewhere: not listed)
 [       ok] joins: page joins: missing [[cont]]
 [       ok] folios: printed page numbers that break the sequence
-[ FAIL (1)] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
-            - p0008: no page file
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
 [       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
-[ FAIL (3)] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
-            - p0193: …'ther celebrities who once' | picture | 'lived on the earth, but h'
-            - p0305: …'he highly ornamented gate' | picture | 'called Ni-ten-Mon and the'
-            - p0309: …'small temple borne on the' | picture | 'shoulders and thrown from'
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
 [ look (4)] contents: entries of the printed contents with no matching heading
             - p0014: 'The voyage—Haleakala—The leper colony—The captain’s dinner—Koko Head—T'
             - p0015: 'First Impressions of Japan.'
@@ -286,4 +280,4 @@ On our right…
             - p0254: “and Then” in …Now and Then we Meet a Ca…
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight FAIL: vacation-days-in-hawaii-and-japan-taylor v1 — 229 to fix, 0 waived; to look at: hyphen-joins 6, contents 4, accents 2, misprints 2, rare-forms 4, serial-commas 1, missing-stop 2 — tools@6dd0940e 2026-11-22
+preflight FAIL: vacation-days-in-hawaii-and-japan-taylor v1 — 223 to fix, 0 waived; to look at: hyphen-joins 6, contents 4, accents 2, misprints 2, rare-forms 4, serial-commas 1, missing-stop 2 — tools@154a7d27 2026-11-22

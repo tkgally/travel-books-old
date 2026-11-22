@@ -146,5 +146,17 @@
    "match": "p0070",
    "why": "ditto marks (”) in the prescription table, as printed"
   }
- ]
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 1,
+  "fixed": 1,
+  "note": "the one real item a printer’s error left unmarked (“thcusand”, p. 109)"
+ },
+ "toc": {
+  "subtitles": "all"
+ }
 }
