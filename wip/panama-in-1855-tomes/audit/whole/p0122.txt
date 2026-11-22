@@ -1,5 +1,0 @@
-{"given": "They now gladly welcomed death; and impatiently", "print": "They now gladly welcomed death, and impatiently", "sure": "high"}
-{"given": "The havoc of disease went or, and", "print": "The havoc of disease went on, and", "sure": "high"}
-{"given": "and voluutarily sought destruction in its", "print": "and voluntarily sought destruction in its", "sure": "high"}
-{"given": "the characteristic chinese ingenuity.", "print": "the characteristic Chinese ingenuity.", "sure": "high"}
-{"given": "their necks, with deliberate coil after coil,", "print": "their necks, with a deliberate coil after coil,", "sure": "high"}

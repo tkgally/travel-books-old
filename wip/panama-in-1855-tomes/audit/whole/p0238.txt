@@ -1,5 +1,0 @@
-{"given": "or Jones of liverpool, for", "print": "or Jones of Liverpool, for", "sure": "high"}
-{"given": "among the rude demoeracy, and his", "print": "among the rude democracy, and his", "sure": "high"}
-{"given": "the pluck of this boy, and", "print": "the pluck of his boy, and", "sure": "high"}
-{"given": "hastening the embraces of the governess", "print": "hastening to the embraces of the governess", "sure": "high"}
-{"given": "rolling her hull; spouting her smoke", "print": "rolling her hull, spouting her smoke", "sure": "high"}
