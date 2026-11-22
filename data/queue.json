@@ -1269,11 +1269,10 @@
    "place": "London",
    "publisher": "Sampson Low, Marston, Searle, & Rivington",
    "images": 380,
-   "status": "waiting",
+   "status": "queued",
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page: HathiTrust page images only; Wikisource: only his Dictionary of Australasian Biography entry; web search of a sentence: nothing. Open Library and web: print on demand only (Creative Media, Forgotten Books). Moss 1827/28–1904 (DNZB). Photographs by Thomas Andrew (1855–1939). Not checked: WorldCat.",
-   "note": "Toronto (Robarts) scan, 400 ppi, plain layout; some photographs (count not checked). A New Zealand MP's seven-month voyage in 1886–87 in the trading schooner Buster: Niue, Christmas Island, Suwarrow, Manihiki, the Marshalls and Jaluit; traders, a French ex-soldier, King Aporo, native missionaries; opinions on mission rule. Some passages on coral formation.",
-   "waiting_for": "Tom: an exception? The Toronto scan lacks p. 122 (a plate leaf counted in its place) and pp. 284–287 (Appendix A end, Appendix B start). The only other IA scan (throughatollsan00mossgoog, Google) has pp. 122, 284, 285 and 287 whole, and a folding map of the Pacific (not in the Toronto copy), but p. 286 (the opening of Appendix B, a planters’ circular of 1870) is curled at the fold and the right third of every line is lost. Checked 2026-11-22."
+   "note": "Toronto (Robarts) scan, 400 ppi, plain layout; some photographs (count not checked). A New Zealand MP's seven-month voyage in 1886–87 in the trading schooner Buster: Niue, Christmas Island, Suwarrow, Manihiki, the Marshalls and Jaluit; traders, a French ex-soldier, King Aporo, native missionaries; opinions on mission rule. Some passages on coral formation. Tom 2026-11-22: publish it, with pp. 122, 284, 285 and 287 from throughatollsan00mossgoog (source.extra_leaves); p. 286 (start of Appendix B) is cut off in that scan: if the truncated appendix would seem strange, leave Appendix B out completely and say so in notes_on_text. The Google copy has a folding map of the Pacific (pages n332–n335) that the Toronto copy lacks: include it if legible."
   },
   {
    "order": 70,

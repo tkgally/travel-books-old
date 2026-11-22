@@ -45,6 +45,11 @@ next piece is whatever now comes first here.
    mongolia-siberia-sheepshanks, nile-without-dragoman-eden, summer-greetings-from-japan-sheldon,
    trans-caspia-shoemaker, via-rhodesia-mansfield, woman-alone-in-the-heart-of-japan-fisher,
    womans-trip-to-alaska-collis, yachting-cruise-wood, zephyrus-edgcumbe.
+   **Surface Japan (Seitz), by Tom's answer of 2026-11-22** (small work, first in the next session): show one or two typical text
+   pages with the bamboo border and the marginal sketches as an illustration near the beginning of the book, with a caption
+   explaining them. The markup has no editor's picture: add one with a test (e.g. a `book.json` key `editor_images`:
+   leaf, crop file, caption; rendered before the first chapter and marked in the JSON as the editor's, not the book's),
+   then crop pp. 1 and 114 (leaves p0019, p0160, full page with the border) and publish v2.
    While there, read the other 32 title pages in the build once against their scans when a session has the
    leaf at hand for another reason; they were typed line by line but were never looked at as pages of the editions.
 3. **A `waiting` book** whose question Tom has answered (`notes/preferences.md`, the queue row, the book log).

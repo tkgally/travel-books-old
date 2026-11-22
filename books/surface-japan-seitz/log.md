@@ -35,4 +35,5 @@ Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-
 | 1 | 2026-11-22 | PASS, 0 to fix, 0 waived; look: hyphen-joins 7 (read), joins 1 (dedication after the verso), accents 1 (à French), misprints 5 (iu: Japanese), rare-forms 5 (prating, fiber, bunt, shooing, relies: real), serial-commas 7 (pairs) — tools@92cc5898 | 30/30; 0 real | spot-read with tesseract comparison of every page: disrepect, list markup, coin captions, McNEILL; crops by the session: beween, Tranquilty; rendered look: book page, title page, first section, a narrow page, the phrase list; Claude $20.98 |
 
 ## Known issues
+- Tom (2026-11-22): show one or two typical bordered pages as an illustration near the beginning, with a caption: to do in v2 (RESUME.md §2).
 - The marginal sketches are not in this version (question for Tom).
