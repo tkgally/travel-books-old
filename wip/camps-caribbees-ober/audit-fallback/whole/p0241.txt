@@ -1,4 +1,0 @@
-{"given": "held that there where no managers", "print": "held that there were no managers", "sure": "high"}
-{"given": "was sbarply cut against the", "print": "was sharply cut against the", "sure": "high"}
-{"given": "The Carib settlement of sandy Bay", "print": "The Carib settlement of Sandy Bay", "sure": "high"}
-{"given": "their portion for more fertile fields", "print": "their portion for the more fertile fields", "sure": "high"}

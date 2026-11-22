@@ -1,5 +1,0 @@
-{"given": "in their games, which; being slipped", "print": "in their games, which, being slipped", "sure": "high"}
-{"given": "No traveler passes, unless someone on", "print": "No traveler passes, unless some one on", "sure": "high"}
-{"given": "is disposed of, stretcbes himself upon", "print": "is disposed of, stretches himself upon", "sure": "high"}
-{"given": "of the solar rays are silent, drowsy,", "print": "of the solar rays and are silent, drowsy,", "sure": "high"}
-{"given": "It an Indian takes a liking", "print": "If an Indian takes a liking", "sure": "high"}

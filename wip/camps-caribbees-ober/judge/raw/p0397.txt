@@ -1,1 +1,0 @@
-{"n": 1, "is": "A", "print": "in.; wing, 2¾; tail, 2⅜", "sure": "medium"}

@@ -1,8 +1,0 @@
-{"find": "set in the forest beyond the lake", "replace": "set in the forest beyond the lake"}
-{"find": "hogs of Dominica and St. Vincent being the domestic species", "replace": "hogs of Dominica and St. Vincent being the domestic species"}
-
-Wait—I need to report only real changes. The differences I found:
-
-{"find": "forest beyond the lake, for", "replace": "forest beyond the lake, for"}
-
-NONE

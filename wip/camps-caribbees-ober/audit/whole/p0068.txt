@@ -1,5 +1,0 @@
-{"given": "filling these extinct craters the brim", "print": "filling these extinct craters to the brim", "sure": "high"}
-{"given": "flood down the monntain sides", "print": "flood down the mountain sides", "sure": "high"}
-{"given": "become choked, and; instead of", "print": "become choked, and, instead of", "sure": "high"}
-{"given": "must be more then geologist", "print": "must be more than geologist", "sure": "high"}
-{"given": "The crater-Tarn.—Temporary Camps.", "print": "The Crater-Tarn.—Temporary Camps.", "sure": "low"}

@@ -1,5 +1,0 @@
-{"given": "Misled by its ventriloquial music deterred", "print": "Misled by its ventriloquial music and deterred", "sure": "high"}
-{"given": "and fitful, and frcquently interrupted", "print": "and fitful, and frequently interrupted", "sure": "high"}
-{"given": "years before, when his mountain was", "print": "years before, when this mountain was", "sure": "high"}
-{"given": "terrible week in april, when the", "print": "terrible week in April, when the", "sure": "high"}
-{"given": "the island; nay; more, I was", "print": "the island; nay, more, I was", "sure": "high"}

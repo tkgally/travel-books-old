@@ -1,5 +1,0 @@
-{"given": "hospitality of the carib, which", "print": "hospitality of the Carib, which", "sure": "high"}
-{"given": "the hamlet into forest in my", "print": "the hamlet into the forest in my", "sure": "high"}
-{"given": "the largest and plnmpest, he requested", "print": "the largest and plumpest, he requested", "sure": "high"}
-{"given": "scattering of the others; but the", "print": "scattering of the others, but the", "sure": "high"}
-{"given": "shot. His last was a", "print": "shot. This last was a", "sure": "high"}

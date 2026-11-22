@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "garden, and\n\n[[image: a lake with wooded mountains beyond, palms and broad-leaved plants in the foreground]]\n[[caption]] Grand Etang.\n\n[[cont]]bananas", "sure": "high"}
-{"n": 2, "is": "A", "print": "a monkey.\n\nFrom", "sure": "high"}

@@ -1,6 +1,0 @@
-{"given": "Carib lands haviug been seized", "print": "Carib lands having been seized", "sure": "high"}
-{"given": "portion of their lands; and kept", "print": "portion of their lands, and kept", "sure": "high"}
-{"given": "aided by the french from Martinique", "print": "aided by the French from Martinique", "sure": "high"}
-{"given": "aided by the french from Martinique", "print": "aided by the French, from Martinique", "sure": "low"}
-{"given": "in bringing in women children from", "print": "in bringing in women and children from", "sure": "high"}
-{"given": "after the warriors bad surrendered", "print": "after the warriors had surrendered", "sure": "high"}

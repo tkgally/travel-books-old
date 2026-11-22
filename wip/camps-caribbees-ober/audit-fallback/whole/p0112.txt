@@ -1,5 +1,0 @@
-{"given": "gray and weather-beatcn. Palm and", "print": "gray and weather-beaten. Palm and", "sure": "high"}
-{"given": "not many, yet nor few,", "print": "not many, yet not few,", "sure": "high"}
-{"given": "occupancy of the valley; until the", "print": "occupancy of the valley, until the", "sure": "high"}
-{"given": "enjoying the silence solitude. From", "print": "enjoying the silence and solitude. From", "sure": "high"}
-{"given": "the village of salibia; but", "print": "the village of Salibia; but", "sure": "high"}

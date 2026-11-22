@@ -1,8 +1,0 @@
-{"find": "[[page ?]]", "replace": "[[page 96]]"}
-{"find": "96 CAMPS IN THE CARIBBEES.\n\ndom treated", "replace": "[[cont]] dom treated"}
-{"find": "table-knife ;", "replace": "table-knife;"}
-{"find": "pocketknife", "replace": "pocket-knife"}
-{"find": "a palmrib.", "replace": "a palm-rib."}
-{"find": "journey ;", "replace": "journey;"}
-{"find": "Dolce far niente is", "replace": "<i>Dolce far niente</i> is"}
-{"find": "his compére;", "replace": "his <i>compère;</i>"}

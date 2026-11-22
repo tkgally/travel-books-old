@@ -1,5 +1,0 @@
-{"given": "some money be had earned", "print": "some money he had earned", "sure": "high"}
-{"given": "a golden one; of English coinage", "print": "a golden one, of English coinage", "sure": "high"}
-{"given": "low and thatcbed deeply with", "print": "low and thatched deeply with", "sure": "high"}
-{"given": "made of canes flags, wattled", "print": "made of canes and flags, wattled", "sure": "high"}
-{"given": "the Rivière Saint marie,", "print": "the Rivière Saint Marie,", "sure": "high"}

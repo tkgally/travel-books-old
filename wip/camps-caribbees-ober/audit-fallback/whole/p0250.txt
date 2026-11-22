@@ -1,5 +1,0 @@
-{"given": "retreat over the volcano; to the", "print": "retreat over the volcano, to the", "sure": "high"}
-{"given": "who pushed the french and Caribs", "print": "who pushed the French and Caribs", "sure": "high"}
-{"given": "island; but poor Caribs, thus abandoned", "print": "island; but the poor Caribs, thus abandoned", "sure": "high"}
-{"given": "in the dense forests sound shelter", "print": "in the dense forests found shelter", "sure": "high"}
-{"given": "and all provisious such as a", "print": "and all provisions such as a", "sure": "high"}
