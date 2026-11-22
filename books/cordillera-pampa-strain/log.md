@@ -37,6 +37,7 @@ Scan check: all 8 sheets, a dozen leaves at full size, folios followed (Opus sub
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-22 | PASS, 0 to fix, 1 waived; look: hyphen-joins 10 (real), folios 5 (broken digits, plus the added leaves), accents 6 (as printed), rare-forms 4 (laud, bating, ketch, colon: real words), serial-commas 2 (no lists), missing-stop 1 (verse) — tools@6193dfaa | 33/34; 0 real | Claude $32.60 |
+| 2 | 2026-11-22 | PASS, 0 to fix, 1 waived — tools@2454027b | as v1 | printed “th” for “the” (p. 2) marked `[[corr]]`, reported by a reader (issue #169); no model calls |
 
 ## Known issues
 - The long footnote on p0299 is printed in three paragraphs; the markup has one.

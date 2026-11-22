@@ -1,6 +1,6 @@
 {
  "id": "bridal-and-bridle-harwood",
- "version": 1,
+ "version": 2,
  "date": "2026-11-22",
  "title": "The Bridal and the Bridle; or, Our Honeymoon-Trip in the East, in 1850",
  "short_title": "The Bridal and the Bridle",
@@ -33,6 +33,11 @@
    "version": 1,
    "date": "2026-11-22",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "Printed “th” for “the” marked as a printer’s error."
   }
  ],
  "divisions": [
@@ -121,11 +126,12 @@
   "The book has no printed contents and its chapters have no titles; the places in the contents entries after each chapter number are the editor’s, spelled as the book spells them."
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-22",
   "pages": 6,
   "recall": "30/30",
   "real_errors": 0,
-  "fixed": 0
+  "fixed": 0,
+  "note": "text unchanged except listed fixes"
  }
 }
