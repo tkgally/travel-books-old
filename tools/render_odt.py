@@ -202,10 +202,10 @@ class Odt:
         for bi, b in enumerate(d["blocks"]):
             n0 = len(out)
             t = b["type"]
-            if tp and leaf0 is not None and b["leaf"] != leaf0:      # the verso of the title page: a new page
+            if tp and leaf0 is not None and b["leaf"] > leaf0:       # the verso of the title page: a new page
                 out.append(self.p("Title_20_Page_20_Verso", ""))
                 n0 = len(out)
-            leaf0 = b["leaf"]
+            leaf0 = max(leaf0 or "", b["leaf"])
             pbs = "".join(self.pb(x["n"]) for x in b.get("pb", []))
             if t == "heading":
                 lv = b["level"]

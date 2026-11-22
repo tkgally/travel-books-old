@@ -39,6 +39,21 @@ Not planned until a reader or Tom asks: a subject index (`subjects` in `book.jso
 need a fixed list of terms, as `regions` has in `data/places.json`); feeds; covers in the lists (the home page has a row of them: below; in the lists they would make
 the Books page heavy and the lists harder to scan).
 
+## The home page (Tom, 2026-11-21 and 2026-11-22)
+
+The header, the carousel, three paragraphs, the footer. No visible heading: the name is in the header (the `<h1>` is
+in the page for screen readers and outlines, class `visually-hidden`). The first paragraph ends "The site now contains
+N books, with more being added every day." — N is the number of books built, the same list the Books page counts, so
+the two cannot differ. The third paragraph is the link "More about the project." (`build_site.build_index`; tests
+`SerialCommas`, `SiteLists`.)
+
+## A book's own page
+
+The picture links to the start of the narrative (`render_html.body_start`: the first division of kind `chapter`), with
+the chapter's heading at the top of the window (`#start`); "Read on this site" links to the first page of the book,
+the title page (Tom, 2026-11-22). The contents list every page of the editions; the sections of a split division are
+nested under its title.
+
 ## The carousel of covers on the home page (Tom, 2026-11-21)
 
 His brief and his changes after trying it are in `preferences.md` (2026-11-21, "a carousel"). How it is built:

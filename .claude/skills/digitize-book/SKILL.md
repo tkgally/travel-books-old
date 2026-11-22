@@ -44,7 +44,8 @@ them and never type them yourself (it ends the session). Name them in the log an
 - **Contents** (decided book by book, Tom 2026-11-19): follow the printed contents, deviate where a digital reader
   benefits; entries alike within the book, neither too many nor too few (`toc`, `toc_entries`: `notes/workflow.md`
   stage 4 "Contents"). Print the compiled entries and read them before the build; record the decision in the log.
-- **Front and back matter**: `divisions` in `book.json`; what is left out of the reading editions and said so.
+- **Front and back matter**: `divisions` in `book.json`; what is left out of the reading editions and said so. The **title page** (kind `titlepage`, with its verso) is the first page of the editions: read it against the scan, every line `[[center]]` with capitals as printed; what stands before it is left out. Every `#` heading before the first chapter gets its kind (preface, introduction), because the picture on the book's page links to the first `chapter`.
+- **A long text without chapters** (diary, letters): `toc_entries` of the editor's, chosen as pages (5–15 printed pages each, a title saying what it covers); the compiler splits the division at them (`notes/workflow.md` stage 4).
 - **Notes**: marks pair; continued notes; notes on plates.
 - **Verse, letters, inscriptions, tables, front matter, footnote pages**: spot-read against the scan (Opus subagent).
 - **Illustrations**: every `[[image:]]` has a crop that was looked at; every preflight `caption-tail` item settled (a cross-reference goes into the caption line); captions; alt text says what is shown. A frontispiece in the front matter: set `frontispiece` in book.json.
@@ -53,7 +54,7 @@ them and never type them yourself (it ends the session). Name them in the log an
 ## Metadata and summary
 
 From the title page. Summary: 60–150 plain words (`notes/style.md` §Site text) — who, when, where, how, what
-is in it, what a reader should know. No praise.
+is in it, what a reader should know. No praise. Serial commas (“A, B, and C”) and curly quotation marks in everything written for the site (preflight `serial-commas` lists candidates: read them).
 
 ## Verify and publish
 

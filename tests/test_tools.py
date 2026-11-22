@@ -1468,6 +1468,13 @@ class ImageSplits(unittest.TestCase):
                       {"type": "paragraph", "text": "saucers; and we"})
         self.assertEqual(len(preflight.check_image_splits(b)), 1)
 
+    def test_title_page_not_listed(self):
+        # 2026-11-22: the title page is in the reading editions; a device between "1898" and "copyright, 1898" is no split
+        b = self.book({"type": "paragraph", "text": "1898"}, {"type": "image", "src": "x"}, {"type": "paragraph", "text": "copyright, by a. b."})
+        self.assertEqual(len(preflight.check_image_splits(b)), 1)
+        b["divisions"][0]["kind"] = "titlepage"
+        self.assertEqual(preflight.check_image_splits(b), [])
+
     def test_closed_or_capital_or_verse_not_listed(self):
         b = self.book({"type": "paragraph", "text": "He went home."}, {"type": "image", "src": "x"},
                       {"type": "paragraph", "text": "and then"},
@@ -1888,3 +1895,143 @@ class Carousel(unittest.TestCase):
         self.assertRegex(rules, r"\.carousel button \{[^}]*display: none;")
         self.assertIn("@media (hover: hover) and (pointer: fine) { .carousel button { display: block; } }", rules)
         self.assertIn("color-mix(in srgb, var(--bg) 62%, transparent)", rules)
+
+
+class TitlePageFirst(unittest.TestCase):
+    """Tom, 2026-11-22: the title page is transcribed in the reading editions, as their first page; what stands
+    before it stays out; the picture on the book's page leads to the first chapter. Invented text."""
+    PAGES = ["[[page ?]]\n[[center]] A JOURNEY\n\n[[image: portrait]]\n[[caption]] The Author.",
+             "[[page ?]]\n[[center]] A JOURNEY\n\nBY A. TRAVELLER\n\n[[right]] <i>Motto</i>\n\n[[center]] LONDON: 1861",
+             "[[page ?]]\n[[center]] PRINTED BY B. AND CO.",
+             "[[page v]]\n# Preface.\n\nA word.",
+             "[[page 1]]\n# Chapter I.\n\nWe set out.\n\n[[image: a cart]]\n\nThe cart was slow.\n\n[[image: a ford]]\n\n[[cont]] and we walked."]
+    DIVS = [{"at": "p0001", "kind": "front", "reading": True}, {"at": "p0002", "kind": "titlepage"}, {"at": "p0004", "kind": "preface"}]
+
+    def setUp(self):
+        self.book, self.w = comp(self.PAGES, divisions=self.DIVS, frontispiece="p0001-1")
+
+    def test_title_page_opens_the_editions_and_the_half_title_stays_out(self):
+        rd = rh.reading_divisions(self.book)
+        self.assertEqual([(d["kind"], d["title"]) for d in rd], [("titlepage", "Title Page"), ("preface", "Preface"), ("chapter", "Chapter I")])
+        self.assertTrue(any("before the title page" in x for x in self.w))
+        self.assertFalse(self.book["divisions"][0]["reading"])
+
+    def test_frontispiece_follows_the_title_page_and_precedes_its_verso(self):
+        tp = rh.reading_divisions(self.book)[0]
+        self.assertEqual([(b["leaf"], b["type"]) for b in tp["blocks"]][-2:], [("p0001", "image"), ("p0003", "paragraph")])
+
+    def test_lines_are_centred_and_the_verso_set_apart(self):
+        names = rh.file_names(self.book, ".html")
+        html_ = rh.Ctx(self.book, "web", names).blocks(rh.reading_divisions(self.book)[0])
+        self.assertTrue(html_.startswith('<div class="titlepage">'))
+        self.assertIn('<p class="right">', html_)
+        self.assertEqual(html_.count('<div class="tp-verso"></div>'), 1)
+        x = zipfile.ZipFile(__import__("io").BytesIO(render_odt.render(self.book, None))).read("content.xml").decode()
+        self.assertIn('<text:p text:style-name="Centered">BY A. TRAVELLER</text:p>', x)     # unmarked line: centred
+        self.assertLess(x.index("PRINTED BY B. AND CO."), x.index("Travel Books edition"))  # then the note, the contents
+        self.assertNotIn('text:style-name="Title"', x)                                      # no title page made from the metadata
+        z = zipfile.ZipFile(__import__("io").BytesIO(render_epub.render(self.book, "")))
+        opf = z.read("OEBPS/content.opf").decode()
+        self.assertLess(opf.index('<itemref idref="c01"/>'), opf.index('<itemref idref="title"/>'))
+        self.assertIn('epub:type="titlepage"', z.read("OEBPS/text/01.xhtml").decode())
+
+    def test_body_start_is_the_first_chapter(self):
+        self.assertEqual(rh.body_start(self.book)["title"], "Chapter I")
+        b2, _ = comp(self.PAGES, divisions=self.DIVS[1:2])                  # "# Preface." left as a chapter: named in book.json
+        self.assertEqual(rh.body_start(b2)["title"], "Preface")
+        b3, _ = comp(self.PAGES, divisions=self.DIVS[1:2], body_start="p0005")
+        self.assertEqual(rh.body_start(b3)["title"], "Chapter I")
+
+    def test_paragraph_after_a_picture_is_indented(self):
+        """*Zephyrus*: "In the Banda Oriental…" stood flush left after a picture; the scan indents it."""
+        ch = rh.reading_divisions(self.book)[-1]
+        html_ = rh.Ctx(self.book, "web", rh.file_names(self.book, ".html")).blocks(ch)
+        self.assertIn('<p class="first">We set out.</p>', html_)
+        self.assertIn("<p>The cart was slow. and we walked.</p>", html_)
+        x = zipfile.ZipFile(__import__("io").BytesIO(render_odt.render(self.book, None))).read("content.xml").decode()
+        self.assertIn('<text:p text:style-name="Text_20_body">The cart was slow.', x)
+
+    def test_preflight_lists_a_book_without_its_title_page(self):
+        self.assertEqual(preflight.check_title_page(self.book), [])
+        b2, _ = comp(self.PAGES[3:])
+        self.assertEqual(len(preflight.check_title_page(b2)), 1)
+        self.assertEqual(preflight.CHECKS["title-page"][0], "observe")
+
+
+class SplitSections(unittest.TestCase):
+    """Tom, 2026-11-22: a body text without chapters (the *Rajah of Kolhapoor* diary) is read in sections, each a
+    page with a title; the JSON keeps the division whole. Invented text."""
+    PAGES = ["[[page 1]]\n# Diary.\n\n1st.—Left home.[[fnref *]]\n\n2nd.—Rain.\n\n[[fn *]] By coach.",
+             "[[page 2]]\n3rd.—At sea.[[fnref *]]\n\n4th.—Landed.\n\n[[fn *]] A steamer.",
+             "[[page 3]]\n5th.—In town.\n\n# Appendix.\n\nPapers."]
+    TOC = [{"at": "p0001", "starts": "1st.", "title": "1–2 May: the road"}, {"at": "p0002", "starts": "3rd.", "title": "3–4 May: the sea"},
+           {"at": "p0003", "starts": "5th.", "title": "5 May: the town"}]
+
+    def test_short_division_is_not_split_and_a_long_one_is(self):
+        book, w = comp(self.PAGES, toc_entries=self.TOC)
+        self.assertNotIn("split", book["divisions"][0])
+        self.assertEqual(len(rh.reading_divisions(book)), 2)
+        long_ = [self.PAGES[0], self.PAGES[1], self.PAGES[2].replace("# Appendix", "\n\n".join(["Words and more words. " * 80] * 40) + "\n\n# Appendix")]
+        book, w = comp(long_, toc_entries=self.TOC)
+        self.assertTrue(book["divisions"][0]["split"])
+        book, w = comp(long_, toc_entries=self.TOC, divisions=[{"at": "p0001", "split": False}])
+        self.assertNotIn("split", book["divisions"][0])
+
+    def test_sections_become_pages_with_their_notes_and_titles(self):
+        book, w = comp(self.PAGES, toc_entries=self.TOC, divisions=[{"at": "p0001", "split": True}])
+        self.assertEqual(w, [])
+        self.assertEqual(len(book["divisions"][0]["blocks"]), 6)               # the JSON: one division, whole
+        rd = rh.reading_divisions(book)
+        self.assertEqual([(d["id"], d["title"], d.get("added")) for d in rd],
+                         [("d001", "1–2 May: the road", None), ("d001-2", "3–4 May: the sea", "3–4 May: the sea"),
+                          ("d001-3", "5 May: the town", "5 May: the town"), ("d002", "Appendix", None)])
+        self.assertEqual([[n["text"] for n in d["notes"]] for d in rd[:3]], [["By coach."], ["A steamer."], []])
+        names = rh.file_names(book, ".html")
+        self.assertEqual(rh.toc_tree(book)[0], ("Diary", "d001", None, [("1–2 May: the road", "d001", None, []),
+                         ("3–4 May: the sea", "d001-2", None, []), ("5 May: the town", "d001-3", None, [])]))
+        ctx = rh.Ctx(book, "web", names)
+        self.assertIn('<p class="first">1st.', ctx.blocks(rd[0]))
+        second = ctx.blocks(rd[1])
+        self.assertTrue(second.startswith("<p><"), second[:40])         # runs on: indented, with its page number
+        self.assertNotIn("3–4 May", second)                                     # the added title is not in the book's text
+        self.assertIn('href="#d001-n2"', second)
+        x = zipfile.ZipFile(__import__("io").BytesIO(render_odt.render(book, None))).read("content.xml").decode()
+        self.assertIn('<text:h text:style-name="Added_20_Heading" text:outline-level="2"><text:bookmark text:name="div-d001-2"/>3–4 May: the sea</text:h>', x)
+        z = zipfile.ZipFile(__import__("io").BytesIO(render_epub.render(book, None)))
+        self.assertIn('<h2 class="added">3–4 May: the sea</h2>\n<section epub:type="chapter">', z.read("OEBPS/text/02.xhtml").decode())
+
+    def test_text_before_the_first_section_is_a_page_under_the_division_title(self):
+        toc = self.TOC[1:]
+        book, _ = comp(self.PAGES, toc_entries=toc, divisions=[{"at": "p0001", "split": True}])
+        self.assertEqual([d["title"] for d in rh.reading_divisions(book)], ["Diary", "3–4 May: the sea", "5 May: the town", "Appendix"])
+
+
+class SerialCommas(unittest.TestCase):
+    """Tom, 2026-11-22: text written for the site has serial commas and curly quotation marks."""
+
+    def test_candidates_listed(self):
+        cfg = {"summary": "He saw Java, Singapore and Hong Kong. In 1870, he left.", "notes_on_text": ["Tea, silk, and rice."],
+               "toc_entries": [{"at": "p1", "title": "London, Paris and Rome"}, {"at": "p2", "title": "A, B and C", "editor": False}]}
+        items = preflight.check_serial_commas(cfg)
+        self.assertEqual(len(items), 2)
+        self.assertEqual(preflight.CHECKS["serial-commas"][0], "observe")
+
+    def test_markdown_pages_curl_quotes_but_not_code(self):
+        d = tempfile.mkdtemp()
+        src = os.path.join(d, "x.md")
+        open(src, "w", encoding="utf-8").write("# T\n\nThe book's \"title\" and `{\"a\": 'b'}`.\n\n```\n\"k\": 'v'\n```\n")
+        build_site.md_page(d, "x.html", "T", src)
+        h = open(os.path.join(d, "x.html"), encoding="utf-8").read()
+        self.assertIn("The book’s “title” and <code>{\"a\": 'b'}</code>.", h)
+        self.assertIn("<pre><code>\"k\": 'v'</code></pre>", h)
+        shutil.rmtree(d)
+
+    def test_home_page_counts_the_books_and_has_no_visible_title(self):
+        d = tempfile.mkdtemp()
+        build_site.build_index(d, "", 54)
+        h = open(os.path.join(d, "index.html"), encoding="utf-8").read()
+        self.assertIn("downloaded as EPUB, ODT, or JSON. The site now contains 54 books, with more being added every day.</p>", h)
+        self.assertIn('<p><a href="about.html">More about the project.</a></p>', h)
+        self.assertLess(h.index("than about other countries.</p>"), h.index("More about the project."))
+        self.assertNotIn("<h1>", h)
+        shutil.rmtree(d)

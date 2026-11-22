@@ -73,7 +73,11 @@ one book where possible, and stops by its context budget (`RESUME.md` §3, `tool
 - **Tools change only with tests.** `tools/run_tests.sh` at the start of a working session and after any edit
   under `tools/`; every tool bug fixed gets a test in the same commit.
 - **Site text is plain.** Summaries, notes and page text say what a thing is, in ordinary words: no praise,
-  no selling, no "fascinating", no claims the book does not support. `notes/style.md` §Site text.
+  no selling, no "fascinating", no claims the book does not support; serial commas and curly quotation marks
+  (Tom, 2026-11-22). `notes/style.md` §Site text.
+- **The reading editions begin with the book's title page**, transcribed as printed; what stands before it is
+  left out. A long text without chapters is divided into titled sections, a page each; the JSON keeps the
+  book's own structure (Tom, 2026-11-22; `notes/style.md` §Editions).
 - **The site has no external dependencies**: no web fonts, scripts, trackers or CDNs. The only outside content
   is links to IA and the optional IA page viewer (an iframe that loads when the reader opens it).
 - **Unfinished work is committed and pushed** as it goes: model runs and page text under `wip/<slug>/`, state

@@ -37,8 +37,8 @@
  "toc_entries": [{"at": "p0043", "starts": "15th.—", "title": "15–30 June: London; Oxford and Windsor"}],
                                         entries inside a division: the block starting on page `at` whose plain text
                                         starts with `starts`; "editor": false for a title taken from the printed contents
- "frontispiece": "p0010-1",               image moved from the front matter to the start of the first reading division
-                                        after it; a list for a work in several volumes, one per volume
+ "frontispiece": "p0010-1",               image moved from the front matter (before the title page) to the title page,
+                                        after the text of its first leaf (or to the first reading division after it); a list for a work in several volumes, one per volume
  "ornaments": ["p0021-1", "p0039-1"],   decorative head-pieces and tail-pieces (the [[image:]] ids): cropped like any
                                         picture (`images/pNNNN-k.jpg`), shown small in the editions; a head-piece
                                         printed above a `#` heading on the same page opens that division (Tom, 2026-11-20)
@@ -48,9 +48,16 @@
 }
 ```
 `divisions` entries: `{"at": "p0013", "kind": "contents"}`; optional `title`, `toc_title` (the contents entry, when
-it should differ from the title), `reading` (true/false), `n` (the n-th division starting on that page). Kinds: front, titlepage, dedication, preface, contents, illustrations,
+it should differ from the title), `reading` (true/false), `n` (the n-th division starting on that page), `split`
+(true/false: whether the reading editions give each of the division's `toc_entries` a page of its own; default: when
+the division has two or more entries and over 50,000 characters, `compile_book.SPLIT_CHARS`). Kinds: front, titlepage, dedication, preface, contents, illustrations,
 introduction, part, chapter, appendix, notes, glossary, index, errata, advertisements, back. Left out of the
-reading editions by default: front, titlepage, contents, illustrations, index, errata, advertisements, back.
+reading editions by default: front, contents, illustrations, index, errata, advertisements, back. **Every book has a
+`titlepage` entry** (the title page and its verso; title "Title Page"): it is the first page of the editions, and any
+division before it is left out whatever its `reading` says (preflight `title-page`). A `#` heading that is not a chapter
+(an editor's Introduction, a Preface typed as `#`) needs its kind here, because **the picture on the book's page links to
+the first division of kind `chapter`** (`"body_start": "p0041"` at the top level names another page of the editions by
+its first leaf, if ever needed).
 A `#` division with headings only (and a `[[subtitle]]`) becomes a `part` and the chapters after it nest under it.
 How the contents are decided for a book: `workflow.md` stage 4 "Contents".
 

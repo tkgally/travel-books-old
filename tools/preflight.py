@@ -627,7 +627,7 @@ def check_image_splits(book):
     """Review 2026-11-20 (*South by West* v1: four paragraphs split mid-sentence by an engraving)."""
     items = []
     for d in book["divisions"]:
-        if not d.get("reading"):
+        if not d.get("reading") or d.get("kind") == "titlepage":   # a title page's lines are not sentences
             continue
         last, pic = None, False   # the last paragraph; whether only pictures have stood since it
         for b in d["blocks"]:

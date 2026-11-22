@@ -497,6 +497,10 @@ def book_page(book, names, has_cover=False, kind=None):
     # the picture is a link to the start of the narrative, its heading at the top of the window; "Read on this
     # site" goes to the first page of the book, the title page (Tom, 2026-11-22; before: both to the first page)
     cover = f'<img class="cover" src="images/cover.jpg" alt="{COVER_ALT.get(kind, COVER_ALT["cover"])}"/>' if has_cover else ""
+    # sections made for this edition (render_html.split_division): say that their titles are not the book's
+    added = (" A long text that the book does not divide is given here in sections, each on a page of its own; "
+             "the titles of the sections were added for this edition."
+             if any(u.get("added") for u in rh.reading_divisions(book)) else "")
     start = rh.body_start(book)
     if cover and start:
         cover = f'<a class="cover" href="{names[start["id"]]}#{START_ID}" title="Start reading">{cover}</a>'
@@ -520,7 +524,7 @@ def book_page(book, names, has_cover=False, kind=None):
 <div class="tablewrap"><table class="bib">{"".join(rows)}</table></div>
 <h2 id="text">The text</h2>
 <p>Transcribed from the scan ({npages} pages with text or pictures) with the spelling, punctuation, and wording of the original;
-spaces around punctuation follow modern practice. {esc(book.get("omitted_from_reading", ""))}</p>
+spaces around punctuation follow modern practice. {esc(book.get("omitted_from_reading", ""))}{added}</p>
 {f'<ul>{notes}</ul>' if notes else ''}
 {f'<h3>Printer’s errors corrected</h3><div class="tablewrap"><table class="doc"><thead><tr><th scope="col">Page</th><th scope="col">Printed</th><th scope="col">Corrected to</th></tr></thead><tbody>{corr_rows}</tbody></table></div>' if corr else '<p>No corrections were made to the printed text.</p>'}
 {f'<h3>Versions</h3><ul>{hist}</ul>' if hist else ''}

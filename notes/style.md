@@ -48,7 +48,8 @@ change at the foot, and see `workflow.md` §"New version" for when earlier books
 
 | Part | JSON | HTML / EPUB / ODT |
 |---|---|---|
-| Cover, half-title, title page, imprint, frontispiece caption | yes (kind `front`/`titlepage`) | a generated title page; the frontispiece itself is shown at the start of the first reading division |
+| Cover, half-title, anything else before the title page | yes (kind `front`) | no |
+| Title page and its verso (kind `titlepage`) | yes | yes: the first page of the editions (Tom, 2026-11-22), every line centred unless marked `[[right]]`; the frontispiece follows the title page's first leaf; then, in the EPUB and ODT, a note on this edition and the contents |
 | Dedication, preface, introduction, chapters, appendices, author's notes, glossary | yes | yes |
 | Printed contents, list of illustrations | yes | no (a generated contents replaces them, decided book by book: `workflow.md` stage 4 "Contents") |
 | Index | yes, page numbers tagged `<pref>` | no |
@@ -70,7 +71,13 @@ left out of the reading editions if it is not narrative; say so.
   chapter summary; a table set all in italic. "Wholly" = at least 90% of its letters; the few words the print
   set in roman inside such a passage, for contrast, become italic. Shorter italics stay. The thresholds are
   mine: change them in one place if books show they are wrong.
-- Web: one page per division; page numbers of the printed book hidden until the reader asks, each linking to
+- **A long text that the book does not divide** (a diary, a run of letters, one long chapter) is read in sections, each
+  a page of its own with a title of the editor's (Tom, 2026-11-22): the `toc_entries` of the division, which the compiler
+  marks `"split": true` when it is long (`book-json.md`). The title is shown as a heading that is not the book's (italic,
+  outside the text); the JSON keeps the division whole.
+- **Paragraph indents follow the scan** (Tom, 2026-11-22): a paragraph after a picture is indented like any other; the
+  first paragraph after a heading, a break, a quotation, verse or a table is not.
+- Web: one page per division (or section of a split division); page numbers of the printed book hidden until the reader asks, each linking to
   that page of the scan at IA.
 - EPUB: EPUB 3, epubcheck-clean, page list, pop-up footnotes. ODT: real footnotes, bookmarks at page starts.
 
@@ -86,6 +93,11 @@ Plain and minimal. Say what the thing is; a reader should learn the facts and de
 - Titles in the lists: short title, author, year. Regions as plain modern names, with the period name in
   `notes_on_text` if it helps.
 - No exclamation marks, no second person, no calls to action beyond the link itself.
+- **Serial commas, and curly apostrophes and quotation marks** (Tom, 2026-11-22), in everything written for the site:
+  summaries, notes on the text, contents entries of the editor's, history notes, the About page, the text in
+  `build_site.py`. “Java, Singapore, and Hong Kong”; not in words quoted from a book or titles taken from print, and not
+  in code excerpts (the JSON format page). Preflight: `site-text` (straight quotes, enforced), `serial-commas` (observe:
+  read each item; pairs after a comma are not lists). The Markdown pages are curled by the builder outside `code`.
 
 ## Changes
 
@@ -93,3 +105,4 @@ Plain and minimal. Say what the thing is; a reader should learn the facts and de
 - 2026-11-19: headings, chapter titles and captions in upper and lower case, not as printed in capitals (no book yet published, none to redo).
 - 2026-11-19: long italic passages roman in the built versions, italic in the JSON.
 - 2026-11-20: text lost in the scan: `[[supplied …]]` and `[[gap]]` (Tom).
+- 2026-11-22: the title page opens the editions; long undivided texts in sections; indents after pictures; serial commas (Tom). Applied to all 54 books by the tools; no book version changed.

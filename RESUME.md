@@ -67,10 +67,16 @@ every finished piece of work and every checkpoint**, and write its line in the b
 
 | The meter says | Then |
 |---|---|
-| under **40%**, never summarized | take the next piece of work from §2, a new book included |
-| **40% to 60%**, never summarized | no new book. Finish the book in hand if it is at stage (c) or close to it; otherwise bring it to its next checkpoint. Small work that needs little reading may still be done (an erratum, vetting candidates by subagents) |
-| over **60%**, or summarized at any time | finish the step in hand, checkpoint, and close the session (§5) |
+| under **50%**, never summarized | take the next piece of work from §2, a new book included |
+| **50% to 65%**, never summarized | no new book. Finish the book in hand if it is at stage (c) or close to it; otherwise bring it to its next checkpoint. Small work that needs little reading may still be done (an erratum, vetting candidates by subagents) |
+| over **65%**, or summarized at any time | finish the step in hand, checkpoint, and close the session (§5) |
 
+- The figures were 40% and 60% until 2026-11-22, when Tom asked for 50% or 60% if accuracy is in no danger. They
+  are safe because the reading that decides accuracy (drafts, corrections, judge, audit, spot-reads) is done by
+  headless calls and subagents that start empty, not in this conversation. What a full conversation risks is the
+  session's own judgement late on (structure, contents, the checks of candidates on crops): so above 50% do not
+  skip or shorten a step of `workflow.md`, and the reviews compare the books begun above 40% with the earlier ones
+  (`notes/improvement.md`); if their audits or errata are worse, go back to 40%.
 - **At least one piece of work is done in every session**, whatever the meter says at the start.
 - **No meter** (it finds no transcript): at most two books published or one long book advanced, then close.
 - **After a summary** the earlier conversation is gone from view: read this file's §4 and §5 and the book's log

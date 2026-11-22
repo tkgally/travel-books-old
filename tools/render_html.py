@@ -259,8 +259,9 @@ class Ctx:
         for bi, b in enumerate(div["blocks"]):
             n0 = len(body)
             t = b["type"]
-            newleaf = tp and leaf0 is not None and b["leaf"] != leaf0   # the verso of the title page: set apart
-            leaf0 = b["leaf"]
+            # the verso of the title page is set apart (a frontispiece moved here from an earlier leaf is not a verso)
+            newleaf = tp and leaf0 is not None and b["leaf"] > leaf0
+            leaf0 = max(leaf0 or "", b["leaf"])
             pbs = "".join(self.pb(p["n"], p["leaf"]) for p in b.get("pb", []))
             if t == "heading":
                 lv = b["level"]
