@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "on much the\n\n[[image: photograph of a funeral procession passing along a village street, with bearers carrying paper flowers and umbrellas beside a jinrikisha]]\n[[caption]] A Buddhist Funeral in Humble Life.\n\n[[cont]]same level o", "sure": "high"}
+{"n": 2, "is": "A", "print": "prospects.", "sure": "high"}

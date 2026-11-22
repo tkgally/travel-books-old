@@ -1,0 +1,3 @@
+Caption is "Reiheishi" in the draft vs "REIHEISHI" in the image: it matches. The text after the image continues the paragraph, so the `[[cont]]` is correct.
+
+NONE

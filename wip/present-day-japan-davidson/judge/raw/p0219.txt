@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": " sarcophagus\n\n[[image: photograph of a temple gate and roofs among tall trees in a wooded precinct]]\n[[caption]] Gate leading to precincts of Iemitsu.\n\n[[cont]]or gate;", "sure": "high"}
+{"n": 2, "is": "B", "print": "the trees.\n\nBut", "sure": "high"}

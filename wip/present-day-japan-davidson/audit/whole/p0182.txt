@@ -1,0 +1,5 @@
+{"given": "half hiding the gray roofs within", "print": "half hiding the grey roofs within", "sure": "high"}
+{"given": "the roofs and pagodas of sevcral ecclesiastical", "print": "the roofs and pagodas of several ecclesiastical", "sure": "high"}
+{"given": "the pale tints of spring the masses", "print": "the pale tints of spring and the masses", "sure": "high"}
+{"given": "well-known shop were she meant", "print": "well-known shop where she meant", "sure": "high"}
+{"given": "She had a Japanese guide; like", "print": "She had a Japanese guide, like", "sure": "high"}

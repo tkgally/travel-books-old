@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "f I cared to\n\n[[image: A roofed temple gate among pine trees, with a figure standing in the gateway and steps beyond]]\n[[caption]] Gate at one of the Shiba Temples.\n\n[[cont]]come to it", "sure": "high"}
+{"n": 2, "is": "B", "print": "ions. I have", "sure": "high"}

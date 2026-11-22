@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "much like\n\n[[image: photograph of people in Japanese outdoor dress walking along a paved path towards a large temple gate among trees]]\n[[caption]] Outdoor Costume (in Shiba Park).\n\n[[cont]]the kimono, ", "sure": "high"}
+{"n": 2, "is": "B", "print": "arment which", "sure": "high"}

@@ -1,0 +1,7 @@
+{"find": "such as Siddartha or", "replace": "such as Siddartha or"}
+
+Wait, the scan reads "Siddartha". Checking the other differences in the image: "some personifications of various" matches the draft. I'll also check the "Kami", "Rising Sun" and "Fudo" words, which match.
+
+{"find": "Siddartha", "replace": "Siddartha"}
+
+NONE

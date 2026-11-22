@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "any of these\n\n[[image: A thatched two-storey tea-house beside a road with a wooden fence, trees behind, and two figures walking]]\n[[caption]] A Wayside Tea-House.\n\n[[cont]]exalted pers", "sure": "high"}
+{"n": 2, "is": "A", "print": "live in an", "sure": "high"}

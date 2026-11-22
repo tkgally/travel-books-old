@@ -1,0 +1,5 @@
+{"given": "At last we stopped the long, covered", "print": "At last we stopped in the long, covered", "sure": "high"}
+{"given": "rather dark, but otherwize about as", "print": "rather dark, but otherwise about as", "sure": "high"}
+{"given": "the merit of nor attempting elaborate", "print": "the merit of not attempting elaborate", "sure": "high"}
+{"given": "of ugliness than the attcmpt to adorn", "print": "of ugliness than the attempt to adorn", "sure": "high"}
+{"given": "proper thing to say about Japan; but that sound", "print": "proper thing to say about Japan, but that sound", "sure": "high"}

@@ -1,0 +1,4 @@
+I checked both spots against the scan: the picture sits in the middle of the text, between "seeing that" and "after all", not after "have not passed". The caption is printed in small capitals.
+
+{"n": 1, "is": "B", "print": "seeing that\n\n[[image: A torii standing in the water, with pine trees in front and a lake with hills behind]]\n[[caption]] A Ryobu Shinto Torii.\n\n[[cont]]after all", "sure": "high"}
+{"n": 2, "is": "A", "print": "e not passed", "sure": "high"}

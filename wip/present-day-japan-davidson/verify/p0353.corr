@@ -1,0 +1,5 @@
+{"find": "Ronin (drama), <pref>325</pref>", "replace": "Ronin (drama), <pref>325</pref>"}
+
+Wait, that find text matches the draft, so it changes nothing. Corrected list:
+
+{"find": "Forty-seven Ronin (drama), <pref>325", "replace": "Forty-seven Ronin (drama), <pref>325"}

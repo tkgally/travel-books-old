@@ -1,0 +1,2 @@
+{"n": 1, "is": "A", "print": "k, somewhere\n\n[[image: photograph of actors in costume on a dimly lit theatre stage]]\n[[caption]] Scene on the Stage of Meiji Theatre, Tokyo.\n\n[[cont]]up in the ba", "sure": "high"}
+{"n": 2, "is": "A", "print": "h the actors", "sure": "high"}

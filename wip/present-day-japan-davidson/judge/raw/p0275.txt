@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "a stage, and\n\n[[image: Photograph of a group of Japanese officers in uniform on a railway platform beside a train, with a footbridge behind]]\n[[caption]] Group of Japanese Officers.\n\n[[cont]]Japan no les", "sure": "high"}
+{"n": 2, "is": "A", "print": "but he", "sure": "high"}

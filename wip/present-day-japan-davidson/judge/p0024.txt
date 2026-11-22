@@ -1,0 +1,14 @@
+[[page xiv]]
+
+<sc>gate at one of the shiba temples</sc> <pref>302</pref>
+
+<sc>tokugawa crest</sc> <pref>303</pref>
+
+<sc>poster outside a kyoto theatre: scenes from the play within</sc> <pref>307</pref>
+
+<sc>scene on the stage of meiji theatre, tokyo</sc> <pref>311</pref>
+
+<sc>danjuro</sc> <pref>314</pref>
+
+[[image: Painting of an iris garden in bloom, with a path and steps leading up to pine trees on a hill]]
+[[caption]] In an Iris Garden.

@@ -1,0 +1,1 @@
+{"n": 1, "is": "A", "print": "[[caption]] <sc>coolie in complete costume. (ruins of oriental hotel, yokohama.)</sc>", "sure": "medium"}

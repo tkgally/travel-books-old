@@ -1,0 +1,3 @@
+{"n": 1, "is": "A", "print": "Nirvâna", "sure": "medium"}
+{"n": 2, "is": "A", "print": "Or again\n\n[[image: Photograph of figures crossing a log bridge over a stony river-bed, with a wooded hill behind]]\n[[caption]] The Flowing Invocation.\n\n[[cont]]in some lone", "sure": "high"}
+{"n": 3, "is": "B", "print": "rn the cloth", "sure": "high"}
