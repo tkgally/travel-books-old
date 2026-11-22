@@ -1,0 +1,5 @@
+{"given": "not his brains, but this legs.", "print": "not his brains, but his legs.", "sure": "high"}
+{"given": "the benumbing, paralyziug, slightly narcotic", "print": "the benumbing, paralyzing, slightly narcotic", "sure": "high"}
+{"given": "seem only to inflame thirst; one long drink", "print": "seem only to inflame thirst, one long drink", "sure": "high"}
+{"given": "food spoils its flavor and effects.", "print": "food spoils its flavour and effects.", "sure": "high"}
+{"given": "only a thirst-quenching exhilarating pleasure, but", "print": "only a thirst-quenching and exhilarating pleasure, but", "sure": "high"}

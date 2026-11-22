@@ -1,0 +1,5 @@
+{"given": "pride in self and country; and sublime", "print": "pride in self and country, and sublime", "sure": "high"}
+{"given": "a young cocoannt brimming over", "print": "a young cocoanut brimming over", "sure": "high"}
+{"given": "So tupito approaches, bending low", "print": "So Tupito approaches, bending low", "sure": "high"}
+{"given": "my life nor being insured", "print": "my life not being insured", "sure": "high"}
+{"given": "and toss bowl proudly on the", "print": "and toss the bowl proudly on the", "sure": "high"}

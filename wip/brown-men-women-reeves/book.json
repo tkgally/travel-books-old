@@ -100,7 +100,8 @@
   "A corner of p. 17 is torn away in the scan used; the lost words were read from the University of California copy.",
   "Quoted passages printed in smaller type, among them most of the yarns of Chapter II, are set off as quotations.",
   "“Excerpts from Tongan Official Documents” is printed in small type along the foot of pp. 268–286, under the text of Chapter X, as a second, separate text; the author calls it “a concurrent and correlative substatement”. Here it follows Chapter X as a section of its own, with the printed page numbers. The small raised numbers in Chapter X refer to the numbers in parentheses in these excerpts.",
-  "Tables that belong to footnotes on pp. 25 and 111 follow the text of their page."
+  "Tables that belong to footnotes on pp. 25 and 111 follow the text of their page.",
+  "Two footnotes printed in two paragraphs (pp. 30 and 289) are given as one paragraph each."
  ],
  "history": [
   {
@@ -129,5 +130,13 @@
    "match": "p0143",
    "why": "The sentence resumes after the four pages of printed music (pp. 133–136, given as pictures)."
   }
- ]
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
 }

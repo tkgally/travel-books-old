@@ -1,0 +1,5 @@
+{"given": "was much devotcd to his master", "print": "was much devoted to his master", "sure": "high"}
+{"given": "impressed by date stamps; and so", "print": "impressed by date stamps, and so", "sure": "high"}
+{"given": "the stamp of labor and European", "print": "the stamp of labour and European", "sure": "high"}
+{"given": "and flowering shrubs up again to", "print": "and flowering shrubs and up again to", "sure": "high"}
+{"given": "there are on this 2000 acres", "print": "there are on his 2000 acres", "sure": "high"}
