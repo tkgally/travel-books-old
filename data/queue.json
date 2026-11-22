@@ -1217,6 +1217,66 @@
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Open Library: the 1853 edition and print on demand (Kessinger, Creative Media) only. Strain 1821–1857. No illustrations. Not checked: WorldCat.",
    "note": "Library of Congress scan, 500 ppi. Plain single volume, 18 chapters, no plates. 1849: from the USS Lexington at Valparaíso by mule to Santiago, over the Andes by Uspallata to Mendoza, across the pampas to Buenos Aires, then by a leaking brig, with fever, to Rio. A plain, wry naval voice."
+  },
+  {
+   "order": 67,
+   "ia": "threeyearsinmelb00aspirich",
+   "slug": "three-years-melbourne-aspinall",
+   "title": "Three Years in Melbourne",
+   "author": "Clara Aspinall",
+   "year": 1862,
+   "place": "London",
+   "publisher": "L. Booth",
+   "images": 324,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv or Project Gutenberg Australia; The Online Books Page: HathiTrust page images only; Wikisource: only entries on her brother; web search of a sentence: nothing. Open Library: 1862, print on demand (Creative Media 2023, Legare Street 2023). Rule 5: death date not found; she spent about 1858–61 in Melbourne as an adult in society, visiting her brother Butler Cole Aspinall (1830–1875), so born before about 1840. Not checked: Faded Page (script-only search), WorldCat, Trove.",
+   "note": "University of California scan, 600 ppi, plain text, no plates seen. Arrival and first impressions of Melbourne (society, servants, prices, churches, children); a coach trip up-country to Avoca, Castlemaine, Kyneton and Mount Macedon; Chinese diggers; the voyage home past icebergs. Chatty and observant. One chapter of emigrant advice."
+  },
+  {
+   "order": 68,
+   "ia": "sunnyaustraliaim00marsiala",
+   "slug": "sunny-australia-marshall",
+   "title": "Sunny Australia: Impressions of the Country and People",
+   "author": "Archibald Marshall",
+   "year": 1911,
+   "place": "London",
+   "publisher": "Hodder and Stoughton",
+   "images": 362,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv has his novels and A Spring Walk in Provence, not this book; The Online Books Page, Wikisource: nothing; Open Library: 1911 only; web search for a reprint or a sentence: nothing. Marshall 1866–1934. Preface by Sir George Reid (1845–1918). Photographs probably uncredited (check at the scan check). Not checked: WorldCat, Trove.",
+   "note": "University of California scan, 400 ppi; Toronto sunnyaustraliaim00mars (300 ppi) as backup. About 30 photographic plates. A novelist sent by the Daily Mail in 1909 for five months across the six states: the voyage, a home station, sugar, out west, Barren Jack dam, shearing, Mildura, Tasmania, Port Arthur, Kalgoorlie. Part I a looking-back memoir; some chapters more reportage (wheat, dairying, orchards)."
+  },
+  {
+   "order": 69,
+   "ia": "throughatollsisl00mossuoft",
+   "slug": "through-atolls-islands-moss",
+   "title": "Through Atolls and Islands in the Great South Sea",
+   "author": "Frederick J. Moss",
+   "year": 1889,
+   "place": "London",
+   "publisher": "Sampson Low, Marston, Searle, & Rivington",
+   "images": 380,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page: HathiTrust page images only; Wikisource: only his Dictionary of Australasian Biography entry; web search of a sentence: nothing. Open Library and web: print on demand only (Creative Media, Forgotten Books). Moss 1827/28–1904 (DNZB). Photographs by Thomas Andrew (1855–1939). Not checked: WorldCat.",
+   "note": "Toronto (Robarts) scan, 400 ppi, plain layout; some photographs (count not checked). A New Zealand MP's seven-month voyage in 1886–87 in the trading schooner Buster: Niue, Christmas Island, Suwarrow, Manihiki, the Marshalls and Jaluit; traders, a French ex-soldier, King Aporo, native missionaries; opinions on mission rule. Some passages on coral formation."
+  },
+  {
+   "order": 70,
+   "ia": "brownmenwomenors00reevuoft",
+   "slug": "brown-men-women-reeves",
+   "title": "Brown Men and Women; or, The South Sea Islands in 1895 and 1896",
+   "author": "Edward Reeves",
+   "year": 1898,
+   "place": "London",
+   "publisher": "Swan Sonnenschein & Co.",
+   "images": 312,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page: HathiTrust page images only; Wikisource: nothing; web search of a sentence: nothing; Open Library: print on demand only (Creative Media, Franklin Classics, Forgotten Books). Rule 5: death date uncertain (1912 or 1925); an adult on the Hokitika goldfields about 1865, so born before about 1845. About 60 photographs, makers not identified. Not checked: WorldCat.",
+   "note": "Toronto scan, 400 ppi. About 60 illustrations and a map (perhaps folded: check). A New Zealand colonist's steamer tour, chapter by chapter: Tonga, Samoa (Stevenson's house), Fiji, Rarotonga and Aitutaki, Tahiti and Raiatea; chiefs and a queen, Bully Hayes. Much interest in island women, in the manner of its time. Two short statistical or law chapters."
   }
  ],
  "rejected": [
@@ -1678,6 +1738,61 @@
   {
    "title": "C. Barrington Brown, Canoe and Camp Life in British Guiana (1876)",
    "why": "the only IA copy is india.history.resource.84945 (2nd ed.); no library scan",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Hugh Hastings Romilly, The Western Pacific and New Guinea (1886), westernpacificne00romi",
+   "why": "rule 2 not settled: pngaa.org hosts a PDF of the book (could not be opened: probably a scan); also more topical than narrative. A reserve",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Ellis Rowan, A Flower-Hunter in Queensland & New Zealand (1898), flowerhunterinq00rowa",
+   "why": "reprinted by Angus & Robertson 1991",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Mrs Edward Millett, An Australian Parsonage (1872), australianparson00mill",
+   "why": "UWA Press facsimile 1980",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Walter Coote, Wanderings, South and East (1882), wanderingssouthe00cootuoft",
+   "why": "author's dates not found; birth before 1856 cannot be shown",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "H. Butler Stoney, A Residence in Tasmania (1856), aresidenceintas01stongoog",
+   "why": "1982 Melanie Publications reprint; Google scan",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Thomas Atkins, Reminiscences of Twelve Years' Residence in Tasmania and New South Wales (1869), cihm_04093",
+   "why": "1980 reprint; microfiche scan",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Kerry-Nicholls, The King Country (1884)",
+   "why": "on Project Gutenberg",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Gordon Cumming, At Home in Fiji; A Lady's Cruise in a French Man-of-War",
+   "why": "on Project Gutenberg",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Grimshaw, In the Strange South Seas; Stoddard; Fanny Stevenson; La Farge; Thomson, Savage Island; Bennett; Ritchie, An Australian Ramble; Ballou; Tangye; Martineau; Wintle",
+   "why": "on Project Gutenberg",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Mrs Smythe, Ten Months in the Fiji Islands (1864), tenmonthsinfiji00unkngoog",
+   "why": "only a Google scan, with colour plates",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Boddam-Whetham, Pearls of the Pacific (1876), aja1713.0001.001.umich.edu",
+   "why": "not vetted; same author as Western Wanderings, set aside for variety",
    "checked": "2026-11-22"
   }
  ]
