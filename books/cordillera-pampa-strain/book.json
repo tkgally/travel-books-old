@@ -1,0 +1,113 @@
+{
+ "id": "cordillera-pampa-strain",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Cordillera and Pampa, Mountain and Plain",
+ "subtitle": "Sketches of a Journey in Chili, and the Argentine Provinces, in 1849",
+ "short_title": "Cordillera and Pampa",
+ "authors": [
+  {
+   "name": "Isaac G. Strain",
+   "sort": "Strain, Isaac G.",
+   "born": 1821,
+   "died": 1857
+  }
+ ],
+ "place": "New York",
+ "publisher": "Horace H. Moore",
+ "year": 1853,
+ "edition_statement": "First edition",
+ "regions": [
+  "Chile",
+  "Argentina"
+ ],
+ "period": "1849",
+ "source": {
+  "ia_identifier": "cordillerapampa00stra",
+  "contributor": "The Library of Congress",
+  "extra_leaves": {
+   "p0100a": {
+    "ia_identifier": "cordilleraandpa01stragoog",
+    "n": 100,
+    "what": "p. 95, missing from the LoC scan (pp. 93–94 scanned twice)"
+   },
+   "p0100b": {
+    "ia_identifier": "cordilleraandpa01stragoog",
+    "n": 101,
+    "what": "p. 96, missing from the LoC scan"
+   }
+  }
+ },
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "waivers": [
+  {
+   "check": "leaves",
+   "match": "p0099",
+   "why": "a second scan of p. 93 (p0097) in place of p. 95: left out"
+  },
+  {
+   "check": "leaves",
+   "match": "p0100",
+   "why": "a second scan of p. 94 (p0098) in place of p. 96: left out; pp. 95–96 are p0100a and p0100b, from another scan"
+  }
+ ],
+ "subjects": [
+  "Chile",
+  "Argentina",
+  "Andes",
+  "pampas",
+  "naval officers"
+ ],
+ "summary": [
+  "Isaac G. Strain, a lieutenant of the United States Navy, arrived at Valparaiso from San Francisco in February 1849 and made a journey overland to the Atlantic. He rode to Santiago, crossed the Andes to Mendoza, and galloped across the pampas by San Luis and Rio Quarto to Buenos Ayres.",
+  "Several chapters describe Valparaíso and Santiago and set out the early history of Chile, its revolution, and its government; from the crossing of the Cordillera onward the book is a journal of the ride, with the post-houses, the gauchos, and the politics of Rosas’s Argentina. It has many footnotes and no illustrations."
+ ],
+ "divisions": [
+  {
+   "at": "p0005",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0007",
+   "kind": "dedication"
+  },
+  {
+   "at": "p0009",
+   "kind": "preface"
+  },
+  {
+   "at": "p0013",
+   "kind": "contents"
+  },
+  {
+   "at": "p0017",
+   "kind": "front",
+   "n": 1
+  },
+  {
+   "at": "p0300",
+   "kind": "errata"
+  }
+ ],
+ "omitted_from_reading": "The printed contents, the head title above Chapter I, and the list of errata are in the JSON only; the errata are applied to the text.",
+ "notes_on_text": [
+  "Pages 95–96 are missing from the scan used (pages 93–94 were photographed twice in their place); they are transcribed from another copy of the same edition, scanned by Google from a copy at Harvard (Internet Archive item cordilleraandpa01stragoog).",
+  "Page 185 was first read by machine OCR (the model refused to transcribe it) and then corrected and checked like the others.",
+  "The printed list of errata is applied: each correction is marked in the text and listed below."
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 7,
+  "recall": "33/34",
+  "real_errors": 0,
+  "fixed": 0,
+  "note": "6 random pages and the fallback page p0189"
+ }
+}
