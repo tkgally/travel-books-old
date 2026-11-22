@@ -17,8 +17,11 @@
  "publisher": "Richard Bentley and Son",
  "year": 1874,
  "edition_statement": "First edition",
- "regions": [],
- "period": "",
+ "regions": [
+  "United States",
+  "Canada"
+ ],
+ "period": "about 1873",
  "source": {
   "ia_identifier": "westernwandering00bodd_0",
   "contributor": "Getty Research Institute",
@@ -42,5 +45,74 @@
    "date": "2026-11-22",
    "note": "First publication."
   }
+ ],
+ "subjects": [
+  "American West",
+  "railways",
+  "Yosemite",
+  "Modoc War",
+  "British Columbia"
+ ],
+ "summary": [
+  "An English traveller’s account of a journey through North America in the early 1870s (the book gives no year; it reports events of 1872 and 1873 as recent). He crossed the Atlantic to New York, went by way of Niagara and Chicago to Omaha, and took the Union Pacific Railroad to Salt Lake City and on to Virginia City. In California he rode the stage-coaches to the Big Trees and the Yosemite Valley and spent time in San Francisco. He then travelled north by Mount Shasta, camped out, and visited the lava beds where the Modoc War had just been fought, with an account of the war. He went on through Oregon to the Columbia River, Puget Sound and Victoria, up the Fraser River, to Nanaimo, and back to San Francisco and the Geysers. The last chapter gives his general remarks on the West."
+ ],
+ "divisions": [
+  {
+   "at": "p0005",
+   "kind": "front"
+  },
+  {
+   "at": "p0011",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0013",
+   "kind": "preface",
+   "title": "Preface"
+  },
+  {
+   "at": "p0015",
+   "kind": "contents"
+  },
+  {
+   "at": "p0021",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0022",
+   "kind": "errata"
+  },
+  {
+   "at": "p0023",
+   "kind": "front",
+   "title": "Western Wanderings"
+  },
+  {
+   "at": "p0023",
+   "kind": "chapter",
+   "n": 2
+  }
+ ],
+ "frontispiece": "p0008-1",
+ "omitted_from_reading": "The half-title, title page, printed contents, list of illustrations, erratum slip and the line “Western Wanderings” above Chapter I are in the JSON only.",
+ "notes_on_text": [
+  "The printed erratum (page 47: Yancton for Yauhton) has been applied.",
+  "The plate “Father of the Forest” (facing page 112) is missing from the scanned copy; it is taken from another copy of the same edition at the Internet Archive (westernwandering00bodd).",
+  "The page references printed under the plates (“P. 26.”) are left out.",
+  "The preface is printed without a heading; “Preface” is the editor’s."
+ ],
+ "waivers": [
+  {
+   "check": "spacing",
+   "match": "p0143",
+   "why": "ditto marks (”) in the table of tree heights, printed after the numbers; looked at on the scan"
+  }
+ ],
+ "keep_hyphens": [
+  "p0127",
+  "p0188",
+  "p0196",
+  "p0204",
+  "p0317"
  ]
 }

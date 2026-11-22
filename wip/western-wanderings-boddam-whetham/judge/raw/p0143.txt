@@ -1,0 +1,3 @@
+{"n": 1, "is": "B", "print": "65 ”", "sure": "medium"}
+{"n": 2, "is": "B", "print": "95 ”", "sure": "medium"}
+{"n": 3, "is": "B", "print": "340 ”", "sure": "medium"}

@@ -1,0 +1,5 @@
+[[page ?]]
+
+[[center]] <i>Erratum.</i>
+
+[[center]] Page <pref>47</pref>, line 10, <i>for</i> Yauhton <i>read</i> Yancton.

@@ -1,0 +1,7 @@
+{"find": "Shasta spread itself", "replace": "Shasta spread itself"}
+
+Wait, the print reads "spread" at line end, so the draft's "spread itself" is correct as printed. Corrections:
+
+{"find": "Mount Shasta spread itself", "replace": "Mount Shasta spread itself"}
+
+NONE
