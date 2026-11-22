@@ -63,4 +63,4 @@
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
 [   unused] waiver matches nothing: {'check': 'leaves', 'match': 'p0100', 'why': 'a second scan of p. 94 (p0098) in place of p. 96: left out; pp. 95–96 are p0100a and p0100b, from another scan'}
-preflight PASS: cordillera-pampa-strain v1 — 0 to fix, 1 waived; to look at: hyphen-joins 10, folios 5, accents 6, rare-forms 4, serial-commas 2, missing-stop 1 — tools@6193dfaa 2026-11-22
+preflight PASS: cordillera-pampa-strain v2 — 0 to fix, 1 waived; to look at: hyphen-joins 10, folios 5, accents 6, rare-forms 4, serial-commas 2, missing-stop 1 — tools@2454027b 2026-11-22

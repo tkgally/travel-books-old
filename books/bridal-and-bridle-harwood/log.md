@@ -35,5 +35,6 @@ No contents, preface, footnotes, index or advertisements. Running heads "The Bri
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-22 | PASS, 0 waived (tools@828efb48) | 30/30, 0 real / 6 pages | spot-read (front matter, verse, every foreign word): 2 misprints (and a third seen on its crop); preflight items: 3 misprints, a speck read as an accent; rendered look: no faults |
+| 2 | 2026-11-22 | PASS, 0 to fix, 0 waived — tools@2454027b | as v1 | printed “th” for “the” (p0097) marked `[[corr]]`, found in the sweep after issue #169; no model calls |
 
 ## Known issues
