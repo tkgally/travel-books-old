@@ -65,4 +65,4 @@
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: by-fell-and-fjord-oswald v3 — 0 to fix, 4 waived; to look at: hyphen-joins 3, folios 1, quote-balance 1, contents 1, verse-joins 6, accents 16, serial-commas 4 — tools@1850a589 2026-11-22
+preflight PASS: by-fell-and-fjord-oswald v3 — 0 to fix, 4 waived; to look at: hyphen-joins 3, folios 1, quote-balance 1, contents 1, verse-joins 6, accents 16, serial-commas 4 — tools@28ae7b95 2026-11-22

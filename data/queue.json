@@ -114,8 +114,8 @@
    "eligibility": "Checked 2026-11-19: not in the Project Gutenberg catalogue, The Online Books Page (page images only, if listed), Wikisource or Faded Page; only print-on-demand reprints found. Not checked: WorldCat, Distributed Proofreaders in progress. Reprints seen: Kessinger (print on demand). Re-checked 2026-11-21: not in pg_catalog.csv (fresh copy); web search of the title: no text online (only an 1884 Spectator review). Iza Duffus Hardy d. 1922.",
    "note": "Boston Public Library scan (another: cu31924023242104). Sketches rather than one continuous narrative.",
    "started": "2026-11-21",
-   "version": 2,
-   "published": "2026-11-21"
+   "version": 3,
+   "published": "2026-11-22"
   },
   {
    "order": 6,
@@ -386,7 +386,7 @@
    "eligibility": "JATSI 169. All five rules met. Rule 1: Library of Congress scan of the first edition (1902), colour 400 ppi, clean. JATSI links cu31924023517422, the second edition (London, A. & C. Black, 1904), which adds a 20-page preface on the war: the first edition is used because its scan shows the photographs better (jatsi.md, rule 1). Rules 2, 3: no text elsewhere; print-on-demand only. Rule 4: first-person tour of 1898–99; about 55% on Japan (Shikoku, Kyushu, Hokkaido by road), with chapters of essay at the end. Rule 5: Walter Del Mar 1862–1944 (LC). Photographs credited to Adolfo Farsari (1841–1898) and A. W. A. Plâté (d. 1931); some uncredited. Searched 2026-11-20 (Opus subagent, sample checked): Project Gutenberg catalogue, The Online Books Page, Wikisource (title search; the API was rate-limited at times), a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse 'Japan in English'. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 no longer applies to JATSI books (Tom, 2026-11-20); the dates are kept for the record. Re-checked 2026-11-21 (session): web search finds only the IA scans, catalogue records and Forgotten Books (a scan facsimile); no reading edition.",
    "note": "About 430 pp. and xxx of preliminaries; about 45 photographic plates. Long: two sessions for the runs.",
    "started": "2026-11-21",
-   "version": 1,
+   "version": 2,
    "published": "2026-11-22"
   },
   {
@@ -689,8 +689,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv; not on The Online Books Page; Wikisource only a bibliography citation; web search of a distinctive sentence found nothing. Reprints seen: Read Books 2010 (print-on-demand facsimile). Author 1830–1905 (scholarly article on women travellers to Iceland, scancan.net). Illustrations from the author's own sketches. Not checked: WorldCat.",
    "note": "University of California scan, 500 ppi; clean. Woodcuts after the author's sketches, one map, advertisements at the end. Chapters V–VI are an essay on the sagas; the rest is riding through Iceland over three summers (from 1875), matching places to the sagas. She prints þ and ð as th and d.",
    "started": "2026-11-20",
-   "version": 2,
-   "published": "2026-11-21"
+   "version": 3,
+   "published": "2026-11-22"
   },
   {
    "order": 37,
@@ -761,8 +761,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent; Gutenberg re-checked by the session): not in pg_catalog.csv; The Online Books Page: a HathiTrust page-image record only; Wikisource only a bibliography line; not in A Celebration of Women Writers; Qatar Digital Library has the BL copy as page images (page answered 403); web searches of two distinctive sentences found nothing. Reprints: print on demand only (a buecher.de facsimile; ISBN 9781022495036, 2023). Author 1852–1913 (thepeerage.com; wife of Sir Mortimer Durand). Photographs by Sir Ernest Rennie (1868–1935) and Antoin Sevruguin (c.1851–1933). Not checked: WorldCat, Faded Page.",
    "note": "UCLA scan, 400 ppi; about 30 plates, a folding route map at the end, an erratum slip (Stewart → Stuart, pp. 80, 83). A ride from Tehran through Kum, the Bakhtiari country, Shushtar, Dizful and Luristan, September–December 1899.",
    "started": "2026-11-20",
-   "version": 1,
-   "published": "2026-11-20"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 41,
@@ -887,8 +887,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv; The Online Books Page: HathiTrust scans only; Wikisource: only an Alumni Oxonienses entry; Open Library: 1911 Scribner/Unwin only; web search of the title and a sentence: nothing. Author Walter Larden 1855–1919 (Online Books Page authority, Alumni Oxonienses). Photographs the author's, except two of 1869 by his brother, who went to Argentina in 1868 (so born before about 1850; name not found). Not checked: Faded Page. Check before starting: the IA copy is the New York (Scribner) issue of the same year.",
    "note": "UC Berkeley scan, 500 ppi; 91 photographs and a sketch map. Two long stays (1888–9 and 1908–9) on his brother's estancia Santa Isabel, with notes on work, animals and insects, then an expedition into the Chilean Andes.",
    "started": "2026-11-21",
-   "version": 1,
-   "published": "2026-11-21"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 48,

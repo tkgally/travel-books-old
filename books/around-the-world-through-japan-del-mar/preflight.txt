@@ -73,8 +73,8 @@
             … 3 more (-v)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
 [ look (2)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0274: “hunch” — “bunch” is common (72)
-            - p0467: “laud” — “land” is common (2133)
+            - p0274: “hunch” — “bunch” is common (70)
+            - p0467: “laud” — “land” is common (2068)
 [       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
 [ look (4)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
             - book.json summary: … widely: Tokyo and Kyoto, Nara, the island of Shikoku and the Inland Sea, Kyus…
@@ -87,4 +87,4 @@
             - p0203: “offer The” in …Any visitor who do not offer The application to themse…
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: around-the-world-through-japan-del-mar v2 — 0 to fix, 1 waived; to look at: hyphen-joins 3, contents 1, accents 43, rare-forms 2, serial-commas 4, missing-stop 3 — tools@1850a589 2026-11-22
+preflight PASS: around-the-world-through-japan-del-mar v2 — 0 to fix, 1 waived; to look at: hyphen-joins 3, contents 1, accents 43, rare-forms 2, serial-commas 4, missing-stop 3 — tools@28ae7b95 2026-11-22
