@@ -38,6 +38,8 @@
             - p0018: 'Poetry written for the projected “New Zealand Christian Year” 220'
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [ look (6)] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
             - p0233: verse continued from p0232: stanzas before [40] | here [19] (a stanza ending at the page foot needs no [[cont]])
             - p0234: verse continued from p0233: stanzas before [18] | here [44] (a stanza ending at the page foot needs no [[cont]])
@@ -45,14 +47,26 @@
             - p0239: verse continued from p0238: stanzas before [29] | here [11] (a stanza ending at the page foot needs no [[cont]])
             - p0243: verse continued from p0242: stanzas before [39] | here [4] (a stanza ending at the page foot needs no [[cont]])
             - p0244: verse continued from p0243: stanzas before [8, 6, 2] | here [8] (a stanza ending at the page foot needs no [[cont]])
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (1)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0006, p0007, p0009, p0010, p0011, p0012…); à (p0210, p0247)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[ look (2)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0132: “hoy” — “boy” is common (444)
-            - p0167: “bangs” — “hangs” is common (41)
+[ look (9)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0077: “wantin” — “wanting” is common (101; a letter dropped or transposed?)
+            - p0083: “grater” — “greater” is common (521; a letter dropped or transposed?)
+            - p0132: “hoy” — “boy” is common (575)
+            - p0167: “bangs” — “hangs” is common (55)
+            - p0217: “medicin” — “medicine” is common (101; a letter dropped or transposed?)
+            - p0232: “entranc” — “entrance” is common (639; a letter dropped or transposed?)
+            - p0233: “admir” — “admire” is common (119; a letter dropped or transposed?)
+            - p0238: “whene” — “whence” is common (238; a letter dropped or transposed?)
+            - p0240: “desir” — “desire” is common (330; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …nce in the 1860s: its founding, Christchurch and Lyttelton, soil and …
+            - book.json summary: …ng, Christchurch and Lyttelton, soil and crops, wages and pri…
+            - book.json summary: … and Lyttelton, soil and crops, wages and prices, the Maori, c…
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: twelve-years-in-canterbury-thomson v2 — 0 to fix, 0 waived; to look at: hyphen-joins 3, folios 1, contents 12, verse-joins 6, accents 1, rare-forms 2 — tools@25267f47 2026-11-21
+preflight PASS: twelve-years-in-canterbury-thomson v3 — 0 to fix, 0 waived; to look at: hyphen-joins 3, folios 1, contents 12, verse-joins 6, accents 1, rare-forms 9, serial-commas 3 — tools@ed86e62f 2026-11-22

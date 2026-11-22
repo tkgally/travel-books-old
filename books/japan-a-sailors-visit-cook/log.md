@@ -43,5 +43,6 @@ Draft: p0009–p0154.
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-20 | preflight PASS v1, 0 waived (tools@0be7fbc) | 30/30, 0 real | look items: hyphen-joins (landholdings, expatiated, annually), contents 2 (printed variants) |
+| 2 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 4, contents 2, serial-commas 2 — tools@ed86e62f 2026-11-22 | as v1 | A printer’s error of a dropped or transposed letter marked and corrected: “clebrated” for “celebrated”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues

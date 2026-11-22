@@ -1,7 +1,7 @@
 {
  "id": "parsons-holiday-allen",
- "version": 4,
- "date": "2026-11-21",
+ "version": 5,
+ "date": "2026-11-22",
  "title": "A Parson’s Holiday",
  "subtitle": "Being an Account of a Tour in India, Burma, and Ceylon, in the Winter of 1882–83",
  "short_title": "A Parson’s Holiday",
@@ -48,6 +48,11 @@
    "version": 4,
    "date": "2026-11-21",
    "note": "Printer’s errors corrected: “service” for “service.” (p. 35); “courtyard” for “courtyard.” (p. 40); “dismouted” for “dismounted” (p. 40) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan)."
+  },
+  {
+   "version": 5,
+   "date": "2026-11-22",
+   "note": "2 printer’s errors of a dropped or transposed letter marked and corrected: “decendants” for “descendants”, “clegyman” for “clergyman”."
   }
  ],
  "regions": [
@@ -143,7 +148,7 @@
  "frontispiece": "p0006-1",
  "omitted_from_reading": "The printed contents and the index are in the JSON only; the folding map follows the title page.",
  "audit": {
-  "version": 4,
+  "version": 5,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",

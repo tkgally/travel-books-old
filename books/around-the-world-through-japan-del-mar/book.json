@@ -1,6 +1,6 @@
 {
  "id": "around-the-world-through-japan-del-mar",
- "version": 2,
+ "version": 3,
  "date": "2026-11-22",
  "title": "Around the World through Japan",
  "short_title": "Around the World through Japan",
@@ -57,6 +57,11 @@
    "version": 2,
    "date": "2026-11-22",
    "note": "Title page typed line by line as printed."
+  },
+  {
+   "version": 3,
+   "date": "2026-11-22",
+   "note": "2 printer’s errors of a dropped or transposed letter marked and corrected: “stautes” for “statues”, “magificent” for “magnificent”."
   }
  ],
  "frontispiece": "p0008-1",
@@ -116,7 +121,7 @@
   }
  ],
  "audit": {
-  "version": 2,
+  "version": 3,
   "date": "2026-11-22",
   "pages": 6,
   "recall": "29/29",

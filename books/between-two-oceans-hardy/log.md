@@ -48,6 +48,7 @@ Draft: leaves 7–57, 60–325, 330–331, 334–394 (IA's hidden Delete leaves 
 | 1 | 2026-11-21 | PASS, 0 waived; look: hyphen-joins 8 (real joins), folios 1 (advertisements), contents 17 (explained), accents 6 (as printed) — tools@628383af | 30/30; 0 real | Claude $37.17 |
 | 2 | 2026-11-21 | between-two-oceans-hardy v2 — 0 to fix, 0 waived; to look at: hyphen-joins 8, folios 1, contents 17, accents 6 — tools@7614af67 2026-11-21 | as v1 (text unchanged except listed fixes) | “story” for “story.” (advertisements, p. 11) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan). |
 | 3 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 8, folios 1, contents 17, accents 6, rare-forms 1, serial-commas 4 — tools@28ae7b95 2026-11-22 | as v2 (text unchanged except the title page) | Title page typed line by line as printed (Opus subagent on the scan; rendered look checked). No model runs for the text. |
+| 4 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 8, folios 1, contents 17, accents 6, rare-forms 4, serial-commas 4 — tools@ed86e62f 2026-11-22 | as v3 | A printer’s error of a dropped or transposed letter marked and corrected: “interes” for “interest”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues
 - A paragraph that runs on after a quoted line of verse (p0237, p0353) starts a new paragraph in the editions: the markup cannot continue a paragraph after a verse block.

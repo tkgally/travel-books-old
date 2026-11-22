@@ -65,5 +65,6 @@ without a gap; full size: the plates, p0009, p0335; problems: none.
 |---|---|---|---|---|
 | 1 | 2026-11-19 | PASS — 0 to fix, 0 waived; to look at: hyphen-joins 31, joins 6 (all read) — tools@e27975f | 30/30 recall; 0 real errors / 6 pages | first publication; held one session for the `conservation` check fix |
 | 2 | 2026-11-19 | PASS — 0 to fix, 0 waived; to look at: hyphen-joins 31, joins 6 — tools@6b8af86 2026-11-19 | as version 1 (text unchanged) | contents: full chapter summaries in every entry; ODT contents list (errata 2026-11-19) |
+| 3 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 8, accents 2, rare-forms 2, serial-commas 6 — tools@ed86e62f 2026-11-22 | as v2 | 2 printer’s errors of a dropped or transposed letter marked and corrected: “thrity” for “thirty”, “speading” for “spreading”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues

@@ -32,16 +32,29 @@
             - p0017: 'Young Ingeeboo—His Shadows—His Tattoo 183'
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [ look (2)] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
             - p0149: verse continued from p0148: stanzas before [4] | here [10] (a stanza ending at the page foot needs no [[cont]])
             - p0319: verse continued from p0318: stanzas before [3] | here [2, 2, 3] (a stanza ending at the page foot needs no [[cont]])
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (1)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - aerial: aerial (p0075); aërial (p0218)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[ look (1)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0245: “hells” — “bells” is common (113)
+[ look (7)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0024: “lighty” — “lightly” is common (55; a letter dropped or transposed?)
+            - p0063: “chees” — “cheese” is common (53; a letter dropped or transposed?)
+            - p0106: “gassy” — “grassy” is common (78; a letter dropped or transposed?)
+            - p0168: “payed” — “played” is common (251; a letter dropped or transposed?)
+            - p0170: “panted” — “painted” is common (382; a letter dropped or transposed?)
+            - p0181: “moneys” — “monkeys” is common (78; a letter dropped or transposed?)
+            - p0226: “plyed” — “played” is common (251; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …il 1852, the Shwe Dagon pagoda, river fighting and convoys on the Irraw…
+            - book.json summary: …g and convoys on the Irrawaddy, Pegu and Prome, and Burmese h…
+            - book.json summary: …e is printed in pidgin English, and the book uses the period’s words for Burmese people and religion.…
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: golden-dagon-palmer v2 — 0 to fix, 2 waived; to look at: hyphen-joins 9, contents 1, verse-joins 2, accents 1, rare-forms 1 — tools@7614af67 2026-11-21
+preflight PASS: golden-dagon-palmer v3 — 0 to fix, 2 waived; to look at: hyphen-joins 9, contents 1, verse-joins 2, accents 1, rare-forms 7, serial-commas 3 — tools@ed86e62f 2026-11-22

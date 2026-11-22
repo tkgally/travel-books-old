@@ -27,6 +27,7 @@
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
 [       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
 [       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [look (43)] accents: words the book spells with different accents (or with and without): look at each group on the scan
@@ -72,9 +73,11 @@
             - to: to (p0013, p0015, p0016, p0017, p0018, p0019…); tō (p0254, p0558)
             … 3 more (-v)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[ look (2)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+[ look (4)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0236: “sprigs” — “springs” is common (215; a letter dropped or transposed?)
             - p0274: “hunch” — “bunch” is common (70)
-            - p0467: “laud” — “land” is common (2068)
+            - p0362: “waring” — “wearing” is common (159; a letter dropped or transposed?)
+            - p0467: “laud” — “land” is common (2119)
 [       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
 [ look (4)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
             - book.json summary: … widely: Tokyo and Kyoto, Nara, the island of Shikoku and the Inland Sea, Kyus…
@@ -87,4 +90,4 @@
             - p0203: “offer The” in …Any visitor who do not offer The application to themse…
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: around-the-world-through-japan-del-mar v2 — 0 to fix, 1 waived; to look at: hyphen-joins 3, contents 1, accents 43, rare-forms 2, serial-commas 4, missing-stop 3 — tools@28ae7b95 2026-11-22
+preflight PASS: around-the-world-through-japan-del-mar v3 — 0 to fix, 1 waived; to look at: hyphen-joins 3, contents 1, accents 43, rare-forms 4, serial-commas 4, missing-stop 3 — tools@ed86e62f 2026-11-22

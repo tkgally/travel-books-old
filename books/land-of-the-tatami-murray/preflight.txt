@@ -28,8 +28,10 @@
             - p0014: 'Kumamoto and the Volcano Aso San. Hakata, Takeo, Nagasaki, and—Adieu!'
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [look (20)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0014, p0016, p0017, p0018, p0019, p0020…); à (p0026, p0051, p0082, p0114, p0146, p0154)
             - daimio: daimio (p0023, p0076); daimiõ (p0060, p0132); daimiö (p0106); daimiō (p0044, p0060, p0117)
@@ -52,6 +54,16 @@
             - takusan: takusan (p0031, p0160); takŭsan (p0055)
             - tenno: tenno (p0018); tennõ (p0128); tennō (p0064, p0099)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (3)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0077: “retie” — “retire” is common (63; a letter dropped or transposed?)
+            - p0138: “throe” — “throne” is common (189; a letter dropped or transposed?)
+            - p0139: “litt” — “lift” is common (78)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …t by Kobe, Osaka, Arima, Kioto, Nara and Ise, Nagoya, Yokoham…
+            - book.json summary: …a, Kioto, Nara and Ise, Nagoya, Yokohama and Tokio, Nikko and the…
+            - book.json summary: …se, Nagoya, Yokohama and Tokio, Nikko and the Hakone district,…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: land-of-the-tatami-murray v3 — 0 to fix, 0 waived; to look at: hyphen-joins 1, quote-balance 3, contents 2, accents 20 — tools@636b1b8d 2026-11-21
+preflight PASS: land-of-the-tatami-murray v4 — 0 to fix, 0 waived; to look at: hyphen-joins 1, quote-balance 3, contents 2, accents 20, rare-forms 3, serial-commas 3 — tools@ed86e62f 2026-11-22

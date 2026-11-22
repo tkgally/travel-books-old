@@ -114,6 +114,28 @@
 | Between Two Oceans v3 | 2026-11-22 | – | (no new model calls; title page retyped) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v2 | |
 | By Fell and Fjord v3 | 2026-11-22 | – | (no new model calls; title page retyped) | – | – | – | 0 | 0 | PASS, 0 to fix, 4 waived | as v2 | |
 | Present-Day Japan v1 | 2026-11-22 | 349 | Opus draft → Sonnet corrections (56 word spots, 25 `[[cont]]` at pictures) → Opus judge; scan check, 75 crops, spot-read (front matter, verse, index, 22 pages) by subagents | 56 | 8 / 47 / 1 (most were picture positions) | 0 | 37.04 | 0 | PASS, 2 waived | 30/30; 0 / 6 (spot-read: 2) | |
+| Journeys among the Gentle Japs v2 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v1 | 1 printed misprint unmarked (review after fifty-five books) |
+| The Land of the Tatami v4 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v3 | 2 printed misprints unmarked (review after fifty-five books) |
+| Letters from China & Japan v3 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v2 | 1 printed misprint unmarked (review after fifty-five books) |
+| The Nile without a Dragoman v4 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v3 | 1 printed misprint unmarked (review after fifty-five books) |
+| A Parson’s Holiday v5 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v4 | 2 printed misprints unmarked (review after fifty-five books) |
+| Scouting for Stanley in East Africa v2 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v1 | 1 printed misprint unmarked (review after fifty-five books) |
+| Sketches Awheel in Modern Iberia v3 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v2 | 2 printed misprints unmarked (review after fifty-five books) |
+| South by West v6 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 2 waived | as v5 | 1 printed misprint unmarked (review after fifty-five books) |
+| Around the World through Japan v3 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 1 waived | as v2 | 2 printed misprints unmarked (review after fifty-five books) |
+| Between Two Oceans v4 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v3 | 1 printed misprint unmarked (review after fifty-five books) |
+| A Cruise in the U.S. Steam Frigate Mississippi v4 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v3 | 2 printed misprints unmarked (review after fifty-five books) |
+| The Eastern Seas v2 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 2 waived | as v1 | 1 printed misprint unmarked (review after fifty-five books) |
+| Embassy to China v4 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v3 | 3 printed misprints unmarked (review after fifty-five books) |
+| The Golden Dagon v3 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 2 waived | as v2 | 1 printed misprint unmarked (review after fifty-five books) |
+| Japan: A Sailor’s Visit v2 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v1 | 1 printed misprint unmarked (review after fifty-five books) |
+| Japan As We Saw It v2 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v1 | 1 printed misprint unmarked (review after fifty-five books) |
+| Journal of a Residence in Great Britain v6 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 8 waived | as v5 | 8 printed misprints unmarked (review after fifty-five books) |
+| Twelve Years in Canterbury v3 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v2 | 1 printed misprint unmarked (review after fifty-five books) |
+| The West Coast of Africa v4 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v3 | 1 printed misprint unmarked (review after fifty-five books) |
+| Western Wanderings v2 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v1 | 1 printed misprint unmarked (review after fifty-five books) |
+| A Woman’s Trip to Alaska v3 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as v2 | 1 printed misprint unmarked (review after fifty-five books) |
+| Zephyrus v2 | 2026-11-22 | – | (no new model calls; printer’s errors marked) | – | – | – | 0 | 0 | PASS, 0 to fix, 4 waived | as v1 | 1 printed misprint unmarked (review after fifty-five books) |
 
 ## Calibrations
 

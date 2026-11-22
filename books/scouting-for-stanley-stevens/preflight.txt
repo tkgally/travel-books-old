@@ -27,16 +27,26 @@
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
 [       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
 [       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (2)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - canon: canon (p0194); cañon (p0103, p0104, p0105, p0106, p0107, p0115)
             - naibere: naiberè (p0133); naibère (p0143)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[ look (2)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0072: “eave” — “cave” is common (120)
-            - p0105: “bili” — “bill” is common (97)
+[ look (7)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0072: “eave” — “cave” is common (126)
+            - p0076: “accomodation” — “accommodation” is common (202; a letter dropped or transposed?)
+            - p0105: “bili” — “bill” is common (99)
+            - p0131: “havens” — “heavens” is common (90; a letter dropped or transposed?)
+            - p0192: “sopping” — “stopping” is common (146; a letter dropped or transposed?)
+            - p0196: “drams” — “dreams” is common (62; a letter dropped or transposed?)
+            - p0238: “seige” — “siege” is common (52; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: … and the slopes of Kilimanjaro, where he visited the chiefs of Machame and Moschi. With the Ame…
+            - book.json summary: …n, marched with it to Bagamoyo, and recorded his talks with Stanley and Emin Pasha. The book…
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: scouting-for-stanley-stevens v1 — 0 to fix, 0 waived; to look at: hyphen-joins 3, quote-balance 1, accents 2, rare-forms 2 — tools@e96eb4ef 2026-11-22
+preflight PASS: scouting-for-stanley-stevens v2 — 0 to fix, 0 waived; to look at: hyphen-joins 3, quote-balance 1, accents 2, rare-forms 7, serial-commas 2 — tools@ed86e62f 2026-11-22

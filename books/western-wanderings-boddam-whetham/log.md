@@ -38,5 +38,6 @@ Chapter summaries under each title (as in the Contents). Book picture: the title
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-22 | PASS, 0 waived (tools@fe601438) | 28/29, 0 real / 6 pages | spot-read (front matter, captions, verse, tables, footnotes, foreign words, chapter openings): “duns”, ditto marks, a doubled dash; rendered look: a missing stop |
+| 2 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 6, accents 1, rare-forms 4, serial-commas 3, missing-stop 1 — tools@ed86e62f 2026-11-22 | as v1 | A printer’s error of a dropped or transposed letter marked and corrected: “ocasional” for “occasional”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues

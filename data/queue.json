@@ -26,8 +26,8 @@
    "checked": "2026-11-19",
    "eligibility": "Added at Tom's request as an exception to the selection rules (notes/preferences.md, 2026-11-19): not checked against rules 2–4 (it is known to have later reprints and is compiled from Macartney's and others' papers). Rule 5 met: Staunton 1737–1801, Macartney 1737–1806, Gower 1742–1814; William Alexander (drawings) 1767–1816. Not in the Project Gutenberg catalogue.",
    "note": "Three IA items made into one book: vol. I (UC, 572 images, 300 ppi), vol. II (UC, 664 images, 500 ppi), folio of plates and maps (Getty, 114 images; its page images come as a 1.2 GB _images.zip, not _jp2.zip: ia.py may need a change). Tom: leave the marginal titles out of the built versions (JSON keeps them) — needs side-note markup first (workflow 'Not yet solved'); 1797 printing (long s): run the two-draft calibration on a sample first; multi-volume: volumes as parts. Several sessions. The landing page and site/about.md say every book has no other digital text and no reprint: when this book is published, say on its page (and in about.md) that it is included as an exception.",
-   "version": 3,
-   "published": "2026-11-21",
+   "version": 4,
+   "published": "2026-11-22",
    "from": "tom"
   },
   {
@@ -78,8 +78,8 @@
    "checked": "2026-11-19",
    "eligibility": "Checked 2026-11-19: not in the Project Gutenberg catalogue, The Online Books Page (page images only, if listed), Wikisource or Faded Page; only print-on-demand reprints found. Not checked: WorldCat, Distributed Proofreaders in progress. Reprints seen: Kessinger, Creative Media (print on demand). Re-checked 2026-11-19: not in pg_catalog.csv (Rose Kingsley's other books are); The Online Books Page lists page images only (Germany); web search finds only Kessinger (2007/2010), Creative Media Partners (2023) and other print-on-demand reprints. An ISBN 0-87380-148-2 (Rio Grande Press, a real reprint house) seen near it in results is Schwatka's In the Land of Cave and Cliff Dwellers, not this book. Editor Charles Kingsley d. 1875; author d. 1925; the engravers are not named in the book (work done by 1874, so its makers died before 1955 under rule 5).",
    "note": "University of California scan. Preface by Charles Kingsley; some plates.",
-   "version": 5,
-   "published": "2026-11-21"
+   "version": 6,
+   "published": "2026-11-22"
   },
   {
    "order": 4,
@@ -96,8 +96,8 @@
    "eligibility": "Checked 2026-11-19: not in the Project Gutenberg catalogue, The Online Books Page (page images only, if listed), Wikisource or Faded Page; only print-on-demand reprints found. Not checked: WorldCat, Distributed Proofreaders in progress. Reprints seen: Creative Media (print on demand). An excerpt is in an anthology. Re-checked 2026-11-20: not in pg_catalog.csv; a web search found only catalogue records and scan-based e-books.",
    "note": "Getty Research Institute scan, crisp. About 500 pages.",
    "started": "2026-11-20",
-   "version": 5,
-   "published": "2026-11-21"
+   "version": 6,
+   "published": "2026-11-22"
   },
   {
    "order": 5,
@@ -114,7 +114,7 @@
    "eligibility": "Checked 2026-11-19: not in the Project Gutenberg catalogue, The Online Books Page (page images only, if listed), Wikisource or Faded Page; only print-on-demand reprints found. Not checked: WorldCat, Distributed Proofreaders in progress. Reprints seen: Kessinger (print on demand). Re-checked 2026-11-21: not in pg_catalog.csv (fresh copy); web search of the title: no text online (only an 1884 Spectator review). Iza Duffus Hardy d. 1922.",
    "note": "Boston Public Library scan (another: cu31924023242104). Sketches rather than one continuous narrative.",
    "started": "2026-11-21",
-   "version": 3,
+   "version": 4,
    "published": "2026-11-22"
   },
   {
@@ -149,8 +149,8 @@
    "checked": "2026-11-19",
    "eligibility": "Checked 2026-11-19: not in the Project Gutenberg catalogue, The Online Books Page (page images only, if listed), Wikisource or Faded Page; only print-on-demand reprints found. Not checked: WorldCat, Distributed Proofreaders in progress. Reprints seen: Forgotten Books (print on demand). Re-checked 2026-11-19 before starting: not in pg_catalog.csv; Wikisource index still 0 of 336 pages; web search finds only catalogue records, short excerpts (Cervantes Virtual) and Forgotten Books. Fanny Bullock Workman 1859–1925, William Hunter Workman 1847–1937.",
    "note": "Library of Congress scan, clean and complete (checked 2026-11-19). 30 plates, many sideways; a folding map of Spain in a back pocket.",
-   "version": 2,
-   "published": "2026-11-19"
+   "version": 3,
+   "published": "2026-11-22"
   },
   {
    "order": 8,
@@ -326,8 +326,8 @@
    "eligibility": "JATSI 40. Four of five. Rule 1: Cornell scan (Kirtas, greyscale), clean and sharp. Rule 2: no text elsewhere (Wikisource has an author page only). Rule 3 NOT met: facsimile in Ganesha / Edition Synapse 'Japan in English', 2nd series vol. 32 (2004; National Diet Library catalogue), and Elibron (2002). Rule 4: first-person narrative of his command of a survey gun-vessel, 1871–74; about a third on Japan, the rest China, Formosa and the Siberian coast; chapter II is a compiled history of Formosa. Rule 5: Bonham Ward Bax 1837–1877 (AIM25). Searched 2026-11-20 (Opus subagent, sample checked): Project Gutenberg catalogue, The Online Books Page, Wikisource (title search; the API was rate-limited at times), a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse 'Japan in English'. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 no longer applies to JATSI books (Tom, 2026-11-20); the dates are kept for the record.",
    "note": "x + 287 pp.; 13 woodcuts (no artist named) and a map: look at how the map was scanned; few footnotes; Murray's advertisements at the end.",
    "started": "2026-11-21",
-   "version": 1,
-   "published": "2026-11-21"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 18,
@@ -346,8 +346,8 @@
    "eligibility": "JATSI 130. All five rules met. Rule 1: University of California scan, colour 400 ppi, clean; the folding route map is scanned unfolded. Rules 2, 3: no text elsewhere; print-on-demand only. Rule 4: first-person account of a tour in summer 1895 by way of Canada; about 85–90% on Japan; the last chapter (religions) is largely compiled. Rule 5: Joseph Llewelyn Thomas d. 1940 (LC heading; birth year not found). Searched 2026-11-20 (Opus subagent, sample checked): Project Gutenberg catalogue, The Online Books Page, Wikisource (title search; the API was rate-limited at times), a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse 'Japan in English'. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 no longer applies to JATSI books (Tom, 2026-11-20); the dates are kept for the record.",
    "note": "251 pp. and an index; a photogravure portrait and the map (lithographer F. S. Weller: a trade credit); many long quotations in small type; footnotes. The title uses a word now offensive: kept as printed, as everywhere.",
    "started": "2026-11-21",
-   "version": 1,
-   "published": "2026-11-21"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 19,
@@ -386,7 +386,7 @@
    "eligibility": "JATSI 169. All five rules met. Rule 1: Library of Congress scan of the first edition (1902), colour 400 ppi, clean. JATSI links cu31924023517422, the second edition (London, A. & C. Black, 1904), which adds a 20-page preface on the war: the first edition is used because its scan shows the photographs better (jatsi.md, rule 1). Rules 2, 3: no text elsewhere; print-on-demand only. Rule 4: first-person tour of 1898–99; about 55% on Japan (Shikoku, Kyushu, Hokkaido by road), with chapters of essay at the end. Rule 5: Walter Del Mar 1862–1944 (LC). Photographs credited to Adolfo Farsari (1841–1898) and A. W. A. Plâté (d. 1931); some uncredited. Searched 2026-11-20 (Opus subagent, sample checked): Project Gutenberg catalogue, The Online Books Page, Wikisource (title search; the API was rate-limited at times), a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse 'Japan in English'. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 no longer applies to JATSI books (Tom, 2026-11-20); the dates are kept for the record. Re-checked 2026-11-21 (session): web search finds only the IA scans, catalogue records and Forgotten Books (a scan facsimile); no reading edition.",
    "note": "About 430 pp. and xxx of preliminaries; about 45 photographic plates. Long: two sessions for the runs.",
    "started": "2026-11-21",
-   "version": 2,
+   "version": 3,
    "published": "2026-11-22"
   },
   {
@@ -406,8 +406,8 @@
    "eligibility": "JATSI 14. All five rules met. Rule 1: Library of Congress scan, colour 400 ppi, clean, EXCEPT that the last page of text (p. 76, image n77) is cut off at the right edge, losing one to three letters a line: take that leaf from acruiseinusstea01graggoog or acruiseinusstea00graggoog (`source.extra_leaves`). Rules 2, 3: no text elsewhere; print-on-demand only. Rule 4: first-person account by the ship's surgeon's steward; about 35% on Japan (Nagasaki, Shimoda, Kanagawa, Hakodate), with the Peiho forts in 1858. Rule 5: William F. Gragg 1810–1864 (Bedford Historical Society). Searched 2026-11-20 (Opus subagent, sample checked): Project Gutenberg catalogue, The Online Books Page, Wikisource (title search; the API was rate-limited at times), a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse 'Japan in English'. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 no longer applies to JATSI books (Tom, 2026-11-20); the dates are kept for the record. Re-checked 2026-11-20 at the start: not in pg_catalog.csv; a web search of the title finds only the IA scans.",
    "note": "Only 76 printed pages, in small type on a large page, without chapters; lists of officers and of the cruise's distances. No illustrations. Shorter than the usual range: a one-session book.",
    "started": "2026-11-20",
-   "version": 3,
-   "published": "2026-11-21"
+   "version": 4,
+   "published": "2026-11-22"
   },
   {
    "order": 22,
@@ -426,8 +426,8 @@
    "eligibility": "JATSI 83. All five rules met, rule 4 in part. Rule 1: Brigham Young University scan, colour 400 ppi, clean. Rules 2, 3: no text elsewhere; print-on-demand only. Rule 4: a ship's captain's two visits in 1889 with his wife and daughter, first-hand in part and in part compiled (legends, history, the Constitution summarized), as his introduction says. Rule 5: 'M. B. C., Friendship, Maine' is very probably Melville Bradford Cook (1838–1927; VIAF; listed aged 52 at Friendship in 1892); no source joins the name to this book in so many words, but on either reading the author was born before 1856 (rule 5, unknown death). Searched 2026-11-20 (Opus subagent, sample checked): Project Gutenberg catalogue, The Online Books Page, Wikisource (title search; the API was rate-limited at times), a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse 'Japan in English'. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 no longer applies to JATSI books (Tom, 2026-11-20); the dates are kept for the record. Re-checked 2026-11-20 (session): a web search of the title finds the 1891 edition, a print-on-demand paperback and the Nichibun catalogue record; no text edition.",
    "note": "About 144 pp., 14 chapters, no illustrations listed; proverbs in smaller type. Put the identification of the author in notes_on_text as probable, not as fact.",
    "started": "2026-11-20",
-   "version": 1,
-   "published": "2026-11-20"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 23,
@@ -555,8 +555,8 @@
    "eligibility": "JATSI 38. Rules 1–4 met. Rule 1: Cornell scan (Kirtas, greyscale), clean. Rules 2, 3: no text elsewhere; print-on-demand only. Rule 4: forty-three first-person letters home by the wife of an instructor at the Foochow Arsenal; about 20% on Japan. People: the title page has 'L. D. S.'; the name is the attribution of the Cornell and HathiTrust catalogues, and the letters mention a separate 'Mr and Mrs S.': confirm the attribution before putting the name on the book's page, or give it as attributed. Dates not found. Searched 2026-11-20 (Opus subagent): Project Gutenberg catalogue, The Online Books Page, Wikisource, a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 does not apply to JATSI books (Tom, 2026-11-20).",
    "note": "About 208 pp. of text, notes at the end, no illustrations; about 70 pages of the publisher's catalogue at the end of the scan are not part of the book.",
    "started": "2026-11-21",
-   "version": 2,
-   "published": "2026-11-21"
+   "version": 3,
+   "published": "2026-11-22"
   },
   {
    "order": 30,
@@ -615,8 +615,8 @@
    "eligibility": "JATSI 204. Rules 1–4 met. Rule 1: Cornell scan (Kirtas, greyscale), clean, complete (pp. 1–124). Rules 2, 3: no text elsewhere; print-on-demand only. Rule 4: first-person sketches of a tour of Japan in 1904–05, written for the North-China Daily News; all Japan. People: George T. Murray, a Shanghai resident; dates not found. Searched 2026-11-20 (Opus subagent): Project Gutenberg catalogue, The Online Books Page, Wikisource, a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 does not apply to JATSI books (Tom, 2026-11-20).",
    "note": "124 pp.; 11 halftone photographs, some on text pages; title, dedication and chapter heads in blackletter; a few short verses. Short.",
    "started": "2026-11-21",
-   "version": 3,
-   "published": "2026-11-21"
+   "version": 4,
+   "published": "2026-11-22"
   },
   {
    "order": 33,
@@ -655,8 +655,8 @@
    "eligibility": "JATSI 94. Rules 1–4 met. Rule 1: University of Toronto scan, colour 500 ppi, clean. Rules 2, 3: no text elsewhere (Wikisource's page of this title is R. S. Gardiner's book of 1892); no real reprint. Rule 4: first-person account of the Bishop of Exeter's family's eight weeks in Japan in 1891, centred on the Anglican missions; about 50 pages (ch. X) are newspaper reports of the earthquake of 28 October. People: Mary Jane Bickersteth, dates not found (born between 1849 and 1873); Edward Henry Bickersteth (preface) 1825–1906. Searched 2026-11-20 (Opus subagent): Project Gutenberg catalogue, The Online Books Page, Wikisource, a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 does not apply to JATSI books (Tom, 2026-11-20).",
    "note": "About 345 pp. with two appendices and an index; about 38 illustrations (photographs and engravings), several on text pages. Take the form of the author's name from the title page.",
    "started": "2026-11-21",
-   "version": 1,
-   "published": "2026-11-21"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 35,
@@ -745,8 +745,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv (her A Woman's War Record is, #74491); The Online Books Page links only page images (IA cihm_03388, HathiTrust, Canadiana); no Wikisource page; web search of a distinctive sentence found nothing. Reprints: CIHM microfiche 1980, Kessinger 2007, Hansebooks/Scholar's Choice, a Blackwell's facsimile (all print on demand or microfiche). Author 1842–1917 (LoC heading). Prefatory letter by W. T. Sherman (1820–1891); engravings by the American Bank Note Co. (a firm); a few snapshots by Miss M. N. Beach and Miss Margaret Watson (minor, dates not found: Tom's rule of 2026-11-20); the rest by the author. Not checked: Faded Page, WorldCat. Re-checked 2026-11-20 (before starting): the text is in Alexander Street's subscription database North American Women's Letters and Diaries (work 4262667): Tom answered the same day: a subscription database does not count (selection.md rule 2), so the book is eligible. The scan was fetched once from IA that day (not yet cached in Drive).",
    "note": "Getty scan, 500 ppi. Many small engravings and snapshots set into the text with lines running round them (broken short lines in the draft; many crops). HathiTrust records a folding plate and a map: check. Rail to Tacoma, then an excursion steamer to Wrangell, Sitka, Glacier Bay and the Muir Glacier; opens with advice on what to take; chatty.",
    "started": "2026-11-20",
-   "version": 2,
-   "published": "2026-11-21"
+   "version": 3,
+   "published": "2026-11-22"
   },
   {
    "order": 40,
@@ -799,8 +799,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent; Gutenberg and Wikisource by the session): not in pg_catalog.csv; not on The Online Books Page; Wikisource search finds nothing; raw HathiTrust OCR on distantreader.org (not a text edition); web search of a distinctive sentence found nothing; no reprint found. Author 1832–1875 (pdavis.nl, William Loney RN); published after his death with an unsigned introduction by friends (editor not named). Not checked: WorldCat. Re-checked 2026-11-20 at the start: not in pg_catalog.csv; a web search of the title finds catalogue records only (CRL holds a microfilm).",
    "note": "Brandeis scan, 400 ppi; 171 printed pages; one uncredited engraved frontispiece printed sideways; advertisements at the end. Journal of the command of HMS Torch, 1871–73: the Congo, Angola, Liberia and the Kroomen labour traffic, the Gold Coast. Period contempt for Africans in places (a contents line), not the main matter.",
    "started": "2026-11-20",
-   "version": 3,
-   "published": "2026-11-21"
+   "version": 4,
+   "published": "2026-11-22"
   },
   {
    "order": 43,
@@ -817,8 +817,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv; not on The Online Books Page; no Wikisource results; web search of a distinctive sentence found nothing; raw HathiTrust OCR on distantreader.org (not a text edition). Author 1809–1875 (Christchurch City Libraries heritage profile). TO CLOSE BEFORE STARTING: Early New Zealand Books (enzb.auckland.ac.nz answered 403), NZETC, the Capper Press facsimile series of the 1970s–80s (an established-press facsimile would count), WorldCat. IA's date 1850 is wrong (Spectator review, 2 Nov 1867). Re-checked 2026-11-20 (session): web searches for a reprint, facsimile (Capper Press and others) or ISBN edition found none (only the 1867 edition in booksellers' and museum listings, HathiTrust OCR on distantreader.org); NZETC is closed (archived by the National Library); Early New Zealand Books answered 403 again (The Online Books Page, which indexes ENZB, lists nothing).",
    "note": "University of California scan, 400 ppi; no illustrations; journal with dated entries; 16 pp. of advertisements. A widow's journal: Canterbury, the other provinces, Sydney and Melbourne, the voyage home by the Red Sea and Marseilles.",
    "started": "2026-11-20",
-   "version": 2,
-   "published": "2026-11-21"
+   "version": 3,
+   "published": "2026-11-22"
   },
   {
    "order": 44,
@@ -871,8 +871,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv (full file, pglaf mirror); The Online Books Page: HathiTrust scans only; Wikisource: none; Open Library: 1887 and Read Books 2010 (print on demand); web searches of the title and of a sentence from ch. XI: no text. Author and illustrator Sir Edward Robert Pearce Edgcumbe 1851–1929 (Online Books Page authority). Not checked: Faded Page.",
    "note": "University of Toronto scan, 500 ppi; a second copy zephyrusholidayi00edgc (UC, 400 ppi) as a fallback. A map and the author's text illustrations; a Chatto catalogue at the end. A banker and his wife by Royal Mail steamer to Rio, Santos and São Paulo, then the River Plate, Uruguay and Buenos Aires; a week of quarantine on the Isla de Flores. Some chapters on railways and loans. Scan check 2026-11-20 (Opus subagent, full): the Toronto copy lacks the leaf pp. 160–161 and has pp. 162–163 twice (p0178–p0179); the UC scan has the leaf (its n178–n179): take those two pages as extra leaves. Map p0008 and Uruguay map p0138 clear; 41 text cuts, all clear. Re-checked 2026-11-20: web search finds no text edition or reprint; Faded Page search: none.",
    "started": "2026-11-20",
-   "version": 1,
-   "published": "2026-11-20"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 47,
@@ -943,8 +943,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv; The Online Books Page: none; web search of a mid-book sentence: nothing. Reprints: HardPress 2019, British Library Historical Print Editions 2011, Anatiposi 2023 (all print on demand). Wikisource only by a site-restricted web search. Author 1828–1916 (a bookseller's note: lived in Venice, author of A Garden in Venice): confirm the dates before starting. No illustrations. Not checked: Open Library, Faded Page. Re-checked 2026-11-21: not in pg_catalog.csv (fresh copy); web search of the title: no text online. Author Frederic Eden d. 1916 in Venice (Wikipedia, Garden of Eden (Venice); Frederick Eden (cricketer), b. 1829); creator of the Giudecca garden.",
    "note": "Library of Congress scan, 600 ppi, good OCR, no plates. The author hired his own dahabeah without a dragoman, from Alexandria to Wadi Halfa and back: fitting out, money, crews, the boat hauled up the cataract at Aswan.",
    "started": "2026-11-21",
-   "version": 3,
-   "published": "2026-11-21"
+   "version": 4,
+   "published": "2026-11-22"
   },
   {
    "order": 51,
@@ -1033,8 +1033,8 @@
    "eligibility": "Checked 2026-11-21 (Opus subagent): PG catalogue: none. Online Books Page: none. Wikisource search: none. Faded Page: not properly checked (scripted search returns nothing; a site: web search found nothing). Web search of title and of a preface sentence found only scans and raw OCR (HathiTrust, Cornell Southeast Asia Visions, a Tamil Digital Library PDF, distantreader.org): none disqualify. No reprint of any kind found. Author born 1849 (accessgenealogy.com 'Allen of Bicton'), son of Charles Allen of the Legislative Council of India (matches the dedication); death date not found, so rule 5 by the birth year (before 1856). Not checked: WorldCat, Crockford, Venn: look for the death date before starting. Re-checked 2026-11-21 (the session): not in pg_catalog.csv; death date still not found (Allen of Bicton genealogy: born 1849, married 1890); rule 5 met by the birth year.",
    "note": "UC Libraries (Los Angeles) scan, 400 ppi; clean OCR; one map, footnotes at page foot. A vicar's six-month tour, Egypt on the way out, then India, Burma (the Shwe Dagon, monasteries) and Ceylon, written with an eye to missions and the Church.",
    "started": "2026-11-21",
-   "version": 4,
-   "published": "2026-11-21"
+   "version": 5,
+   "published": "2026-11-22"
   },
   {
    "order": 56,
@@ -1051,8 +1051,8 @@
    "eligibility": "Checked 2026-11-21 (Opus subagent): PG catalogue: none. Online Books Page: none. Wikisource: passing mentions only. Faded Page: not properly checked. Web search: only print-on-demand copies under the 1859 title 'Up and Down the Irrawaddi' (Kessinger; a 2023 facsimile, ISBN 9781021017130: check whether it is a scan reprint before starting). Exact-phrase search of a sentence: no hits. Author 1825-1906 (LC catalogue; DocSouth UNC). Surgeon on the East India Company steamer Phlegethon in the Second Burmese War, 1852. Not checked: WorldCat.",
    "note": "Library of Congress scan of the first edition, 500 ppi. Other copies: goldendagonorupd00palmiala (UC), updownirrawaddi00palm (LC, the 1859 retitled issue). Small pages, plain layout, no plates listed. An American ship's surgeon's account of Singapore, Penang, Moulmein and the 1852 campaign on the Irrawaddi. One chapter is a Burmese tale read aloud to him.",
    "started": "2026-11-21",
-   "version": 2,
-   "published": "2026-11-21"
+   "version": 3,
+   "published": "2026-11-22"
   },
   {
    "order": 57,
@@ -1105,7 +1105,7 @@
    "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (his Roraima and British Guiana is; this book is not); The Online Books Page: HathiTrust page images only; Wikisource: nothing; web search of a sentence: nothing. Only a University Microfilms reel (not a print edition); no print-on-demand reprints found. Boddam-Whetham 1843–1918 (LC authority). About 11 plates, no artist named. Not checked: Faded Page, WorldCat. Re-checked 2026-11-22: web search: Canadiana page images with OCR, a Legare Street print-on-demand listing (ISBN 9781019625149) only; no reading text, no real reprint. Plates engraved by Whymper (J. W. Whymper d. 1903; his son Charles d. 1941).",
    "note": "Getty scan, 350 ppi, excellent (395 pages, 2 tissues). xii + 364 pp.: New York, Niagara, Chicago, Omaha, the Union Pacific to Salt Lake City, Virginia City, California (stage-driving, Yosemite, the Big Trees, the Geysers), Oregon, Puget Sound, Victoria, up the Fraser, Nanaimo, back to San Francisco. A lively, opinionated voice.",
    "started": "2026-11-22",
-   "version": 1,
+   "version": 2,
    "published": "2026-11-22"
   },
   {
@@ -1175,7 +1175,7 @@
    "eligibility": "Checked 2026-11-21 (Opus subagent): not in pg_catalog.csv (only his bicycle books); The Online Books Page: nothing; Wikisource author page lists it with an external scan only; Open Library and web: print-on-demand only (Franklin Classics, Wentworth, Legare Street, Kessinger). Stevens 1854–1935. Photographs, no artist named. Risk: Negro Universities Press reprinted many Africa books in the 1960s–70s; WorldCat not checked — check before starting. Not checked: Faded Page. Re-checked 2026-11-22: web search for reprints (Negro Universities Press, Books for Libraries and others): none; only print on demand (Kessinger 2010, Wentworth 2019, Legare Street 2022). Scan check passed (Opus subagent).",
    "note": "UCLA scan, JP2. About 288 pp., 18 chapters, 16 photographic plates. A New York World correspondent in 1889: Zanzibar and Mombasa, Taveta and Kilimanjaro, Masai-land hunting with Dr W. L. Abbott, held on parole by the Germans, then inland to reach Stanley and Emin Pasha and march with them to Bagamoyo.",
    "started": "2026-11-22",
-   "version": 1,
+   "version": 2,
    "published": "2026-11-22"
   },
   {

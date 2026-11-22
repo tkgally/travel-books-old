@@ -26,8 +26,10 @@
 [       ok] contents: entries of the printed contents with no matching heading
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (5)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0003, p0005, p0009, p0010, p0011, p0012…); à (p0036)
             - antinoe: antinoe (p0082); antinoë (p0080)
@@ -35,8 +37,15 @@
             - said: said (p0014, p0019, p0022, p0028, p0044, p0055…); saïd (p0060, p0098, p0249)
             - zayat: zayat (p0133); zayát (p0050, p0314, p0318)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[       ok] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+[ look (3)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0027: “pints” — “points” is common (318; a letter dropped or transposed?)
+            - p0113: “fining” — “finding” is common (255; a letter dropped or transposed?)
+            - p0160: “pates” — “plates” is common (140; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …d south for his health in 1869, Frederic Eden and his wife spent the w…
+            - book.json summary: …s in the markets, money, wages, and dealings with the reis and crew. The last page …
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: nile-without-dragoman-eden v3 — 0 to fix, 0 waived; to look at: hyphen-joins 4, accents 5 — tools@7614af67 2026-11-21
+preflight PASS: nile-without-dragoman-eden v4 — 0 to fix, 0 waived; to look at: hyphen-joins 4, accents 5, rare-forms 3, serial-commas 2 — tools@ed86e62f 2026-11-22

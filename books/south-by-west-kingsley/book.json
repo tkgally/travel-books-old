@@ -1,7 +1,7 @@
 {
  "id": "south-by-west-kingsley",
- "version": 5,
- "date": "2026-11-21",
+ "version": 6,
+ "date": "2026-11-22",
  "title": "South by West; or, Winter in the Rocky Mountains and Spring in Mexico",
  "short_title": "South by West",
  "authors": [
@@ -74,6 +74,11 @@
    "version": 5,
    "date": "2026-11-21",
    "note": "A printer’s error corrected: “water” for “water.” (p. 368) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan)."
+  },
+  {
+   "version": 6,
+   "date": "2026-11-22",
+   "note": "A printer’s error of a dropped or transposed letter marked and corrected: “inumerable” for “innumerable”."
   }
  ],
  "divisions": [
@@ -130,7 +135,7 @@
   }
  ],
  "audit": {
-  "version": 5,
+  "version": 6,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",

@@ -28,13 +28,24 @@
 [       ok] contents: entries of the printed contents with no matching heading
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[ look (1)] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+            - p0045: after the caption: 'Sketching out of doors is well-nigh an'
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (5)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0011, p0013, p0017, p0018, p0019, p0020…); à (p0159, p0166)
             - aide: aidë (p0261); aïdé (p0289)
             - cedulas: cedulas (p0244, p0245, p0246, p0255); cĕdŭlas (p0244)
             - e: e (p0011, p0013, p0017, p0038, p0053, p0108…); ē (p0031)
             - o: o (p0017, p0023, p0026, p0043, p0044, p0049…); ō (p0031)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (1)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0150: “biding” — “hiding” is common (60)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (1)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …and spent time in Buenos Ayres, the new city of La Plata and its port of Ensenada…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: zephyrus-edgcumbe v1 — 0 to fix, 4 waived; to look at: hyphen-joins 4, joins 1, folios 1, accents 5 — tools@1df1656 2026-11-20
+preflight PASS: zephyrus-edgcumbe v2 — 0 to fix, 4 waived; to look at: hyphen-joins 4, joins 1, folios 1, caption-tail 1, accents 5, rare-forms 1, serial-commas 1 — tools@ed86e62f 2026-11-22

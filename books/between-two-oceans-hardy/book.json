@@ -1,6 +1,6 @@
 {
  "id": "between-two-oceans-hardy",
- "version": 3,
+ "version": 4,
  "date": "2026-11-22",
  "title": "Between Two Oceans",
  "subtitle": "or, Sketches of American Travel",
@@ -48,6 +48,11 @@
    "version": 3,
    "date": "2026-11-22",
    "note": "Title page typed line by line as printed."
+  },
+  {
+   "version": 4,
+   "date": "2026-11-22",
+   "note": "A printer’s error of a dropped or transposed letter marked and corrected: “interes” for “interest”."
   }
  ],
  "regions": [
@@ -204,7 +209,7 @@
   "p0352"
  ],
  "audit": {
-  "version": 3,
+  "version": 4,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",

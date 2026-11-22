@@ -1,7 +1,7 @@
 {
  "id": "letters-from-china-and-japan-swainson",
- "version": 2,
- "date": "2026-11-21",
+ "version": 3,
+ "date": "2026-11-22",
  "title": "Letters from China & Japan",
  "short_title": "Letters from China & Japan",
  "authors": [
@@ -46,6 +46,11 @@
    "version": 2,
    "date": "2026-11-21",
    "note": "A printer’s error corrected: “pertorm” for “perform” (p. 46) (found by a sweep of all the books at the review after forty books)."
+  },
+  {
+   "version": 3,
+   "date": "2026-11-22",
+   "note": "A printer’s error of a dropped or transposed letter marked and corrected: “mavellous” for “marvellous”."
   }
  ],
  "divisions": [
@@ -316,7 +321,7 @@
   "p0168"
  ],
  "audit": {
-  "version": 2,
+  "version": 3,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",
