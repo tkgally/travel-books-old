@@ -16,6 +16,11 @@ book.json keys used here (all keys: notes/book-json.md):
   keep_hyphens  pages whose join with the previous page keeps the page-final hyphen
   toc           {"subtitles": "all"}: every division whose summary was too long for its title gets `toc_title`
   toc_entries   [{"at": leaf, "starts": plain text, "title": ..., "editor": bool}] -> division `sections`
+
+The title page (kind "titlepage") is the first division of the reading editions (Tom, 2026-11-22): divisions
+before it (half-title, advertisements) are left out of them whatever book.json says. A long division with
+`sections` gets "split": true: the reading editions give each section a page of its own (SPLIT_CHARS; a
+`divisions` entry may say "split": true or false). The JSON keeps the division whole.
 """
 import argparse, json, os, re, sys
 
@@ -28,6 +33,8 @@ KINDS = ("front", "titlepage", "dedication", "preface", "contents", "illustratio
 MARK = re.compile(r"\[\[(?:page [^\[\]]*|blank|break|cont|right|center|subtitle|caption|image:[^\[\]]*|fn [^\[\]]+|"
                   r"fnref [^\[\]]+|corr [^|\[\]]*\|[^\[\]]*|side:[^\[\]]*|supplied [^\[\]]+|gap)\]\]")
 BLOCK_TAGS = ("blockquote", "verse")
+NOT_READING = ("front", "contents", "illustrations", "index", "advertisements", "back", "errata")
+SPLIT_CHARS = 50000     # a reading division with sections and more plain text than this is split at them
 
 
 def page_files_sorted(names):
@@ -297,10 +304,12 @@ def compile_pages(cfg, pages, images=None):
         kind = o.get("kind", "chapter" if from_heading else "front")
         if kind not in KINDS:
             warn(f"unknown division kind {kind!r} at {leaf}")
+        if kind == "titlepage":      # whatever heading the page has, the division is called "Title Page"
+            title, from_heading = o.get("title") or "Title Page", False
         cur = {"id": f"d{len(divs) + 1:03d}", "kind": kind, "title": o.get("title") or title or (None if from_heading else kind.capitalize()),
-               "reading": o.get("reading", kind not in ("front", "contents", "illustrations", "index", "advertisements", "back", "errata", "titlepage")),
-               "first_leaf": leaf, "blocks": [], "notes": [], "_fns": [], "_auto_title": not o.get("title"),
-               "_toc_title": o.get("toc_title")}
+               "reading": o.get("reading", kind not in NOT_READING),
+               "first_leaf": leaf, "blocks": [], "notes": [], "_fns": [], "_auto_title": not o.get("title") and kind != "titlepage",
+               "_toc_title": o.get("toc_title"), "_split": o.get("split")}
         divs.append(cur)
 
     used = set()
@@ -329,6 +338,13 @@ def compile_pages(cfg, pages, images=None):
     for k in overrides:
         if k not in used:
             warn(f"book.json divisions entry matches no division start: at {k[0]} n {k[1]}")
+
+    # the title page opens the reading editions: what stands before it is left out (Tom, 2026-11-22)
+    tp = next((i for i, d in enumerate(divs) if d["kind"] == "titlepage" and d["reading"]), None)
+    for d in divs[:tp or 0]:
+        if d["reading"]:
+            warn(f"division {d['id']} ({d['first_leaf']}, {d['kind']}) stands before the title page: left out of the reading editions")
+            d["reading"] = False
 
     def conv(text, leaf):
         return inline.convert(text, warn, leaf)
@@ -458,10 +474,17 @@ def compile_pages(cfg, pages, images=None):
                     if b["type"] == "image" and b["src"] == want), None)
         first = None if src is None else next((d for d in divs[src[0]:] if d["reading"]), None)
         if first is None:
-            warn(f"frontispiece {fr!r}: no such image outside the reading divisions")
+            # an image already in the reading editions (on the title page, now their first page) stays where it is
+            if not any(b["type"] == "image" and b["src"] == want for d in divs if d["reading"] for b in d["blocks"]):
+                warn(f"frontispiece {fr!r}: no such image outside the reading divisions")
         else:
             src[1]["blocks"].remove(src[2])
-            first["blocks"].insert(0, src[2])
+            at = 0
+            if first["kind"] == "titlepage" and first["blocks"]:
+                # on the title page the picture follows the title page's own text (its first leaf), before the verso
+                lf = first["blocks"][0]["leaf"]
+                at = max(i for i, b in enumerate(first["blocks"]) if b["leaf"] == lf) + 1
+            first["blocks"].insert(at, src[2])
 
     # entries of the contents inside a division (book.json "toc_entries", notes/book-json.md): the printed contents'
     # titles of sections whose headings are shorter, or the editor's own entries (spans of dates and places in a
@@ -483,10 +506,16 @@ def compile_pages(cfg, pages, images=None):
             warn(f"toc_entries: {e['at']} {e['starts']!r} is in a division left out of the reading editions")
         d.setdefault("sections", []).append({"title": e["title"], "block": i, "editor": e.get("editor", True)})
     for d in divs:
+        want = d.pop("_split", None)
         if d.get("sections"):
             d["sections"].sort(key=lambda x: x["block"])
             if len({x["block"] for x in d["sections"]}) < len(d["sections"]):
                 warn(f"toc_entries: two entries point at the same block in division {d['id']}")
+            size = sum(len(inline.plain(x)) for b in d["blocks"] for x in strings(b))
+            if d["reading"] and (want if want is not None else size > SPLIT_CHARS and len(d["sections"]) > 1):
+                d["split"] = True
+        elif want:
+            warn(f"book.json divisions: \"split\" at {d['first_leaf']}, but the division has no toc_entries")
 
     leaf_div = {}
     for d in divs:
@@ -518,7 +547,7 @@ def compile_pages(cfg, pages, images=None):
             collect(b, b["leaf"], d["id"])
     meta_keys = ("title", "subtitle", "short_title", "authors", "author_note", "publisher", "place", "year", "edition_statement",
                  "volumes", "language", "regions", "period", "subjects", "collection", "summary", "source", "notes_on_text",
-                 "omitted_from_reading", "history")
+                 "omitted_from_reading", "history", "body_start")
     book = {"format": FORMAT, "id": cfg["id"], "version": cfg["version"], "date": cfg["date"],
             "license": "CC0-1.0",
             "license_note": "This transcription and its markup are dedicated to the public domain (CC0 1.0). "
@@ -526,6 +555,19 @@ def compile_pages(cfg, pages, images=None):
             **{k: cfg[k] for k in meta_keys if k in cfg},
             "corrections": corrections, "pages": page_list, "divisions": divs}
     return book, warnings
+
+
+def strings(x):
+    """Every inline string of a block or note, in reading order."""
+    if isinstance(x, str):
+        yield x
+    elif isinstance(x, list):
+        for y in x:
+            yield from strings(y)
+    elif isinstance(x, dict):
+        for k in ("text", "paragraphs", "stanzas", "rows", "caption"):
+            if k in x:
+                yield from strings(x[k])
 
 
 def b_text(b):

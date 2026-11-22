@@ -26,7 +26,7 @@
   "Religion"
  ],
  "summary": [
-  "J. Ll. Thomas, a Welsh clergyman, vicar of Aberpergwm, was in the United States on a commission for the Cardiff newspaper the Western Mail when he decided to go on to Japan in the summer of 1895. He crossed Canada by the Canadian Pacific Railway and sailed from Vancouver to Yokohama. In Japan he travelled mostly by the new railways: to Kamakura and Enoshima, the Hakone hills, Tôkyô, Nikkô, along the Tôkaidô and Sanyô lines to Kobe, Himeji and Okayama, then into Shikoku and back by Nagoya. He writes about inns, temples, missions and schools, troops returning from the war with China, and fellow travellers, among them the Korean exile Prince Pak on the voyage home. The last chapter, on Shintô, Buddhism and Christianity, is largely drawn from other writers. Many passages from newspapers, guidebooks and a Japanese sermon are quoted at length. The title uses a word for Japanese people now considered offensive."
+  "J. Ll. Thomas, a Welsh clergyman, vicar of Aberpergwm, was in the United States on a commission for the Cardiff newspaper the Western Mail when he decided to go on to Japan in the summer of 1895. He crossed Canada by the Canadian Pacific Railway and sailed from Vancouver to Yokohama. In Japan he travelled mostly by the new railways: to Kamakura and Enoshima, the Hakone hills, Tôkyô, Nikkô, along the Tôkaidô and Sanyô lines to Kobe, Himeji, and Okayama, then into Shikoku and back by Nagoya. He writes about inns, temples, missions and schools, troops returning from the war with China, and fellow travellers, among them the Korean exile Prince Pak on the voyage home. The last chapter, on Shintô, Buddhism, and Christianity, is largely drawn from other writers. Many passages from newspapers, guidebooks, and a Japanese sermon are quoted at length. The title uses a word for Japanese people now considered offensive."
  ],
  "source": {
   "ia_identifier": "journeysamonggen00thom",
@@ -43,7 +43,7 @@
   ]
  },
  "frontispiece": "p0008-1",
- "omitted_from_reading": "The half-title, title page, the epigraph from Will Adams, the printed contents, the index and the publisher’s catalogue are in the JSON only; the portrait opens the reading editions and the folding map stands where it is bound, after page 250.",
+ "omitted_from_reading": "The half-title, the epigraph from Will Adams, the printed contents, the index, and the publisher’s catalogue are in the JSON only; the portrait follows the title page and the folding map stands where it is bound, after page 250.",
  "notes_on_text": [
   "Long quotations printed in smaller type are set as block quotations.",
   "The footnote on page 249 is printed in three paragraphs; it is given as one."
@@ -78,6 +78,10 @@
    "at": "p0014",
    "kind": "front",
    "title": "Epigraph"
+  },
+  {
+   "at": "p0015",
+   "kind": "preface"
   },
   {
    "at": "p0017",

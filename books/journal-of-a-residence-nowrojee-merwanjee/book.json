@@ -66,7 +66,7 @@
  ],
  "summary": [
   "Jehangeer Nowrojee and his cousin Hirjeebhoy Merwanjee were young assistant shipbuilders at the East India Company’s dockyard in Bombay, members of the Parsi family that had built ships there since 1735. Sent by their family to learn how steam vessels were designed, they sailed from Bombay in March 1838 by the Cape of Good Hope and St. Helena, spent two and a half years in England and Scotland, and wrote this book in London in April 1841, before going home.",
-  "It is arranged by subject rather than by date: the voyage; London’s conveyances, exhibitions, theatres, museums, hospitals, markets, Parliament and courts; their training at Chatham dockyard and the launches they saw there; visits to Sheerness, Woolwich, Windsor and Egham; a tour of the dockyards and manufacturing towns from Portsmouth and Plymouth to Bristol, Birmingham, Liverpool and Glasgow; newspapers, customs, the climate, and verses written in their albums. The authors say they wrote it chiefly for Indians who might visit England."
+  "It is arranged by subject rather than by date: the voyage; London’s conveyances, exhibitions, theatres, museums, hospitals, markets, Parliament, and courts; their training at Chatham dockyard and the launches they saw there; visits to Sheerness, Woolwich, Windsor, and Egham; a tour of the dockyards and manufacturing towns from Portsmouth and Plymouth to Bristol, Birmingham, Liverpool, and Glasgow; newspapers, customs, the climate, and verses written in their albums. The authors say they wrote it chiefly for Indians who might visit England."
  ],
  "frontispiece": "p0006-1",
  "divisions": [
@@ -95,7 +95,7 @@
    "kind": "advertisements"
   }
  ],
- "omitted_from_reading": "The title page, the printer’s line, the printed contents and the publisher’s catalogue at the end are in the JSON only.",
+ "omitted_from_reading": "The printer’s line, the printed contents, and the publisher’s catalogue at the end are in the JSON only.",
  "notes_on_text": [
   "Transcribed from the copy at the Getty Research Institute (Internet Archive: journalofresiden00jaha).",
   "Printed page 182 was first read by an OCR program (Tesseract), because the Claude models would not transcribe it; that reading was corrected against the page image by a Claude model and then proofread like the other pages.",
@@ -132,7 +132,7 @@
   {
    "at": "p0420",
    "starts": "We started exactly at eleven",
-   "title": "October 1840: Southampton, Portsmouth and Gosport"
+   "title": "October 1840: Southampton, Portsmouth, and Gosport"
   },
   {
    "at": "p0432",
@@ -147,7 +147,7 @@
   {
    "at": "p0447",
    "starts": "On the 8th of November we left Bristol",
-   "title": "8–14 November: Gloucester, Birmingham and Liverpool"
+   "title": "8–14 November: Gloucester, Birmingham, and Liverpool"
   },
   {
    "at": "p0458",

@@ -54,7 +54,7 @@
   "British Columbia"
  ],
  "summary": [
-  "An English traveller’s account of a journey through North America in the early 1870s (the book gives no year; it reports events of 1872 and 1873 as recent). He crossed the Atlantic to New York, went by way of Niagara and Chicago to Omaha, and took the Union Pacific Railroad to Salt Lake City and on to Virginia City. In California he rode the stage-coaches to the Big Trees and the Yosemite Valley and spent time in San Francisco. He then travelled north by Mount Shasta, camped out, and visited the lava beds where the Modoc War had just been fought, with an account of the war. He went on through Oregon to the Columbia River, Puget Sound and Victoria, up the Fraser River, to Nanaimo, and back to San Francisco and the Geysers. The last chapter gives his general remarks on the West."
+  "An English traveller’s account of a journey through North America in the early 1870s (the book gives no year; it reports events of 1872 and 1873 as recent). He crossed the Atlantic to New York, went by way of Niagara and Chicago to Omaha, and took the Union Pacific Railroad to Salt Lake City and on to Virginia City. In California he rode the stage-coaches to the Big Trees and the Yosemite Valley and spent time in San Francisco. He then travelled north by Mount Shasta, camped out, and visited the lava beds where the Modoc War had just been fought, with an account of the war. He went on through Oregon to the Columbia River, Puget Sound, and Victoria, up the Fraser River, to Nanaimo, and back to San Francisco and the Geysers. The last chapter gives his general remarks on the West."
  ],
  "divisions": [
   {
@@ -94,7 +94,7 @@
   }
  ],
  "frontispiece": "p0008-1",
- "omitted_from_reading": "The half-title, title page, printed contents, list of illustrations, erratum slip and the line “Western Wanderings” above Chapter I are in the JSON only.",
+ "omitted_from_reading": "The half-title, printed contents, list of illustrations, erratum slip, and the line “Western Wanderings” above Chapter I are in the JSON only.",
  "notes_on_text": [
   "The printed erratum (page 47: Yancton for Yauhton) has been applied.",
   "The plate “Father of the Forest” (facing page 112) is missing from the scanned copy; it is taken from another copy of the same edition at the Internet Archive (westernwandering00bodd).",

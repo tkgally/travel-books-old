@@ -37,12 +37,12 @@
   "Mountaineering",
   "Glaciers"
  ],
- "summary": "Walter Larden, an Oxford lecturer and mountaineer, went out to Argentina in August 1908 to stay again on his brother’s estancia, Santa Isabel, in the province of Santa Fé, twenty years after his first stay there in 1888–9. The first part of the book describes the estancia then and now: the staff and the year’s work with cattle, sheep and horses, the colonists, a locust invasion followed through its stages, and the birds, animals, insects, plants and weather of the plains. The second part tells of an expedition in February and March 1909 by rail to Puente del Inca and on mules into the Andes, to the glaciers at the head of the Rio del Plomo and the Tupungato valley, with notes on penitentes, equipment and mule-men. It ends with a visit to Chile and to an estancia in San Luis. Appendices give an account of the country with statistics, and a glossary of camp Spanish.",
+ "summary": "Walter Larden, an Oxford lecturer and mountaineer, went out to Argentina in August 1908 to stay again on his brother’s estancia, Santa Isabel, in the province of Santa Fé, twenty years after his first stay there in 1888–9. The first part of the book describes the estancia then and now: the staff and the year’s work with cattle, sheep, and horses, the colonists, a locust invasion followed through its stages, and the birds, animals, insects, plants, and weather of the plains. The second part tells of an expedition in February and March 1909 by rail to Puente del Inca and on mules into the Andes, to the glaciers at the head of the Rio del Plomo and the Tupungato valley, with notes on penitentes, equipment, and mule-men. It ends with a visit to Chile and to an estancia in San Luis. Appendices give an account of the country with statistics, and a glossary of camp Spanish.",
  "frontispiece": "p0008-1",
  "toc": {
   "subtitles": "all"
  },
- "omitted_from_reading": "The title page, the printed contents (with its list of topics for each chapter), the list of illustrations, the half-title “Argentine Plains” above Chapter I and the index are in the JSON only; the frontispiece opens the reading editions.",
+ "omitted_from_reading": "The printed contents (with its list of topics for each chapter), the list of illustrations, the half-title “Argentine Plains” above Chapter I, and the index are in the JSON only; the frontispiece follows the title page.",
  "notes_on_text": [
   "The contents entries give each chapter’s printed summary.",
   "The two plates whose captions refer to numbered pictures (the four photographs of the locust facing p. 118 and the two of maize facing p. 132) are shown whole, with their numbers.",

@@ -242,13 +242,13 @@ class Sample(unittest.TestCase):
         out = os.path.join(self.tmp, "site")
         book, _ = build_site.build_book(out, self.dir)
         bdir = os.path.join(out, "books", book["id"])
-        self.assertEqual(sorted(f for f in os.listdir(bdir) if f[0].isdigit()), ["01.html", "02.html", "03.html"])
+        self.assertEqual(sorted(f for f in os.listdir(bdir) if f[0].isdigit()), ["01.html", "02.html", "03.html", "04.html", "05.html", "06.html"])   # title page, preface, chapter I in three, chapter II
         j = json.load(open(os.path.join(bdir, book["id"] + ".json"), encoding="utf-8"))
         self.assertIn("index", [d["kind"] for d in j["divisions"]])
         z = zipfile.ZipFile(os.path.join(bdir, book["id"] + ".epub"))
         self.assertNotIn("INDEX", "".join(z.read(n).decode() for n in z.namelist() if n.endswith(".xhtml")))
-        page = open(os.path.join(bdir, "02.html"), encoding="utf-8").read()
-        self.assertIn('href="02.html#pg-4"', page)                      # "see p. 4" links to where page 4 starts
+        page = open(os.path.join(bdir, "04.html"), encoding="utf-8").read()
+        self.assertIn('href="05.html#pg-4"', page)                      # "see p. 4" links to where page 4 starts
         self.assertIn("archive.org/details/samplejourney00doe/page/n4/", page)   # leaf 5, one hidden leaf before it
 
     def planted(self, leaf, old, new):
@@ -521,7 +521,7 @@ class Ornaments(unittest.TestCase):
         self.assertTrue(tail[0].get("ornament"))
         plain = [b for d in book["divisions"] for b in d["blocks"] if b.get("src") == "images/p0007-1.jpg"]
         self.assertFalse(plain[0].get("ornament"))            # an ordinary illustration is not one
-        html = rh.Ctx(book, "web", {d["id"]: d["id"] + ".html" for d in book["divisions"]}).blocks(ch1)
+        html = rh.Ctx(book, "web", rh.file_names(book, ".html")).blocks(ch1)
         self.assertIn('<figure class="ornament">', html)
         odt = render_odt.render(book, os.path.join(self.dir, "images"))
         x = zipfile.ZipFile(__import__("io").BytesIO(odt)).read("content.xml").decode()
@@ -694,7 +694,8 @@ class SiteLists(unittest.TestCase):
                       'has more books about Japan than about other countries.</p>', home)
         self.assertNotIn("about these books", home)
         main = home[home.index("<main"):home.index("</main>")]
-        self.assertEqual((main.count("<h1>"), main.count("<p>"), main.count("<h2"), main.count("<li")), (1, 2, 0, 0))
+        self.assertEqual((main.count("<h1"), main.count("<p>"), main.count("<h2"), main.count("<li")), (1, 3, 0, 0))
+        self.assertNotIn("The site now contains", home)          # no books given: no count
         self.assertIn("The transcriptions on this site are in the public domain", home)
         h = self.read("books.html")
         self.assertIn("<h1>Books</h1>", h)
@@ -792,10 +793,12 @@ class SiteLists(unittest.TestCase):
             self.assertIn('<p class="sitename"><a href="', h)
         self.assertIn('Also listed by <a href="books.html">author</a> and by <a href="dates.html">date of the journey</a>.', rd("places.html"))
         if os.path.exists(os.path.join(d, "images", "cover.jpg")):
-            self.assertIn('<a class="cover" href="01.html" title="Read on this site"><img class="cover" src="images/cover.jpg" alt="Cover of the book"/></a>', landing)
+            # the picture leads to the start of the narrative; "Read on this site" to the title page (Tom, 2026-11-22)
+            self.assertIn('<a class="cover" href="02.html#start" title="Start reading"><img class="cover" src="images/cover.jpg" alt="Cover of the book"/></a>', landing)
+        self.assertIn('<li><a href="01.html">Read on this site</a> (contents below)</li>', landing)
         book2, _ = comp(["[[page 1]]\n# ONE\n\nText."])
         page = build_site.book_page(book2, rh.file_names(book2, ".html"), True)
-        self.assertIn('<a class="cover" href="01.html" title="Read on this site"><img class="cover"', page)
+        self.assertIn('<a class="cover" href="01.html#start" title="Start reading"><img class="cover"', page)
         self.assertIn('<li><a href="01.html">Read on this site</a> (contents below)</li>', page)
 
     def test_head_piece_stands_close_to_its_heading(self):
@@ -1139,7 +1142,8 @@ class MovedImages(unittest.TestCase):
     def test_plate_in_paragraph_and_captioned_frontispiece_pass(self):
         book, _ = compile_book.compile_book(self.dir)
         first = next(d for d in book["divisions"] if d["reading"])
-        self.assertEqual(first["blocks"][0].get("caption"), "The Author.")          # moved by the compiler
+        self.assertEqual(first["kind"], "titlepage")       # the picture is on the title page, which is in the editions
+        self.assertIn("The Author.", [b.get("caption") for b in first["blocks"]])
         _, report, res = preflight.run(self.dir, skip_epubcheck=True, skip_odt=True)
         self.assertEqual(res["conservation"], [], report)
         self.assertEqual(res["compile"], [], report)
@@ -1841,7 +1845,7 @@ class Carousel(unittest.TestCase):
         home = open(os.path.join(self.repo, "index.html"), encoding="utf-8").read()
         self.assertLess(home.index("</header>"), home.index('<nav class="carousel" aria-label="Some of the books">'))
         self.assertLess(home.index('<nav class="carousel"'), home.index('<main id="main">'))
-        self.assertLess(home.index("</ul></nav>"), home.index("<h1>Travel Books</h1>"))
+        self.assertLess(home.index("</ul></nav>"), home.index('<h1 class="visually-hidden">Travel Books</h1>'))
         build_site.build_index(self.repo)
         self.assertNotIn("carousel", open(os.path.join(self.repo, "index.html"), encoding="utf-8").read())
 

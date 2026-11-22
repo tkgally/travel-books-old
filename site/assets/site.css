@@ -55,7 +55,7 @@ article.book .pb { display: none; font-family: system-ui, sans-serif; font-size:
   border-radius: 0.2rem; padding: 0 0.25rem; margin: 0 0.2rem; vertical-align: 0.1em; white-space: nowrap; }
 html.showpb article.book .pb { display: inline; }
 article.book .corr { text-decoration: underline dotted var(--muted); text-underline-offset: 0.2em; }
-article.book :target { background: rgba(255, 221, 87, 0.35); }
+article.book :target:not(#start) { background: rgba(255, 221, 87, 0.35); }
 footer.site { border-top: 1px solid var(--line); margin-top: 3rem; padding-top: 0.6rem; font-size: 0.85rem; color: var(--muted); }
 body:has(#showpb:checked) article.book .pb { display: inline; }
 
@@ -203,3 +203,5 @@ html.tb-js .carousel ul { scrollbar-width: none; } html.tb-js .carousel ul::-web
   body { max-width: none; }
 }
 body:has(#showpb:checked) article.book .pb { display: inline; }
+/* In the page for screen readers and outlines, not shown (the home page's heading: the name is in the header) */
+.visually-hidden { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }

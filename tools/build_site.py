@@ -180,15 +180,19 @@ def carousel_html(books, record, have):
     return '<nav class="carousel" aria-label="Some of the books"><ul>\n' + "\n".join(items) + "\n</ul></nav>\n"
 
 
-def build_index(out, carousel=""):
-    """The home page: the name and what the site is (Tom, 2026-11-21; the lists are on the Books page), and above
-    the name the carousel of covers (`carousel_html`), outside <main> so that "Skip to the text" passes it."""
-    body = f"""<h1>{SITE}</h1>
+def build_index(out, carousel="", nbooks=0):
+    """The home page: what the site is (Tom, 2026-11-21; the lists are on the Books page), below the carousel of
+    covers (`carousel_html`), which is outside <main> so that "Skip to the text" passes it. The name of the site is
+    in the header only: the page's <h1> is there for screen readers and outlines, not shown (Tom, 2026-11-22).
+    `nbooks` is the number of books on the Books page (the same list: main() passes both)."""
+    count = f" The site now contains {nbooks} books, with more being added every day." if nbooks > 1 else ""
+    body = f"""<h1 class="visually-hidden">{SITE}</h1>
 <p>Travel books written in English and published before 1914, transcribed from library scans at the
-Internet Archive. Each can be read on this site or downloaded as EPUB, ODT or JSON. <a href="about.html">About the project.</a></p>
+Internet Archive. Each can be read on this site or downloaded as EPUB, ODT, or JSON.{count}</p>
 <p>Most of the books were chosen because they are first-person accounts that have no other digital reading edition and were not
 reprinted after 1914. Books are also being added from the project <a href="{JATSI_PAGE}">{JATSI}</a>, so the site
 has more books about Japan than about other countries.</p>
+<p><a href="about.html">More about the project.</a></p>
 """
     open(os.path.join(out, "index.html"), "w", encoding="utf-8").write(page(SITE, body, "", before_main=carousel))
 
@@ -197,11 +201,11 @@ def build_books(out, books, queue, times=None):
     """The Books page. Up to HOME_FULL_LIST books: all of them, by author. More: the newest, and links to the full
     lists (by author, by place, by date of the journey), which build_lists writes; then the queue. Plan: notes/site.md."""
     books = sorted(books, key=sort_key)
-    lists = 'by <a href="places.html">place</a> and by <a href="dates.html">date of the journey</a>'
+    lists = 'by <a href="places.html">place</a>, and by <a href="dates.html">date of the journey</a>'
     if not books:
         shelf = "<p>No books have been published yet.</p>"
     elif len(books) <= HOME_FULL_LIST:
-        shelf = f'<p class="meta">By author. Also listed {lists}.</p>\n{books_ul(books)}'
+        shelf = f'<p class="meta">By author. Also listed {lists.replace(", and", " and")}.</p>\n{books_ul(books)}'
     else:
         newest = sorted(books, key=lambda b: (first_published(b, times), b["id"]), reverse=True)[:HOME_NEWEST]
         shelf = (f'<p>{len(books)} books, listed by <a href="authors.html">author</a>, {lists}.</p>\n'
@@ -302,7 +306,7 @@ at the Internet Archive. That project was one of the starting points of this sit
 published. The site will therefore come to have more books about Japan than about any other country.</p>
 <p>These books are here because they are on the list. The <a href="about.html#which-books">conditions that the other books
 meet</a> are applied to them less strictly: some have been reprinted since 1914 or have a digital text elsewhere, and
-some are histories, surveys or guidebooks, not accounts of the author’s own travels. The ones most like the other books
+some are histories, surveys, or guidebooks, not accounts of the author’s own travels. The ones most like the other books
 on this site are being done first. Those that have a text at Project Gutenberg are transcribed afresh from the scans,
 like the rest. All were published before 1914 and are in the public domain in the United States and Japan; where an
 author died less than 70 years ago, so that the book may still be in copyright in some other countries, its page says so.
@@ -325,6 +329,8 @@ def md_page(out, name, title, src):
     outl, i = [], 0
 
     def inl(s):
+        # quotation marks and apostrophes are curled in the prose, not in `code` (Tom, 2026-11-22)
+        s = "".join(x if x.startswith("`") else inline.smart_quotes(x) for x in re.split(r"(`[^`]+`)", s))
         s = esc(s)
         s = re.sub(r"`([^`]+)`", r"<code>\1</code>", s)
         s = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', s)
@@ -390,8 +396,16 @@ def build_book(out, bookdir, strict=True):
     used = set()
     short = book.get("short_title") or book["title"]
     extra = f"<style>{cfg['css_extra']}</style>" if cfg.get("css_extra") else ""
+    start = rh.body_start(book)
     for i, d in enumerate(divs):
         body = ctx.blocks(d)
+        if start is not None and d["id"] == start["id"]:
+            # where the picture on the book's page leads: the chapter's heading is the first line (Tom, 2026-11-22)
+            body, n = re.subn(r"<h1>", f'<h1 id="{START_ID}">', body, count=1)
+            if not n:
+                body = f'<span id="{START_ID}"></span>' + body
+        # the title of a section made for this edition (render_html.split_division) stands outside the book's text
+        added = f'<h2 class="added">{esc(d["added"])}</h2>\n' if d.get("added") else ""
         used.update(re.findall(r'<img src="images/([^"]+)"', body))
         prev_ = f'<a rel="prev" href="{names[divs[i - 1]["id"]]}">← {esc(divs[i - 1]["title"])}</a>' if i else "<span></span>"
         next_ = f'<a rel="next" href="{names[divs[i + 1]["id"]]}">{esc(divs[i + 1]["title"])} →</a>' if i + 1 < len(divs) else "<span></span>"
@@ -399,7 +413,7 @@ def build_book(out, bookdir, strict=True):
         toggle = ('<p class="pbtoggle"><label><input type="checkbox" id="showpb"/> Show the page numbers of the printed book '
                   "(each links to the scanned page)</label></p>")
         html_ = page(f"{d['title']} – {short}",
-                     f'{pager}\n{toggle}\n<article class="book">\n{body}\n</article>\n{pager}', "../../",
+                     f'{pager}\n{toggle}\n{added}<article class="book">\n{body}\n</article>\n{pager}', "../../",
                      crumbs=[(short, "index.html"), (d["title"], names[d["id"]])],
                      extra_head=extra, book_css=True)
         open(os.path.join(bout, names[d["id"]]), "w", encoding="utf-8").write(html_)
@@ -426,6 +440,7 @@ def correction_page(book, c, pnum):
     return f"{title}, unnumbered page" if title else "unnumbered page"
 
 
+START_ID = "start"      # on the page where the narrative begins: the heading the picture on the book's page leads to
 COVER_ALT = {"cover": "Cover of the book", "title page": "Title page of the book", "page of the text": "A page of the book"}
 
 
@@ -479,10 +494,12 @@ def book_page(book, names, has_cover=False, kind=None):
         f'<tr><td>{esc(correction_page(book, c, pnum))}</td><td>{esc(c["printed"])}</td><td>{esc(c["corrected"])}</td></tr>' for c in corr)
     notes = "".join(f"<li>{esc(n)}</li>" for n in book.get("notes_on_text", []))
     hist = "".join(f'<li>Version {h["version"]}, {esc(h["date"])}: {esc(h["note"])}</li>' for h in book.get("history", []))
-    # the picture is a link to where "Read on this site" goes (Tom, 2026-11-21)
+    # the picture is a link to the start of the narrative, its heading at the top of the window; "Read on this
+    # site" goes to the first page of the book, the title page (Tom, 2026-11-22; before: both to the first page)
     cover = f'<img class="cover" src="images/cover.jpg" alt="{COVER_ALT.get(kind, COVER_ALT["cover"])}"/>' if has_cover else ""
-    if cover and first:
-        cover = f'<a class="cover" href="{first}" title="Read on this site">{cover}</a>'
+    start = rh.body_start(book)
+    if cover and start:
+        cover = f'<a class="cover" href="{names[start["id"]]}#{START_ID}" title="Start reading">{cover}</a>'
     body = f"""<h1><cite>{esc(book.get("short_title") or book["title"])}</cite></h1>
 <p class="byline">{esc(rh.authors_text(book))}, {book.get("year", "")}</p>
 {cover}
@@ -502,7 +519,7 @@ def book_page(book, names, has_cover=False, kind=None):
 <h2 id="about-book">The book</h2>
 <div class="tablewrap"><table class="bib">{"".join(rows)}</table></div>
 <h2 id="text">The text</h2>
-<p>Transcribed from the scan ({npages} pages with text or pictures) with the spelling, punctuation and wording of the original;
+<p>Transcribed from the scan ({npages} pages with text or pictures) with the spelling, punctuation, and wording of the original;
 spaces around punctuation follow modern practice. {esc(book.get("omitted_from_reading", ""))}</p>
 {f'<ul>{notes}</ul>' if notes else ''}
 {f'<h3>Printer’s errors corrected</h3><div class="tablewrap"><table class="doc"><thead><tr><th scope="col">Page</th><th scope="col">Printed</th><th scope="col">Corrected to</th></tr></thead><tbody>{corr_rows}</tbody></table></div>' if corr else '<p>No corrections were made to the printed text.</p>'}
@@ -542,7 +559,7 @@ def main():
             os.makedirs(os.path.join(out, CAROUSEL_DIR), exist_ok=True)
             shutil.copyfile(os.path.join(cdir, f), os.path.join(out, CAROUSEL_DIR, f))
             have.add(f)
-    build_index(out, carousel_html(books, record, have))
+    build_index(out, carousel_html(books, record, have), len(books))
     build_books(out, books, queue, load_published_times())
     build_lists(out, books)
     build_jatsi(out, books, queue)

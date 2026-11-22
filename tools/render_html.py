@@ -20,8 +20,69 @@ esc = lambda s: html.escape(s, quote=False)
 attr = lambda s: html.escape(s, quote=True)
 
 
-def reading_divisions(book):
+def whole_reading_divisions(book):
+    """The divisions of the JSON that are in the reading editions, each whole."""
     return [d for d in book["divisions"] if d.get("reading")]
+
+
+def reading_divisions(book):
+    """The pages of the reading editions (a file each on the website and in the EPUB, a page break in the ODT):
+    the reading divisions of the JSON, and for a division with "split" the parts it is divided into at its
+    `sections` (Tom, 2026-11-22: a long text without chapters is read in sections, each with a title)."""
+    out = []
+    for d in whole_reading_divisions(book):
+        out += split_division(d)
+    return out
+
+
+def split_division(d):
+    """The parts of a division with "split": one for each of its `sections`, and one before them if the division
+    has text before its first section. Each is a division of its own for the renderers: `id` (the division's id
+    for the first, then id-2, id-3 …), `title` (the section's), its blocks and the notes they refer to, `of` (the
+    division's id); `added` is the section's title when it is the editor's and the part does not open with the
+    division's own heading (the renderers show it as a heading that is not the book's); `runs_on` says that the
+    part does not begin the division, so its first paragraph is indented like any other."""
+    secs = d.get("sections") or []
+    if not d.get("split") or not secs:
+        return [d]
+    blocks = d["blocks"]
+    lead = blocks[:secs[0]["block"]]
+    has_lead = any(b["type"] not in ("heading", "image", "break") and b.get("role") != "subtitle" for b in lead)
+    spans = [(0, secs[0]["block"], None)] if has_lead else []
+    for k, x in enumerate(secs):
+        start = 0 if k == 0 and not has_lead else x["block"]
+        end = secs[k + 1]["block"] if k + 1 < len(secs) else len(blocks)
+        spans.append((start, end, x))
+    out, left = [], list(d["notes"])
+    for k, (a, b, x) in enumerate(spans):
+        part = blocks[a:b]
+        refs = set(re.findall(r'<noteref to="([^"]+)"', " ".join(s for blk in part for s in strings(blk))))
+        notes = [n for n in left if n["id"] in refs] if k + 1 < len(spans) else left
+        left = [n for n in left if n not in notes]
+        u = {key: v for key, v in d.items() if key not in ("sections", "split", "toc_title", "blocks", "notes")}
+        u.update(id=d["id"] if k == 0 else f'{d["id"]}-{k + 1}', title=x["title"] if x else d["title"], blocks=part, notes=notes,
+                 of=d["id"], first_leaf=part[0]["leaf"] if part else d["first_leaf"])
+        if k:
+            u["runs_on"] = True
+            if x and x.get("editor", True) and not (part and part[0]["type"] == "heading"):
+                u["added"] = x["title"]
+        out.append(u)
+    return out
+
+
+def body_start(book):
+    """The page of the reading editions where the narrative begins (the picture on the book's page links to it;
+    Tom, 2026-11-22): the first chapter, not the title page, a dedication, a preface or an introduction.
+    book.json "body_start": "p0041" names it (by its first leaf) when the first division of kind "chapter" is
+    not the one."""
+    rd = reading_divisions(book)
+    want = book.get("body_start")
+    for test in ((lambda d: d["first_leaf"] == want), (lambda d: d["kind"] == "chapter"),
+                 (lambda d: d["kind"] in ("part", "introduction")), (lambda d: d["kind"] != "titlepage")):
+        hit = next((d for d in rd if test(d)), None)
+        if hit:
+            return hit
+    return rd[0] if rd else None
 
 
 def file_names(book, ext):
@@ -43,17 +104,7 @@ def anchor(n):
     return re.sub(r"[^0-9A-Za-z]", "", n)
 
 
-def strings(x):
-    """Every inline string of a block or note, in reading order."""
-    if isinstance(x, str):
-        yield x
-    elif isinstance(x, list):
-        for y in x:
-            yield from strings(y)
-    elif isinstance(x, dict):
-        for k in ("text", "paragraphs", "stanzas", "rows", "caption"):
-            if k in x:
-                yield from strings(x[k])
+strings = compile_book.strings
 
 
 def page_starts(div):
@@ -202,11 +253,14 @@ class Ctx:
 
     def blocks(self, div):
         div = roman_long_italics(div)
-        body, prev = [], None
+        body, prev = [], "paragraph" if div.get("runs_on") else None
         targets = section_targets(div)
+        tp, leaf0 = div["kind"] == "titlepage", None
         for bi, b in enumerate(div["blocks"]):
             n0 = len(body)
             t = b["type"]
+            newleaf = tp and leaf0 is not None and b["leaf"] != leaf0   # the verso of the title page: set apart
+            leaf0 = b["leaf"]
             pbs = "".join(self.pb(p["n"], p["leaf"]) for p in b.get("pb", []))
             if t == "heading":
                 lv = b["level"]
@@ -217,7 +271,7 @@ class Ctx:
                     cls += ["subtitle", "short"] if short_subtitle(b["text"]) else ["subtitle"]
                 elif b.get("align"):
                     cls.append(b["align"])
-                elif prev in (None, "heading", "image", "break", "subtitle", "table", "quote", "verse"):
+                elif prev in (None, "heading", "break", "subtitle", "table", "quote", "verse"):
                     cls.append("first")
                 c = f' class="{" ".join(cls)}"' if cls else ""
                 body.append(f'<p{c}>{pbs}{self.inline(b["text"])}</p>')
@@ -245,7 +299,12 @@ class Ctx:
             if bi in targets and len(body) > n0:
                 # the anchor of a contents entry goes on the block's first element
                 body[n0] = re.sub(r"^<(\w+)", lambda m: f'<{m.group(1)} id="{targets[bi]}"', body[n0], count=1)
-            prev = "subtitle" if b.get("role") == "subtitle" else t
+            if newleaf and len(body) > n0:
+                body.insert(n0, '<div class="tp-verso"></div>')
+            # a paragraph after a picture is indented as it would be without the picture (Tom, 2026-11-22: the
+            # scans indent them; a paragraph that runs on round a picture is joined by [[cont]] and never gets here)
+            if t != "image":
+                prev = "subtitle" if b.get("role") == "subtitle" else t
         if div["notes"]:
             items = []
             for n in div["notes"]:
@@ -254,6 +313,8 @@ class Ctx:
                 items.append(f'<aside class="note"{et} role="doc-footnote" id="{n["id"]}"><p>{back} {self.inline(n["text"])}</p></aside>')
             body.append('<section class="notes" aria-label="Notes"><hr/>' + "\n".join(items) + "</section>")
         s = "\n".join(body)
+        if tp:
+            s = f'<div class="titlepage">\n{s}\n</div>'
         # a reference whose note is in the same file keeps its link; its back-link needs the reference to exist
         ids = set(re.findall(r' id="(r-[^"]+)"', s))
         s = re.sub(r'<a class="noteback" href="#(r-[^"]+)" aria-label="[^"]*">(.*?)</a>',
@@ -264,7 +325,7 @@ class Ctx:
 def nav_tree(book):
     """[(division, [child divisions])] for the reading editions: chapters nest under the part before them."""
     tree, part = [], None
-    for d in reading_divisions(book):
+    for d in whole_reading_divisions(book):
         if d["kind"] == "part":
             part = (d, [])
             tree.append(part)
@@ -289,7 +350,10 @@ def toc_tree(book):
     """[(title, division id, fragment or None, [children])] — the contents of the reading editions: divisions,
     chapters nested under their part, and a division's `sections` (book.json toc_entries) nested under it."""
     def node(d, kids):
-        subs = [(x["title"], d["id"], section_id(k), []) for k, x in enumerate(d.get("sections", []))]
+        if d.get("split"):       # each section is a page of its own (split_division)
+            subs = [(u["title"], u["id"], None, []) for u in split_division(d) if u["title"] != d["title"]]
+        else:
+            subs = [(x["title"], d["id"], section_id(k), []) for k, x in enumerate(d.get("sections", []))]
         return (toc_title(d), d["id"], None, subs + [node(c, []) for c in kids])
     return [node(d, kids) for d, kids in nav_tree(book)]
 

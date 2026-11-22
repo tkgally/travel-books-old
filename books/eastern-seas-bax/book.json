@@ -42,12 +42,12 @@
   "Missions",
   "Japanese expedition to Formosa, 1874"
  ],
- "summary": "Bonham Ward Bax commanded the gun-vessel H.M.S. Dwarf on the China station from July 1871 to November 1874, and wrote this account of the commission. After the passage out by troopship round the Cape, the book follows the Dwarf along the coast of China and Formosa: Amoy and the North River, mission stations, Foo-chow, Kelung, the Loo-choo Islands, a visit to the hill tribes of Formosa and a search for shipwrecked crews. Chapter II is a history of Formosa compiled from other writers. In Japan he visits Kobé and Nagasaki and climbs Fuji (Fusi-yama), and he describes a voyage to the Russian harbours on the coast of Tartary and Eastern Siberia and to Yesso. Later chapters cover the Japanese expedition to Formosa in 1874, with a translated Chinese proclamation, and a last round of Shanghai, Nanking and Ningpo.",
+ "summary": "Bonham Ward Bax commanded the gun-vessel H.M.S. Dwarf on the China station from July 1871 to November 1874, and wrote this account of the commission. After the passage out by troopship round the Cape, the book follows the Dwarf along the coast of China and Formosa: Amoy and the North River, mission stations, Foo-chow, Kelung, the Loo-choo Islands, a visit to the hill tribes of Formosa, and a search for shipwrecked crews. Chapter II is a history of Formosa compiled from other writers. In Japan he visits Kobé and Nagasaki and climbs Fuji (Fusi-yama), and he describes a voyage to the Russian harbours on the coast of Tartary and Eastern Siberia and to Yesso. Later chapters cover the Japanese expedition to Formosa in 1874, with a translated Chinese proclamation, and a last round of Shanghai, Nanking, and Ningpo.",
  "frontispiece": "p0007-1",
  "toc": {
   "subtitles": "all"
  },
- "omitted_from_reading": "The half-title, the title page, the printed contents, the list of illustrations, the running title “The Eastern Seas” above Chapter I and the publisher’s list of works at the end are in the JSON only; the frontispiece opens the reading editions.",
+ "omitted_from_reading": "The half-title, the printed contents, the list of illustrations, the running title “The Eastern Seas” above Chapter I, and the publisher’s list of works at the end are in the JSON only; the frontispiece follows the title page.",
  "notes_on_text": [
   "The contents entries give each chapter’s printed summary.",
   "The map of Formosa, not in the list of illustrations, is bound after p. 35 at the end of Chapter I and is shown there."

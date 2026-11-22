@@ -134,15 +134,15 @@
   }
  ],
  "summary": [
-  "Septima Maria Collis (1842–1917), the widow of a Union general, wrote this account of a summer journey of 1890 as one long letter to her daughter. She went by train from Philadelphia through Chicago, Minneapolis and Bismarck to the Yellowstone Park and Tacoma, and from there on the excursion steamer Queen through Puget Sound and the inland passage to Victoria, Fort Wrangell, Sitka, Glacier Bay and the Muir Glacier, Juneau and the Lynn Canal, returning by Metlahkatlah and Nanaimo. She describes the ship and its passengers, the towns, the Tlingit villages and their totem poles, the missions, the gold mines and the glaciers, and begins with advice on what to wear and take. The book has many small photographs, several taken by the author with a Kodak, and a letter from General W. T. Sherman."
+  "Septima Maria Collis (1842–1917), the widow of a Union general, wrote this account of a summer journey of 1890 as one long letter to her daughter. She went by train from Philadelphia through Chicago, Minneapolis, and Bismarck to the Yellowstone Park and Tacoma, and from there on the excursion steamer Queen through Puget Sound and the inland passage to Victoria, Fort Wrangell, Sitka, Glacier Bay and the Muir Glacier, Juneau and the Lynn Canal, returning by Metlahkatlah and Nanaimo. She describes the ship and its passengers, the towns, the Tlingit villages and their totem poles, the missions, the gold mines and the glaciers, and begins with advice on what to wear and take. The book has many small photographs, several taken by the author with a Kodak, and a letter from General W. T. Sherman."
  ],
  "notes_on_text": [
   "Transcribed from the copy at the Getty Research Institute (Internet Archive: womanstriptoalas00coll_0).",
   "The printed contents gives each chapter a long list of topics; the contents of these editions give a short title of the editor’s, made from that list. Chapter I has no printed heading: the book opens with the letter’s salutation.",
   "The plates printed sideways are shown upright. The portrait of the author facing the title page is in the JSON only.",
-  "Fifty-five pages that the transcribing model was not allowed to type were first read by machine OCR (tesseract) and then corrected by a model against the page image: printed pages 2–3, 8, 11, 15–16, 26, 28, 31, 36, 39–41, 43, 46–47, 51–54, 58, 64, 73–74, 80, 82, 84, 87, 90, 95, 98, 108, 112, 114–116, 119, 127, 130, 133–134, 136, 138, 140–142, 161, 164, 166, 173, 176, 179, 181, 183 and 190."
+  "Fifty-five pages that the transcribing model was not allowed to type were first read by machine OCR (tesseract) and then corrected by a model against the page image: printed pages 2–3, 8, 11, 15–16, 26, 28, 31, 36, 39–41, 43, 46–47, 51–54, 58, 64, 73–74, 80, 82, 84, 87, 90, 95, 98, 108, 112, 114–116, 119, 127, 130, 133–134, 136, 138, 140–142, 161, 164, 166, 173, 176, 179, 181, 183, and 190."
  ],
- "omitted_from_reading": "The covers and endpapers, the portrait, the title page, the printed contents and the list of illustrations are in the JSON only.",
+ "omitted_from_reading": "The covers and endpapers, the portrait, the printed contents, and the list of illustrations are in the JSON only.",
  "waivers": [],
  "ornaments": [
   "p0010-1",

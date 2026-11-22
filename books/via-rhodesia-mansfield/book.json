@@ -127,14 +127,14 @@
   }
  ],
  "summary": [
-  "Charlotte Mansfield (1881–1936), an English novelist and poet, set out in 1909 to travel from the Cape to Cairo without white companions, a plan much reported in the London papers. She got no further north than Lake Tanganyika, turned south through Nyasaland and came home by the east coast and the Suez Canal. This is her account of the journey.",
-  "From Cape Town she went by rail to Kimberley, Bulawayo, the Khami ruins, Rhodes’s grave in the Matopos, Salisbury and Umtali, and on to the Victoria Falls and Livingstone. From the railhead at Broken Hill she was carried by machilla, with a caravan of porters, through North-Eastern Rhodesia by Serenje, Chilonga mission and the Chambezi River to Abercorn and the lake; then by Fife and Karonga down Lake Nyasa to Zomba, Blantyre and Chinde. Chapters on farming, mining, cotton and tobacco are addressed to would-be emigrants; others give her opinions of missions and of the Africans she met, in the terms of her time. A chapter near the end is about her expulsion from the Lyceum Club in her absence. The book has 144 illustrations, many of them her own photographs, and two maps."
+  "Charlotte Mansfield (1881–1936), an English novelist and poet, set out in 1909 to travel from the Cape to Cairo without white companions, a plan much reported in the London papers. She got no further north than Lake Tanganyika, turned south through Nyasaland, and came home by the east coast and the Suez Canal. This is her account of the journey.",
+  "From Cape Town she went by rail to Kimberley, Bulawayo, the Khami ruins, Rhodes’s grave in the Matopos, Salisbury and Umtali, and on to the Victoria Falls and Livingstone. From the railhead at Broken Hill she was carried by machilla, with a caravan of porters, through North-Eastern Rhodesia by Serenje, Chilonga mission, and the Chambezi River to Abercorn and the lake; then by Fife and Karonga down Lake Nyasa to Zomba, Blantyre, and Chinde. Chapters on farming, mining, cotton, and tobacco are addressed to would-be emigrants; others give her opinions of missions and of the Africans she met, in the terms of her time. A chapter near the end is about her expulsion from the Lyceum Club in her absence. The book has 144 illustrations, many of them her own photographs, and two maps."
  ],
- "omitted_from_reading": "The cover, half-title, title page, printed contents, list of illustrations, index and printer’s imprint are in the JSON only.",
+ "omitted_from_reading": "The cover, half-title, printed contents, list of illustrations, index, and printer’s imprint are in the JSON only.",
  "notes_on_text": [
   "Transcribed from the copy at the University of California, Los Angeles (Internet Archive: viarhodesiajourn00mans). The title page is undated; the book was published in 1911.",
   "Printed pages 162 and 165 were first read by an OCR program (Tesseract), because the Claude models would not transcribe them; that reading was corrected against the page image by a Claude model and then proofread like the other pages.",
-  "The quotations from letters, reports and newspapers are set in the text type in the print, separated by a little space; here they are ordinary paragraphs.",
+  "The quotations from letters, reports, and newspapers are set in the text type in the print, separated by a little space; here they are ordinary paragraphs.",
   "Two page numbers in the index are cut off at the inner margin of the scan; they are marked […].",
   "The photograph and drawing printed above the headings of Chapters XXI and XXXVIII are placed under them."
  ],

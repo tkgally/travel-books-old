@@ -23,15 +23,20 @@ XHTML = """<?xml version="1.0" encoding="UTF-8"?>
 MEDIA = {".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".png": "image/png", ".gif": "image/gif", ".svg": "image/svg+xml"}
 
 
-def title_page(book):
+def title_page(book, transcribed=False):
+    """The page about this edition. With transcribed=True the book's own title page is in the reading text (it
+    is the page before this one: Tom, 2026-11-22) and this page has the note only; otherwise it is also a title
+    page made from the metadata."""
     e = rh.esc
     src = book.get("source", {})
-    lines = [f'<h1>{e(book["title"])}</h1>']
-    if book.get("subtitle"):
-        lines.append(f'<p class="tp-sub">{e(book["subtitle"])}</p>')
-    lines.append(f'<p class="tp-author">{e(rh.authors_text(book))}</p>')
-    imprint = ", ".join(x for x in (book.get("place"), book.get("publisher"), str(book.get("year", ""))) if x)
-    lines.append(f'<p class="tp-imprint">{e(imprint)}</p>')
+    lines = []
+    if not transcribed:
+        lines.append(f'<h1>{e(book["title"])}</h1>')
+        if book.get("subtitle"):
+            lines.append(f'<p class="tp-sub">{e(book["subtitle"])}</p>')
+        lines.append(f'<p class="tp-author">{e(rh.authors_text(book))}</p>')
+        imprint = ", ".join(x for x in (book.get("place"), book.get("publisher"), str(book.get("year", ""))) if x)
+        lines.append(f'<p class="tp-imprint">{e(imprint)}</p>')
     note = [f'Travel Books edition, version {book["version"]}, {book["date"]}.']
     if src.get("ia_identifier"):
         note.append(f'Transcribed from the scan at the Internet Archive: <a href="https://archive.org/details/{src["ia_identifier"]}">archive.org/details/{e(src["ia_identifier"])}</a>.')
@@ -54,20 +59,33 @@ def render(book, images_dir):
             body=f'<div class="cover-page"><img src="../images/{cover}" alt="Cover of the book"/></div>')
         manifest.append('<item id="cover" href="text/cover.xhtml" media-type="application/xhtml+xml"/>')
         spine.append('<itemref idref="cover"/>')
-    files["text/title.xhtml"] = XHTML.format(title=e(book["title"]), battr="", body=title_page(book))
-    manifest.append('<item id="title" href="text/title.xhtml" media-type="application/xhtml+xml"/>')
-    spine.append('<itemref idref="title"/>')
-    manifest.append('<item id="nav" href="text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>')
-    spine.append('<itemref idref="nav"/>')
+    rd = rh.reading_divisions(book)
+    transcribed = bool(rd) and rd[0]["kind"] == "titlepage"
+
+    def edition_pages():
+        """The page about this edition and the contents: after the book's title page, or first if it has none."""
+        files["text/title.xhtml"] = XHTML.format(title="This edition" if transcribed else e(book["title"]), battr="",
+                                                 body=title_page(book, transcribed))
+        manifest.append('<item id="title" href="text/title.xhtml" media-type="application/xhtml+xml"/>')
+        spine.append('<itemref idref="title"/>')
+        manifest.append('<item id="nav" href="text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>')
+        spine.append('<itemref idref="nav"/>')
+    if not transcribed:
+        edition_pages()
     used = set()
-    for d in rh.reading_divisions(book):
+    for i, d in enumerate(rd):
         body = ctx.blocks(d).replace('src="images/', 'src="../images/')
         used.update(re.findall(r'src="\.\./images/([^"]+)"', body))
         name = names[d["id"]]
         battr = ' part' if d["kind"] == "part" else ""
-        files["text/" + name] = XHTML.format(title=e(d["title"]), battr=battr, body=f'<section epub:type="{"part" if d["kind"] == "part" else "chapter"}">\n{body}\n</section>')
+        etype = {"part": "part", "titlepage": "titlepage"}.get(d["kind"], "chapter")
+        # the title of a section made for this edition (render_html.split_division) stands outside the book's text
+        added = f'<h2 class="added">{e(d["added"])}</h2>\n' if d.get("added") else ""
+        files["text/" + name] = XHTML.format(title=e(d["title"]), battr=battr, body=f'{added}<section epub:type="{etype}">\n{body}\n</section>')
         manifest.append(f'<item id="c{name[:-6]}" href="text/{name}" media-type="application/xhtml+xml"/>')
         spine.append(f'<itemref idref="c{name[:-6]}"/>')
+        if i == 0 and transcribed:
+            edition_pages()
     for f in sorted(used):
         if not os.path.exists(os.path.join(images_dir, f)):
             continue                      # compile_book has warned; preflight fails on the warning

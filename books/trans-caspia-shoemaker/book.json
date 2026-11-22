@@ -28,7 +28,7 @@
   "Turkey"
  ],
  "period": "1894",
- "summary": "Michael Myers Shoemaker, an American from Cincinnati, travelled in the summer of 1894 through the Caucasus and the Russian provinces of Central Asia, which few foreigners were then allowed to enter. The book is written as a diary. With a companion, “B.”, he went from Berlin and St. Petersburg over the Dariel Pass to Tiflis, then to the oil fields of Baku, across the Caspian, and by the Trans-Caspian railway to Bokhara and Samarkand. By tarantass he went on to Tashkend, Kokand, Marghilan and Osh, and then on horseback over the mountains into Chinese territory, where he fell ill and turned back. He came home by the railway and the Caspian, Trebizond, the cholera quarantine at Sinope, and Constantinople, where the book ends with a chapter on the city. It has fifty-three photographs.",
+ "summary": "Michael Myers Shoemaker, an American from Cincinnati, travelled in the summer of 1894 through the Caucasus and the Russian provinces of Central Asia, which few foreigners were then allowed to enter. The book is written as a diary. With a companion, “B.”, he went from Berlin and St. Petersburg over the Dariel Pass to Tiflis, then to the oil fields of Baku, across the Caspian, and by the Trans-Caspian railway to Bokhara and Samarkand. By tarantass he went on to Tashkend, Kokand, Marghilan, and Osh, and then on horseback over the mountains into Chinese territory, where he fell ill and turned back. He came home by the railway and the Caspian, Trebizond, the cholera quarantine at Sinope, and Constantinople, where the book ends with a chapter on the city. It has fifty-three photographs.",
  "source": {
   "ia_identifier": "transcaspiaseale00shoe",
   "contributor": "University of California Libraries",
@@ -41,7 +41,7 @@
    335
   ]
  },
- "omitted_from_reading": "The frontispiece leaf’s place, the title page, copyright page, printed contents and the book title repeated above Chapter I are in the JSON only; the frontispiece itself opens the reading editions.",
+ "omitted_from_reading": "The frontispiece leaf’s place, the printed contents, and the book title repeated above Chapter I are in the JSON only; the frontispiece itself follows the title page.",
  "notes_on_text": [
   "The chapter titles in the contents are those of the printed contents; in the text most chapters have a number only.",
   "The facsimile signature on the title page is shown as a picture."

@@ -35,13 +35,14 @@ No transcription is free of errors. If you find one, please [report it on GitHub
 - Headings printed in capitals are given in upper and lower case.
 - Long passages printed in italic, such as whole paragraphs, are given in ordinary type on the web pages and in the EPUB and ODT. The JSON records the italics as printed.
 - Illustrations and their captions are included. Footnotes are linked.
-- The web pages, EPUB, and ODT leave out some parts of the printed book, usually the printed table of contents, the index, and the publisher’s advertisements. The JSON has everything that was transcribed.
+- The web pages, EPUB, and ODT begin with the book’s title page. They leave out some parts of the printed book, usually what stands before the title page, the printed table of contents, the index, and the publisher’s advertisements. The JSON has everything that was transcribed.
+- A long text that the book does not divide into chapters, such as a diary, is divided into sections for reading, each with a title that says what it covers. These titles are not part of the book, and the JSON keeps the text undivided.
 
 On the web pages you can show the page numbers of the printed book. Each number links to that page of the scan.
 
 ## Formats
 
-- **Web pages**: one page for each chapter or other division.
+- **Web pages**: one page for the title page and one for each chapter or other division.
 - **EPUB**: for e-readers and reading apps.
 - **ODT**: OpenDocument Text, for LibreOffice, Word, and other word processors. All books use the same named styles.
 - **JSON**: the complete transcription with its structure, page breaks, and corrections. The other formats are built from it. See [the JSON format](json-format.html).
@@ -56,7 +57,7 @@ The source of every book, the tools, and the working notes are in the [GitHub re
 
 ## Display settings
 
-Every page has a settings button at the top right (two sliders). It opens a panel of settings: the colours (light, sepia, dark, or as your device is set), the size of the text, the typeface (serif, sans serif, or the one set in your browser), and the space between lines. Under "More settings" are the width of the column, justified or ragged lines, indented or spaced paragraphs, the space between letters and between words, the underlining of links, the dotted marks under corrected misprints, the page numbers of the printed book, whether your place in each book is remembered, and whether a bar of buttons is shown at the top of a chapter. The last button puts everything back as it was. The settings apply to every page of the site, except those that concern only the text of a book (justified lines, paragraphs, corrections, page numbers). The title and links at the top of each page grow with the text up to the sixth of the nine sizes and no further.
+Every page has a settings button at the top right (two sliders). It opens a panel of settings: the colours (light, sepia, dark, or as your device is set), the size of the text, the typeface (serif, sans serif, or the one set in your browser), and the space between lines. Under “More settings” are the width of the column, justified or ragged lines, indented or spaced paragraphs, the space between letters and between words, the underlining of links, the dotted marks under corrected misprints, the page numbers of the printed book, whether your place in each book is remembered, and whether a bar of buttons is shown at the top of a chapter. The last button puts everything back as it was. The settings apply to every page of the site, except those that concern only the text of a book (justified lines, paragraphs, corrections, page numbers). The title and links at the top of each page grow with the text up to the sixth of the nine sizes and no further.
 
 On the pages with the text of a book, a narrow bar appears at the top of the window once you have scrolled down. Its first button (a compass) opens a short menu: the home page of the site, the book’s own page, and the book’s table of contents. The others lead to the previous chapter, to the next chapter, and to the display settings, which stay in the same place on the screen as at the top of the page. When your place is remembered, it is remembered in each chapter: going to another chapter and coming back returns you to where you were.
 

@@ -56,7 +56,7 @@
   "Sri Lanka"
  ],
  "period": "1882–83",
- "summary": "W. Osborn B. Allen, vicar of Shirburn in Oxfordshire and the son of a member of the Legislative Council of India, spent the winter of 1882–83 touring India, Burma and Ceylon, and published this account of it in 1885 from what his preface calls a parson’s standpoint. He goes out by Brindisi and the P. and O. steamer to Bombay, Poona and Rajputana, then to Delhi, Agra, Cawnpore and Lucknow, Benares, Darjeeling and Calcutta; by sea to Rangoon, Prome and Moulmein; and back to Madras and the south, Mysore, Trichinopoly, Madura and the mission villages of Tinnevelly, ending in Ceylon at Colombo, Kandy and Anuradhapura. He looks closely at missions, schools, native clergy and the religions he meets, with long passages on Buddhism in Burma; there are also histories of places, and the return to England is by Egypt. A folding map of India and Ceylon shows the route.",
+ "summary": "W. Osborn B. Allen, vicar of Shirburn in Oxfordshire and the son of a member of the Legislative Council of India, spent the winter of 1882–83 touring India, Burma, and Ceylon, and published this account of it in 1885 from what his preface calls a parson’s standpoint. He goes out by Brindisi and the P. and O. steamer to Bombay, Poona, and Rajputana, then to Delhi, Agra, Cawnpore and Lucknow, Benares, Darjeeling, and Calcutta; by sea to Rangoon, Prome, and Moulmein; and back to Madras and the south, Mysore, Trichinopoly, Madura, and the mission villages of Tinnevelly, ending in Ceylon at Colombo, Kandy, and Anuradhapura. He looks closely at missions, schools, native clergy, and the religions he meets, with long passages on Buddhism in Burma; there are also histories of places, and the return to England is by Egypt. A folding map of India and Ceylon shows the route.",
  "divisions": [
   {
    "at": "p0006",
@@ -141,7 +141,7 @@
   }
  ],
  "frontispiece": "p0006-1",
- "omitted_from_reading": "The title page, the printed contents and the index are in the JSON only; the folding map opens the reading editions.",
+ "omitted_from_reading": "The printed contents and the index are in the JSON only; the folding map follows the title page.",
  "audit": {
   "version": 4,
   "date": "2026-11-21",

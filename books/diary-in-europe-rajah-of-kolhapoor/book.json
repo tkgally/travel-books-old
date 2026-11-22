@@ -31,7 +31,7 @@
   "Italy"
  ],
  "period": "June–November 1870",
- "summary": "Rajaram, Rajah of Kolhapoor (1850–1870), ruler of a princely state in western India, sailed for Europe in 1870 with Captain Edward West, his guardian, his Parsee tutor and eleven attendants. He kept this diary in English, in short daily entries, from his arrival in Paris on 12 June to 16 November: months in and around London, with visits to Windsor, Parliament, schools, factories and theatres; the British Association at Liverpool; Scotland; Dublin; and the journey home through Belgium, Germany and the Tyrol. He died at Florence on 30 November 1870 and was cremated there. West’s introduction gives the history of Kolhapoor and of the Rajah’s education. A postscript, appendices of official papers (durbars, the cremation, memorial meetings, the adoption of a successor) and a supplement reprinting Lady Verney’s article from Good Words complete the book.",
+ "summary": "Rajaram, Rajah of Kolhapoor (1850–1870), ruler of a princely state in western India, sailed for Europe in 1870 with Captain Edward West, his guardian, his Parsee tutor, and eleven attendants. He kept this diary in English, in short daily entries, from his arrival in Paris on 12 June to 16 November: months in and around London, with visits to Windsor, Parliament, schools, factories, and theatres; the British Association at Liverpool; Scotland; Dublin; and the journey home through Belgium, Germany, and the Tyrol. He died at Florence on 30 November 1870 and was cremated there. West’s introduction gives the history of Kolhapoor and of the Rajah’s education. A postscript, appendices of official papers (durbars, the cremation, memorial meetings, the adoption of a successor), and a supplement reprinting Lady Verney’s article from Good Words complete the book.",
  "source": {
   "ia_identifier": "diaryoflaterajah00rajarich",
   "contributor": "University of California Libraries",
@@ -83,6 +83,10 @@
    "kind": "contents"
   },
   {
+   "at": "p0019",
+   "kind": "introduction"
+  },
+  {
    "at": "p0137",
    "kind": "contents",
    "title": "Appendix (list of the appendices)"
@@ -106,7 +110,7 @@
   {
    "at": "p0053",
    "starts": "1st July",
-   "title": "1–31 July: London; Windsor, Aldershot and Oxford"
+   "title": "1–31 July: London; Windsor, Aldershot, and Oxford"
   },
   {
    "at": "p0075",
@@ -121,12 +125,12 @@
   {
    "at": "p0083",
    "starts": "26th.—",
-   "title": "26 August–5 September: Edinburgh, Glasgow and the Trossachs"
+   "title": "26 August–5 September: Edinburgh, Glasgow, and the Trossachs"
   },
   {
    "at": "p0088",
    "starts": "6th.—",
-   "title": "6–12 September: Liverpool, London and Brighton"
+   "title": "6–12 September: Liverpool, London, and Brighton"
   },
   {
    "at": "p0092",
@@ -156,12 +160,12 @@
   {
    "at": "p0116",
    "starts": "1st November",
-   "title": "1–4 November: Ostend, Brussels and Waterloo"
+   "title": "1–4 November: Ostend, Brussels, and Waterloo"
   },
   {
    "at": "p0120",
    "starts": "5th.—",
-   "title": "5–16 November: Cologne, Frankfort, Munich and Innsbruck"
+   "title": "5–16 November: Cologne, Frankfort, Munich, and Innsbruck"
   },
   {
    "at": "p0124",
@@ -219,7 +223,7 @@
   "Travel in Europe",
   "Indian visitors to Britain"
  ],
- "omitted_from_reading": "The presentation slip, the title pages, the printed contents, the list of appendices and the printer’s imprint are in the JSON only.",
+ "omitted_from_reading": "The presentation slip, the printed contents, the list of appendices, and the printer’s imprint are in the JSON only.",
  "notes_on_text": [
   "Some people met in England are named in the Diary only by an initial and a dash (“Mr. K——”), as printed.",
   "The printed contents has one entry for the diary. The contents of these editions add the editor’s entries for spans of dates and the places visited, and list the appendices under the titles the printed contents gives them."
