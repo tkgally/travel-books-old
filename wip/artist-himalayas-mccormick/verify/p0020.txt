@@ -1,0 +1,47 @@
+[[page xii]]
+
+<sc>Repairing a Kilta</sc> <pref>220</pref>
+
+<sc>At Scardu</sc> <pref>223</pref>
+
+<sc>A Climbing Study</sc> <pref>226</pref>
+
+<sc>Threshing in the Shigar Valley</sc> <pref>229</pref>
+
+<sc>At Scora</sc> <pref>239</pref>
+
+<sc>At Tolti</sc> <pref>240</pref>
+
+<sc>Kashmir Sepoys</sc> <pref>245</pref>
+
+<sc>Rahim Ali</sc> <pref>247</pref>
+
+<sc>Lama-Yuru</sc> <pref>258</pref>
+
+<sc>Ladakhi Notes</sc> <pref>262</pref>
+
+<sc>At Lama-Yuru</sc> <pref>263</pref>
+
+<sc>Leh Bazaar</sc> <pref>265</pref>
+
+<sc>Ladakhi Temple</sc> <pref>268</pref>
+
+<sc>Yarkand Merchants on the Road</sc> <pref>271</pref>
+
+<sc>At Lama-Yuru</sc> <pref>273</pref>
+
+<sc>At Kargil</sc> <pref>276</pref>
+
+<sc>At Kargil</sc> <pref>278</pref>
+
+<sc>A Ladakhi</sc> <pref>280</pref>
+
+<sc>A Ladakhi</sc> <pref>282</pref>
+
+<sc>A Ladakhi</sc> <pref>286</pref>
+
+<sc>Women Pounding Grain</sc> <pref>291</pref>
+
+<sc>On the Jhelam, Srinagar</sc> <pref>293</pref>
+
+<sc>Our Boats in the Chinar Bagh</sc> <pref>295</pref>

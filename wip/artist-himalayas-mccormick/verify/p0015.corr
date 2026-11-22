@@ -1,0 +1,13 @@
+{"find": "<sc>chelsea to karachi</sc>", "replace": "Chelsea to Karachi"}
+{"find": "<sc>karachi to srinagar</sc>", "replace": "Karachi to Srinagar"}
+{"find": "<sc>the road to gilgit</sc>", "replace": "The Road to Gilgit"}
+{"find": "<sc>bagrot, dirran, and gargo</sc>", "replace": "Bagrot, Dirran, and Gargo"}
+{"find": "<sc>hunza-nagyr</sc>", "replace": "Hunza-Nagyr"}
+{"find": "<sc>mir and hispar</sc>", "replace": "Mir and Hispar"}
+{"find": "<sc>hispar pass to askole</sc>", "replace": "Hispar Pass to Askole"}
+{"find": "<sc>askole to the golden throne</sc>", "replace": "Askole to the Golden Throne"}
+{"find": "<sc>pioneer peak to askole</sc>", "replace": "Pioneer Peak to Askole"}
+{"find": "<sc>askole to scardu</sc>", "replace": "Askole to Scardu"}
+{"find": "<sc>scardu to leh</sc>", "replace": "Scardu to Leh"}
+{"find": "<sc>leh to srinagar</sc>", "replace": "Leh to Srinagar"}
+{"find": "<sc>srinagar</sc>", "replace": "Srinagar"}
