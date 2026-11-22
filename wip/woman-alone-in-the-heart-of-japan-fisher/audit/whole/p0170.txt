@@ -1,5 +1,0 @@
-{"given": "Rippling streams; roaring cascades", "print": "Rippling streams, roaring cascades", "sure": "high"}
-{"given": "and lilliputian men were in", "print": "and Lilliputian men were in", "sure": "high"}
-{"given": "He was household favourite, bought", "print": "He was a household favourite, bought", "sure": "high"}
-{"given": "marked by stealthy cuuning. He", "print": "marked by stealthy cunning. He", "sure": "high"}
-{"given": "for me as it he", "print": "for me as if he", "sure": "high"}

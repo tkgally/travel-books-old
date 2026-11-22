@@ -51,7 +51,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 - **Never publish a single-model transcription.** Drafts run away, truncate, drop first lines, duplicate
   passages [p2e]. Two differently biased readings, differences judged.
 - **Models silently restore what they think the text should be**: modern spellings, familiar place-names,
-  regular grammar. The check is a second reading with a different bias, never the same model again [p2e].
+  regular grammar. A familiar title too: “Ta-ra-ra-ra-boom-de-ay” typed with three “ra” by every stage (*A Woman Alone*, 2026-11-22; found by the spot-read's tesseract comparison). The check is a second reading with a different bias, never the same model again [p2e].
 - **Readers and judges are wrong about 1 time in 6–30** on the changes they propose [p2e]. A proposed change
   to a letter is looked at on a crop before it is accepted, above all one towards the more usual form.
 - A page whose two readings differ in length by more than 5% needs a look (`review.py`).
@@ -64,6 +64,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 - Read the generated contents as a reader would before publishing: the first three books went out with
   chapter entries unlike one another (long summaries dropped) and a 90-page diary as one entry; Tom asked for
   contents decided book by book (`workflow.md` stage 4 "Contents") [2026-11-19].
+- Centred italic subheadings inside chapters: the Sonnet pass dropped five as if running heads, and the judge's “could not undo” left them out of `judge/`; when `report.txt` says so, start `pages/` from the draft and re-apply the other spots by hand (*A Woman Alone*, 2026-11-22).
 - List every `#` and `##` line after the judge: drafts type an odd running head (a chapter title on one page, "Index" on
   index pages, "List of Illustrations" on its second page) as a heading (*Path of the Conquistadores*: 4, 2026-11-20).
 - `omitted_from_reading` names only what a division really leaves out: a printer's imprint after “The End” stays in the

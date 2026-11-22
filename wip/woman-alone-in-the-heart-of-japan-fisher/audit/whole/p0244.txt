@@ -1,5 +1,0 @@
-{"given": "you use every means get us here", "print": "you use every means to get us here", "sure": "high"}
-{"given": "and did not answer; but perhaps", "print": "and did not answer, but perhaps", "sure": "high"}
-{"given": "for the price soon droppcd.", "print": "for the price soon dropped.", "sure": "high"}
-{"given": "was in high favor with a", "print": "was in high favour with a", "sure": "high"}
-{"given": "and where afterward vilified in what", "print": "and were afterward vilified in what", "sure": "high"}
