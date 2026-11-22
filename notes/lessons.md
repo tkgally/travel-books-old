@@ -74,6 +74,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 - `omitted_from_reading` names only what a division really leaves out: a printer's imprint after “The End” stays in the
   last chapter (*Kothari*, 2026-11-20: caught by the rendered look).
 - A folded page corner (the right ends of the last four lines lost) passed the scan check by a subagent; the draft's 〓 marks showed it (*China and Japan*, p. 105, 2026-11-22). After the draft, `grep -l 〓 draft/*.txt` and look at each page at once: a damaged leaf is taken from another copy while the scan is at hand.
+- Tables and multi-line letters inside quotations or footnotes: the markup has neither (a table in `<blockquote>` shows its pipes; lines after a `[[fn]]` become body text). Close the quotation round a table; join a letter in a note into the note line (*Venezuela*, 2026-11-22: preflight `conservation` and `note-tail` caught both).
 - A model that returns "no corrections" in a few seconds may still be right: the audit's planted errors say
   whether that reader can see (first calibration: Sonnet 27/30, Opus 30/30).
 

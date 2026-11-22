@@ -1,0 +1,98 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[ look (6)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0134: … aided in nego-|tiating the Loa… (hyphen removed; check)
+            - hyphen join at p0136: … a naval demon-|stration. In sh… (hyphen removed; check)
+            - hyphen join at p0233: …nly on its pur-|suers, and succ… (hyphen removed; check)
+            - hyphen join at p0267: …ich, and Bewti-|full Empire of … (hyphen removed; check)
+            - hyphen join at p0332: … its first dis-|coverer, Colon,… (hyphen removed; check)
+            - (and 15 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[       ok] folios: printed page numbers that break the sequence
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[       ok] contents: entries of the printed contents with no matching heading
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[look (42)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - a: a (p0007, p0011, p0012, p0013, p0014, p0015…); à (p0017, p0023, p0095, p0105, p0224, p0245…)
+            - aduanas: aduanas (p0299); aduánas (p0076, p0077)
+            - apropos: apropos (p0077); àpropos (p0173)
+            - apure: apure (p0015, p0198, p0199, p0216, p0221, p0225…); apúre (p0104, p0105, p0246)
+            - araguas: araguas (p0015, p0172, p0181, p0235, p0237, p0245…); aráguas (p0145)
+            - bocono: bocono (p0289); boconó (p0280)
+            - cabimbu: cabimbu (p0289); cabimbú (p0288)
+            - calcano: calcano (p0378, p0420); calcaño (p0426)
+            - cambure: cambure (p0325); camburé (p0163, p0164, p0165)
+            - carupano: carupano (p0298, p0299, p0386); carúpano (p0270, p0379)
+            - charge: charge (p0015, p0021, p0026, p0035, p0071, p0079…); chargé (p0134, p0135, p0137, p0139, p0367, p0371…)
+            - cojedes: cojedes (p0263, p0278, p0281, p0282); cojédes (p0396, p0411)
+            - cristobal: cristobal (p0271); cristóbal (p0290, p0291)
+            - cumana: cumaná (p0184, p0263, p0268, p0269, p0270, p0271…); cumána (p0411)
+            - depart: depart (p0214, p0350); départ (p0355)
+            - des: des (p0351, p0386); dès (p0351)
+            - e: e (p0061, p0119, p0121, p0328, p0342, p0363…); é (p0427)
+            - esteban: esteban (p0428); estéban (p0160)
+            - guarico: guarico (p0184, p0271, p0278, p0396); guárico (p0263, p0272, p0273, p0275, p0277, p0286…)
+            - guayaba: guayaba (p0380); guayába (p0108)
+            - hote: hote (p0267); hôte (p0054, p0071)
+            - jose: jose (p0427); josé (p0069, p0117, p0120, p0314, p0340, p0419…)
+            - la: la (p0012, p0013, p0017, p0023, p0027, p0035…); là (p0351)
+            - maracaibo: maracaibo (p0041, p0139, p0209, p0210, p0211, p0215…); máracaibo (p0124)
+            - merida: merida (p0259, p0263, p0278, p0280, p0288, p0290…); mérida (p0263, p0290, p0292, p0293, p0396, p0411)
+            - nagua: nagua (p0168, p0176, p0181); nágua (p0193, p0195)
+            - ose: ose (p0009, p0374); osé (p0131, p0420, p0422, p0423, p0432)
+            - palace: palace (p0119); palacé (p0336)
+            - palmar: palmar (p0015); palmár (p0235, p0242, p0244)
+            - panchito: panchito (p0014, p0093); panchíto (p0102, p0106, p0107)
+            - paraguana: paraguana (p0286); paraguaná (p0287)
+            - paul: paul (p0042); paúl (p0308)
+            - petare: petare (p0273); petaré (p0063, p0064)
+            - quebrada: quebrada (p0153, p0308, p0381, p0386); quebráda (p0051)
+            - rohl: rohl (p0387); röhl (p0381, p0419, p0422, p0424, p0427, p0428…)
+            - sabana: sabana (p0199); sabána (p0268, p0279)
+            - senorita: senorita (p0049); señorita (p0078, p0107, p0197, p0203)
+            - sturup: sturup (p0379); stürup (p0419, p0421, p0423, p0427, p0430, p0431…)
+            - tachira: tachira (p0291); táchira (p0263, p0278, p0290, p0292, p0293, p0299…)
+            - tasi: tasi (p0383); tasí (p0383)
+            … 2 more (-v)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[look (10)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0063: “memor” — “memory” is common (362; a letter dropped or transposed?)
+            - p0099: “ounds” — “pounds” is common (328; a letter dropped or transposed?)
+            - p0101: “baste” — “haste” is common (66)
+            - p0242: “ating” — “eating” is common (268; a letter dropped or transposed?)
+            - p0246: “sate” — “safe” is common (395)
+            - p0249: “tigres” — “tigers” is common (47; a letter dropped or transposed?)
+            - p0311: “drago” — “dragon” is common (67; a letter dropped or transposed?)
+            - p0345: “payer” — “prayer” is common (262; a letter dropped or transposed?)
+            - p0351: “contrats” — “contrast” is common (298; a letter dropped or transposed?)
+            - p0352: “rendre” — “render” is common (198; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …hrough St. Thomas to La Guaira, of Caracas and its bells, earthquak…
+            - book.json summary: … and cemetery, of a bull-fight, of ministers and their breakfasts, an…
+            - book.json summary: …ages, prints the loan contract, prospectuses and decrees, an exhibiti…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+[   unused] waiver matches nothing: {'check': 'spacing', 'match': 'p0386', 'why': 'ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)'}
+preflight PASS: venezuela-sketches-eastwick v1 — 0 to fix, 59 waived; to look at: hyphen-joins 6, accents 42, rare-forms 10, serial-commas 3 — tools@6b798b12 2026-11-22
