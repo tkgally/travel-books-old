@@ -1,0 +1,5 @@
+{"given": "belonging to Wells, fargo, and Company", "print": "belonging to Wells, Fargo, and Company", "sure": "high"}
+{"given": "captain of the gang; who covers", "print": "captain of the gang, who covers", "sure": "high"}
+{"given": "coach is allowed to proeeed.", "print": "coach is allowed to proceed.", "sure": "high"}
+{"given": "when pointed at this head.", "print": "when pointed at his head.", "sure": "high"}
+{"given": "pretty certain not be ready for use", "print": "pretty certain not to be ready for use", "sure": "high"}

@@ -1,0 +1,5 @@
+{"given": "like the spriug of a bow", "print": "like the spring of a bow", "sure": "high"}
+{"given": "gliding up the steep dome; she vanished", "print": "gliding up the steep dome, she vanished", "sure": "high"}
+{"given": "the youth as be sped in", "print": "the youth as he sped in", "sure": "high"}
+{"given": "forgot the crops of Yo semite.", "print": "forgot the crops of Yo Semite.", "sure": "high"}
+{"given": "whistled mournfully through pines, the wild", "print": "whistled mournfully through the pines, the wild", "sure": "high"}
