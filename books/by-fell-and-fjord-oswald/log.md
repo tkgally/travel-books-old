@@ -64,6 +64,7 @@ Errata slip: p. 57 Mattias Jochmundsen → Matthias Jochumsson (p0071); p. 117 2
 |---|---|---|---|---|
 | 1 | 2026-11-20 | PASS — 0 to fix, 4 waived (blank leaves, the duplicate shot); to look at: hyphen-joins 3, folios 1 (advertisements), quote-balance 1 (as printed, p0062), contents 1 (the printed contents' "Ulfjlotsvatn") — tools@bf70933 | 30/30; 0 real errors / 6 pages | first publication; spot-read and accent check (Opus subagents); rendered look at 390 and 1280, EPUB nav |
 | 2 | 2026-11-21 | by-fell-and-fjord-oswald v2 — 0 to fix, 4 waived; to look at: hyphen-joins 3, folios 1, quote-balance 1, contents 1, verse-joins 6, accents 16 — tools@d6d9a1f 2026-11-21 | as v1 (text unchanged except listed fixes) | stanza break(s) at page tops restored (review after thirty books, `verse-joins`, checked on the scan) |
+| 3 | 2026-11-22 | PASS, 0 to fix, 4 waived; to look at: hyphen-joins 3, folios 1, quote-balance 1, contents 1, verse-joins 6, accents 16, serial-commas 4 — tools@28ae7b95 2026-11-22 | as v2 (text unchanged except the title page) | Title page typed line by line as printed (Opus subagent on the scan; rendered look checked). No model runs for the text. |
 
 ## Known issues
 - The page marker for p. 171 (the sideways plate "Fording Markarfljot") comes after p. 172's, because the plate is set

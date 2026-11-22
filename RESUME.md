@@ -35,14 +35,13 @@ next piece is whatever now comes first here.
    version, and do the follow-through that file asks for. Small ones can share a session with other work.
    **Title pages typed as headings** (to do, from Tom's change of 2026-11-22; small work, up to five books a
    session, alongside other work, until the list is empty): the title page is now the first page of every
-   edition and is to read as printed. In these 22 books it was typed when it was left out of the editions, with
+   edition and is to read as printed. In these books it was typed when it was left out of the editions, with
    the title as a `#` heading in upper and lower case (some with `[[subtitle]]`): fetch the title-page leaf and
    its verso from the Drive cache (`tools/drive_cache.py`), retype the page as `prompts/_format.md` now says
    (no `#`; each printed line or phrase a `[[center]]` paragraph, capitals as printed; `[[right]]` where set
    right), check every word on the image, look at `01.html` in the build, and publish as a new version ("Title
    page typed line by line as printed"). Strike a book from this list when done:
-   argentine-plains-larden, around-the-world-through-japan-del-mar, autumn-tour-in-western-persia-durand,
-   between-two-oceans-hardy, by-fell-and-fjord-oswald, corona-and-coronet-todd, eastern-seas-bax,
+   corona-and-coronet-todd, eastern-seas-bax,
    eastern-shores-adriatic-strangford, embassy-to-china-staunton (both volumes), japan-a-sailors-visit-cook,
    journey-through-the-caucasus-mounsey, land-of-mosques-greville-nugent, land-of-the-tatami-murray,
    mongolia-siberia-sheepshanks, nile-without-dragoman-eden, summer-greetings-from-japan-sheldon,

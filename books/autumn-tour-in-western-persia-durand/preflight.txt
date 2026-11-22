@@ -26,6 +26,33 @@
 [       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
 [       ok] contents: entries of the printed contents with no matching heading
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[look (11)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - chiz: chiz (p0063, p0154); chíz (p0024, p0068)
+            - colossal: colossal (p0124); colossál (p0071)
+            - darad: darad (p0063, p0154); dárad (p0214)
+            - ghulam: ghulam (p0265); ghulám (p0032)
+            - ghulams: ghulams (p0258); ghuláms (p0015, p0021)
+            - kebir: kebir (p0205); kebír (p0197, p0198, p0200, p0206)
+            - kedkhuda: kedkhuda (p0065); kedkhudá (p0241, p0245)
+            - kuhrud: kuhrud (p0199, p0218); kuhrúd (p0065, p0071)
+            - rene: rene (p0332); renè (p0283)
+            - tehran: tehran (p0006, p0009, p0011, p0014, p0019, p0021…); tehrán (p0093)
+            - vezir: vezír (p0067, p0073, p0085, p0111, p0126); vézir (p0280)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (1)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0251: “ali” — “all” is common (13140)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (5)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …a party of servants, muleteers, and an escort and rode for eleven week…
+            - book.json summary: … travelling camp was organized, the roads and river crossings, the…
+            - book.json summary: …ribal chiefs who received them, the towns and villages, and life a…
+            - book.json summary: …d them, the towns and villages, and life at the Legation and at Gulhek. It has tw…
+            - book.json notes_on_text: …ed erratum (Stewart for Stuart, pages 80 and 83) has been applied…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: autumn-tour-in-western-persia-durand v1 — 0 to fix, 1 waived; to look at: hyphen-joins 4, folios 1 — tools@496ba8c 2026-11-20
+preflight PASS: autumn-tour-in-western-persia-durand v2 — 0 to fix, 1 waived; to look at: hyphen-joins 4, folios 1, accents 11, rare-forms 1, serial-commas 5 — tools@28ae7b95 2026-11-22

@@ -1,0 +1,57 @@
+[[page xii]]
+
+<sc>a country town</sc> <pref>50</pref>
+
+<sc>gathering the rice harvest</sc> <pref>52</pref>
+
+<sc>a mountain village</sc> <pref>54</pref>
+
+<sc>rooms in an inn, formerly a daimyo’s residence</sc> <pref>63</pref>
+
+<sc>a mountain river</sc> <pref>71</pref>
+
+<sc>a kago</sc> <pref>73</pref>
+
+<sc>the flowing invocation</sc> <pref>75</pref>
+
+<sc>maidservants mowing lawn with scissors</sc> <pref>78</pref>
+
+<sc>a torii</sc> <pref>79</pref>
+
+<sc>group of shinto priests</sc> <pref>83</pref>
+
+<sc>a shinto priestess</sc> <pref>93</pref>
+
+<sc>the sun goddess</sc> <pref>103</pref>
+
+<sc>a ryobu shinto torii</sc> <pref>121</pref>
+
+<sc>group of buddhist ecclesiastics</sc> <pref>125</pref>
+
+<sc>a buddhist altar</sc> <pref>131</pref>
+
+<sc>a buddhist funeral in humble life</sc> <pref>136</pref>
+
+<sc>in the garden of an ancient buddhist temple</sc> <pref>142</pref>
+
+<sc>buddhist devotions</sc> <pref>145</pref>
+
+<sc>a buddhist cemetery</sc> <pref>152</pref>
+
+<sc>part of buddhist temple garden planted with english flower seeds in honour of anglo-japanese alliance</sc> <pref>156</pref>
+
+<sc>old stone bridge and lotus plants</sc> <pref>157</pref>
+
+<sc>a temple gateway</sc> <pref>169</pref>
+
+<sc>a wayside tea-house</sc> <pref>171</pref>
+
+<sc>feudal castle wall</sc> <pref>175</pref>
+
+<sc>a ceremonial tea</sc> <pref>178</pref>
+
+<sc>ancient costumes</sc> <pref>182</pref>
+
+<sc>on the reiheishi kaido</sc> <pref>184</pref>
+
+<sc>the sacred bridge</sc> <pref>187</pref>

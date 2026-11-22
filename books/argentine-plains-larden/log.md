@@ -40,6 +40,7 @@ Has: footnotes; tables (pp. 76, 77, 82–83, 121, 300–307 with „ dittos); it
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-21 | PASS — argentine-plains-larden v1 — 0 to fix, 14 waived; to look at: hyphen-joins 5, contents 266, accents 11, rare-forms 1 — tools@7ea52587 2026-11-21 | 30/30; 0 real errors / 6 pages | first publication; spot-read of 56 pages; rendered look (Opus subagent) at 390 and 1280, EPUB nav |
+| 2 | 2026-11-22 | PASS, 0 to fix, 14 waived; to look at: hyphen-joins 5, contents 266, accents 11, rare-forms 1, serial-commas 2 — tools@28ae7b95 2026-11-22 | as v1 (text unchanged except the title page) | Title page typed line by line as printed (Opus subagent on the scan; rendered look checked). No model runs for the text. |
 
 ## Known issues
 - p. 307 (p0409): “as accurate enough.” resumes a paragraph after a centred equation; shown as a paragraph of its own (the markup cannot continue it).

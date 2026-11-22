@@ -63,6 +63,7 @@ Verse p0188. No footnotes or tables seen. Persian words romanized with accents; 
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-20 | PASS — 0 to fix, 1 waived (leaves p0267: blank); to look at: hyphen-joins 4 (all real word breaks), folios 1 (catalogue starts at p. 3) — tools@496ba8c | 28/28; 0 real errors / 6 pages | first publication; spot-read of 40 pages (1 straight apostrophe, handled by the compiler; “SIR” in capitals); rendered look (Opus subagent) at 390 and 1280, EPUB nav |
+| 2 | 2026-11-22 | PASS, 0 to fix, 1 waived; to look at: hyphen-joins 4, folios 1, accents 11, rare-forms 1, serial-commas 5 — tools@28ae7b95 2026-11-22 | as v1 (text unchanged except the title page) | Title page typed line by line as printed (Opus subagent on the scan; rendered look checked). No model runs for the text. |
 
 ## Known issues
 - The folding map is shown at the width of the text column, where its place names cannot be read; the image file is

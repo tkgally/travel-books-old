@@ -46,6 +46,7 @@ Book picture: the title page (p0011).
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-22 | PASS, 1 waived (spacing p0120, the domino) (tools@f9beea7b) | 29/29, 0 real / 6 pages | items: 4 words on the damaged p. 95, a dropped “of”, a misprint; spot-read: 3 small-capital forms; accents: 40 groups as printed |
+| 2 | 2026-11-22 | PASS, 0 to fix, 1 waived; to look at: hyphen-joins 3, contents 1, accents 43, rare-forms 2, serial-commas 4, missing-stop 3 — tools@28ae7b95 2026-11-22 | as v1 (text unchanged except the title page) | Title page typed line by line as printed (Opus subagent on the scan; rendered look checked). No model runs for the text. |
 
 ## Known issues
 - Small figures printed inside a paragraph (domino, oar, coffin section) follow the paragraph.
