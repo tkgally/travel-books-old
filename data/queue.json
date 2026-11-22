@@ -515,8 +515,8 @@
    "eligibility": "JATSI 213. Rules 1–4 met. Rule 1: University of California scan, colour 400 ppi, clean, complete. Rules 2, 3: no text elsewhere, no reprint found. Rule 4: seventeen first-person letters to his wife, May–August 1906; about 95% Japan. People: Walter Lorenzo Sheldon 1858–1907; Anna Hartshorne Sheldon, who compiled the book, 1863–1924; Anna Cope Hartshorne, who wrote the two-page introductory letter, 1860–1957: Tom exempted the book by name (2026-11-20); say so in notes_on_text (jatsi.md, rule 5). Searched 2026-11-20 (Opus subagent): Project Gutenberg catalogue, The Online Books Page, Wikisource, a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 does not apply to JATSI books (Tom, 2026-11-20). Re-checked 2026-11-20 (next session): a web search of the title finds no text or reprint.",
    "note": "128 pp.; a frontispiece portrait (photo by Strauss, St. Louis) and about 16 photographs, mostly Sheldon's own snapshots, some printed sideways. Short.",
    "started": "2026-11-20",
-   "version": 1,
-   "published": "2026-11-20"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 28,
@@ -615,7 +615,7 @@
    "eligibility": "JATSI 204. Rules 1–4 met. Rule 1: Cornell scan (Kirtas, greyscale), clean, complete (pp. 1–124). Rules 2, 3: no text elsewhere; print-on-demand only. Rule 4: first-person sketches of a tour of Japan in 1904–05, written for the North-China Daily News; all Japan. People: George T. Murray, a Shanghai resident; dates not found. Searched 2026-11-20 (Opus subagent): Project Gutenberg catalogue, The Online Books Page, Wikisource, a web search of a sentence from the book, Open Library and web searches for reprints incl. Ganesha / Edition Synapse. Not checked: WorldCat, Distributed Proofreaders in progress. Rule 5 does not apply to JATSI books (Tom, 2026-11-20).",
    "note": "124 pp.; 11 halftone photographs, some on text pages; title, dedication and chapter heads in blackletter; a few short verses. Short.",
    "started": "2026-11-21",
-   "version": 4,
+   "version": 5,
    "published": "2026-11-22"
   },
   {
@@ -835,8 +835,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv (full file from the pglaf mirror); The Online Books Page: HathiTrust page images only; Wikisource: no text; web search of a distinctive sentence: nothing. Reprints: Franklin Classics/Creative Media 2018, HardPress 2020 (print on demand); no reset or established-press facsimile found. Author John Sheepshanks 1834–1912; the illustrations are his sketches worked up by Rev. R. G. Roe (Robert Gordon Roe, 1860–1927). Not checked: Faded Page, WorldCat. Re-checked 2026-11-20 (next session): web search finds only a SOAS digital catalogue record (scan); no reprint.",
    "note": "Cornell (Wason) scan, 300 ppi; clean OCR. About 9 plates and a temple plan. Across Mongolia by camel caravan from Kalgan to Urga in the late 1860s, then by Kiakhta, Lake Baikal and the Siberian post-road to the Urals; written up from his journal in 1903. Chapter V is an essay on shamanism.",
    "started": "2026-11-20",
-   "version": 2,
-   "published": "2026-11-21"
+   "version": 3,
+   "published": "2026-11-22"
   },
   {
    "order": 45,
@@ -943,7 +943,7 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv; The Online Books Page: none; web search of a mid-book sentence: nothing. Reprints: HardPress 2019, British Library Historical Print Editions 2011, Anatiposi 2023 (all print on demand). Wikisource only by a site-restricted web search. Author 1828–1916 (a bookseller's note: lived in Venice, author of A Garden in Venice): confirm the dates before starting. No illustrations. Not checked: Open Library, Faded Page. Re-checked 2026-11-21: not in pg_catalog.csv (fresh copy); web search of the title: no text online. Author Frederic Eden d. 1916 in Venice (Wikipedia, Garden of Eden (Venice); Frederick Eden (cricketer), b. 1829); creator of the Giudecca garden.",
    "note": "Library of Congress scan, 600 ppi, good OCR, no plates. The author hired his own dahabeah without a dragoman, from Alexandria to Wadi Halfa and back: fitting out, money, crews, the boat hauled up the cataract at Aswan.",
    "started": "2026-11-21",
-   "version": 4,
+   "version": 5,
    "published": "2026-11-22"
   },
   {
@@ -961,8 +961,8 @@
    "eligibility": "Checked 2026-11-20 (Opus subagent): not in pg_catalog.csv; The Online Books Page: none; not in A Celebration of Women Writers; web search of a sentence: nothing (Distant Reader has raw HathiTrust OCR). Reprint: Leopold Classic Library (print on demand). Author taken to be Ermengarde (née Ogilvy), who married the Hon. Patrick Greville-Nugent (1852–1925) in 1882 and died 9 July 1949 (thepeerage.com, citing Burke's Peerage 2003): inferred, confirm before starting. Twelve illustrations, mostly photographs, uncredited. Re-checked 2026-11-20 (session): the author is named as Ermengarda Greville-Nugent in the Center for Research Libraries catalogue record of this book, which settles the identification; she married the Hon. Patrick Greville-Nugent in 1882 (Wikipedia, 1st Baron Greville) and died 9 July 1949 (thepeerage.com, citing Burke's Peerage 2003): rule 5 met. A web search of the title finds the catalogue records, a Spectator review (1 Sept. 1894) and raw HathiTrust OCR only.",
    "note": "University of Toronto scan, 400 ppi, readable OCR; library stamps on the title page; look at the frontispiece. About 130 pages on Algiers, Blidah and the Kabyles, then Bizerta, Tunis, the Bardo and Carthage; street scenes, Arab music lessons, local legends.",
    "started": "2026-11-20",
-   "version": 1,
-   "published": "2026-11-20"
+   "version": 2,
+   "published": "2026-11-22"
   },
   {
    "order": 52,
@@ -1494,10 +1494,11 @@
    "place": "New York",
    "publisher": "Public Service Publishing Co.",
    "images": 336,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
    "eligibility": "JATSI 72. Rules 1–4 met. Rule 1: University of North Carolina scan, colour, 400 ppi, clean; JATSI's cu31924023252673 (Cornell Kirtas) has more specks. Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page: HathiTrust images only; Wikisource; web search of a sentence). Rule 3: none found (print-on-demand only; not in the NDL catalogue under Ganesha / Edition Synapse). Rule 4: first-person letters of a US Army colonel's tour round the world in 1885–86 (England, India, Ceylon, China, Japan, California); Japan in letters XXI–XXIV. Rule 5 (for the record): De Lancey Floyd-Jones 1826–1902. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP.",
-   "note": "About 300 pp., 26 letters headed with place and date. Frontispiece and 11 plates (not yet looked at in this scan). A printed errata list of 12 items after the list of illustrations: apply as an errata slip. A long quotation in small type in the Agra letter. Plain, informative voice."
+   "note": "About 300 pp., 26 letters headed with place and date. Frontispiece and 11 plates (not yet looked at in this scan). A printed errata list of 12 items after the list of illustrations: apply as an errata slip. A long quotation in small type in the Agra letter. Plain, informative voice.",
+   "started": "2026-11-22"
   },
   {
    "order": 83,

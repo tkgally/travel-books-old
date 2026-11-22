@@ -28,7 +28,10 @@
 [       ok] contents: entries of the printed contents with no matching heading
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [look (19)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0005, p0013, p0017, p0019, p0020, p0021…); à (p0017, p0019, p0023, p0035, p0039, p0114…)
             - aid: aid (p0028, p0047, p0078, p0080, p0098, p0109); aïd (p0022)
@@ -49,6 +52,23 @@
             - privilege: privilege (p0229); privilège (p0096)
             - reception: reception (p0064, p0205); réception (p0217)
             - said: said (p0026, p0034, p0051, p0053, p0058, p0062…); saïd (p0021, p0211, p0219, p0222, p0227, p0232)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (9)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0096: “ancien” — “ancient” is common (864; a letter dropped or transposed?)
+            - p0139: “priez” — “prize” is common (63; a letter dropped or transposed?)
+            - p0162: “statistic” — “statistics” is common (40; a letter dropped or transposed?)
+            - p0165: “salve” — “slave” is common (185; a letter dropped or transposed?)
+            - p0236: “bares” — “barges” is common (69; a letter dropped or transposed?)
+            - p0248: “portait” — “portrait” is common (66; a letter dropped or transposed?)
+            - p0248: “ministres” — “ministers” is common (82; a letter dropped or transposed?)
+            - p0248: “escorte” — “escorted” is common (48; a letter dropped or transposed?)
+            - p0248: “volcan” — “volcano” is common (148; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …ound Algiers, a Kabyle village, and the orange groves and gorges of Blidah. In…
+            - book.json summary: …, the city by night in Ramadan, the Bardo and the palace of Kassar…
+            - book.json summary: …s treat the Ouled-Naïl dancers, spoken and literary Arabic, and…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: land-of-mosques-greville-nugent v1 — 0 to fix, 2 waived; to look at: hyphen-joins 5, quote-balance 1, accents 19 — tools@a8d0460 2026-11-20
+preflight PASS: land-of-mosques-greville-nugent v2 — 0 to fix, 2 waived; to look at: hyphen-joins 5, quote-balance 1, accents 19, rare-forms 9, serial-commas 3 — tools@e9870dae 2026-11-22

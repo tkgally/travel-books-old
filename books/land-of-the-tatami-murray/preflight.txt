@@ -55,9 +55,9 @@
             - tenno: tenno (p0018); tennõ (p0128); tennō (p0064, p0099)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
 [ look (3)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0077: “retie” — “retire” is common (63; a letter dropped or transposed?)
-            - p0138: “throe” — “throne” is common (189; a letter dropped or transposed?)
-            - p0139: “litt” — “lift” is common (78)
+            - p0077: “retie” — “retire” is common (73; a letter dropped or transposed?)
+            - p0138: “throe” — “throne” is common (197; a letter dropped or transposed?)
+            - p0139: “litt” — “lift” is common (82)
 [       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
 [ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
             - book.json summary: …t by Kobe, Osaka, Arima, Kioto, Nara and Ise, Nagoya, Yokoham…
@@ -66,4 +66,4 @@
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: land-of-the-tatami-murray v4 — 0 to fix, 0 waived; to look at: hyphen-joins 1, quote-balance 3, contents 2, accents 20, rare-forms 3, serial-commas 3 — tools@ed86e62f 2026-11-22
+preflight PASS: land-of-the-tatami-murray v5 — 0 to fix, 0 waived; to look at: hyphen-joins 1, quote-balance 3, contents 2, accents 20, rare-forms 3, serial-commas 3 — tools@e9870dae 2026-11-22
