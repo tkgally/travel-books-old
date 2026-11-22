@@ -1300,10 +1300,11 @@
    "place": "London",
    "publisher": "Longmans and Co.",
    "images": 222,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): pg_catalog.csv has his Across the Vatna Jökull (62282), not this book; The Online Books Page: nothing; Wikisource: a mention only; web search of a sentence: nothing. Reprints: Kessinger 2008, Read Books 2010/2011 (print on demand). Watts 1850–1921. Three photographs credited to Rev. Martin Hart (dates not found; a minor contributor). Not checked: WorldCat.",
-   "note": "Getty scan, 600 ppi, about a dozen photographic plates. Title page 1876 (IA says 1875). 1874: Watts and an English clergyman ride across south Iceland from Reykjavík by Thingvellir and Geysir to the edge of Vatnajökull, by farms, priests' houses and quicksand rivers. Plain diary prose; short."
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): pg_catalog.csv has his Across the Vatna Jökull (62282), not this book; The Online Books Page: nothing; Wikisource: a mention only; web search of a sentence: nothing. Reprints: Kessinger 2008, Read Books 2010/2011 (print on demand). Watts 1850–1921. Three photographs credited to Rev. Martin Hart (dates not found; a minor contributor). Not checked: WorldCat. Re-checked 2026-11-22: a web search of the title finds booksellers, print-on-demand reprints and reviews of 1875; Gutenberg has only the sequel (Across the Vatna Jökull).",
+   "note": "Getty scan, 600 ppi, about a dozen photographic plates. Title page 1876 (IA says 1875). 1874: Watts and an English clergyman ride across south Iceland from Reykjavík by Thingvellir and Geysir to the edge of Vatnajökull, by farms, priests' houses and quicksand rivers. Plain diary prose; short.",
+   "started": "2026-11-22"
   },
   {
    "order": 72,
