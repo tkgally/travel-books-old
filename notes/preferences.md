@@ -375,4 +375,8 @@ goes to the to-do list for those sessions (`RESUME.md`).
   284, 285 and 287, but p. 286, the first page of Appendix B (a circular sent to the Fiji settlers in 1870), is curled at the fold: the right
   third of each of its 30 or so lines is lost. Publish with that page marked as incomplete in the scan (`[[gap]]`, said in `notes_on_text`),
   or leave the book aside? Set to `waiting` meanwhile; the narrative itself would be complete.
+- **Marginal sketches on every page** (*Surface Japan*, Seitz, 1911, JATSI; 2026-11-22). Each text page is printed in a bamboo frame with one or
+  two small figure drawings “after Hokusai” in the margins, used in rotation as decoration (not related to the text; the title page names them).
+  Assumed: frame and sketches left out of the editions, said on the book page; the 20 photographs are in. Should the sketches be shown (as small
+  pictures in the text, like head-pieces), in this book and others like it?
 

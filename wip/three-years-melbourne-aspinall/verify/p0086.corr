@@ -1,0 +1,10 @@
+{"find": "at home, is the head master", "replace": "at home, is the head master"}
+{"find": "head master of the Grammar-school, and appears", "replace": "head master of the Grammar-school, and appears"}
+
+Wait, the draft says "is the head master" already; the page also reads "is the head master", so those two entries change nothing. The only real difference I found is below.
+
+{"find": "classic at home, is the head", "replace": "classic at home, is the head"}
+
+On reflection, I found no differences. The draft matches the page.
+
+NONE
