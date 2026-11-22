@@ -1,0 +1,163 @@
+{
+ "id": "snioland-iceland-watts",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Snioland",
+ "subtitle": "or, Iceland, Its Jokulls and Fjalls",
+ "short_title": "Snioland",
+ "authors": [
+  {
+   "name": "William Lord Watts",
+   "sort": "Watts, William Lord",
+   "born": 1850,
+   "died": 1921
+  }
+ ],
+ "place": "London",
+ "publisher": "Longmans and Co.",
+ "year": 1875,
+ "edition_statement": "First edition",
+ "regions": [
+  "Iceland",
+  "Faroe Islands"
+ ],
+ "period": "1874",
+ "subjects": [
+  "Iceland",
+  "glaciers",
+  "volcanoes",
+  "travel on horseback"
+ ],
+ "summary": "In June 1874 William Lord Watts sailed from Edinburgh to Iceland on the mail steamer “Diana”, on his second visit to the island. With a clergyman friend and Icelandic guides he travelled by pony and tent through the south: Reykjavick, Thingvellir, Geyser, Hecla, the Myrdals Jökull, and Katlugia. In August he went up Vatna Jökull from the south with three men and a hand-sleigh, planted a flag at what he took to be its centre, and turned back because of bad weather and short provisions; he returned to Reykjavick on 1 September. The book is written as a diary. An appendix gives advice and costs for visitors and notes on Iceland’s trade, volcanoes, history, and rocks, and a short list of its plants follows.",
+ "source": {
+  "ia_identifier": "sniolandoricelan00watt",
+  "contributor": "Getty Research Institute",
+  "hidden_leaves": [
+   0,
+   7,
+   8,
+   221
+  ]
+ },
+ "divisions": [
+  {
+   "at": "p0009",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0011",
+   "kind": "dedication",
+   "title": "Dedication"
+  },
+  {
+   "at": "p0013",
+   "kind": "preface"
+  },
+  {
+   "at": "p0016",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0017",
+   "kind": "chapter",
+   "toc_title": "Snioland; or, Iceland, Its Jökulls and Fjalls"
+  },
+  {
+   "at": "p0189",
+   "kind": "appendix"
+  },
+  {
+   "at": "p0211",
+   "kind": "notes",
+   "reading": true
+  },
+  {
+   "at": "p0215",
+   "kind": "appendix"
+  }
+ ],
+ "toc_entries": [
+  {
+   "at": "p0017",
+   "starts": "After lounging about for",
+   "title": "4–12 June: the Faroes; Berufjörde; the Westman Isles; Reykjavick"
+  },
+  {
+   "at": "p0033",
+   "starts": "June 13th.—The mail was",
+   "title": "13–29 June: Reykjavick; Thingvellir"
+  },
+  {
+   "at": "p0046",
+   "starts": "June 3rd.—Our guide returned",
+   "title": "30 June–11 July: Geyser; Rhuni; Hecla"
+  },
+  {
+   "at": "p0062",
+   "starts": "July 12th.—Remained in camp with",
+   "title": "12–16 July: Breitherbolstad; Maka Fljot; Myrdals Jökull"
+  },
+  {
+   "at": "p0077",
+   "starts": "Monday, July 20th.—Comparatively, a fine",
+   "title": "20–28 July: Myrdals Jökull; Vick"
+  },
+  {
+   "at": "p0098",
+   "starts": "July 29th.—W——and I, accompanied",
+   "title": "29 July–3 August: Myrdals Jökull; Katlugia"
+  },
+  {
+   "at": "p0117",
+   "starts": "August 4th.—By midday we arrived",
+   "title": "4–8 August: Hethi; Myra"
+  },
+  {
+   "at": "p0134",
+   "starts": "Sunday, August 9th,",
+   "title": "9–12 August: Nupstad; up Vatna Jökull"
+  },
+  {
+   "at": "p0148",
+   "starts": "It was a glorious morning again,",
+   "title": "12–16 August: on Vatna Jökull"
+  },
+  {
+   "at": "p0165",
+   "starts": "August 17th.—It was a great relief",
+   "title": "17–25 August: Nupstad; Presbakki; Hethi"
+  },
+  {
+   "at": "p0178",
+   "starts": "From Holt we retraced the way",
+   "title": "26 August–1 September: back to Reykjavick by Krisuvick"
+  }
+ ],
+ "frontispiece": "p0006-1",
+ "omitted_from_reading": "The list of illustrations is in the JSON only.",
+ "notes_on_text": [
+  "The book has no chapters: it is a diary. The contents entries and the page divisions of the web and EPUB editions are the editor’s; their dates are those of the entries (the book dates one entry of early July “June 3rd”, kept as printed).",
+  "The numbered notes printed at the end of the book (pp. 181–182) are given there as in the book; their numerals in the text are not linked to them.",
+  "The book spells some Icelandic names with different accents in different places (Hvità and Hvitá, Thorsà and Thorsá, Oxera and Oxerà, Ströker and Strokër); each is given as printed. On p. 28 the second digit of the date “June 25th” is partly lost in the scan."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "keep_hyphens": [
+  "p0090",
+  "p0116",
+  "p0137"
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
+}
