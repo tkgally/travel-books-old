@@ -18,7 +18,7 @@
  "regions": [
   "Japan"
  ],
- "period": "",
+ "period": "about 1901–04",
  "source": {
   "ia_identifier": "womanaloneinhear00fish",
   "contributor": "The Library of Congress",
@@ -90,10 +90,28 @@
  "omitted_from_reading": "The half-title, title page, printed contents, list of illustrations and index are in the JSON only.",
  "notes_on_text": [
   "The caption of the frontispiece, “The Little Mothers of Japan”, is printed on the tissue guard over it in the scanned copy.",
-  "Plates of several photographs have one caption line in the editions: the names under the separate photographs, then the title of the plate."
+  "Plates of several photographs have one caption line in the editions: the names under the separate photographs, then the title of the plate.",
+  "The book gives no year for the journey; the summary’s dating is inferred from events it mentions."
  ],
  "keep_hyphens": [
   "p0173",
   "p0226"
- ]
+ ],
+ "subjects": [
+  "Japan",
+  "women travellers",
+  "inns and hot springs",
+  "schools and institutions"
+ ],
+ "summary": [
+  "Gertrude Adams Fisher, an American, describes some months spent in Japan, for the most part travelling on her own. The book gives no year; the events it mentions place the visit in the early 1900s. She lands at Yokohama, sees the cherry-blossom season in Tokio and goes by boat to Kobe and Kioto, then travels overland by third-class railway through Nagoya and Miyanoshita to Nikko, where she stays six weeks. She goes on to Sendai, Matsushima and Ikao, and with a hired guide to the hot springs of Kusatsu. The early chapters describe riksha rides, inns, festivals, theatres, wrestling and baths. The last chapters, written in Tokio, describe institutions she visited: the Buddhist university, Professor Kano’s judo school, the Russian mission, the Red Cross hospital, the tea, silk and rice industries, the stock exchange and schools for women."
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "29/29",
+  "real_errors": 0,
+  "fixed": 0
+ }
 }
