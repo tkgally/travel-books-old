@@ -1,0 +1,2 @@
+{"n": 1, "is": "A", "print": "g service of\n\n[[image: Oval portrait photograph of a young Tahitian woman in a straw boater hat with flowers, a dark dress with a white lace collar and cuffs, and a corsage]]\n[[caption]] The Belle of Tahiti. Half-caste mistress of a French official, Papeëte. “The monde and the demi-monde”\n\n[[cont]]any importan", "sure": "high"}
+{"n": 2, "is": "B", "print": "service from", "sure": "high"}

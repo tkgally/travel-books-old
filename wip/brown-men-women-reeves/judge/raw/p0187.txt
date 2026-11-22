@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": "nt among the\n\n[[image: Photograph of a round Fijian hut with a tall conical thatched roof and reed walls, a few people standing at the doorway, a bamboo fence in the foreground]]\n[[caption]] Fiji Hut. Grass roof; walls made of reeds. In front is a bamboo fence.\n\n[[cont]]hills", "sure": "high"}
+{"n": 2, "is": "A", "print": "House.\n\nThe fine", "sure": "high"}
