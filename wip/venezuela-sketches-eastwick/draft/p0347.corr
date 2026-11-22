@@ -1,0 +1,5 @@
+{"find": "[[page ?]]", "replace": "[[page 331]]"}
+{"find": "LORD PALMERSTON’S CIRCULAR. 331\n\n", "replace": ""}
+{"find": "they should, or", "replace": "[[cont]] they should, or"}
+{"find": "subject’ of", "replace": "subject of"}
+{"find": "at home ;", "replace": "at home;"}
