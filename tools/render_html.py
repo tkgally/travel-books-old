@@ -85,6 +85,18 @@ def body_start(book):
     return rd[0] if rd else None
 
 
+def editor_figures(book, d, prefix=""):
+    """The pictures the editor added (book.json "editor_images"), as HTML, for the page `d` of the reading editions
+    where the narrative begins (body_start); "" for any other page. The renderers put them before the book's own
+    text (outside <article> on the web, outside <section> in the EPUB): they and their captions are not the book's."""
+    eds = book.get("editor_images") or []
+    start = body_start(book)
+    if not eds or start is None or d["id"] != start["id"]:
+        return ""
+    return "".join(f'<figure class="editor"><img src="{attr(prefix + e["src"])}" alt="{attr(e["alt"])}"/>'
+                   f'<figcaption>{esc(e["caption"])}</figcaption></figure>\n' for e in eds)
+
+
 def file_names(book, ext):
     """division id -> file name, for the divisions of the reading editions."""
     return {d["id"]: f"{i:02d}{ext}" for i, d in enumerate(reading_divisions(book), 1)}

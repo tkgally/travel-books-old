@@ -1,7 +1,7 @@
 {
  "id": "mongolia-siberia-sheepshanks",
- "version": 2,
- "date": "2026-11-21",
+ "version": 3,
+ "date": "2026-11-22",
  "title": "My Life in Mongolia and Siberia",
  "subtitle": "From the Great Wall of China to the Ural Mountains",
  "short_title": "My Life in Mongolia and Siberia",
@@ -32,6 +32,11 @@
    "version": 2,
    "date": "2026-11-21",
    "note": "A printer’s error corrected: “langhing” for “laughing” (p. 88) (found by a sweep of all the books at the review after forty books)."
+  },
+  {
+   "version": 3,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "regions": [
@@ -91,7 +96,7 @@
   }
  ],
  "audit": {
-  "version": 2,
+  "version": 3,
   "date": "2026-11-20",
   "pages": 6,
   "recall": "30/30",

@@ -170,6 +170,12 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
   them `<blockquote>` and not others, and a `[[cont]]` at the top of the next page then has nothing to continue (compile
   warning). Look at the scan: same type and measure → plain paragraphs throughout (*Via Rhodesia*, 2026-11-20).
 
+- Quotations in smaller type mixed with dialogue in the text type (yarns told in a smoking room, *Brown Men and Women* ch. II): drafts
+  set about a fifth of them as `<blockquote>`. Line pitch tells the sizes apart where the eye cannot on a thumbnail: tesseract
+  hOCR of every page (`OMP_THREAD_LIMIT=1`, 6 at a time: 300 pages in ~10 min), the y-step between lines (here 37 px text,
+  30 px quotations, 24 px notes at 1800 px), each paragraph matched to its lines by word trigrams. Look at the pages it flags
+  on the scan: a whole section set small for space (Reeves ch. X) is the author's text, not a quotation.
+
 ## Trigger: footnotes
 
 - A table inside a footnote (a ship's log) ends the page as a body block, so the next page's `[[cont]]` has nothing to

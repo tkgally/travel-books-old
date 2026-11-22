@@ -46,6 +46,10 @@
 /* The title of a section made for this edition, where the book has no division (a diary, a run of letters) */
 h2.added, .book h2.added { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif; font-size: 1.05em;
   font-style: italic; font-weight: normal; text-align: center; margin: 2em 0 1.2em 0; border: 0; padding: 0; }
+/* A picture added by the editor before the narrative (book.json "editor_images"): not part of the book's text */
+figure.editor { text-align: center; margin: 1.5em 0 2.5em 0; page-break-inside: avoid; break-inside: avoid; }
+figure.editor img { max-width: 100%; max-height: 90vh; height: auto; width: auto; }
+figure.editor figcaption { font-size: 0.88em; font-style: italic; margin: 0.5em 0 0 0; text-align: left; text-indent: 0; }
 .book .tp-sub { font-size: 1.05em; margin: 0 1em 2em 1em; }
 .book .tp-author { font-size: 1.15em; margin: 2em 0; }
 .book .tp-imprint { margin: 2em 0 4em 0; }

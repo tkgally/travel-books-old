@@ -81,13 +81,15 @@ def render(book, images_dir):
         etype = {"part": "part", "titlepage": "titlepage"}.get(d["kind"], "chapter")
         # the title of a section made for this edition (render_html.split_division) stands outside the book's text
         added = f'<h2 class="added">{e(d["added"])}</h2>\n' if d.get("added") else ""
+        added += rh.editor_figures(book, d, "../")
+        used.update(re.findall(r'src="\.\./images/([^"]+)"', added))
         files["text/" + name] = XHTML.format(title=e(d["title"]), battr=battr, body=f'{added}<section epub:type="{etype}">\n{body}\n</section>')
         manifest.append(f'<item id="c{name[:-6]}" href="text/{name}" media-type="application/xhtml+xml"/>')
         spine.append(f'<itemref idref="c{name[:-6]}"/>')
         if i == 0 and transcribed:
             edition_pages()
     for f in sorted(used):
-        if not os.path.exists(os.path.join(images_dir, f)):
+        if not images_dir or not os.path.exists(os.path.join(images_dir, f)):
             continue                      # compile_book has warned; preflight fails on the warning
         files["images/" + f] = open(os.path.join(images_dir, f), "rb").read()
         manifest.append(f'<item id="img-{re.sub(r"[^A-Za-z0-9]", "-", f)}" href="images/{f}" media-type="{MEDIA[os.path.splitext(f)[1].lower()]}"/>')

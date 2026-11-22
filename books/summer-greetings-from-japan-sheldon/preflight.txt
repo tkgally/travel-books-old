@@ -25,11 +25,23 @@
 [       ok] contents: entries of the printed contents with no matching heading
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
 [       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
-[       ok] cover: images/cover.jpg (or .png) exists: the front cover or the title page
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
 [ look (3)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0011, p0013, p0015, p0019, p0020, p0021…); à (p0047)
             - nitobes: nitobes (p0115); nitobés (p0130, p0132, p0137, p0140, p0150, p0152)
             - sake: sake (p0036, p0102, p0152); saké (p0035, p0070, p0098, p0151)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (2)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0133: “laquer” — “lacquer” is common (165; a letter dropped or transposed?)
+            - p0147: “peaking” — “speaking” is common (249; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: … he visits schools and temples, the slums of Tokyo and the iris gardens at …
+            - book.json summary: … lectures to Japanese students, and moves on to Kyoto and Nikko in July. The l…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: summer-greetings-from-japan-sheldon v1 — 0 to fix, 0 waived; to look at: hyphen-joins 2, joins 1, accents 3 — tools@c2d12c5 2026-11-20
+preflight PASS: summer-greetings-from-japan-sheldon v2 — 0 to fix, 0 waived; to look at: hyphen-joins 2, joins 1, accents 3, rare-forms 2, serial-commas 2 — tools@e9870dae 2026-11-22

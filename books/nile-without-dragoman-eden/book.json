@@ -1,6 +1,6 @@
 {
  "id": "nile-without-dragoman-eden",
- "version": 4,
+ "version": 5,
  "date": "2026-11-22",
  "title": "The Nile without a Dragoman",
  "short_title": "The Nile without a Dragoman",
@@ -40,6 +40,11 @@
    "version": 4,
    "date": "2026-11-22",
    "note": "A printer’s error of a dropped or transposed letter marked and corrected: “supicious” for “suspicious”."
+  },
+  {
+   "version": 5,
+   "date": "2026-11-22",
+   "note": "Title page typed line by line as printed."
   }
  ],
  "regions": [
@@ -83,7 +88,7 @@
   "Travel costs"
  ],
  "audit": {
-  "version": 4,
+  "version": 5,
   "date": "2026-11-21",
   "pages": 6,
   "recall": "30/30",

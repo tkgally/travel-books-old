@@ -47,6 +47,7 @@ places (dedication, two words p0231, Appendix B). Draft: p0005–p0248 without t
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-20 | preflight PASS v1, 2 waived (leaves: tissue guard) (tools@a8d0460) | 30/30, 0 real | look items: hyphen-joins (decided), quote-balance p0057 (balanced line by line), accents (as printed) |
+| 2 | 2026-11-22 | PASS: land-of-mosques-greville-nugent v2 — 0 to fix, 2 waived; to look at: hyphen-joins 5, quote-balance 1, accents 19, rare-forms 9, serial-commas 3 — tools@e9870dae 2026-11-22 | as before (text unchanged except the title page) | Title page typed line by line as printed (checked on the scan by the session; 01.html looked at) |
 
 ## Known issues
 

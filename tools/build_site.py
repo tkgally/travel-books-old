@@ -406,7 +406,8 @@ def build_book(out, bookdir, strict=True):
                 body = f'<span id="{START_ID}"></span>' + body
         # the title of a section made for this edition (render_html.split_division) stands outside the book's text
         added = f'<h2 class="added">{esc(d["added"])}</h2>\n' if d.get("added") else ""
-        used.update(re.findall(r'<img src="images/([^"]+)"', body))
+        added += rh.editor_figures(book, d)
+        used.update(re.findall(r'<img src="images/([^"]+)"', body + added))
         prev_ = f'<a rel="prev" href="{names[divs[i - 1]["id"]]}">← {esc(divs[i - 1]["title"])}</a>' if i else "<span></span>"
         next_ = f'<a rel="next" href="{names[divs[i + 1]["id"]]}">{esc(divs[i + 1]["title"])} →</a>' if i + 1 < len(divs) else "<span></span>"
         pager = f'<nav class="pager" aria-label="Chapters">{prev_}<a href="index.html#contents">Contents</a>{next_}</nav>'

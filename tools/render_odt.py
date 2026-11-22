@@ -57,6 +57,7 @@ STYLES = f"""<?xml version="1.0" encoding="UTF-8"?>
 {pstyle("Heading_20_2", "Heading 2", para='fo:text-align="center" fo:margin-top="0.8cm" fo:margin-bottom="0.5cm" fo:keep-with-next="always"', text='fo:font-size="13pt" fo:hyphenate="false"', nxt="First_20_Paragraph", outline=2)}
 {pstyle("Heading_20_3", "Heading 3", para='fo:text-align="center" fo:margin-top="0.6cm" fo:margin-bottom="0.3cm" fo:keep-with-next="always"', text='fo:font-size="11.5pt" fo:font-style="italic" fo:hyphenate="false"', nxt="First_20_Paragraph", outline=3)}
 {pstyle("Added_20_Heading", "Added Heading", para='fo:text-align="center" fo:margin-top="1.2cm" fo:margin-bottom="0.6cm" fo:break-before="page" fo:keep-with-next="always"', text='fo:font-size="11pt" fo:font-style="italic" fo:hyphenate="false"', nxt="Text_20_body", outline=2)}
+{pstyle("Editor_20_Figure", "Editor Figure", parent="Figure", para='fo:text-align="center" fo:break-before="page"')}
 {pstyle("Title_20_Page_20_Verso", "Title Page Verso", para='fo:text-align="center" fo:break-before="page"')}
 {pstyle("Chapter_20_Title", "Chapter Title", para='fo:text-align="center" fo:margin-bottom="0.6cm" fo:keep-with-next="always"', text='fo:font-size="11pt" fo:hyphenate="false"', nxt="First_20_Paragraph")}
 {pstyle("Chapter_20_Summary", "Chapter Summary", para='fo:text-align="start" fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-bottom="0.6cm" fo:keep-with-next="always"', text='fo:font-size="10pt" fo:hyphenate="false"', nxt="First_20_Paragraph")}
@@ -191,6 +192,24 @@ class Odt:
     def p(self, style, content):
         return f'<text:p text:style-name="{style}">{content}</text:p>'
 
+    def frame(self, b):
+        """An image block (or an editor's picture) as a frame, or a bracketed description if the file is missing."""
+        f = os.path.basename(b["src"])
+        path = os.path.join(self.images_dir or "", f)
+        if not os.path.exists(path):
+            return self.text("[Illustration: " + b["alt"] + "]")
+        data = open(path, "rb").read()
+        self.pics[f] = data
+        w, h = image_size(data)
+        scale = min(14.0 / w, 19.0 / h, 2.54 / 110)
+        if b.get("ornament"):            # a decorative head- or tail-piece: small
+            scale = min(scale, 5.0 / w, 2.5 / h)
+        self.nfig += 1
+        return (f'<draw:frame draw:style-name="Graphics" draw:name="Figure{self.nfig}" text:anchor-type="as-char" '
+                f'svg:width="{w * scale:.2f}cm" svg:height="{h * scale:.2f}cm">'
+                f'<draw:image xlink:href="Pictures/{f}" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>'
+                f'<svg:title>{escape(b["alt"])}</svg:title></draw:frame>')
+
     def division(self, d):
         d = rh.roman_long_italics(d)
         self.notes = {n["id"]: n for n in d["notes"]}
@@ -199,6 +218,10 @@ class Odt:
         tp, leaf0 = d["kind"] == "titlepage", None
         if d.get("added"):        # the title of a section made for this edition: a heading that is not the book's
             out.append(f'<text:h text:style-name="Added_20_Heading" text:outline-level="2">{self.text(d["added"])}</text:h>')
+        if rh.editor_figures(self.book, d):    # the editor's pictures, before the narrative (render_html.editor_figures)
+            for e in self.book["editor_images"]:
+                out.append(self.p("Editor_20_Figure", self.frame(e)))
+                out.append(self.p("Edition_20_Note", self.text(e["caption"])))
         for bi, b in enumerate(d["blocks"]):
             n0 = len(out)
             t = b["type"]
@@ -233,23 +256,7 @@ class Odt:
                         out.append(self.p(st, (pbs if i == 0 and j == 0 else "") + self.inline(line)))
                 out.append(self.p("VerseEnd", ""))
             elif t == "image":
-                f = os.path.basename(b["src"])
-                path = os.path.join(self.images_dir or "", f)
-                if os.path.exists(path):
-                    data = open(path, "rb").read()
-                    self.pics[f] = data
-                    w, h = image_size(data)
-                    scale = min(14.0 / w, 19.0 / h, 2.54 / 110)
-                    if b.get("ornament"):            # a decorative head- or tail-piece: small
-                        scale = min(scale, 5.0 / w, 2.5 / h)
-                    self.nfig += 1
-                    frame = (f'<draw:frame draw:style-name="Graphics" draw:name="Figure{self.nfig}" text:anchor-type="as-char" '
-                             f'svg:width="{w * scale:.2f}cm" svg:height="{h * scale:.2f}cm">'
-                             f'<draw:image xlink:href="Pictures/{f}" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>'
-                             f'<svg:title>{escape(b["alt"])}</svg:title></draw:frame>')
-                    out.append(self.p("Figure", pbs + frame))
-                else:
-                    out.append(self.p("Figure", pbs + self.text("[Illustration: " + b["alt"] + "]")))
+                out.append(self.p("Figure", pbs + self.frame(b)))
                 if b.get("caption"):
                     out.append(self.p("Caption", self.inline(b["caption"])))
             elif t == "table":

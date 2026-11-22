@@ -1,0 +1,6 @@
+{"given": "The king of tonga and some", "print": "The king of Tonga and some", "sure": "high"}
+{"given": "without knife or fork; across their knees", "print": "without knife or fork, across their knees", "sure": "high"}
+{"given": "held by shank, in the other", "print": "held by the shank, in the other", "sure": "high"}
+{"given": "down your back then you take", "print": "down your back when you take", "sure": "high"}
+{"given": "They found him standiug up against", "print": "They found him standing up against", "sure": "high"}
+{"given": "on yams and cocoanuts is delicious", "print": "on yams and cocoa-nuts is delicious", "sure": "low"}

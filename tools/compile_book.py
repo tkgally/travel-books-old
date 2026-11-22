@@ -30,7 +30,7 @@ import inline  # noqa: E402
 FORMAT = "travel-books-json/1"
 KINDS = ("front", "titlepage", "dedication", "preface", "contents", "illustrations", "introduction", "part",
          "chapter", "appendix", "notes", "glossary", "index", "errata", "advertisements", "back")
-MARK = re.compile(r"\[\[(?:page [^\[\]]*|blank|break|cont|right|center|subtitle|caption|image:[^\[\]]*|fn [^\[\]]+|"
+MARK = re.compile(r"\[\[(?:page [^\[\]]*|blank|break|cont|stream|right|center|subtitle|caption|image:[^\[\]]*|fn [^\[\]]+|"
                   r"fnref [^\[\]]+|corr [^|\[\]]*\|[^\[\]]*|side:[^\[\]]*|supplied [^\[\]]+|gap)\]\]")
 BLOCK_TAGS = ("blockquote", "verse")
 NOT_READING = ("front", "contents", "illustrations", "index", "advertisements", "back", "errata")
@@ -208,7 +208,50 @@ def load(bookdir):
     return cfg, apply_leaf_order(pages, cfg.get("leaf_order"))
 
 
+def split_streams(pages):
+    """A second stream of text printed on the same pages apart from the main text (Reeves, *Brown Men and Women*:
+    “Excerpts from Tongan Official Documents” in small type along the foot of pp. 268–286, under the main text):
+    each of its lines in the page files starts `[[stream]]` (then any one-line markup: `# ` heading, `[[cont]]`).
+    Returns (main pages, stream pages), the stream pages with the page's `[[page N]]` and only the stream lines."""
+    main, stream = [], []
+    for leaf, text in pages:
+        keep, st = [], []
+        for ln in text.splitlines():
+            if ln.lstrip().startswith("[[stream]]"):
+                st.append(ln.lstrip()[10:].strip())
+            else:
+                keep.append(ln)
+        main.append((leaf, "\n".join(keep)))
+        if st:
+            m = re.search(r"\[\[page [^\]]*\]\]", text)
+            stream.append((leaf, (m.group(0) if m else "[[page ?]]") + "\n\n" + "\n\n".join(st)))
+    return main, stream
+
+
 def compile_pages(cfg, pages, images=None):
+    """cfg = book.json dict, pages = [(leaf, text)], images = {stem: filename} or None (then not checked).
+    The lines of a second stream (split_streams) become division(s) of their own, marked "stream": true, after all the
+    others: in the reading editions they follow the last reading division (book.json "stream_kind", default
+    "appendix", is the kind of the stream's first division)."""
+    main, stream = split_streams(pages)
+    book, warnings = _compile_pages(cfg, main, images)
+    if not stream:
+        return book, warnings
+    scfg = {k: cfg[k] for k in ("id", "version", "date", "title", "authors", "keep_hyphens", "ornaments") if k in cfg}
+    scfg["divisions"] = [{"at": stream[0][0], "kind": cfg.get("stream_kind", "appendix")}]
+    sub, sw = _compile_pages(scfg, stream, images)
+    warnings += [f"{w} (second stream)" for w in sw]
+    n0 = len(book["divisions"])
+    ren = lambda x: re.sub(r"\bd(\d{3})\b", lambda m: f"d{int(m.group(1)) + n0:03d}", x)
+    sdivs = json.loads(ren(json.dumps(sub["divisions"], ensure_ascii=False)))
+    for d in sdivs:
+        d["stream"] = True
+    book["divisions"] += sdivs
+    book["corrections"] += [dict(c, division=ren(c["division"])) for c in sub["corrections"]]
+    return book, warnings
+
+
+def _compile_pages(cfg, pages, images=None):
     """cfg = book.json dict, pages = [(leaf, text)], images = {stem: filename} or None (then not checked).
     Returns (book dict, warnings)."""
     warnings = []
@@ -554,6 +597,18 @@ def compile_pages(cfg, pages, images=None):
                             "The book itself was published before 1914.",
             **{k: cfg[k] for k in meta_keys if k in cfg},
             "corrections": corrections, "pages": page_list, "divisions": divs}
+    # pictures added by the editor (book.json "editor_images"; Tom, 2026-11-22, *Surface Japan*: a typical printed
+    # page with its decorated border, which the text leaves out). Not the book's: kept apart from the divisions, with
+    # the caption written for this edition; the renderers show them before the start of the narrative.
+    eds = []
+    for e in cfg.get("editor_images", []):
+        f = (images or {}).get(e["file"])
+        if images is not None and not f:
+            warn(f"editor_images: missing image file for {e['file']}")
+        eds.append({"src": "images/" + (f or e["file"] + ".jpg"), "leaf": e["leaf"], "alt": inline.smart_quotes(e["alt"]),
+                    "caption": inline.smart_quotes(e["caption"]), "editor": True})
+    if eds:
+        book["editor_images"] = eds
     return book, warnings
 
 

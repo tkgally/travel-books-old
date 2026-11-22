@@ -35,5 +35,85 @@ Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-
 | 1 | 2026-11-22 | PASS, 0 to fix, 0 waived; look: hyphen-joins 7 (read), joins 1 (dedication after the verso), accents 1 (à French), misprints 5 (iu: Japanese), rare-forms 5 (prating, fiber, bunt, shooing, relies: real), serial-commas 7 (pairs) — tools@92cc5898 | 30/30; 0 real | spot-read with tesseract comparison of every page: disrepect, list markup, coin captions, McNEILL; crops by the session: beween, Tranquilty; rendered look: book page, title page, first section, a narrow page, the phrase list; Claude $20.98 |
 
 ## Known issues
-- Tom (2026-11-22): show one or two typical bordered pages as an illustration near the beginning, with a caption: to do in v2 (RESUME.md §2).
+- Tom (2026-11-22): show one or two typical bordered pages as an illustration near the beginning, with a caption: **v2 ready to
+  publish when check `images` knows `editor_images`** (session of 2026-11-22 21:44 +09:00 added the key `editor_images`
+  to the compiler and renderers, and to preflight's `images` check, with test `EditorImages`; by CLAUDE.md the session
+  that changed a check does not publish the book, so the next one does). Done and seen then: preflight PASS on v2,
+  the rendered look of 03.html (both pictures above the narrative, captions in italics). To redo (2 minutes):
+  `drive_cache.py fetch books/surface-japan-seitz/source.json $B/pages --pages p0019-p0019` (and p0160), then
+  `crop_image.py --gray $B/pages/p0019.jpg books/surface-japan-seitz/images/editor-p0019.jpg 0.005,0.05,0.95,0.945` and
+  `crop_image.py --gray $B/pages/p0160.jpg books/surface-japan-seitz/images/editor-p0160.jpg 0.035,0.05,0.985,0.94`,
+  look at both, apply this change to book.json (`git apply`), preflight, look at 03.html, `publish.py`:
+  ```diff
+diff --git a/books/surface-japan-seitz/book.json b/books/surface-japan-seitz/book.json
+index 6643a556..d5012760 100644
+--- a/books/surface-japan-seitz/book.json
++++ b/books/surface-japan-seitz/book.json
+@@ -1,6 +1,6 @@
+ {
+  "id": "surface-japan-seitz",
+- "version": 1,
++ "version": 2,
+  "date": "2026-11-22",
+  "title": "Surface Japan",
+  "subtitle": "Short Notes of a Swift Survey",
+@@ -62,9 +62,23 @@
+   }
+  ],
+  "frontispiece": "p0010-1",
++ "editor_images": [
++  {
++   "file": "editor-p0019",
++   "leaf": "p0019",
++   "alt": "Page 1 of the book as printed: the opening text inside a double frame of bamboo canes, with a drawing of a kneeling woman above the title and a man holding up a pole in the margin",
++   "caption": "Page 1, as printed. Every text page of the book is set inside a double frame of bamboo canes, with one or two small figure drawings “after Hokusai” in its margins, used in rotation. The text of this edition leaves the frame and the drawings out. (Picture added for this edition.)"
++  },
++  {
++   "file": "editor-p0160",
++   "leaf": "p0160",
++   "alt": "Page 114 of the book as printed: text inside the double frame of bamboo canes, with a drawing of a man hanging from the frame at the top left and a standing figure at the bottom right",
++   "caption": "Page 114, as printed. Every text page of the book is set inside a double frame of bamboo canes, with one or two small figure drawings “after Hokusai” in its margins, used in rotation. The text of this edition leaves the frame and the drawings out. (Picture added for this edition.)"
++  }
++ ],
+  "omitted_from_reading": "The half-title is in the JSON only.",
+  "notes_on_text": [
+-  "Every text page of the book is printed inside a frame of bamboo canes, with one or two small figure drawings “after Hokusai” in its margins, used in rotation as decoration. The frame and the drawings are left out of this edition; the twenty photographs are included.",
++  "Every text page of the book is printed inside a frame of bamboo canes, with one or two small figure drawings “after Hokusai” in its margins, used in rotation as decoration. The frame and the drawings are left out of the text of this edition; two pages, 1 and 114, are shown as printed before the text, as pictures added by the editor. The twenty photographs are included.",
+   "The book has no chapters, only sections separated by a small ornament. The contents entries and the page divisions of the web and EPUB editions, at those breaks, are the editor’s."
+  ],
+  "history": [
+@@ -72,6 +86,11 @@
+    "version": 1,
+    "date": "2026-11-22",
+    "note": "First publication."
++  },
++  {
++   "version": 2,
++   "date": "2026-11-22",
++   "note": "Pages 1 and 114 shown as printed, with the bamboo frame and the marginal drawings, as pictures before the text (Tom’s request)."
+   }
+  ],
+  "toc_entries": [
+@@ -133,15 +152,16 @@
+  ],
+  "summary": "Don C. Seitz, an American newspaper manager, made a short visit to Japan in the summer, a year or two before the book appeared in 1911 (the year of the visit is not given), and set down what he saw in short notes, from a paragraph to a few pages each. He lands at Yokohama, stays in Tokyo, calls on Count Okuma at Kodzu, and goes to Kyoto, Kobe and Osaka, the Inland Sea, Nikko, and Hakone. His notes are on customs and dress, women and their work, wrestlers and festivals, the press, poverty and taxes, education, conscription, and Japan’s place in Korea and Manchuria. A few pages give English phrases with their Japanese equivalents. The book has twenty photographs.",
+  "audit": {
+-  "version": 1,
++  "version": 2,
+   "date": "2026-11-22",
+   "pages": 6,
+   "recall": "30/30",
+   "real_errors": 0,
+-  "fixed": 0
++  "fixed": 0,
++  "note": "text unchanged except listed fixes"
+  },
+  "keep_hyphens": [
+   "p0047",
+   "p0103"
+  ]
+-}
+\ No newline at end of file
++}
+  ```
 - The marginal sketches are not in this version (question for Tom).
