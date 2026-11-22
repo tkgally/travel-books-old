@@ -1,0 +1,66 @@
+{
+ "id": "through-atolls-islands-moss",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Through Atolls and Islands in the Great South Sea",
+ "short_title": "Through Atolls and Islands",
+ "authors": [
+  {
+   "name": "Frederick J. Moss",
+   "sort": "Moss, Frederick J.",
+   "born": 1827,
+   "died": 1904
+  }
+ ],
+ "place": "London",
+ "publisher": "Sampson Low, Marston, Searle, & Rivington",
+ "year": 1889,
+ "edition_statement": "First edition",
+ "regions": [],
+ "period": "1886–87",
+ "subjects": [],
+ "source": {
+  "ia_identifier": "throughatollsisl00mossuoft",
+  "contributor": "University of Toronto (Robarts Library)",
+  "hidden_leaves": [
+   0,
+   377,
+   378,
+   379,
+   380,
+   381
+  ],
+  "extra_leaves": {
+   "p0012a": {
+    "ia_identifier": "throughatollsan00mossgoog",
+    "n": 9,
+    "what": "the dedication (p. v), missing from the Toronto copy"
+   },
+   "p0161a": {
+    "ia_identifier": "throughatollsan00mossgoog",
+    "n": 158,
+    "what": "p. 122, missing from the Toronto copy"
+   },
+   "p0339a": {
+    "ia_identifier": "throughatollsan00mossgoog",
+    "n": 331,
+    "what": "p. 284, missing from the Toronto copy"
+   },
+   "p0339b": {
+    "ia_identifier": "throughatollsan00mossgoog",
+    "n": 336,
+    "what": "p. 285, missing from the Toronto copy"
+   }
+  }
+ },
+ "divisions": [],
+ "summary": "",
+ "notes_on_text": [],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ]
+}

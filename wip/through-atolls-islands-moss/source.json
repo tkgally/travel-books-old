@@ -577,6 +577,19 @@
     "throughatollsisl00mossuoft_djvu.txt"
    ],
    "drive_id": "1FtwGh54XlCFhEjPiKEobnHMH2lqBXO0i"
+  },
+  {
+   "name": "pages-025.zip",
+   "sha256": "000f600582ecadb93f31e98e6eba5827781d352f2aa5aecd5a1323b52e5e6cde",
+   "bytes": 393408,
+   "files": [
+    "leaves.json",
+    "p0012a.jpg",
+    "p0161a.jpg",
+    "p0339a.jpg",
+    "p0339b.jpg"
+   ],
+   "drive_id": "1XDtvsbIvdPcFAUfIrOxChGaWx4-hT4ld"
   }
  ]
 }
