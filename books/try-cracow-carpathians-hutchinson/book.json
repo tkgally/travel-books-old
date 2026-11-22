@@ -1,0 +1,161 @@
+{
+ "id": "try-cracow-carpathians-hutchinson",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Try Cracow and the Carpathians",
+ "short_title": "Try Cracow and the Carpathians",
+ "authors": [
+  {
+   "name": "Alexander H. Hutchinson",
+   "sort": "Hutchinson, Alexander H."
+  }
+ ],
+ "place": "London",
+ "publisher": "Chapman and Hall",
+ "year": 1872,
+ "edition_statement": "First edition",
+ "regions": [
+  "Poland",
+  "Slovakia",
+  "Czech Republic",
+  "Germany"
+ ],
+ "source": {
+  "ia_identifier": "cu31924031282522",
+  "contributor": "Cornell University Library"
+ },
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "period": "1871",
+ "subjects": [
+  "Poland",
+  "Tatra Mountains",
+  "Carpathians",
+  "fishing",
+  "Galicia"
+ ],
+ "summary": [
+  "Alexander H. Hutchinson, a captain in the Royal Artillery, describes a summer journey with companions from London by Ostend, Cologne, Berlin, and Breslau to Cracow, then in Austrian Galicia. The book gives no year; the troops returning to Berlin from the Franco-Prussian War place it in 1871.",
+  "At Cracow he sees the Cloth Hall, the cathedral and its royal vault, the Jewish quarter, and the Wieliczka salt mine. The party goes on by diligence and hay wagon to Neumarkt and Zakopane, fishing for trout, fording rivers, and attending a double wedding of mountain people, then crosses the Tatra into Upper Hungary (now Slovakia): Javorina, Käsmark, and the spa of Schmeks, with climbs, shooting, gipsy music, and the Czardas. The return is by the Waag valley, Olmütz, Prague, Dresden, and the Rhine. Appendices give prices, plants, heights, and Polish phrases."
+ ],
+ "divisions": [
+  {
+   "at": "p0006",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0010",
+   "kind": "contents"
+  },
+  {
+   "at": "p0014",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0016",
+   "kind": "front",
+   "n": 1
+  },
+  {
+   "at": "p0016",
+   "kind": "chapter",
+   "toc_title": "Chapter I. Ostend, Cologne, Berlin, and Breslau",
+   "n": 2
+  },
+  {
+   "at": "p0041",
+   "kind": "chapter",
+   "toc_title": "Chapter II. Into Galicia: Cracow"
+  },
+  {
+   "at": "p0064",
+   "kind": "chapter",
+   "toc_title": "Chapter III. Cracow and the Salt Mines of Wieliczka"
+  },
+  {
+   "at": "p0091",
+   "kind": "chapter",
+   "toc_title": "Chapter IV. Neumarkt to Zakopani"
+  },
+  {
+   "at": "p0110",
+   "kind": "chapter",
+   "toc_title": "Chapter V. Zakopani and the Tatra"
+  },
+  {
+   "at": "p0129",
+   "kind": "chapter",
+   "toc_title": "Chapter VI. A Mountain Wedding; into Hungary: Javorina"
+  },
+  {
+   "at": "p0159",
+   "kind": "chapter",
+   "toc_title": "Chapter VII. Käsmark and Schmeks"
+  },
+  {
+   "at": "p0175",
+   "kind": "chapter",
+   "toc_title": "Chapter VIII. Schmeks"
+  },
+  {
+   "at": "p0199",
+   "kind": "chapter",
+   "toc_title": "Chapter IX. The Felker Thal and the Schlagendorf Spitze"
+  },
+  {
+   "at": "p0219",
+   "kind": "chapter",
+   "toc_title": "Chapter X. The Lomner Spitze; Poprad to Rosenberg"
+  },
+  {
+   "at": "p0241",
+   "kind": "chapter",
+   "toc_title": "Chapter XI. Sillein, Olmütz, and Prague"
+  },
+  {
+   "at": "p0257",
+   "kind": "chapter",
+   "toc_title": "Chapter XII. Prague to Home"
+  },
+  {
+   "at": "p0276",
+   "kind": "appendix",
+   "toc_title": "Appendix I. Prices at Bad Schmeks"
+  },
+  {
+   "at": "p0277",
+   "kind": "appendix",
+   "toc_title": "Appendix II. The Carpathian Flora"
+  },
+  {
+   "at": "p0278",
+   "kind": "appendix",
+   "toc_title": "Appendix III. Heights, Lakes, and Temperatures"
+  },
+  {
+   "at": "p0280",
+   "kind": "appendix",
+   "toc_title": "Appendix IV. Polish Words and Sentences"
+  }
+ ],
+ "frontispiece": "p0005-1",
+ "omitted_from_reading": "The printed contents, the list of illustrations, and the head title above Chapter I are in the JSON only.",
+ "notes_on_text": [
+  "The folding map listed in the book (“Map … At the End”) is missing from the only scan at the Internet Archive; this edition is without it.",
+  "The chapters and appendices have no titles, only numbers (and, for the chapters, summaries of their topics); the titles in the contents of this edition are the editor’s, taken from those summaries and from the headings of the appendices.",
+  "The Polish words of Appendix IV are printed with a prime mark after a letter for its accent (dzis′, myc′); it is kept as printed."
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
+}
