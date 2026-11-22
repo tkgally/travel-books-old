@@ -14,6 +14,8 @@ Pictures: plates (sideways) p0008, p0090, p0100, p0104, p0141 (versos p0089, p00
 Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-11-22: complete and good.
 
 ## Decisions
+- Map above the Chapter III heading moved under the heading and title; Chapter I (no printed title) gets its contents entry from the printed contents; the “Note.” in ch. IV centred, not a heading.
+- Rendered look (Opus subagent): pictures, letter, notes and tables fine; see known issues.
 - Cover picture: the title page (the cover is plain cloth).
 
 ## Runs
@@ -25,3 +27,5 @@ Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-
 |---|---|---|---|---|
 
 ## Known issues
+- At phone width the amount “$4 80” in the washing bill (p. 66) wraps inside its cell.
+- The heading “Panama in 1855.” above Chapter I is a `front` division (in the JSON; the title page carries the title), as in *Camps in the Caribbees*.
