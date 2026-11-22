@@ -1,0 +1,3 @@
+judge opus: 2 spots on 2 pages: {'draft': 2}; cost $0.08
+p0111 #1 [draft, sure: medium] draft 'any of thc revolted' | verified 'any of the revolted' | judge reads 'any of thc revolted'
+p0241 #1 [draft, sure: medium] draft 'war path.' | verified 'war-path.' | judge reads 'war path.'
