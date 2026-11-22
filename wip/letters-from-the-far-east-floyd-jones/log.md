@@ -16,6 +16,7 @@ To take care of: datelines in small capitals with italic dates (latitude, longit
 Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-11-22: good; all 11 illustrations present.
 
 ## Decisions
+- Pictures cropped from the full-size leaves by an Opus subagent (2026-11-22), all upright (rotate 270, p0195 rotate 90), colour kept, the engraver's credit inside the pictures kept; looked at by the session: images/p0010-1, p0110-1, p0118-1, p0146-1, p0150-1, p0174-1, p0195-1, p0210-1, p0224-1, p0288-1, p0294-1. Cover: the front cover (title readable). Captions to check on the scan: p0195 “Near Colombo, Ceylon.” (comma or stop), p0150, p0224, p0294.
 
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
