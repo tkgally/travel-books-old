@@ -5,6 +5,9 @@
 1. **Scan.** A high-quality, complete scan is on the Internet Archive: every page readable, no text or
    illustration missing or obscured. Checked before any transcription (`workflow.md` §1.4). If one scan is
    inadequate another IA scan of the same edition may be used.
+   **A missing map alone does not fail a book** (Tom, 2026-11-22): it is published without the map and says so in
+   `notes_on_text`. A book that fails only for one or two other missing elements: ask Tom whether to make an exception
+   (`preferences.md`, Questions for Tom) and set it aside meanwhile.
 2. **No digital reading edition elsewhere.** No free text of the book made for reading is on the Internet: Project
    Gutenberg, Wikisource, Faded Page, A Celebration of Women Writers, or any other site that offers the whole text
    as a readable edition (web pages, EPUB and the like). Brief excerpts do not count. Nor do (Tom, 2026-11-20):

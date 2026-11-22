@@ -1488,6 +1488,23 @@
    "checked": "2026-11-22",
    "eligibility": "JATSI 72. Rules 1–4 met. Rule 1: University of North Carolina scan, colour, 400 ppi, clean; JATSI's cu31924023252673 (Cornell Kirtas) has more specks. Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page: HathiTrust images only; Wikisource; web search of a sentence). Rule 3: none found (print-on-demand only; not in the NDL catalogue under Ganesha / Edition Synapse). Rule 4: first-person letters of a US Army colonel's tour round the world in 1885–86 (England, India, Ceylon, China, Japan, California); Japan in letters XXI–XXIV. Rule 5 (for the record): De Lancey Floyd-Jones 1826–1902. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP.",
    "note": "About 300 pp., 26 letters headed with place and date. Frontispiece and 11 plates (not yet looked at in this scan). A printed errata list of 12 items after the list of illustrations: apply as an errata slip. A long quotation in small type in the Agra letter. Plain, informative voice."
+  },
+  {
+   "order": 83,
+   "from": "jatsi",
+   "jatsi": 89,
+   "ia": "wanderingswonde01aubegoog",
+   "slug": "wanderings-and-wonderings-aubertin",
+   "title": "Wanderings & Wonderings: India, Burma, Kashmir, Ceylon, Singapore, Java, Siam, Japan, Manila, Formosa, Korea, China, Cambodia, Australia, New Zealand, Alaska, the States",
+   "author": "J. J. Aubertin",
+   "year": 1892,
+   "place": "London",
+   "publisher": "Kegan Paul, Trench, Trübner & Co.",
+   "images": 562,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "JATSI 89. Rules 1–4 met, rule 1 with the map left out (Tom, 2026-11-22: a book missing only a map may be published). Rule 1: only two IA scans, both Google (University of California wanderingswonde01aubegoog, with the portrait frontispiece; Harvard wanderingswonde00aubegoog); text pages clean greyscale; the folding map at the end is scanned folded in both, so it is missing (say so in notes_on_text); the 6 plates not yet checked one by one. Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page; Wikisource author page; web search of a sentence). Rule 3: only print-on-demand (Forgotten Books); not found in the NDL catalogue under Ganesha. Rule 4: first-person narrative of a journey round the world 1888–91, addressed to four friends; ch. XXVI (pp. 262–301) on Japan. Rule 5 (for the record): John James Aubertin 1818–1900. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP.",
+   "note": "448 pp. plus 80 pp. of publisher's list (leave out of the reading editions). Portrait frontispiece, 6 plates, folding map missing. A strong, eccentric voice: Ming tombs, camel trains at the Nankou pass, an evening at Sir Robert Hart's. Long (562 images)."
   }
  ],
  "rejected": [
