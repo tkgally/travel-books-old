@@ -1416,7 +1416,7 @@
    "eligibility": "JATSI 239. Rules 1–4 met. Rule 1: Library of Congress scan, colour, 300 ppi, clean, colour plate present; a Toronto scan, surfacejapanshor00seituoft (216 images), is a fallback. Rule 2: not in the PG catalogue; The Online Books Page lists only HathiTrust page images; nothing on Wikisource; a web search of a sentence found nothing. Rule 3: only a print-on-demand copy (2018, does not count); no Ganesha or Edition Synapse edition found. Rule 4: first-person notes of the author's visit (Yokohama, Tokyo, Nikko, Hakone, Kyoto, Inland Sea), partly in short paragraphs, with an argument on taxation and war debt. Rule 5 (for the record): Don Carlos Seitz 1862–1935 (LC); the marginal sketches are 'after Hokusai'; photographers not named. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP in progress. Re-checked 2026-11-22: a web search of the title finds HathiTrust page images, booksellers and a print-on-demand reprint only.",
    "note": "About 157 pp.; title page in red and black. Every text page is printed inside a bamboo-frame border with a small marginal sketch after Hokusai, which IA's OCR breaks into junk: ignore the frame; decide at the start how the sketches are shown. Colour photogravure plates, number not counted. Short anecdotal paragraphs, readable and light.",
    "started": "2026-11-22",
-   "version": 1,
+   "version": 2,
    "published": "2026-11-22"
   },
   {

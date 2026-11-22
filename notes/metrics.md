@@ -158,6 +158,7 @@
 | Camps in the Caribbees v1 | 2026-11-22 | 391 | Opus draft (16 pages by ocr_fallback) → Sonnet corrections → Opus judge; scan check, crops, spot-read, Drive uploads (Haiku) by subagents; tesseract and line-pitch checks by script | 20 | 10 / 10 / 0 | 0 | 42.24 | 0 | PASS, 2 waived (tissue guard) | 30/30, 1 real (turned letter silently corrected); OCR pages 77/79, 0 | |
 | Snioland v1 | 2026-11-22 | 208 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, summary and entries, spot-read with accents by subagents | 3 | 1 / 2 / 0 | 1 (a damaged date digit: 25th, not 20th) | 20.97 | 0 | PASS, 0 waived | 30/30; 0 / 6 (spot-read: 2 accents misread, 1 printed misprint) | |
 | Brown Men and Women v1 | 2026-11-22 | 318 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (100 pages) by subagents; tesseract comparison and line pitch by script | 50 | 5 / 43 / 0 | 0 | 35.82 | 0 | PASS, 3 waived | 30/30; 0 / 6 (spot-read: table figures silently made to add up, 3 accents; 4 printed misprints marked) | |
+| Surface Japan v2 | 2026-11-22 | – | (no new model calls; two printed pages shown as the editor's pictures, Tom) | – | – | – | 0 | 0 | PASS, 0 waived | as v1 | |
 
 ## Calibrations
 
