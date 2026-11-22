@@ -1380,10 +1380,11 @@
    "place": "London",
    "publisher": "Hodder and Stoughton",
    "images": 448,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Reprints: print on demand only (Andesite, Forgotten Books, Franklin Classics, Creative Media, Legare Street). Geil 1865–1925. Most photographs his; a few by G. F. Stocks, W. C. Taylor, A. H. Faers (dates not found; minor contributors). Not checked: WorldCat.",
-   "note": "University of California scan, 400 ppi (yankeeonyangtzeb00geilrich, the New York edition, 500 ppi, as alternative). About 100 full-page photographs. An American evangelist up the Yangtze through the gorges to Chungking, overland through Szechuen and Yunnan by Talifu to Bhamo and Mandalay; mandarins, inns, boatmen, missions; some missionary advocacy."
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Reprints: print on demand only (Andesite, Forgotten Books, Franklin Classics, Creative Media, Legare Street). Geil 1865–1925. Most photographs his; a few by G. F. Stocks, W. C. Taylor, A. H. Faers (dates not found; minor contributors). Not checked: WorldCat. Re-checked 2026-11-22 (session): pg_catalog.csv nothing; web search: print-on-demand reprints only (Andesite, Classic Reprint, a 2023 hardback reprint); Cornell Southeast Asia Visions copy is page images only.",
+   "note": "University of California scan, 400 ppi (yankeeonyangtzeb00geilrich, the New York edition, 500 ppi, as alternative). About 100 full-page photographs. An American evangelist up the Yangtze through the gorges to Chungking, overland through Szechuen and Yunnan by Talifu to Bhamo and Mandalay; mandarins, inns, boatmen, missions; some missionary advocacy.",
+   "started": "2026-11-22"
   },
   {
    "order": 76,
