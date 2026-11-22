@@ -1552,10 +1552,11 @@
    "place": "New York",
    "publisher": "Harper & Brothers",
    "images": 258,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) University of California scan, 500 ppi, jp2 zip present. (2) Not in pg_catalog.csv ('Tomes', 'Panama in'); The Online Books Page: HathiTrust page images only; no web hit for a sentence from the middle ('compounding a draught for a brother Yankee'); Faded Page nothing. Wikisource NOT checked (API rate-limited): check before starting. (3) Open Library: print-on-demand only (Michigan SPO 2005 scan reprint, Nabu-type 2011, Creative Media 2018). (4) First-person account of the inaugural excursion of the Panama Railroad, February 1855. (5) Robert Tomes 1817–1882 (LC heading; Wikipedia). No illustrations.",
-   "note": "Clean library scan; page images not yet looked at. Eight chapters: New York to Aspinwall, the railway ride, Panama, Taboga, the Pearl Islands. Ch. IV ('The Railroad Considered') is about the company; the rest a lively, ironic narrative of the excursion party."
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) University of California scan, 500 ppi, jp2 zip present. (2) Not in pg_catalog.csv ('Tomes', 'Panama in'); The Online Books Page: HathiTrust page images only; no web hit for a sentence from the middle ('compounding a draught for a brother Yankee'); Faded Page nothing. Wikisource NOT checked (API rate-limited): check before starting. (3) Open Library: print-on-demand only (Michigan SPO 2005 scan reprint, Nabu-type 2011, Creative Media 2018). (4) First-person account of the inaugural excursion of the Panama Railroad, February 1855. (5) Robert Tomes 1817–1882 (LC heading; Wikipedia). No illustrations. Re-checked 2026-11-22 (session): web search: no Wikisource or Gutenberg text; the University of Michigan Making of America copy is page images with raw OCR (does not count); Wikisource API rate-limited again. Engravings signed D.C.H., Lossing-Barritt (Benson J. Lossing 1813–1891), Anthony sc. (A. V. S. Anthony 1835–1906): engravers of the period.",
+   "note": "Clean library scan; page images not yet looked at. Eight chapters: New York to Aspinwall, the railway ride, Panama, Taboga, the Pearl Islands. Ch. IV ('The Railroad Considered') is about the company; the rest a lively, ironic narrative of the excursion party.",
+   "started": "2026-11-22"
   },
   {
    "order": 85,
