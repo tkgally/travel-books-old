@@ -1,6 +1,6 @@
 {
  "id": "venezuela-sketches-eastwick",
- "version": 1,
+ "version": 2,
  "date": "2026-11-22",
  "title": "Venezuela",
  "subtitle": "or, Sketches of Life in a South-American Republic; with the History of the Loan of 1864",
@@ -170,6 +170,11 @@
    "version": 1,
    "date": "2026-11-22",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "A subheading in Chapter XIII given the right level (it was one level too low)."
   }
  ],
  "toc": {
@@ -239,13 +244,13 @@
   }
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-22",
   "pages": 7,
   "recall": "35/35",
   "real_errors": 0,
   "fixed": 0,
-  "note": "6 random pages and the page first read by machine OCR (p0347)"
+  "note": "text unchanged except listed fixes"
  },
  "keep_hyphens": [
   "p0155",

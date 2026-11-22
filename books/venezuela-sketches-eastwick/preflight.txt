@@ -95,4 +95,4 @@
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
 [   unused] waiver matches nothing: {'check': 'spacing', 'match': 'p0386', 'why': 'ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)'}
-preflight PASS: venezuela-sketches-eastwick v1 — 0 to fix, 59 waived; to look at: hyphen-joins 6, accents 42, rare-forms 10, serial-commas 3 — tools@6b798b12 2026-11-22
+preflight PASS: venezuela-sketches-eastwick v2 — 0 to fix, 59 waived; to look at: hyphen-joins 6, accents 42, rare-forms 10, serial-commas 3 — tools@e7c5bc62 2026-11-22
