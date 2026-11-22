@@ -56,5 +56,39 @@
    "match": "p0100",
    "why": "a second scan of p. 94 (p0098) in place of p. 96: left out; pp. 95–96 are p0100a and p0100b, from another scan"
   }
- ]
+ ],
+ "subjects": [
+  "Chile",
+  "Argentina",
+  "Andes",
+  "pampas",
+  "naval officers"
+ ],
+ "summary": [
+  "Isaac G. Strain, a lieutenant of the United States Navy, describes a journey he made in 1849 while his ship, the Lexington, lay at Valparaíso. He rode by mule to Santiago, crossed the Andes by the Uspallata pass to Mendoza, galloped across the pampas by San Luis to Buenos Ayres, and went on by sea to Rio de Janeiro.",
+  "Several chapters describe Valparaíso and Santiago and set out the early history of Chile, its revolution, and its government; from the crossing of the Cordillera onward the book is a journal of the ride, with the post-houses, the gauchos, and the politics of Rosas’s Argentina. It has many footnotes and no illustrations."
+ ],
+ "divisions": [
+  {
+   "at": "p0005",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0007",
+   "kind": "dedication"
+  },
+  {
+   "at": "p0009",
+   "kind": "preface"
+  },
+  {
+   "at": "p0013",
+   "kind": "contents"
+  },
+  {
+   "at": "p0300",
+   "kind": "errata"
+  }
+ ],
+ "omitted_from_reading": "The printed contents, the head title above Chapter I, and the list of errata are in the JSON only; the errata are applied to the text."
 }
