@@ -358,6 +358,11 @@ goes to the to-do list for those sessions (`RESUME.md`).
 7. **The routine's wind-down threshold** (40% of the context) may be raised to 50% or 60% if Opus's accuracy is
    in no danger.
 
+## 2026-11-22 (answer on books whose only scan lacks a map)
+
+- **A book may be published when the only thing missing from its scan is a map** (a folding map not opened, or absent): the book page says so in `notes_on_text`. (Asked after *Try Cracow and the Carpathians*; so *Wanderings & Wonderings*, Aubertin, JATSI 89, may be queued.)
+- **Other books that would qualify except for one or two missing elements like that: ask Tom whether an exception should be granted**, case by case (record the question here and set the book aside meanwhile).
+
 ## Questions for Tom
 
 - **Side-notes that date the entries of a letter or diary** (*Letters from Southern India & Ceylon*, Williams, 1877; 2026-11-22). The book prints
@@ -365,4 +370,3 @@ goes to the to-do list for those sessions (`RESUME.md`).
   *Embassy to China*: side-notes are left out of the reading editions) they are in the JSON only, so the reading editions lose the dates of the
   entries; the book page says so. Should such side-notes be shown in the editions (for example as a small line or a run-in date at the start of
   the paragraph), for this book and others like it? Assumed for now: the standing rule; a new version can show them.
-- **A folding map missing from the only scan** (*Try Cracow and the Carpathians*, Hutchinson, 1872; 2026-11-22). Published without it, by your answer on *Uganda for a Holiday* taken as a standing rule (assumed); the book page says so. Is that the rule for any book whose only good scan lacks its map? (*Wanderings & Wonderings*, Aubertin, JATSI 89, is held back for the same reason: both Google scans have the map folded shut.)
