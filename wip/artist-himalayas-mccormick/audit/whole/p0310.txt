@@ -1,0 +1,5 @@
+{"given": "explained it was this own,", "print": "explained it was his own,", "sure": "high"}
+{"given": "own, which zurbriggen appropriated immediately", "print": "own, which Zurbriggen appropriated immediately", "sure": "high"}
+{"given": "strapping all on; manufactured stirrups", "print": "strapping all on, manufactured stirrups", "sure": "high"}
+{"given": "runner to bring animals back.", "print": "runner to bring the animals back.", "sure": "high"}
+{"given": "on the first cantcr, I", "print": "on the first canter, I", "sure": "high"}
