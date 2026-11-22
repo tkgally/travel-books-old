@@ -67,6 +67,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
   chapter entries unlike one another (long summaries dropped) and a 90-page diary as one entry; Tom asked for
   contents decided book by book (`workflow.md` stage 4 "Contents") [2026-11-19].
 - Centred italic subheadings inside chapters: the Sonnet pass dropped five as if running heads, and the judge's “could not undo” left them out of `judge/`; when `report.txt` says so, start `pages/` from the draft and re-apply the other spots by hand (*A Woman Alone*, 2026-11-22).
+- Running heads that repeat the chapter title: the Sonnet pass dropped 26 chapter headings as running heads, the judge restored 17 and “could not undo” 9 (*Japan for a Week*, 2026-11-22); same remedy: `pages/` from the draft.
 - List every `#` and `##` line after the judge: drafts type an odd running head (a chapter title on one page, "Index" on
   index pages, "List of Illustrations" on its second page) as a heading (*Path of the Conquistadores*: 4, 2026-11-20).
 - `omitted_from_reading` names only what a division really leaves out: a printer's imprint after “The End” stays in the

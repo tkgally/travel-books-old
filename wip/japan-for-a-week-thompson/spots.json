@@ -1,0 +1,299 @@
+{
+ "p0033": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# The Russian Passport System\n\n",
+   "replace": "",
+   "draft": "# The Russian Passport System\n\n",
+   "verified": "",
+   "context": "[[page 11]] ⏎  ⏎ # The Russian Passport System ⏎  ⏎ IN Berlin our patriotic pride was reduced by misgivings as t"
+  }
+ ],
+ "p0041": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# The Empire of the Tsar\n\n",
+   "replace": "",
+   "draft": "# The Empire of the Tsar\n\n",
+   "verified": "",
+   "context": "[[page 19]] ⏎  ⏎ # The Empire of the Tsar ⏎  ⏎ AT eight in the morning we were startled by a fresh inrush o"
+  }
+ ],
+ "p0051": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# Moscow and Piety\n\nBACK in",
+   "replace": "B<sc>ack</sc> in",
+   "draft": "# Moscow and Piety\n\nBACK in",
+   "verified": "B<sc>ack</sc> in",
+   "context": "[[page 29]] ⏎  ⏎ # Moscow and Piety ⏎  ⏎ BACK in Moscow—barbaric, chaotic Moscow—with its six hundred hideou"
+  }
+ ],
+ "p0063": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# <i>On the Trans-Siberian Railway</i>\n\nTHE wheels",
+   "replace": "T<sc>he</sc> wheels",
+   "draft": "# <i>On the Trans-Siberian Railway</i>\n\nTHE wheels",
+   "verified": "T<sc>he</sc> wheels",
+   "context": "[[page 39]] ⏎  ⏎ # <i>On the Trans-Siberian Railway</i> ⏎  ⏎ THE wheels have whirred and the car has jolted all day. The wheels whi"
+  }
+ ],
+ "p0072": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# <i>First Glimpse of Japan</i>\n\nTHE world",
+   "replace": "T<sc>he</sc> world",
+   "draft": "# <i>First Glimpse of Japan</i>\n\nTHE world",
+   "verified": "T<sc>he</sc> world",
+   "context": "[[page 48]] ⏎  ⏎ # <i>First Glimpse of Japan</i> ⏎  ⏎ THE world grows all alike. A hundred or two hundred years hence the o"
+  }
+ ],
+ "p0082": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# The Seamy Side at Kyoto\n\n",
+   "replace": "",
+   "draft": "# The Seamy Side at Kyoto\n\n",
+   "verified": "",
+   "context": "[[page 56]] ⏎  ⏎ # The Seamy Side at Kyoto ⏎  ⏎ AFTER three days the mingled bouquet of <i>passé</i> fish an"
+  }
+ ],
+ "p0090": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THE conviction",
+   "replace": "T<sc>he</sc> conviction",
+   "draft": "THE conviction",
+   "verified": "T<sc>he</sc> conviction",
+   "context": "[[page 62]] ⏎  ⏎ # In the Train ⏎  ⏎ THE conviction that one may remain too long in one place was confirmed by "
+  }
+ ],
+ "p0091": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "pre-eminent",
+   "replace": "preeminent",
+   "draft": "pre-eminent",
+   "verified": "preeminent",
+   "context": "er the clouds of one solitary round-topped giant, supremely pre-eminent over all; and we realise with a start that we are looking a"
+  }
+ ],
+ "p0094": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# The Tea-house at Tokyo\n\nIT has",
+   "replace": "IT has",
+   "draft": "# The Tea-house at Tokyo\n\nIT has",
+   "verified": "IT has",
+   "context": "[[page 66]] ⏎  ⏎ # The Tea-house at Tokyo ⏎  ⏎ IT has been remarked that happenings of greatest import may spring"
+  }
+ ],
+ "p0103": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# The Temples of Old Nikko\n\nFOR twenty",
+   "replace": "FOR twenty",
+   "draft": "# The Temples of Old Nikko\n\nFOR twenty",
+   "verified": "FOR twenty",
+   "context": "[[page 73]] ⏎  ⏎ # The Temples of Old Nikko ⏎  ⏎ FOR twenty miles before reaching Nikko the high road stretches through"
+  }
+ ],
+ "p0121": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# <i>Japanese Labour Conditions</i>\n\nWITHOUT",
+   "replace": "WITHOUT",
+   "draft": "# <i>Japanese Labour Conditions</i>\n\nWITHOUT",
+   "verified": "WITHOUT",
+   "context": "[[page 89]] ⏎  ⏎ # <i>Japanese Labour Conditions</i> ⏎  ⏎ WITHOUT embarking on disputations as to proteids and uric acid and "
+  }
+ ],
+ "p0131": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# Japanese Marriage Customs\n\nSINCE",
+   "replace": "S<sc>ince</sc>",
+   "draft": "# Japanese Marriage Customs\n\nSINCE",
+   "verified": "S<sc>ince</sc>",
+   "context": "[[page 97]] ⏎  ⏎ # Japanese Marriage Customs ⏎  ⏎ SINCE my return to London I have frequently met a Japanese friend"
+  }
+ ],
+ "p0141": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# <i>Japanese Commercial Honesty</i>\n\n",
+   "replace": "",
+   "draft": "# <i>Japanese Commercial Honesty</i>\n\n",
+   "verified": "",
+   "context": "[[page 105]] ⏎  ⏎ # <i>Japanese Commercial Honesty</i> ⏎  ⏎ THE tedious commercial Britisher on the Yokohama steamer had"
+  }
+ ],
+ "p0154": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# Japanese Politeness\n\n",
+   "replace": "",
+   "draft": "# Japanese Politeness\n\n",
+   "verified": "",
+   "context": "[[page 118]] ⏎  ⏎ # Japanese Politeness ⏎  ⏎ MR. GORDON SMITH, whom I quoted at the close of my last chap"
+  }
+ ],
+ "p0163": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# <i>Who are the Japanese?</i>\n\nMANY writers",
+   "replace": "M<sc>any</sc> writers",
+   "draft": "# <i>Who are the Japanese?</i>\n\nMANY writers",
+   "verified": "M<sc>any</sc> writers",
+   "context": "[[page 125]] ⏎  ⏎ # <i>Who are the Japanese?</i> ⏎  ⏎ MANY writers on Japan have compared the Japanese with the ancient Greeks"
+  }
+ ],
+ "p0168": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# <i>Japaneso-English</i>\n\nMORE",
+   "replace": "MORE",
+   "draft": "# <i>Japaneso-English</i>\n\nMORE",
+   "verified": "MORE",
+   "context": "[[page 130]] ⏎  ⏎ # <i>Japaneso-English</i> ⏎  ⏎ MORE or less English is spoken by the shopkeepers in all Japanes"
+  }
+ ],
+ "p0176": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# The Inland Sea\n\nTHE two days’",
+   "replace": "T<sc>he</sc> two days’",
+   "draft": "# The Inland Sea\n\nTHE two days’",
+   "verified": "T<sc>he</sc> two days’",
+   "context": "[[page 138]] ⏎  ⏎ # The Inland Sea ⏎  ⏎ THE two days’ sail from Kobe to Nagasaki is probably the most glorious wa"
+  }
+ ],
+ "p0189": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# <i>Shanghai</i>\n\nSCARCE",
+   "replace": "SCARCE",
+   "draft": "# <i>Shanghai</i>\n\nSCARCE",
+   "verified": "SCARCE",
+   "context": "[[page 147]] ⏎ # <i>Shanghai</i> ⏎  ⏎ SCARCE out of sight of the last of the islands that guard the entr"
+  }
+ ],
+ "p0200": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# Chinese Social Conditions\n\n",
+   "replace": "",
+   "draft": "# Chinese Social Conditions\n\n",
+   "verified": "",
+   "context": "[[page 156]] ⏎  ⏎ # Chinese Social Conditions ⏎  ⏎ IT was in Shanghai that I made my first oral acquaintance wi"
+  }
+ ],
+ "p0215": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# Barbarism and Civilisation\n\n",
+   "replace": "",
+   "draft": "# Barbarism and Civilisation\n\n",
+   "verified": "",
+   "context": "[[page 167]] ⏎  ⏎ # Barbarism and Civilisation ⏎  ⏎ LIKE everybody else, we had heard and read of Chinese ingenu"
+  }
+ ],
+ "p0225": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# <i>China’s Awakening</i>\n\n",
+   "replace": "",
+   "draft": "# <i>China’s Awakening</i>\n\n",
+   "verified": "",
+   "context": "[[page 177]] ⏎  ⏎ # <i>China’s Awakening</i> ⏎  ⏎ FOR a century past the Chinese have mildly endured the unblu"
+  }
+ ],
+ "p0249": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# <i>Hong Kong</i>\n\n",
+   "replace": "",
+   "draft": "# <i>Hong Kong</i>\n\n",
+   "verified": "",
+   "context": "[[page 199]] ⏎ # <i>Hong Kong</i> ⏎  ⏎ WE had been told that our stay in Hong Kong would be limited"
+  }
+ ],
+ "p0265": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# Singapore, Colombo, and Home\n\n",
+   "replace": "",
+   "draft": "# Singapore, Colombo, and Home\n\n",
+   "verified": "",
+   "context": "[[page 213]] ⏎ # Singapore, Colombo, and Home ⏎  ⏎ WHEN we departed from Hong Kong we had been less than a fort"
+  }
+ ],
+ "p0277": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# The English-Speaking Bond\n\n",
+   "replace": "",
+   "draft": "# The English-Speaking Bond\n\n",
+   "verified": "",
+   "context": "[[page 225]] ⏎ # The English-Speaking Bond ⏎  ⏎ IT was only on reaching Italy that I began fully to realise "
+  }
+ ],
+ "p0282": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# The German Menace\n\nYOU",
+   "replace": "YOU",
+   "draft": "# The German Menace\n\nYOU",
+   "verified": "YOU",
+   "context": "[[page 230]] ⏎  ⏎ # The German Menace ⏎  ⏎ YOU may remember that when we started our journey to Japan, we "
+  }
+ ],
+ "p0292": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "# <i>A Plea for Patriotism</i>\n\nTHERE",
+   "replace": "THERE",
+   "draft": "# <i>A Plea for Patriotism</i>\n\nTHERE",
+   "verified": "THERE",
+   "context": "[[page 240]] ⏎ # <i>A Plea for Patriotism</i> ⏎  ⏎ THERE is a sort of blatant, blusterous, screeching, pseudo-patrio"
+  }
+ ],
+ "p0294": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "bombastious",
+   "replace": "bombastic",
+   "draft": "bombastious",
+   "verified": "bombastic",
+   "context": "orld-confederacy, the bond will have to be, not selfish and bombastious jingoism, but the enlarged patriotism which regards the ear"
+  }
+ ]
+}

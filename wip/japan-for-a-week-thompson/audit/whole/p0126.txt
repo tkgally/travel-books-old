@@ -1,0 +1,5 @@
+{"given": "ten—cbildren of scarcely five", "print": "ten—children of scarcely five", "sure": "high"}
+{"given": "excessive hours of labor. Women", "print": "excessive hours of labour. Women", "sure": "high"}
+{"given": "fourteen; these under twelve will", "print": "fourteen; those under twelve will", "sure": "high"}
+{"given": "a postponement two years’ time", "print": "a postponement of two years’ time", "sure": "high"}
+{"given": "150 only are male, the rest", "print": "150 only are male; the rest", "sure": "high"}

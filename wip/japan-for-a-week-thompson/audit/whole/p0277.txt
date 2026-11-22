@@ -1,0 +1,5 @@
+{"given": "began fully to realize this wonderful", "print": "began fully to realise this wonderful", "sure": "high"}
+{"given": "If is an amazing thing", "print": "It is an amazing thing", "sure": "high"}
+{"given": "In Japan; as I have", "print": "In Japan, as I have", "sure": "high"}
+{"given": "at Port Said—all way home", "print": "at Port Said—all the way home", "sure": "high"}
+{"given": "most of the language on board ship itfelf, was English.", "print": "most of the language on board ship itself, was English.", "sure": "high"}

@@ -1,0 +1,6 @@
+{"find": "all the ways that could", "replace": "all the ways that could"}
+{"find": "all the way to London", "replace": "all the way to London"}
+
+Wait — I need to list only real changes. The only difference I found: "Chinamen" is correct, "the way to London" in the image vs "the way" in the draft is the same. Corrected list:
+
+{"find": "return all the way to London", "replace": "return all the way to London"}

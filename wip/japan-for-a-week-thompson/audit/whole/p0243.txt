@@ -1,0 +1,5 @@
+{"given": "by drowning rather then accept the", "print": "by drowning rather than accept the", "sure": "high"}
+{"given": "like the custom of Japan; make the girl", "print": "like the custom of Japan, make the girl", "sure": "high"}
+{"given": "The husband’s parents, as Japan, can", "print": "The husband’s parents, as in Japan, can", "sure": "high"}
+{"given": "and if childrcn are denied her", "print": "and if children are denied her", "sure": "high"}
+{"given": "in accordance with chinese custom,", "print": "in accordance with Chinese custom,", "sure": "high"}
