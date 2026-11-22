@@ -1,0 +1,19 @@
+[[page ?]]
+
+# List of Illustrations.
+
+<sc>fording the donajec in poland</sc> <i>Frontispiece</i>
+
+<sc>our carpathian guide</sc> <i>Vignette Title</i>
+
+<sc>moonlight travelling in poland</sc> <pref>71</pref>
+
+<sc>a fishing catastrophe</sc> <pref>100</pref>
+
+<sc>a carpathian wedding</sc> <pref>117</pref>
+
+<sc>hungarian villages</sc> <pref>158</pref>
+
+<sc>hungarian gipsy scene</sc> <pref>208</pref>
+
+<sc>map</sc> <i>At the End.</i>
