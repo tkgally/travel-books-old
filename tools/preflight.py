@@ -465,7 +465,27 @@ def check_rare_forms(pages, corpus, rare=2, common=40):
                 seen.add(w)
                 out.append(f"{leaf}: “{w}” — “{best}” is common ({total[best]})")
                 break
+        else:
+            # a letter dropped or two letters transposed (“vegtables”, “Christain”): words seen once in the whole
+            # collection, five letters or more (review after fifty-five books: 11 misprints of *Scouting for
+            # Stanley* found only by the spot-read; 228 items in 55 books, about four a book)
+            if total[w] > 1 or len(w) < 5 or not w.isalpha():
+                continue
+            best = max(_letter_edits(w), key=lambda v: total[v])
+            if total[best] >= common:
+                seen.add(w)
+                out.append(f"{leaf}: “{w}” — “{best}” is common ({total[best]}; a letter dropped or transposed?)")
     return out
+
+
+def _letter_edits(w):
+    """Words one dropped letter or one transposition of neighbouring letters away from w."""
+    for i in range(len(w) - 1):
+        if w[i] != w[i + 1]:
+            yield w[:i] + w[i + 1] + w[i] + w[i + 2:]
+    for i in range(len(w) + 1):
+        for c in "abcdefghijklmnopqrstuvwxyz":
+            yield w[:i] + c + w[i:]
 
 
 def triage_hyphen_joins(items, pages):
