@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "on our next\n\n[[image: pen sketch of turbaned men squatting round a smoking camp fire, with baggage boxes in the foreground and tents and figures behind]]\n\n[[cont]]march, havin", "sure": "high"}
-{"n": 2, "is": "B", "print": "much time.", "sure": "high"}

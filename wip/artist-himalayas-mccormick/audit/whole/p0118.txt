@@ -1,4 +1,0 @@
-{"given": "if one of us slippcd, the", "print": "if one of us slipped, the", "sure": "high"}
-{"given": "would be hanged it he would", "print": "would be hanged if he would", "sure": "high"}
-{"given": "swearing and recrimination; for I was", "print": "swearing and recrimination, for I was", "sure": "high"}
-{"given": "until we got slinging names and", "print": "until we got to slinging names and", "sure": "high"}

@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": " then I went\n\n[[image: pencil sketch of men seated under a tent awning round a small fire with cooking pots]]\n\n[[cont]]on again.", "sure": "high"}
-{"n": 2, "is": "B", "print": " on my feet,", "sure": "high"}

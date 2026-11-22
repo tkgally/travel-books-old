@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "warm\n\n[[image: sketch of three men huddled in blankets and warm clothing, sitting among rocks]]\n\n[[cont]]clothing, we", "sure": "high"}
-{"n": 2, "is": "B", "print": "way down.", "sure": "high"}

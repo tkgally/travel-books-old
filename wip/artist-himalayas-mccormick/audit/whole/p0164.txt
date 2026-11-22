@@ -1,5 +1,0 @@
-{"given": "through the uninhabitable rcgions of snow", "print": "through the uninhabitable regions of snow", "sure": "high"}
-{"given": "to leave their homes green fields for", "print": "to leave their homes and green fields for", "sure": "high"}
-{"given": "orders from their rajah and the Kashmir", "print": "orders from their Rajah and the Kashmir", "sure": "high"}
-{"given": "we selected the most suitable; the women", "print": "we selected the most suitable, the women", "sure": "high"}
-{"given": "and sheep where bought to be killed", "print": "and sheep were bought to be killed", "sure": "high"}

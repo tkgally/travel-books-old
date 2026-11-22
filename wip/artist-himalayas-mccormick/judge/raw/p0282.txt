@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "uildings was\n\n[[image: Pencil sketch of monastery buildings perched on top of tall earth towers, with flat-roofed houses and a chorten below]]\n\n[[cont]]erected", "sure": "high"}
-{"n": 2, "is": "A", "print": "ong the road", "sure": "high"}

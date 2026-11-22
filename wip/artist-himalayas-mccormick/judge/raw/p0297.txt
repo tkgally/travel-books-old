@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "exposed on\n\n[[image: sketch of tall flat-roofed stone houses built close together, with a dark hatched sky behind]]\n\n[[cont]]the top that", "sure": "high"}
-{"n": 2, "is": "B", "print": "possible.\n\nConway", "sure": "high"}

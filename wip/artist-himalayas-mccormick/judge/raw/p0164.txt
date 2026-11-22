@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": " their homes\n\n[[image: Sketch of the head of an elderly bearded villager in a rolled cap, with cords hanging from it]]\n\n[[cont]] and green f", "sure": "high"}
-{"n": 2, "is": "B", "print": "as they were", "sure": "high"}

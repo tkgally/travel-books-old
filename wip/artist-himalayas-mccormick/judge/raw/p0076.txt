@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "the state of\n\n[[image: sketch of cloaked figures in a camp among bare trees, with hills behind]]\n\n[[cont]]the roads", "sure": "high"}
-{"n": 2, "is": "B", "print": "e sketching.", "sure": "high"}

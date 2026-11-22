@@ -1365,11 +1365,13 @@
    "place": "New York",
    "publisher": "Macmillan & Co.",
    "images": 340,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv (only books he illustrated); The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Reprints: Kessinger only; Open Library: the 1895 Macmillan and Unwin editions. Arthur David McCormick 1860–1943; he drew all the illustrations. Not checked: WorldCat. Re-checked 2026-11-22 (session): pg_catalog.csv nothing; web search: facsimile reprints only (Kessinger, BiblioLife); the British Library scan (London, Unwin) has raw OCR only.",
    "note": "Library of Congress scan, 400 ppi. Over 100 of his own sketches set in the text, many small: a heavy crop load. The expedition artist's account of Conway's 1892 Karakoram expedition: Karachi, Srinagar, Gilgit, Hunza-Nagyr, the Hispar and Baltoro glaciers, Skardu to Leh and back to Srinagar. Light and personal.",
-   "started": "2026-11-22"
+   "started": "2026-11-22",
+   "version": 1,
+   "published": "2026-11-22"
   },
   {
    "order": 75,

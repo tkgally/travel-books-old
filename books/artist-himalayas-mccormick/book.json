@@ -1,0 +1,122 @@
+{
+ "id": "artist-himalayas-mccormick",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "An Artist in the Himalayas",
+ "short_title": "An Artist in the Himalayas",
+ "authors": [
+  {
+   "name": "A. D. McCormick",
+   "sort": "McCormick, Arthur David",
+   "born": 1860,
+   "died": 1943
+  }
+ ],
+ "place": "New York",
+ "publisher": "Macmillan & Co.",
+ "year": 1895,
+ "source": {
+  "ia_identifier": "artistinhimalaya00mcco",
+  "contributor": "The Library of Congress",
+  "hidden_leaves": [
+   0,
+   9,
+   10,
+   337,
+   338,
+   339,
+   340,
+   341
+  ]
+ },
+ "edition_statement": "The New York issue (Macmillan & Co., 1895); the London edition is T. Fisher Unwin’s",
+ "regions": [
+  "Pakistan",
+  "India"
+ ],
+ "period": "1892",
+ "subjects": [
+  "Karakoram",
+  "mountaineering",
+  "Kashmir",
+  "sketching"
+ ],
+ "summary": "Arthur David McCormick (1860–1943), an English painter, went as artist with Martin Conway’s expedition of 1892 to the Karakoram. He describes the voyage from London to Karachi, the road through Kashmir by Srinagar to Gilgit, Bagrot, and Hunza and Nagyr, the crossing of the Hispar Pass, and the climb up the Baltoro glacier towards the Golden Throne, when the party reached the summit they named Pioneer Peak; then the return by Askole, Scardu, and Leh to Srinagar. He writes lightly of camp life, porters, the Gurkhas of the party, local rulers, and sketching in snow and wind. The book has over a hundred of the sketches he made on the journey, and a map of Kashmir showing the route.",
+ "omitted_from_reading": "The half-title, the printed contents, and the list of illustrations are in the JSON only.",
+ "notes_on_text": [
+  "The sketches have no printed captions; their titles are in the list of illustrations, which is in the JSON.",
+  "The folding map of Kashmir is scanned with its right-hand border at the edge of the image."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {
+   "at": "p0005",
+   "kind": "front",
+   "title": "Half-title"
+  },
+  {
+   "at": "p0011",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0013",
+   "kind": "preface"
+  },
+  {
+   "at": "p0015",
+   "kind": "contents"
+  },
+  {
+   "at": "p0017",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0023",
+   "kind": "front",
+   "title": "An Artist in the Himalayas"
+  },
+  {
+   "at": "p0023",
+   "kind": "chapter",
+   "n": 2
+  }
+ ],
+ "frontispiece": "p0008-1",
+ "ornaments": [
+  "p0011-1"
+ ],
+ "waivers": [
+  {
+   "check": "leaves",
+   "match": "p0021",
+   "why": "the folding map, folded (an edge strip); the opened map is p0024"
+  },
+  {
+   "check": "leaves",
+   "match": "p0022",
+   "why": "the folding map, folded (an edge strip); the opened map is p0024"
+  },
+  {
+   "check": "leaves",
+   "match": "p0025",
+   "why": "the blank back of the folding map"
+  }
+ ],
+ "keep_hyphens": [
+  "p0281"
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "29/29",
+  "real_errors": 0,
+  "fixed": 0
+ }
+}

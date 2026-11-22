@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "spared that\n\n[[image: pencil sketch of two men in turbans and loose robes seated on the ground resting, with a tent behind them]]\n\n[[cont]] trouble by", "sure": "high"}
-{"n": 2, "is": "A", "print": "so hot and", "sure": "high"}

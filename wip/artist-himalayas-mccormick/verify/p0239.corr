@@ -1,3 +1,0 @@
-The page starts with a paragraph indent, so `[[cont]]` has to go.
-
-{"find": "[[cont]]At last", "replace": "At last"}
