@@ -1629,6 +1629,36 @@
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv (full): no Caton travel book. The Online Books Page: none. Web search of 'how ingeniously the little rascal had managed to get me to help him over the brook': nothing (distantreader.org has HathiTrust raw OCR: does not count). Reprints: Kessinger, Creative Media, Sagwan (print-on-demand). Rule 5: Caton 1812–1895 (LC). Wikisource NOT checked (rate-limited); Faded Page not searchable.",
    "note": "Library of Congress scan of the 1875 first edition, 500 ppi; second scan summerinnorwaywi00catoiala (UC, 1880 second edition, adds a map). Portrait frontispiece and a few plates of deer. A former Chief Justice of Illinois in 1874: coastal steamer from Hull to Trondhjem, Hammerfest and the North Cape, Lapp herders near Tromsø, by carriole over the Dovrefjeld to Christiania, home by Stockholm; anecdotal, with long passages of Norse history and natural history."
+  },
+  {
+   "order": 90,
+   "ia": "syriafromsaddle00terh",
+   "slug": "syria-from-the-saddle-terhune",
+   "title": "Syria from the Saddle",
+   "author": "Albert Payson Terhune",
+   "year": 1896,
+   "place": "New York, Boston, Chicago",
+   "publisher": "Silver, Burdett and Company",
+   "images": 332,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) Library of Congress scan, 300 ppi, jp2 zip; page numbers continuous in the OCR. (2) Not in pg_catalog.csv (full); The Online Books Page: HathiTrust page images only; exact-phrase searches of two sentences (ch. XIII–XIV): nothing; Qatar National Library: scan and OCR only. NOT CHECKED: Wikisource (rate-limited), Faded Page, a Terhune fan bibliography page at math.ttu.edu (403; probably a description, look before starting). (3) Print-on-demand only (Franklin Classics, Creative Media, Legare Street, British Library HPE, Forgotten Books). (4) First-person: his ride through Lebanon, Damascus, the Hauran, Galilee, Samaria, Jerusalem, Bethlehem, Jericho and the Dead Sea, late 1893. (5) Terhune 1872–1942; illustrations uncredited, apparently his own photographs.",
+   "note": "LoC scan, 300 ppi; 318 pp, 33 short chapters, about 40 photographs. The author aged 21, with a dragoman David: Druze and Bedouin camps, a camp thief, a Syrian wedding, Christmas at Bethlehem. Plain and lively."
+  },
+  {
+   "order": 91,
+   "ia": "insavageafricaor00glavrich",
+   "slug": "in-savage-africa-glave",
+   "title": "In Savage Africa: or, Six Years of Adventure in Congo-Land",
+   "author": "E. J. Glave",
+   "year": 1892,
+   "place": "New York",
+   "publisher": "R. H. Russell & Son",
+   "images": 262,
+   "status": "queued",
+   "checked": "2026-11-22",
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) University of California scan, 500 ppi, jp2 zip; page numbers continuous. (2) Not in pg_catalog.csv (full); The Online Books Page: scans only; Wikisource: nothing; exact-phrase search of a sentence from ch. V: nothing; Faded Page not checked. (3) Print-on-demand only (Kessinger, Franklin Classics, Creative Media, Forgotten Books). (4) First-person: six years (1883–89) as a station chief on the Congo under Stanley. (5) Glave 1863–1895; introduction by H. M. Stanley (1841–1904); illustrations by the author, Otto H. Bacher (1856–1909), F. A. Bridgman (1847–1928), V. Gribayedoff (1858–1908), E. W. Kemble (1861–1933), I. Walton Taber (c.1857–1933): Bacher's and Gribayedoff's dates to be confirmed at the start.",
+   "note": "UC scan, 500 ppi; 247 pp, 12 chapters, many text illustrations, a map and a portrait. Lukolela and Bolobo: hunting, palm wine, slave raids, Tippu Tib; parts first in the Century Magazine. London issue: Six Years of Adventure in Congo-Land (1893). Contains the period's language about Africans."
   }
  ],
  "rejected": [
@@ -2210,6 +2240,11 @@
   {
    "title": "Weeks, From the Black Sea through Persia and India (Long Riders' Guild reset); Younghusband, The Philippines and Round About (NHI Manila 2004); T. Stevens, Through Russia on a Mustang (Arno 1970); Cavendish, Korea and the Sacred White Mountain and Carles, Life in Corea (Kyungin 2001); Child, The Pearl of Asia (Adamant 2005); Pryer, A Decade in Borneo (Leicester UP 2001); Cator, Everyday Life among the Head-Hunters (dates); Sommerville, Siam on the Meinam (72-ppi scan only); Cort, Siam (compiled); Higginson, Java (not a journey); Knight, Albania; Worsfold, A Visit to Java; Russel, A Woman's Journey through the Philippines; Miln, Quaint Korea; Hapgood, Russian Rambles; Pritchett, Gamle Norge; Ladd, In Korea with Marquis Ito; Conger, An Ohio Woman in the Philippines; J. E. Stevens, Yesterdays in the Philippines; Dauncey, An Englishwoman in the Philippines; Evans, Through Bosnia and the Herzegóvina on Foot (Gutenberg)",
    "why": "vetted 2026-11-22 by an Opus subagent: reprinted, on Project Gutenberg, or as in the title",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Gleichen, With the Mission to Menelik (Gregg 1968); Vivian, Abyssinia (Negro Universities Press 1969); Dufton, Journey through Abyssinia (NUP 1970); Larymore, A Resident's Wife in Nigeria (Gutenberg); Melly, Khartoum and the Blue and White Niles (Gutenberg); Hadji Khan and Sparroy, With the Pilgrims to Mecca (Gutenberg); Hallé, To Menelek in a Motor-Car (not his own journey); Vischer, Across the Sahara (Darf 1995); Sykes, Dar-ul-Islam (Darf); Hutchinson, Impressions of Western Africa (Cass 1970); C. H. Robinson, Hausaland (Cambridge Library Collection); Oliphant, Haifa (reprinted 1976); W. B. Harris, A Journey through the Yemen (Hyperion 1985); R. Campbell, A Pilgrimage to My Motherland (1971 reprint); M. E. Rogers, Domestic Life in Palestine (Kegan Paul 1989); Inchbold, Under the Syrian Sun (Gorgias 2004); Wavell, A Modern Pilgrim in Mecca (reissued 1918); H. Ward, Five Years with the Congo Cannibals (illustrator Pérard d. 1957?); Mackintosh, Damascus and Its People (author unidentified)",
+   "why": "vetted 2026-11-22 by an Opus subagent: as in the title",
    "checked": "2026-11-22"
   }
  ]
