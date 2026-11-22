@@ -4,13 +4,41 @@
  "date": "2026-11-22",
  "title": "Present-Day Japan",
  "short_title": "Present-Day Japan",
- "authors": [{"name": "Augusta M. Campbell Davidson", "sort": "Davidson, Augusta M. Campbell"}],
+ "authors": [
+  {
+   "name": "Augusta M. Campbell Davidson",
+   "sort": "Davidson, Augusta M. Campbell"
+  }
+ ],
  "place": "Philadelphia",
  "publisher": "J. B. Lippincott Company",
  "year": 1904,
  "edition_statement": "First edition",
  "collection": "jatsi",
- "regions": ["Japan"],
- "source": {"ia_identifier": "presentdayjapan00davirich", "contributor": "University of California Libraries"},
- "history": [{"version": 1, "date": "2026-11-22", "note": "First publication."}]
+ "regions": [
+  "Japan"
+ ],
+ "source": {
+  "ia_identifier": "presentdayjapan00davirich",
+  "contributor": "University of California Libraries"
+ },
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "period": "about 1902–03",
+ "subjects": [
+  "Japan",
+  "Shinto",
+  "Buddhism",
+  "temples and festivals",
+  "theatre"
+ ],
+ "summary": [
+  "Augusta M. Campbell Davidson made this book from letters she wrote home while living and travelling in Japan in the early 1900s; the book gives no dates, but it mentions the Anglo-Japanese Alliance of 1902. As her preface says, the letters are arranged by place and subject rather than in the order written, and she kept and added to notes on history and religion meant for a visitor.",
+  "The chapters cover Yokohama with Kamakura and Enoshima; travel by rail and jinrickisha and life in country inns; Shinto, with a festival at a village shrine and a visit to Ise; Buddhist services, sects, and teaching; Kyoto’s shops, story-tellers, wrestling, and temples; the mausoleums and festival at Nikko, with the life of Ieyasu and the persecution of the Christians; Tokyo’s streets, press, and Diet; and the theatre, from a Tokyo playhouse and the actor Danjuro to the Nô. The book has about eighty photographs and drawings."
+ ]
 }

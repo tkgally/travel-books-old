@@ -1,0 +1,5 @@
+{"find": "pendent\n", "replace": "pendent"}
+
+Actually the draft has "pendent" at the end, so I'm correcting the wrong thing. Here is the real list:
+
+{"find": "its pendent", "replace": "its pendent"}
