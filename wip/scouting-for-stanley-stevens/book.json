@@ -16,7 +16,10 @@
  "publisher": "Cassell Publishing Company",
  "year": 1890,
  "edition_statement": "First edition",
- "regions": [],
+ "regions": [
+  "Tanzania",
+  "Kenya"
+ ],
  "period": "1889",
  "source": {
   "ia_identifier": "scoutingforstanl00stev",
@@ -36,5 +39,60 @@
    "date": "2026-11-22",
    "note": "First publication."
   }
+ ],
+ "subjects": [
+  "Emin Pasha Relief Expedition",
+  "Henry M. Stanley",
+  "Kilimanjaro",
+  "Masai",
+  "big-game hunting",
+  "slave trade"
+ ],
+ "summary": [
+  "In 1889 the New York World sent Thomas Stevens, already known for riding a bicycle round the world, to East Africa to meet Henry M. Stanley, who was returning from the interior with Emin Pasha. Stevens sailed by way of Zanzibar to Mombasa and led a caravan of porters inland by Rabai and Teita to Taveta and the slopes of Kilimanjaro, where he visited the chiefs of Machame and Moschi. With the American naturalist Dr. W. L. Abbott he hunted in Masai country. He then went inland from the coast, past the German posts, to find Stanley’s column, marched with it to Bagamoyo, and recorded his talks with Stanley and Emin Pasha. The book describes porters, caravans, the Masai, game, the slave trade as the Arabs saw it, and the German campaign on the coast."
+ ],
+ "divisions": [
+  {
+   "at": "p0007",
+   "kind": "front"
+  },
+  {
+   "at": "p0011",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0013",
+   "kind": "dedication"
+  },
+  {
+   "at": "p0015",
+   "kind": "preface"
+  },
+  {
+   "at": "p0017",
+   "kind": "contents"
+  },
+  {
+   "at": "p0019",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0021",
+   "kind": "front",
+   "title": "Scouting for Stanley, in East Africa"
+  },
+  {
+   "at": "p0021",
+   "kind": "chapter",
+   "n": 2
+  }
+ ],
+ "frontispiece": "p0010-1",
+ "omitted_from_reading": "The half-title, title page, printed contents, list of illustrations and the title line above Chapter I are in the JSON only.",
+ "notes_on_text": [
+  "The frontispiece, a portrait of the author, has his signature in facsimile below it; it is part of the picture."
+ ],
+ "keep_hyphens": [
+  "p0318"
  ]
 }

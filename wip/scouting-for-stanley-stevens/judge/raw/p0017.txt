@@ -1,0 +1,13 @@
+{"n": 1, "is": "B", "print": "<sc>zanzibar and mombasa</sc>", "sure": "medium"}
+{"n": 2, "is": "B", "print": "<sc>rabai to teita</sc>", "sure": "medium"}
+{"n": 3, "is": "B", "print": "<sc>the march to taveta</sc>", "sure": "medium"}
+{"n": 4, "is": "B", "print": "<sc>kilimanjaro tribes</sc>", "sure": "medium"}
+{"n": 5, "is": "A", "print": "<sc>visit to machame</sc>", "sure": "medium"}
+{"n": 6, "is": "B", "print": "<sc>mandara of moschi</sc>", "sure": "medium"}
+{"n": 7, "is": "A", "print": "<sc>into masai-land</sc>", "sure": "medium"}
+{"n": 8, "is": "B", "print": "<sc>masai women</sc>", "sure": "medium"}
+{"n": 9, "is": "B", "print": "<sc>hunting adventures</sc>", "sure": "medium"}
+{"n": 10, "is": "B", "print": "<sc>adventures with rhinoceroses</sc>", "sure": "medium"}
+{"n": 11, "is": "A", "print": "<sc>elephants and other game</sc>", "sure": "medium"}
+{"n": 12, "is": "B", "print": "<sc>arabs and slaves</sc>", "sure": "medium"}
+{"n": 13, "is": "A", "print": "<sc>the slavers’ point of view</sc>", "sure": "medium"}

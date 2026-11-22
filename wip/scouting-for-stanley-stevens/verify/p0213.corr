@@ -1,0 +1,7 @@
+Differences found: "dower" has curly quotes in the draft, which matches the scan, and "plentiful" is cut off at the end of the draft.
+
+{"find": "exceedingly plentiful", "replace": "exceedingly plentiful"}
+
+Correction: the draft's final line already ends with "plentiful", so no change is needed there.
+
+NONE
