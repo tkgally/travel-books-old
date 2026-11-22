@@ -1,3 +1,0 @@
-judge opus: 2 spots on 2 pages: {'verified': 1, 'draft': 1}; cost $0.08
-p0003 #1 [verified, sure: medium] draft '<sc>Of</sc> 1853.' | verified '<sc>of</sc> 1853.' | judge reads '<sc>of</sc> 1853.'
-p0108 #1 [draft, sure: high] draft 'd’intermédiare' | verified 'd’intermédiaire' | judge reads 'd’intermédiare'

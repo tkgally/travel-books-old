@@ -1,5 +1,0 @@
-{"given": "for the exercize of the intellect", "print": "for the exercise of the intellect", "sure": "high"}
-{"given": "the nation upon most deserving citizen", "print": "the nation upon the most deserving citizen", "sure": "high"}
-{"given": "done by the great powcrs of Europe", "print": "done by the great powers of Europe", "sure": "high"}
-{"given": "on the slightest pretext; and they", "print": "on the slightest pretext, and they", "sure": "high"}
-{"given": "to a great extent, these foreign troops", "print": "to a great extent, those foreign troops", "sure": "high"}

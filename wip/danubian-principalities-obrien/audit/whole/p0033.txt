@@ -1,5 +1,0 @@
-{"given": "At Hirsova there was Turkish force.", "print": "At Hirsova there was a Turkish force.", "sure": "high"}
-{"given": "of field artillery; with horses standing", "print": "of field artillery, with horses standing", "sure": "high"}
-{"given": "also a strong turkish force,", "print": "also a strong Turkish force,", "sure": "high"}
-{"given": "on the bank arrangiug their nets", "print": "on the bank arranging their nets", "sure": "high"}
-{"given": "and we could bear the drowsy", "print": "and we could hear the drowsy", "sure": "high"}

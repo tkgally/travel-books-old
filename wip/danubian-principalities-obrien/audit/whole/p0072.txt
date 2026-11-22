@@ -1,5 +1,0 @@
-{"given": "the helmets and bayouets of a", "print": "the helmets and bayonets of a", "sure": "high"}
-{"given": "coatees and trousers; and put on", "print": "coatees and trousers, and put on", "sure": "high"}
-{"given": "in less then half an-hour", "print": "in less than half an-hour", "sure": "high"}
-{"given": "the men went down bathed in the lake", "print": "the men went down and bathed in the lake", "sure": "high"}
-{"given": "The word bucharest means the city", "print": "The word Bucharest means the city", "sure": "high"}

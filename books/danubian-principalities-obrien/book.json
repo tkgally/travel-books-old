@@ -1,0 +1,178 @@
+{
+ "id": "danubian-principalities-obrien",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Journal of a Residence in the Danubian Principalities, in the Autumn and Winter of 1853",
+ "short_title": "Journal of a Residence in the Danubian Principalities",
+ "authors": [
+  {
+   "name": "Patrick O'Brien",
+   "sort": "O'Brien, Patrick",
+   "born": 1823,
+   "died": 1895
+  }
+ ],
+ "place": "London",
+ "publisher": "Richard Bentley",
+ "year": 1854,
+ "edition_statement": "First edition",
+ "regions": [
+  "Romania",
+  "Bulgaria",
+  "Turkey",
+  "Greece",
+  "Hungary",
+  "Austria"
+ ],
+ "period": "1853",
+ "source": {
+  "ia_identifier": "journalofresiden00obririch",
+  "contributor": "University of California Libraries"
+ },
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {
+   "at": "p0003",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0005",
+   "kind": "front",
+   "n": 1
+  },
+  {
+   "at": "p0005",
+   "kind": "chapter",
+   "toc_title": "Chapter I. From Constantinople to Galatz",
+   "n": 2
+  },
+  {
+   "at": "p0015",
+   "kind": "chapter",
+   "toc_title": "Chapter II. Quarantine at Ibraila and Galatz"
+  },
+  {
+   "at": "p0032",
+   "kind": "chapter",
+   "toc_title": "Chapter III. The Danube to Kustendji"
+  },
+  {
+   "at": "p0041",
+   "kind": "chapter",
+   "toc_title": "Chapter IV. Russia and the Mouths of the Danube"
+  },
+  {
+   "at": "p0048",
+   "kind": "chapter",
+   "toc_title": "Chapter V. The Road from Giurgevo"
+  },
+  {
+   "at": "p0057",
+   "kind": "chapter",
+   "toc_title": "Chapter VI. Arrival at Bucharest"
+  },
+  {
+   "at": "p0067",
+   "kind": "chapter",
+   "toc_title": "Chapter VII. The Russian Army at Bucharest"
+  },
+  {
+   "at": "p0078",
+   "kind": "chapter",
+   "toc_title": "Chapter VIII. A Visitor at Bucharest: Manly’s Story"
+  },
+  {
+   "at": "p0090",
+   "kind": "chapter",
+   "toc_title": "Chapter IX. The Government of Moldo-Wallachia"
+  },
+  {
+   "at": "p0104",
+   "kind": "chapter",
+   "toc_title": "Chapter X. Russia and the Treaties"
+  },
+  {
+   "at": "p0113",
+   "kind": "chapter",
+   "toc_title": "Chapter XI. The Greek Conspiracy of 1843"
+  },
+  {
+   "at": "p0120",
+   "kind": "chapter",
+   "toc_title": "Chapter XII. The Kingdom of Greece"
+  },
+  {
+   "at": "p0129",
+   "kind": "chapter",
+   "toc_title": "Chapter XIII. Religion in Greece"
+  },
+  {
+   "at": "p0133",
+   "kind": "chapter",
+   "toc_title": "Chapter XIV. A Night Ride to Giurgevo"
+  },
+  {
+   "at": "p0142",
+   "kind": "chapter",
+   "toc_title": "Chapter XV. The Road to Oltanitza"
+  },
+  {
+   "at": "p0151",
+   "kind": "chapter",
+   "toc_title": "Chapter XVI. After the Battle of Oltanitza"
+  },
+  {
+   "at": "p0158",
+   "kind": "chapter",
+   "toc_title": "Chapter XVII. The Turks at Mokan and Kalafat"
+  },
+  {
+   "at": "p0165",
+   "kind": "chapter",
+   "toc_title": "Chapter XVIII. The Arrest of the Consulate’s Messenger"
+  },
+  {
+   "at": "p0171",
+   "kind": "chapter",
+   "toc_title": "Chapter XIX. From Bucharest to Vienna"
+  },
+  {
+   "at": "p0185",
+   "kind": "back"
+  }
+ ],
+ "subjects": [
+  "Wallachia",
+  "Crimean War",
+  "Danube",
+  "Russia",
+  "Greece"
+ ],
+ "omitted_from_reading": "The head title above Chapter I and the printer’s imprint on the last leaf are in the JSON only.",
+ "notes_on_text": [
+  "The chapters have no titles; the titles in the contents of this edition are the editor’s, from what each chapter covers.",
+  "The French proclamation in Chapter X is given with its accents as printed, misprints included (“á ne pas”, “d’étre”)."
+ ],
+ "summary": [
+  "Patrick O’Brien, a young Irish member of Parliament, went from Constantinople to Wallachia in the autumn of 1853, when Russian troops occupied the Danubian Principalities and the Ottoman Empire had declared war on Russia, months before Britain and France joined the Crimean War. He goes up the Danube by steamer through quarantine at Ibraila and Galatz, crosses Wallachia by road, and lives at Bucharest through the early winter.",
+  "He describes Russian camps and reviews, the boyards and the peasants, and a night ride with despatches to Giurgevo past the Russian posts, and visits the field of Oltanitza after the battle. Several chapters set out the treaties and the government of the Principalities, and three turn to Greece, which he had known since 1843. He leaves over the Carpathians by Pesth to Vienna."
+ ],
+ "keep_hyphens": [
+  "p0050",
+  "p0079"
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-22",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
+}
