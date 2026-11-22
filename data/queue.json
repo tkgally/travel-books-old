@@ -1308,10 +1308,11 @@
    "place": "London",
    "publisher": "Chapman and Hall",
    "images": 288,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Reprints: Kessinger only. Rule 5: dates not found; a captain in the Royal Artillery in 1872 and author of Try Lapland (1870), so born well before 1856. Plates uncredited (check). Not checked: WorldCat.",
-   "note": "Cornell (Kirtas) scan, 300 ppi; a few plates; the frontispiece seems the author's portrait. Berlin and Breslau to Cracow and the Wieliczka salt mine, by cart to Zakopane in the Tatra, over into Hungary (Javorina, the Fish Lake). Humorous: a double peasant wedding, the parish priest, fording rivers."
+   "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv; The Online Books Page, Wikisource: nothing; web search of a sentence: nothing. Reprints: Kessinger only. Rule 5: dates not found; a captain in the Royal Artillery in 1872 and author of Try Lapland (1870), so born well before 1856. Plates uncredited (check). Not checked: WorldCat. Re-checked 2026-11-22: a web search of the title and of the author: no reprint or text found; IA metadata gives Alexander Hadden Hutchinson.",
+   "note": "Cornell (Kirtas) scan, 300 ppi; a few plates; the frontispiece seems the author's portrait. Berlin and Breslau to Cracow and the Wieliczka salt mine, by cart to Zakopane in the Tatra, over into Hungary (Javorina, the Fish Lake). Humorous: a double peasant wedding, the parish priest, fording rivers.",
+   "started": "2026-11-22"
   },
   {
    "order": 73,
