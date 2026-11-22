@@ -1,7 +1,0 @@
-{"find": "[[cont]]his desk", "replace": "[[cont]]his desk"}
-{"find": "so great an indecorum", "replace": "so great an indecorum"}
-
-Wait, correcting: the image reads "indecorum", so that one is right. Real changes:
-
-{"find": "[[cont]]his desk", "replace": "his desk"}
-{"find": "<i>sine quâ non</i>", "replace": "<i>sine quâ non</i>"}
