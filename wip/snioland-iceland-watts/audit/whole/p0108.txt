@@ -1,5 +1,0 @@
-{"given": "from Gotlands Jökull, upon NW.,", "print": "from Gotlands Jökull, upon the NW.,", "sure": "high"}
-{"given": "a beauty in these dark waves", "print": "a beauty in those dark waves", "sure": "high"}
-{"given": "the character and color of the", "print": "the character and colour of the", "sure": "high"}
-{"given": "between Myrdals, Godalanders; and Merker Jökulls.", "print": "between Myrdals, Godalanders, and Merker Jökulls.", "sure": "high"}
-{"given": "These reservoirs are almost euvironed by", "print": "These reservoirs are almost environed by", "sure": "high"}

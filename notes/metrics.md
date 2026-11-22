@@ -149,6 +149,7 @@
 | A Journey through the Caucasus and the Interior of Persia v4 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as before | |
 | Three Years in Melbourne v1 | 2026-11-22 | 312 | Opus draft → Sonnet corrections → Opus judge; scan check, spot-read and summary facts by subagents | 2 | 1 / 1 / 0 | 1 (versâ: the verifier’s acute, judge “sure: low”) | 29.58 | 0 | PASS, 0 waived | 29/29; 0 / 6 (spot-read: 2 stanza joins) | |
 | Surface Japan v1 | 2026-11-22 | 203 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (tesseract comparison) and section titles by subagents | 3 | 3 / 0 / 0 | 1 (n’daro.: the verifier’s full stop) | 20.98 | 0 | PASS, 0 waived | 30/30; 0 / 6 (spot-read and crops: 3 printed misprints, 1 silently corrected) | |
+| Snioland v1 | 2026-11-22 | 208 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, summary and entries, spot-read with accents by subagents | 3 | 1 / 2 / 0 | 1 (a damaged date digit: 25th, not 20th) | 20.97 | 0 | PASS, 0 waived | 30/30; 0 / 6 (spot-read: 2 accents misread, 1 printed misprint) | |
 
 ## Calibrations
 

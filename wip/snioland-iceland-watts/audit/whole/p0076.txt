@@ -1,5 +1,0 @@
-{"given": "so heavy that we where compelled", "print": "so heavy that we were compelled", "sure": "high"}
-{"given": "pools of water collected underneath us; and", "print": "pools of water collected underneath us, and", "sure": "high"}
-{"given": "remain as we were until weather changed.", "print": "remain as we were until the weather changed.", "sure": "high"}
-{"given": "we bore our tryiug position", "print": "we bore our trying position", "sure": "high"}
-{"given": "the faces of everyone as we", "print": "the faces of every one as we", "sure": "high"}

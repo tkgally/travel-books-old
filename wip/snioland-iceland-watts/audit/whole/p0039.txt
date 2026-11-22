@@ -1,5 +1,0 @@
-{"given": "C—— became ill; and was", "print": "C—— became ill, and was", "sure": "high"}
-{"given": "around which if hung into", "print": "around which it hung into", "sure": "high"}
-{"given": "the far-famed rift almanna Gjá occurs", "print": "the far-famed rift Almanna Gjá occurs", "sure": "high"}
-{"given": "while the rest our party", "print": "while the rest of our party", "sure": "high"}
-{"given": "whose pack required attcntion, allowing", "print": "whose pack required attention, allowing", "sure": "high"}

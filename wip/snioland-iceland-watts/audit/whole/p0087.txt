@@ -1,5 +1,0 @@
-{"given": "Eventually, the angle the mountain, much", "print": "Eventually, the angle of the mountain, much", "sure": "high"}
-{"given": "made a detor to the west", "print": "made a detour to the west", "sure": "high"}
-{"given": "which was going my way; and had", "print": "which was going my way, and had", "sure": "high"}
-{"given": "Its water bad worn away the", "print": "Its water had worn away the", "sure": "high"}
-{"given": "appeared like a ruincd lighthouse.", "print": "appeared like a ruined lighthouse.", "sure": "high"}

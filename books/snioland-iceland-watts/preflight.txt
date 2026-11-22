@@ -1,0 +1,57 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[ look (7)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0025: …lands; and pro-|vided us with a… (hyphen removed; check)
+            - hyphen join at p0045: …uting at inter-|vals of a few s… (hyphen removed; check)
+            - hyphen join at p0049: …that which sur-|rounds them. Th… (hyphen removed; check)
+            - hyphen join at p0104: …rded its intru-|sive visitors a… (hyphen removed; check)
+            - hyphen join at p0124: …y were very im-|portunate upon … (hyphen removed; check)
+            - hyphen join at p0147: …ful bands illu-|minated the wes… (hyphen removed; check)
+            - (and 8 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[       ok] folios: printed page numbers that break the sequence
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[       ok] contents: entries of the printed contents with no matching heading
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[ look (8)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - a: a (p0013, p0014, p0015, p0016, p0017, p0018…); à (p0035, p0046, p0047)
+            - de: de (p0027, p0145, p0195); dé (p0205)
+            - hvita: hvità (p0027, p0058); hvitá (p0055, p0056, p0058, p0179, p0180)
+            - jokull: jokull (p0067); jökull (p0014, p0015, p0027, p0029, p0034, p0035…)
+            - jokulls: jokulls (p0009); jökulls (p0015, p0017, p0026, p0036, p0055, p0064…)
+            - oxera: oxera (p0016, p0141); oxerà (p0040, p0041)
+            - stroker: strokër (p0053); ströker (p0006, p0016)
+            - thorsa: thorsà (p0057, p0058, p0178); thorsá (p0058)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (1)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0169: “necessaris” — “necessaries” is common (51; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (4)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: … what he took to be its centre, and turned back because of bad weather and short provisions; he…
+            - book.json notes_on_text: …ferent places (Hvità and Hvitá, Thorsà and Thorsá, Oxera and Ox…
+            - book.json notes_on_text: …à and Hvitá, Thorsà and Thorsá, Oxera and Oxerà, Ströker and S…
+            - book.json notes_on_text: …sà and Thorsá, Oxera and Oxerà, Ströker and Strokër); each is gi…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: snioland-iceland-watts v1 — 0 to fix, 0 waived; to look at: hyphen-joins 7, accents 8, rare-forms 1, serial-commas 4 — tools@fad199f4 2026-11-22

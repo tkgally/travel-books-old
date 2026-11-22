@@ -1,5 +1,0 @@
-{"given": "It is quite probable that the case", "print": "It is quite probable that in the case", "sure": "high"}
-{"given": "scarcely to be acconnted for by", "print": "scarcely to be accounted for by", "sure": "high"}
-{"given": "the shelter at band, and here", "print": "the shelter at hand, and here", "sure": "high"}
-{"given": "purposes of the expedition; it was best", "print": "purposes of the expedition, it was best", "sure": "high"}
-{"given": "to hire two icelanders, and start", "print": "to hire two Icelanders, and start", "sure": "high"}
