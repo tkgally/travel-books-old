@@ -1,0 +1,5 @@
+{"given": "there seems to be abundant evidence prove", "print": "there seems to be abundant evidence to prove", "sure": "high"}
+{"given": "In the time of columbus the", "print": "In the time of Columbus the", "sure": "high"}
+{"given": "and probably were the fame who", "print": "and probably were the same who", "sure": "high"}
+{"given": "east of Porto Rico; to the", "print": "east of Porto Rico, to the", "sure": "high"}
+{"given": "would have possessed every islaud in", "print": "would have possessed every island in", "sure": "high"}

@@ -1,0 +1,5 @@
+{"given": "A Carib basilisk.—The Biggest Bug", "print": "A Carib Basilisk.—The Biggest Bug", "sure": "low"}
+{"given": "and not till drink of rum", "print": "and not till a drink of rum", "sure": "high"}
+{"given": "for the cave, followed or at once.", "print": "for the cave, followed on at once.", "sure": "high"}
+{"given": "the care of the dogs; he", "print": "the care of the dogs, he", "sure": "high"}
+{"given": "He was not afraid, howcver, as", "print": "He was not afraid, however, as", "sure": "high"}

@@ -1,0 +1,6 @@
+{"find": "Martinique near the southern end. On its northern side, Fort de France; at its bight, La Montagne and Rivière Salée;", "replace": "Martinique near the southern end. On its northern side, Fort de France; at its bight, La Montagne and Rivière Salée;"}
+{"find": "Trois-Ilets—the Three Islets—hidden", "replace": "Trois-Ilets—the Three Islets—hidden"}
+
+Let me check the actual differences: the page shows "Trois-Ilets—the Three Islets—" with "Islets", and "Martinique near" has no "the" difference. Looking closer at the draft against the image, these differ only in the lines below.
+
+{"find": "[[cont]]author", "replace": "[[page 305]]\n\n[[cont]]author"}

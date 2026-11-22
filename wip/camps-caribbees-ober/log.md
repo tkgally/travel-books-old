@@ -3,7 +3,10 @@
 IA `campsincaribbees00oberiala` (University of California, 400 ppi, 410 images).
 
 ## Status
-Stage reached: (a) started 2026-11-22 (session 21:44 +09:00): eligibility re-checked (web search: page images only at HathiTrust and the Biodiversity Heritage Library; reprints print-on-demand); scan check running; Drive cache being uploaded.
+Stage reached: (b)/(c): draft (16 pages by ocr_fallback), Sonnet pass, judge, `pages/` from the judge with fixes; pictures cropped; book.json written; preflight fails only on the audit. Running at the checkpoint: spot-read (three Opus subagents), audit (6 pages + the 16 fallback pages as a second run), hOCR for the tesseract and line-pitch checks.
+Next: apply the spot-read; tesseract comparison and small-type check (scripts as in the Floyd-Jones log); audit record; rendered look; publish.
+Fixes so far: ten pictures at a page top before a `[[cont]]` paragraph moved after it (p0059, p0075, p0111, p0137, p0276, p0287, p0323, p0329, p0347, p0375); `[[cont]]` after the picture on p0147; species headings of the appendix all `###`, the repeated “Catalogue of Birds.—Continued.” removed (p0383); the line “Camps in the Caribbees” above Chapter I a front division; printer's device p0012 cropped (ornament); keep_hyphens p0172 sea-side, p0274 seed-time, p0283 mid-winter.
+Judge spots: 20 (10 draft: drop-capital words in capitals, as printed; 10 verifier: pictures moved to their printed place, p0339 page number, p0397 2¾ seen on the crop).
 
 ## Page map
 p0001 cover · p0002–p0004 endpapers, library slips, IA notice · p0005–p0007 blank flyleaves (p0007 a library stamp; no half-title) · p0008 frontispiece “The Island of Cocoa Palms” (sideways) · p0009–p0010 tissue guard (not transcribed: waiver) · p0011 title page (verse motto; library stamp, “576” by hand) · p0012 verso · p0013 dedication · p0014 blank · p0015–p0017 preface v–vii · p0018 blank · p0019–p0026 contents ix–xvi (synopses) · p0027–p0028 list of illustrations xvii–xviii · p0029 Ch. I p. 1 … p0400 p. 366 · p0401–p0411 blanks, slips, covers, colour cards (no p0407 in the prepared images).
@@ -20,6 +23,10 @@ Scan check: all sheets and 15 leaves at full size by an Opus subagent 2026-11-22
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
 |---|---|---|---|---|---|
+| draft | 2026-11-22 | opus | 391 | 25.99 | 16 refused by the output filter: p0110, p0112, p0125, p0126, p0128, p0241, p0242, p0249–p0256, p0391 |
+| corrections | 2026-11-22 | sonnet | 391 | 13.13 | 18 words, 10 markup, 2 punctuation; 1 not applied (right as typed) |
+| judge | 2026-11-22 | opus | 20 spots | 0.73 | 10 draft, 10 verifier |
+| fallback | 2026-11-22 | tesseract + opus | 16 | 1.12 | all 16 done; audit them as a second run |
 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |

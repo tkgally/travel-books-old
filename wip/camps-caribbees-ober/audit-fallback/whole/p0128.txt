@@ -1,0 +1,5 @@
+{"given": "hasten to admiuister the last rites", "print": "hasten to administer the last rites", "sure": "high"}
+{"given": "With impatience, when, he commanded", "print": "With impatience, then, he commanded", "sure": "high"}
+{"given": "over a mile rough, steep road", "print": "over a mile of rough, steep road", "sure": "high"}
+{"given": "and facing the sunrize, to see", "print": "and facing the sunrise, to see", "sure": "high"}
+{"given": "until midnight; the girls sang", "print": "until midnight, the girls sang", "sure": "high"}

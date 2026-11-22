@@ -1,0 +1,5 @@
+{"given": "deprived of canoes arms, and kept", "print": "deprived of canoes and arms, and kept", "sure": "high"}
+{"given": "declared that the english government aimed", "print": "declared that the English government aimed", "sure": "high"}
+{"given": "and caufed lime to be mixed", "print": "and caused lime to be mixed", "sure": "high"}
+{"given": "Spaniards in possession; who had built", "print": "Spaniards in possession, who had built", "sure": "high"}
+{"given": "The Carib lands where thus left", "print": "The Carib lands were thus left", "sure": "high"}

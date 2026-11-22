@@ -1,0 +1,5 @@
+{"given": "My nearest neighbor was “Captain george,”", "print": "My nearest neighbor was “Captain George,”", "sure": "high"}
+{"given": "That is, his father; or grandfather,", "print": "That is, his father, or grandfather,", "sure": "high"}
+{"given": "ready to impart to me words and idioms", "print": "ready to impart to me the words and idioms", "sure": "high"}
+{"given": "handed down from this ancestors.", "print": "handed down from his ancestors.", "sure": "high"}
+{"given": "the hills. The childrcn were blessed", "print": "the hills. The children were blessed", "sure": "high"}

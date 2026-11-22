@@ -1,0 +1,6 @@
+{"given": "a pin on needle with great", "print": "a pin or needle with great", "sure": "high"}
+{"given": "there was hole in each toe", "print": "there was a hole in each toe", "sure": "high"}
+{"given": "as the scnsation he causes is", "print": "as the sensation he causes is", "sure": "high"}
+{"given": "endanger their limbs, negroes with all", "print": "endanger their limbs; negroes with all", "sure": "high"}
+{"given": "three islands in the antilles", "print": "three islands in the Antilles", "sure": "high"}
+{"given": "and eventually create painful ulcers.", "print": "and eventually create painful nlcers.", "sure": "low"}

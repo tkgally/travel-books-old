@@ -1,0 +1,5 @@
+{"given": "This once strapped to this shoulders", "print": "This once strapped to his shoulders", "sure": "high"}
+{"given": "It was beneath tree of vast", "print": "It was beneath a tree of vast", "sure": "high"}
+{"given": "towering aloft in kingly majesty; enveloped", "print": "towering aloft in kingly majesty, enveloped", "sure": "high"}
+{"given": "like the cypress of the south,", "print": "like the cypress of the South,", "sure": "high"}
+{"given": "Then I fully undcrstood the meaning", "print": "Then I fully understood the meaning", "sure": "high"}

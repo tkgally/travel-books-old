@@ -1,0 +1,2 @@
+{"n": 1, "is": "B", "print": " as before,", "sure": "medium"}
+{"n": 2, "is": "B", "print": "f Josephine.\n\n[[cont]]and I finished my photographs of beautiful Josephine, who had been an unmoved spectator of it all, without interruption.", "sure": "medium"}
