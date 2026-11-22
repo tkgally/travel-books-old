@@ -1236,11 +1236,13 @@
    "place": "London",
    "publisher": "L. Booth",
    "images": 324,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent; PG checked by the session): not in pg_catalog.csv or Project Gutenberg Australia; The Online Books Page: HathiTrust page images only; Wikisource: only entries on her brother; web search of a sentence: nothing. Open Library: 1862, print on demand (Creative Media 2023, Legare Street 2023). Rule 5: death date not found; she spent about 1858–61 in Melbourne as an adult in society, visiting her brother Butler Cole Aspinall (1830–1875), so born before about 1840. Not checked: Faded Page (script-only search), WorldCat, Trove. Re-checked 2026-11-22: web search of the title: no online text, no new edition (AustLit has a record only).",
    "note": "University of California scan, 600 ppi, plain text, no plates seen. Arrival and first impressions of Melbourne (society, servants, prices, churches, children); a coach trip up-country to Avoca, Castlemaine, Kyneton and Mount Macedon; Chinese diggers; the voyage home past icebergs. Chatty and observant. One chapter of emigrant advice.",
-   "started": "2026-11-22"
+   "started": "2026-11-22",
+   "version": 1,
+   "published": "2026-11-22"
   },
   {
    "order": 68,

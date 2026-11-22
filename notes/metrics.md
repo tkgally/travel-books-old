@@ -147,6 +147,7 @@
 | The Eastern Shores of the Adriatic v2 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as before | |
 | Japan: A Sailor’s Visit v3 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as before | |
 | A Journey through the Caucasus and the Interior of Persia v4 | 2026-11-22 | – | (no new model calls; title page typed as printed) | – | – | – | 0 | 0 | PASS, 0 to fix, 0 waived | as before | |
+| Three Years in Melbourne v1 | 2026-11-22 | 312 | Opus draft → Sonnet corrections → Opus judge; scan check, spot-read and summary facts by subagents | 2 | 1 / 1 / 0 | 1 (versâ: the verifier’s acute, judge “sure: low”) | 29.58 | 0 | PASS, 0 waived | 29/29; 0 / 6 (spot-read: 2 stanza joins) | |
 
 ## Calibrations
 
