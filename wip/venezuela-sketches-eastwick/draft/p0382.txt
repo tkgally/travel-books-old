@@ -1,0 +1,63 @@
+[[page 366]]
+
+W<sc>oods</sc> collected by Dr. V<sc>argas</sc>, formerly President of the Republic, and placed in the University at Carácas.
+
+| No. | <sc>name.</sc> | Specific Weight. |
+|---|---|---|
+| 1 | Granadilla, Couroupita odoratissima, <i>Seem.</i> | 1,2367 |
+| 2 | Nazareno, Hymenæa floribunda, <i>Kth.</i> | 1,1744 |
+| 3 | Dividivi, (152) Cæsalpinia coriacea, <i>Lin.</i> | 1,2189 |
+| 4 | Palma real, Oreodoxa regia, <i>Kth.</i> | 1,0787 |
+|  | Cocos butyracea, <i>Lin.</i> |  |
+| 5 | Fiama | 1,3003 |
+| 6 | Araguaney | 1,0985 |
+| 7 | Guayacan, (158) Tecoma Guayacan, <i>Seem.</i> | 1,3068 |
+| 8 | Gateado, (107, 119, 128, 159) Acacia riparia? <i>Kth.</i> | 1,0034 |
+| 9 | Cartan, from the hot country; (33) | 0,8171 |
+| 10 | Urape negro, Bauhinia (Pauletia) multincroia, <i>De C.</i> | 0,8577 |
+| 11 | Guayabo encanado, Psidium? | 1,0946 |
+| 12 | Urape rosado, Bauhinia (Pauletia) glandulosa, <i>De C.</i> | 0,9842 |
+| 13 | Hayo, Acacia peregrina? <i>Willd.</i> | 1,1107 |
+| 14 | Vera, Guaiacum arboreum, <i>De C.</i> | 1,2479 |
+| 15 | Guayabo rosado, Psidium pomiferum | 1,0206 |
+| 16 | Canafistola, Cassia brasiliensis, <i>Lin.</i> | 0,8575 |
+| 17 | Guayabo blanco, Psidium pomiferum sp. | 1,0503 |
+| 18 | Nogal, Juglans cinerea | 0,5587 |
+| 19 | Majomo | 0,8434 |
+| 20 | Roble, Tecoma pentaphylla, <i>Juss.</i> | 0,8758 |
+| 21 | Guayabo pauji, Bumelia buxifolia, <i>Willd.</i> | 1,0244 |
+| 22 | Naranjo dulce, Citrus aurantium, <i>Lin.</i> | 0,8015 |
+| 23 | Huecito | 1,0019 |
+| 24 | Zapatero, Hymenæa venosa? <i>Vahl.</i> | 0,9311 |
+| 25 | Guayabo racino | 1,0715 |
+| 26 | Tijerita | 0,8301 |
+| 27 | Angelino, Andira inermis, <i>Kth.</i> | 0,8186 |
+| 28 | Naranjillo, Swartzia 3-phylla? <i>Willd.</i> | 0,8586 |
+| 29 | Paraguatan, Condaminea tinctoria, <i>De C.</i> | 0,8026 |
+| 30 | Laurel Angelino, Nectandria Laurel, <i>Meiss.</i> | 0,5505 |
+| 31 | Pardillo negro | 0,7017 |
+| 32 | Toco, Cratæva gynandra, <i>Lin.</i> | 0,6099 |
+| 33 | Cartan, cold country (9) | 0,7537 |
+| 34 | Olivo, (99, 174) Capparis intermedia, <i>Kth.</i> | 0,6213 |
+| 35 | Coba longa | 0,8911 |
+| 36 | Cedro dulce, Cedrela odorata, <i>Lin.</i> | 0,5293 |
+| 37 | Guarataro, (77) Couratari Guianensis, <i>Aubl.</i> | 0,7950 |
+| 38 | Capuchino | 0,6284 |
+| 39 | Cedro amargo, Simaba cedron | 0,2579 |
+| 40 | Caimito, (145) Chrysophyllum Caimito, <i>Lin.</i> | 1,0869 |
+| 41 | Grifo | 0,8017 |
+| 42 | Lecherito, Brosimum? | 0,9877 |
+| 43 | Laurel Mangon | 0,6818 |
+| 44 | Estoraque, (154) Styrax tomentosum, <i>Kth.</i> | 0,8482 |
+| 45 | Guama, Juga Bonplandiana, <i>Kth.</i> | 0,6058 |
+|  | Juga vera, <i>Willd.</i> |  |
+| 46 | Laurel Aguacate, Persea gratissima, <i>Lin.</i> | 0,5885 |
+| 47 | Almendro, Geoffroya superba, <i>Kth.</i> | 0,8771 |
+| 48 | Lecherito pintado | 0,7770 |
+| 49 | Aguanoso | 0,5628 |
+| 50 | Sereipo, Avicennia nitida, <i>Lin.</i> | 0,7668 |
+| 51 | Croton, Croton coriaceum? | 0,4500 |
+| 52 | Cedrillo horcon | 0,6557 |
+| 53 | Tigron | 1,0151 |
+| 54 | Cerezo, Burchosia glauca, <i>Kth.</i> | 1,0260 |
+| 55 | Atata | 1,0271 |
