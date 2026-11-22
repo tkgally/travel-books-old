@@ -1,0 +1,16 @@
+{
+ "id": "present-day-japan-davidson",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "Present-Day Japan",
+ "short_title": "Present-Day Japan",
+ "authors": [{"name": "Augusta M. Campbell Davidson", "sort": "Davidson, Augusta M. Campbell"}],
+ "place": "Philadelphia",
+ "publisher": "J. B. Lippincott Company",
+ "year": 1904,
+ "edition_statement": "First edition",
+ "collection": "jatsi",
+ "regions": ["Japan"],
+ "source": {"ia_identifier": "presentdayjapan00davirich", "contributor": "University of California Libraries"},
+ "history": [{"version": 1, "date": "2026-11-22", "note": "First publication."}]
+}
