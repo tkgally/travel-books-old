@@ -1,0 +1,5 @@
+{"find": "“Eisquelle”", "replace": "“Eisquelle”"}
+
+Wait—I need to be precise. The draft has "Eisquelle" already matching the image ("Eisquelle"). Correct output:
+
+NONE
