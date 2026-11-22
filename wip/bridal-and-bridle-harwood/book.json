@@ -1,0 +1,33 @@
+{
+ "id": "bridal-and-bridle-harwood",
+ "version": 1,
+ "date": "2026-11-22",
+ "title": "The Bridal and the Bridle; or, Our Honeymoon-Trip in the East, in 1850",
+ "short_title": "The Bridal and the Bridle",
+ "authors": [
+  {
+   "name": "[John Berwick Harwood]",
+   "sort": "Harwood, John Berwick",
+   "born": 1828,
+   "died": 1899
+  }
+ ],
+ "place": "London",
+ "publisher": "Richard Bentley",
+ "year": 1851,
+ "edition_statement": "First edition",
+ "regions": [],
+ "period": "1850",
+ "source": {
+  "ia_identifier": "bridalbridleorou00harwiala",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": []
+ },
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-22",
+   "note": "First publication."
+  }
+ ]
+}
