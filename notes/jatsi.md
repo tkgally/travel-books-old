@@ -88,6 +88,7 @@ Do each work once and say on the queue row which entries it covers.
 
 | Date | What |
 |---|---|
+| 2026-11-22 | Twelve narratives vetted by three Opus subagents (n 12, 19, 20, 29, 43, 72, 76, 89, 205, 236, 238, 239): seven queued at normal priority (Thompson, Seitz, Maus, Lawrence, Fowler — rule 3 to settle —, Taylor, Floyd-Jones); Smith, D'Almeida, Maclay and Cornwallis reprinted by Ganesha (Cornwallis also Google-only with poor plates), Aubertin's map missing from both Google scans: `vetted` in `jatsi.json`. *Japan for a Week* (Thompson, n 238) started. |
 | 2026-11-22 | *Present-Day Japan* (Davidson, 1904; n 179) published from the UC scan: letters arranged by place and subject; Japanese script only inside pictures (a kakemono, styles of writing, a katakana chart kept as a picture). Next due: two other books, then JATSI. |
 | 2026-11-21 | *The Eastern Seas* (Bax, 1875; n 40) published from the Cornell scan: Japan is about a third (Kobé, Nagasaki, Fusi-yama, Yesso), the rest China, Formosa and Siberia; romanized names as printed (Haconé and Hacone both); no Japanese script. *Sketches of Life in Japan* (Knollys, n 73) set `waiting`: the only scan has lost parts of ten pages. Next due: two other books, then JATSI. |
 | 2026-11-20 | *Japan: A Sailor’s Visit to the Island Empire* (Cook, 1891; n 83) published from the BYU scan: no Japanese script, romanized words without accents (one Ōtani). Next due: two other books, then JATSI. |
