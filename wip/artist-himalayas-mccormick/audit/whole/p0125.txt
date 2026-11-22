@@ -1,0 +1,5 @@
+{"given": "it felt about ton weight.", "print": "it felt about a ton weight.", "sure": "high"}
+{"given": "a tin of irish stew", "print": "a tin of Irish stew", "sure": "high"}
+{"given": "of which it was formcd seemed", "print": "of which it was formed seemed", "sure": "high"}
+{"given": "excellent eyes sound out many", "print": "excellent eyes found out many", "sure": "high"}
+{"given": "rock and ice; hundreds of feet", "print": "rock and ice, hundreds of feet", "sure": "high"}

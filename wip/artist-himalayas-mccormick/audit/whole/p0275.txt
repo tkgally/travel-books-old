@@ -1,0 +1,5 @@
+{"given": "sparkling stream or grassy banks", "print": "sparkling stream on grassy banks", "sure": "high"}
+{"given": "An hour a half more", "print": "An hour and a half more", "sure": "high"}
+{"given": "steep little street leadiug to the", "print": "steep little street leading to the", "sure": "high"}
+{"given": "was a dusty red; the brilliance", "print": "was a dusty red, the brilliance", "sure": "high"}
+{"given": "with the high gray knolls", "print": "with the high grey knolls", "sure": "high"}

@@ -1,0 +1,5 @@
+{"given": "were met by two grandsons of", "print": "were met by the two grandsons of", "sure": "high"}
+{"given": "capital, to do us honor.", "print": "capital, to do us honour.", "sure": "high"}
+{"given": "and there we campcd. The", "print": "and there we camped. The", "sure": "high"}
+{"given": "a circle of followers; who watched", "print": "a circle of followers, who watched", "sure": "high"}
+{"given": "young members of his royal family.", "print": "young members of this royal family.", "sure": "high"}
