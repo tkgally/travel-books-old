@@ -39,11 +39,35 @@
    "height": 450,
    "sha256": "fb4f8416a09bec5052aec078a4ba799f5212e2c5b178463cac5f11e4cd820621"
   },
+  "brown-men-women-reeves": {
+   "image": "cover",
+   "width": 278,
+   "height": 450,
+   "sha256": "fdf9aa10e39b2d67dbbff853b08f71f72496adcd283c87395d6b88cea457ac8c"
+  },
   "by-fell-and-fjord-oswald": {
    "image": "cover",
    "width": 298,
    "height": 450,
    "sha256": "64aa0de87083b4f8cf60223877c7758730d97514328c226049f1bdde477f8e6e"
+  },
+  "camps-caribbees-ober": {
+   "image": "title page",
+   "width": 274,
+   "height": 450,
+   "sha256": "69f9ac8c5947fec2cbb1ee7cdbc079593bf8b4732d969206665404ad6e15cd59"
+  },
+  "china-and-japan-voyage-thither-lawrence": {
+   "image": "title page",
+   "width": 239,
+   "height": 450,
+   "sha256": "713dacf03267e22d427aeafacd1bd604d0bc89b151dd57b1b4ac37165ab6872f"
+  },
+  "cordillera-pampa-strain": {
+   "image": "title page",
+   "width": 294,
+   "height": 450,
+   "sha256": "0d00ab5c2524b2545e80be9145efb1ce24eb2eaa0ec79a4d3cba5a090a4eb2b2"
   },
   "corona-and-coronet-todd": {
    "image": "cover",
@@ -56,6 +80,12 @@
    "width": 269,
    "height": 450,
    "sha256": "73fe2c55c985d9641546f2e3850ba09221356c5aff55a0e9876079660e30c637"
+  },
+  "danubian-principalities-obrien": {
+   "image": "title page",
+   "width": 284,
+   "height": 450,
+   "sha256": "90cbc8782f40bf0606b867cc5ea4835d619d9e75be240df696df2583e731c6eb"
   },
   "diary-in-europe-rajah-of-kolhapoor": {
    "image": "title page",
@@ -120,6 +150,12 @@
    "sha256": "660a6f8a35f20b53b8507071256c215a3ae9683646cff7345b797f114390fbd8",
    "note": "the cover has no title"
   },
+  "japan-for-a-week-thompson": {
+   "image": "cover",
+   "width": 300,
+   "height": 434,
+   "sha256": "75e18ab44c261bf1e49e4d43f130a63ec191a5fd96ff5f6d462803cecad0d543"
+  },
   "jaunt-in-japan-jackson": {
    "image": "cover",
    "width": 269,
@@ -174,6 +210,12 @@
    "width": 287,
    "height": 450,
    "sha256": "53b04add83a43838f8808ea5f4bf4b6da3846385bb2ce6bcd0d50f770ed5294a"
+  },
+  "letters-from-the-far-east-floyd-jones": {
+   "image": "cover",
+   "width": 299,
+   "height": 450,
+   "sha256": "ff67725a47edc45ccb856899f6d9e8fbb91659e15c621eb41d0b4176a9d21bba"
   },
   "letters-southern-india-ceylon-williams": {
    "image": "cover",
@@ -242,6 +284,12 @@
    "height": 450,
    "sha256": "f1164133bd1b54064a0b141db3e5547ecd10a1334c42140c0fee2a852b383d70"
   },
+  "snioland-iceland-watts": {
+   "image": "title page",
+   "width": 272,
+   "height": 450,
+   "sha256": "d180b36e4210ec490e1862a4f009f1f342431584b2ab374e756b00174e6db90c"
+  },
   "south-by-west-kingsley": {
    "image": "title page",
    "width": 277,
@@ -262,6 +310,24 @@
    "sha256": "0d47b1163cc0c651a293b055b149c60290734ae6361a432f0bf20b0d023a39bb",
    "note": "plain cloth cover"
   },
+  "surface-japan-seitz": {
+   "image": "title page",
+   "width": 300,
+   "height": 421,
+   "sha256": "22ff38d00dc110fc1e6e1c7fd74bb462bc6c905f85f083f2561278fa8d55141a"
+  },
+  "three-years-melbourne-aspinall": {
+   "image": "title page",
+   "width": 262,
+   "height": 450,
+   "sha256": "ba74fb9619403c6dae256c71eddb37b161cc8d9cb3d36e4530af26974693c8bc"
+  },
+  "through-atolls-islands-moss": {
+   "image": "cover",
+   "width": 286,
+   "height": 450,
+   "sha256": "eccad26ddc51cca6bb0fa68542adce11964ecb0d2273d13d387d51030b0deccc"
+  },
   "trans-caspia-shoemaker": {
    "image": "title page",
    "width": 280,
@@ -273,6 +339,12 @@
    "width": 300,
    "height": 435,
    "sha256": "fc343ba98bd0ec06c0a340a8647b033e79a55ccbc3a6697a871a824e8d69a2e5"
+  },
+  "try-cracow-carpathians-hutchinson": {
+   "image": "title page",
+   "width": 252,
+   "height": 450,
+   "sha256": "e09c599559314fa84f10a4483f12321e01ef223b3766e3ded468ca0af6d6f4f5"
   },
   "twelve-years-in-canterbury-thomson": {
    "image": "title page",
@@ -286,6 +358,12 @@
    "height": 450,
    "sha256": "a6a30363180d2e072c767c7cf8cdd027918180d5b4220065c9a42a7ebb3dada2",
    "note": "the cover's title is faint and runs off the edge"
+  },
+  "venezuela-sketches-eastwick": {
+   "image": "title page",
+   "width": 253,
+   "height": 450,
+   "sha256": "cfc04f78b392a7aff4329481b8c961071761aa7d25810ddf5a9ab3558051817f"
   },
   "via-rhodesia-mansfield": {
    "image": "cover",

@@ -192,6 +192,10 @@ mkdir -p $W/pages && cp $W/judge/p*.txt $W/pages/
 - Spot-read against the scan every page with a table, verse, a letter, an inscription, or anything unusual, and the front
   matter and every page with a footnote: an Opus subagent with the page files and images, reporting differences only
   (review of 2026-11-20: most printer's errors and misread accents of the last books were found here).
+  The same subagent (or a second one, for a long book) settles every item of preflight's `misprints`, `rare-forms`,
+  `missing-stop` and `accents` lists on crops, and runs a tesseract comparison of the narrative pages (words tesseract
+  reads as a non-word where the file has a common word, or the reverse; candidates checked on crops; `OMP_THREAD_LIMIT=1`
+  when run in parallel). Review after sixty-nine books: this found most of the printed misprints of books 56–69.
 
 ## 5. Illustrations and cover
 
