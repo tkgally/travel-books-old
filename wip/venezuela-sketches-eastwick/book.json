@@ -34,16 +34,207 @@
   "contributor": "University of Toronto (Robarts Library)",
   "hidden_leaves": []
  },
- "divisions": [],
+ "divisions": [
+  {
+   "at": "p0007",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0009",
+   "kind": "dedication",
+   "title": "Dedication"
+  },
+  {
+   "at": "p0011",
+   "kind": "preface"
+  },
+  {
+   "at": "p0013",
+   "kind": "contents"
+  },
+  {
+   "at": "p0016",
+   "kind": "errata"
+  },
+  {
+   "at": "p0017",
+   "kind": "front",
+   "n": 1
+  },
+  {
+   "at": "p0017",
+   "kind": "chapter",
+   "toc_title": "Chapter I. To Venezuela",
+   "n": 2
+  },
+  {
+   "at": "p0040",
+   "kind": "chapter",
+   "toc_title": "Chapter II. At La Guaira"
+  },
+  {
+   "at": "p0054",
+   "kind": "chapter",
+   "toc_title": "Chapter III. At Carácas"
+  },
+  {
+   "at": "p0071",
+   "kind": "chapter",
+   "toc_title": "Chapter IV. Traits of Republican Life"
+  },
+  {
+   "at": "p0093",
+   "kind": "chapter",
+   "toc_title": "Chapter V. Major Milligan’s Mistake"
+  },
+  {
+   "at": "p0116",
+   "kind": "chapter",
+   "toc_title": "Chapter VI. How to Obtain a Loan"
+  },
+  {
+   "at": "p0145",
+   "kind": "chapter",
+   "toc_title": "Chapter VII. To Puerto Cabello"
+  },
+  {
+   "at": "p0171",
+   "kind": "chapter",
+   "toc_title": "Chapter VIII. The Sights of Valencia"
+  },
+  {
+   "at": "p0192",
+   "kind": "chapter",
+   "toc_title": "Chapter IX. Erminia"
+  },
+  {
+   "at": "p0209",
+   "kind": "chapter",
+   "toc_title": "Chapter X. General Falcon"
+  },
+  {
+   "at": "p0221",
+   "kind": "chapter",
+   "toc_title": "Chapter XI. A Visit to Carabobo"
+  },
+  {
+   "at": "p0235",
+   "kind": "chapter",
+   "toc_title": "Chapter XII. A Visit to Las Tinájas"
+  },
+  {
+   "at": "p0258",
+   "kind": "chapter",
+   "toc_title": "Chapter XIII. The Resources of Venezuela"
+  },
+  {
+   "at": "p0331",
+   "kind": "chapter",
+   "toc_title": "Chapter XIV. Relations of Venezuela with Foreign Powers"
+  },
+  {
+   "at": "p0361",
+   "kind": "appendix",
+   "toc_title": "Appendix (A). The Loans: Prospectuses, Letters, and Decrees"
+  },
+  {
+   "at": "p0377",
+   "kind": "appendix",
+   "toc_title": "Appendix (B). Catalogue of the Venezuelan Exhibits, London, 1862"
+  },
+  {
+   "at": "p0388",
+   "kind": "appendix",
+   "toc_title": "Appendix (C). The Gold Mine of the Yuruari"
+  },
+  {
+   "at": "p0396",
+   "kind": "appendix",
+   "toc_title": "Appendix (C.) The Constitution of 1864"
+  },
+  {
+   "at": "p0417",
+   "kind": "appendix",
+   "toc_title": "Appendix (D). Mr. Mocatta’s Statement"
+  }
+ ],
  "summary": "In 1864 Edward B. Eastwick, a former British diplomat in Persia, went to Venezuela as commissioner for the Venezuelan loan of that year. The first twelve chapters tell of the voyage by the Royal Mail steamer through St. Thomas to La Guaira, of Caracas and its bells, earthquake, and cemetery, of a bull-fight, of ministers and their breakfasts, and of journeys by Puerto Cabello to Valencia, to the battlefield of Carabobo, to the camp of President Falcon, and through the coffee valleys of Aragua. Two further chapters set out the resources of the country and the history of its debts to England. The appendix, about seventy pages, prints the loan contract, prospectuses and decrees, an exhibition catalogue, an account of the gold mines of the Yuruari, the constitution of 1864, and the accounts of the loan.",
  "notes_on_text": [
-  "The map announced on the title page is not in the copy scanned for this edition, nor in the two other copies at the Internet Archive; it is missing here."
+  "The map announced on the title page is not in the copy scanned for this edition, nor in the two other copies at the Internet Archive; it is missing here.",
+  "The contents of this edition give each chapter a short title of the editor’s, taken from the opening words of its summary, and each appendix a short description; the summaries follow in full.",
+  "The book’s errata list (“for Engelckye, read Engelke”, pp. 126–128) is applied in the text, each place marked as a correction."
  ],
  "history": [
   {
    "version": 1,
    "date": "2026-11-22",
    "note": "First publication."
+  }
+ ],
+ "toc": {
+  "subtitles": "all"
+ },
+ "omitted_from_reading": "The half-title, the printed contents, and the errata list are in the JSON only; the corrections of the errata list are made in the text.",
+ "waivers": [
+  {
+   "check": "spacing",
+   "match": "p0306",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0363",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0364",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0378",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0379",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0380",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0381",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0383",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0386",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0421",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0424",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
+  },
+  {
+   "check": "spacing",
+   "match": "p0429",
+   "why": "ditto marks printed as raised double commas (,,) in a table or list, typed as printed; looked at on the scan (p0363)"
   }
  ]
 }

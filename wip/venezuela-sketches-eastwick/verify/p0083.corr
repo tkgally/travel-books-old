@@ -1,0 +1,8 @@
+{"find": "the dissecting-room, and that for", "replace": "the dissecting-room, and that for"}
+
+Checking the draft against the image, I found one discrepancy and one point I'm leaving alone.
+
+- The draft's `[[cont]]of` has no space after the marker. I'm leaving it, since that is markup.
+- The remaining text matches the image.
+
+NONE

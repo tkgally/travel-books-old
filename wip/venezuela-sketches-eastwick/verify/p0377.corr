@@ -1,0 +1,2 @@
+{"find": "<i>March</i> 19<i>th</i>, 1867", "replace": "<i>March 19th</i>, 1867"}
+{"find": "in</i> 1862.", "replace": "in 1862.</i>"}

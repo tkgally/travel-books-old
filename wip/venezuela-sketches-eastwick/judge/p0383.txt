@@ -1,0 +1,41 @@
+[[page 367]]
+
+| No. | <sc>name.</sc> | Specific Weight. |
+|---|---|---|
+| 56 | Tabacote | 0,5227 |
+| 57 | Tasí, Tasi (Tachi) Myroxylon pubescens, <i>Kth.</i> | 1,2432 |
+| 58 | Naranjillo, Swartzia tomentosa, <i>De C.</i> | 1,0207 |
+| 59 | Limoncillo, Citrosma laurifolium, <i>Kth.</i> | 0,9183 |
+| 60 | Chupon colorado, Gustavia (Pirigara) speciosa, <i>De C.</i> | 1,0169 |
+| 61 | Guisanda | 0,9719 |
+| 62 | Narauli | 0,8239 |
+| 63 | Guayabo sabanero | 1,0265 |
+| 64 | Roseta | 0,8821 |
+| 65 | Chupon, Gustavia fastuosa? <i>Willd.</i> | 0,9461 |
+| 66 | Espuelita, Juga microphylla? <i>Kth.</i> | 0,9473 |
+| 67 | Sasafras, Nectandra cymbarum | 0,7313 |
+| 68 | Rosa de Montana, Brownea grandiceps, <i>Jacq.</i> | 0,8477 |
+| 69 | Canilla de venado | 0,7646 |
+| 70 | Apamate | 0,6443 |
+| 71 | Lechoso, Carica papaya | 0,7864 |
+| 72 | Curtidor | 0,8719 |
+| 73 | Pinabete | 0,5885 |
+| 74 | Haya criolla, Rhopala polystachya? <i>Kth.</i> | 0,7832 |
+| 75 | Guamo, Juga insignis, <i>Kth.</i> | 0,8921 |
+| 76 | Pui [[fnref *]] | 1,0194 |
+| 77 | Guarataro, (37) Couratori Guianensis, [[fnref †]] <i>Aubl.</i> | 0,8777 |
+| 78 | Llaguero [[fnref ‡]] | |
+| 79 | Aguacate cimarron, Persea sp.? [[fnref §]] | 0,5337 |
+| 80 | Aguagate dulce, Persea gratissima, [[fnref ‖]] <i>Lin.</i> | 0,5021 |
+| | Cuji [[fnref ¶]] | 1,0538 |
+| 81 | Balsamillo, Elaphrium Jacquinianum, <i>Kth.</i>[[fnref * *]] | 0,8533 |
+| 82 | Amarillo, Xanthoxylum Cumanense, <i>Kth.</i> | 0,8591 |
+| 83 | | |
+
+[[fn *]] Very hard, adapted for large beams, joists, &c.
+[[fn †]] Hard, produces large planks and joists from 30 to 35 feet long.
+[[fn ‡]] Like the cedar in colour and weight; for tables, planks, &c., of large grain.
+[[fn §]] Weight and colour of cedar, but fine grain.
+[[fn ‖]] For tables, planks, &c.
+[[fn ¶]] For strong pillars, axles for carts, being very strong and hard.
+[[fn * *]] Very hard, for veneering for boards, tables, and furniture; the same colour as mahogany.

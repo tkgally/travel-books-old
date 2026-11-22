@@ -1,0 +1,10 @@
+{"find": "What could want, miasma, exposure, or fatigue", "replace": "What could want, miasma, exposure, or fatigue"}
+{"find": "Yet they were not contemptible—far from it—but rather weird, repulsive—a sight to make one shudder.", "replace": "Yet they were not contemptible—far from it—but rather weird, repulsive—a sight to make one shudder."}
+
+Wait—those are no-ops; the real differences are:
+
+{"find": "starveling boys", "replace": "starveling boys"}
+
+I found no real differences on this page. The draft matches the image.
+
+NONE

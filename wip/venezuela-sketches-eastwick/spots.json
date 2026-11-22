@@ -1,0 +1,119 @@
+{
+ "p0008": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[center]] <sc>london:</sc>",
+   "replace": "[[center]] LONDON:",
+   "draft": "[[center]] <sc>london:</sc>",
+   "verified": "[[center]] LONDON:",
+   "context": "[[page ?]] ⏎  ⏎ [[center]] <sc>london:</sc> ⏎  ⏎ [[center]] <sc>bradbury, evans, and co., printers, whitefr"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "<sc>bradbury, evans, and co., printers, whitefriars.</sc>",
+   "replace": "BRADBURY, EVANS, AND CO., PRINTERS, WHITEFRIARS.",
+   "draft": "<sc>bradbury, evans, and co., printers, whitefriars.</sc>",
+   "verified": "BRADBURY, EVANS, AND CO., PRINTERS, WHITEFRIARS.",
+   "context": "[[page ?]] ⏎  ⏎ [[center]] LONDON: ⏎  ⏎ [[center]] <sc>bradbury, evans, and co., printers, whitefriars.</sc> ⏎ "
+  }
+ ],
+ "p0015": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "APPENDIX <pref>345</pref>",
+   "replace": "APPENDIX. <pref>345</pref>",
+   "draft": "APPENDIX <pref>345</",
+   "verified": "APPENDIX. <pref>345</",
+   "context": "Force—The Compensation Plan—The Best Plan <pref>315</pref> ⏎  ⏎ APPENDIX <pref>345</pref> ⏎ "
+  }
+ ],
+ "p0042": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "contentedly",
+   "replace": "contently",
+   "draft": "contentedly",
+   "verified": "contently",
+   "context": "ory movements of the Isabel, I could have passed hours very contentedly with a fragrant cigar in my mouth, gazing from the sea at L"
+  }
+ ],
+ "p0094": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "had no intention——",
+   "replace": "had no intention——”",
+   "draft": " intention——",
+   "verified": " intention——”",
+   "context": "been a mistake. It appears that I deceived myself. Monsieur had no intention——” ⏎ "
+  }
+ ],
+ "p0107": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Panchíto",
+   "replace": "Panchito",
+   "draft": "Panchíto",
+   "verified": "Panchito",
+   "context": "ff bow and quitted the room, and was followed by Terésa and Panchíto, the latter ruefully rubbing his head, which had been bruis"
+  }
+ ],
+ "p0122": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "some, or of all",
+   "replace": "some, or all",
+   "draft": "some, or of all",
+   "verified": "some, or all",
+   "context": "[[page 106]] ⏎ [[cont]]Republic; or the Export Duties of some, or of all the Custom-houses of the country, with power also to give a"
+  }
+ ],
+ "p0228": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Tinnaquillo",
+   "replace": "Tinaquillo",
+   "draft": "Tinnaquillo",
+   "verified": "Tinaquillo",
+   "context": "y, the 22nd, we pushed on due north, through the village of Tinnaquillo, and halted on the road to Carabobo, the enemy's outposts f"
+  }
+ ],
+ "p0286": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "sabânas",
+   "replace": "sabánas",
+   "draft": "sabânas",
+   "verified": "sabánas",
+   "context": "remity of the Peninsula of Paraguana, Cape Roman, where the sabânas of Tatarabare join the province of Nueva Cegovia. The princ"
+  }
+ ],
+ "p0430": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Echeraguia",
+   "replace": "Echerraguia",
+   "draft": "Echeraguia",
+   "verified": "Echerraguia",
+   "context": ", £6000, £10,000 | | | 27,000 | 0 | ⏎ | ,, | ,, | of Eggers & Echeraguia £1750 | in account of <i>Billetes</i> and Shares of Bank. |"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "£398,517 | 14 |",
+   "replace": "£398,517 | 11 |",
+   "draft": "£398,517 | 14 |",
+   "verified": "£398,517 | 11 |",
+   "context": "ce, freights, &c. | | | 2,587 14 | 102,587 | 14 | ⏎ | | | | | £398,517 | 14 | ⏎  ⏎ Carácas, <i>December</i> 10<i>th</i>, 1862. ⏎  ⏎ E. M<sc>ocatt"
+  }
+ ]
+}

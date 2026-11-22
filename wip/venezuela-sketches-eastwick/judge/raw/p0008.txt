@@ -1,0 +1,2 @@
+{"n": 1, "is": "A", "print": "[[center]] <sc>london:</sc>", "sure": "low"}
+{"n": 2, "is": "B", "print": "<sc>bradbury, evans, and co., printers, whitefriars.</sc>", "sure": "low"}
