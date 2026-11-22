@@ -1,0 +1,5 @@
+{"given": "Looking acrofs the plain we see", "print": "Looking across the plain we see", "sure": "high"}
+{"given": "seventeen feet, when gradually descending", "print": "seventeen feet, then gradually descending", "sure": "high"}
+{"given": "ascend to Sherman station, the highest", "print": "ascend to Sherman Station, the highest", "sure": "high"}
+{"given": "until we reach Chicago; which is", "print": "until we reach Chicago, which is", "sure": "high"}
+{"given": "the journey across country has been", "print": "the journey across the country has been", "sure": "high"}

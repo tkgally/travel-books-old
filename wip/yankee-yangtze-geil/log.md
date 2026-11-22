@@ -16,6 +16,8 @@ Plates: 48 leaves printed both sides, numbered i–c at the foot, many with two 
 Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-11-22; pp. 1–312 complete; folding plates opened. Pencil marks p0031, p0123–p0124.
 
 ## Decisions
+- Rendered look (Opus subagent; web wide and narrow, EPUB): Chinese renders on the site and in the EPUB; found the Edict splitting a paragraph (fixed as above) and “thousand learnings” on p0379 (printed without the “A”: marked [[corr]]).
+- Contents: the printed contents gives each chapter's topics in full: `"toc": {"subtitles": "all"}`.
 - Spot-read (Opus subagent, front matter, 23 chapter openings, the Sacred Edict, the table, notes): 6 proverbs were still in printed order (reversed to reading order); 天 for 大 (p0338); 宗 printed for 崇 in the Sacred Edict marked [[corr]]; six opening words to capitals as printed; the title page’s “A” on its own line; a dash missing in the heading of ch. III (contents has it) marked [[corr]]. p0262: a damaged closing quotation mark, not a note reference. Every proverb in the book is printed right to left.
 - Pictures: 146 cropped by two Opus subagents (sideways plates turned 270°; six chapter-opening drawings had a caption or text letter whited out from the crop); three plates with two photographs under one caption split into two pictures (p0223, p0247, p0272).
 - p0312 caption: a letter lost in printing (“〓hu Siung Fu”); the New York issue’s plate prints “Chu Siung Fu” → typed Chu. The New York issue’s plate captions were reset (line breaks differ; it reads “frantic” where London has “fanatic”), so plates xxi–xxiv (from that copy) may differ slightly from the London captions: said in `notes_on_text`.
@@ -32,6 +34,8 @@ Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-
 |---|---|---|---|---|
 
 ## Known issues
+- The Sacred Edict (leaf p0133, an unnumbered page in Chapter V) is bound in the middle of a paragraph (pp. 82–83); its text is placed in p0137.txt after the end of that paragraph, and p0133.txt holds only the page marker.
+- The English lines of maxims 5 and 6 of the Edict are swapped in the print (kept).
 - Paragraphs that run on after a quoted verse (pp. 248, 268) start a new paragraph (the markup cannot continue them).
 - The footnote on p. 47 (leaf p0085) is printed in three paragraphs; one here.
 - Plates p0303 and p0311: the two photographs follow the draft's order (lower first).

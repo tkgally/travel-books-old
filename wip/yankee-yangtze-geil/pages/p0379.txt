@@ -5,7 +5,7 @@
 
 [[center]] 千學不如一見
 
-[[center]] thousand learnings are not worth one seeing.
+[[center]] [[corr thousand|A thousand]] learnings are not worth one seeing.
 
 [[image: a Chinese cooking range, drawn around the large initial letter T]]
 [[caption]] Cooking Range.

@@ -1,0 +1,5 @@
+{"given": "she had carried if. I learned", "print": "she had carried it. I learned", "sure": "high"}
+{"given": "from two hundred two hundred and fifty", "print": "from two hundred to two hundred and fifty", "sure": "high"}
+{"given": "six thousand feet high; was an", "print": "six thousand feet high, was an", "sure": "high"}
+{"given": "thrown over his shonlders to protect", "print": "thrown over his shoulders to protect", "sure": "high"}
+{"given": "inn, the shimizu-ya, in which", "print": "inn, the Shimizu-ya, in which", "sure": "high"}
