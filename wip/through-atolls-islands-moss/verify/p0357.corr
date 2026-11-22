@@ -1,9 +1,0 @@
-{"find": "Commander of the United States’ corvette", "replace": "Commander of the United States’ corvette"}
-
-Checking the draft against the image, I found these differences:
-
-{"find": "[[cont]]citizens", "replace": "[[cont]] citizens"}
-
-Actually the draft's `[[cont]]citizens` is acceptable, so I'm not reporting that one. After checking, the text matches the page except for the pieces below.
-
-NONE
