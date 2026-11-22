@@ -1,6 +1,6 @@
 {
  "id": "brown-men-women-reeves",
- "version": 1,
+ "version": 2,
  "date": "2026-11-22",
  "title": "Brown Men and Women",
  "subtitle": "or, The South Sea Islands in 1895 and 1896",
@@ -101,13 +101,19 @@
   "Quoted passages printed in smaller type, among them most of the yarns of Chapter II, are set off as quotations.",
   "“Excerpts from Tongan Official Documents” is printed in small type along the foot of pp. 268–286, under the text of Chapter X, as a second, separate text; the author calls it “a concurrent and correlative substatement”. Here it follows Chapter X as a section of its own, with the printed page numbers. The small raised numbers in Chapter X refer to the numbers in parentheses in these excerpts.",
   "Tables that belong to footnotes on pp. 25 and 111 follow the text of their page.",
-  "Two footnotes printed in two paragraphs (pp. 30 and 289) are given as one paragraph each."
+  "Two footnotes printed in two paragraphs (pp. 30 and 289) are given as one paragraph each.",
+  "The two tables printed in footnotes (pp. 25 and 111) are given as one line of the note, the headings first and the rows separated by semicolons; the note to “Niua Tobutabu” in the second table follows it in the same note, after its asterisk. The paragraph that resumes after the printed music (p. 137) begins a new paragraph."
  ],
  "history": [
   {
    "version": 1,
    "date": "2026-11-22",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-22",
+   "note": "The tables of the footnotes on pp. 25 and 111 given in their notes (they were set as body text, splitting the paragraph around them)."
   }
  ],
  "keep_hyphens": [
@@ -116,27 +122,18 @@
  ],
  "waivers": [
   {
-   "check": "compile",
-   "match": "p0038",
-   "why": "The sentence resumes after a table that belongs to a footnote (p. 26); the table stands after the notes of p. 25, so the [[cont]] has nothing before it to continue."
-  },
-  {
-   "check": "compile",
-   "match": "p0122",
-   "why": "As p0038: the sentence resumes after a table that belongs to a footnote (p. 112)."
-  },
-  {
-   "check": "compile",
-   "match": "p0143",
-   "why": "The sentence resumes after the four pages of printed music (pp. 133–136, given as pictures)."
+   "check": "spacing",
+   "match": "p0037",
+   "why": "ditto marks (” and a broken , ) in the footnote table on p. 25, as printed; the table is one line of the note (as in My Life in Mongolia and Siberia, p. viii); looked at on the scan"
   }
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-22",
   "pages": 6,
   "recall": "30/30",
   "real_errors": 0,
-  "fixed": 0
+  "fixed": 0,
+  "note": "text unchanged except listed fixes"
  }
 }

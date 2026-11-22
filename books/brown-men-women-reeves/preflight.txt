@@ -14,7 +14,7 @@
 [       ok] odt: LibreOffice opens the ODT and converts it to PDF
 [       ok] audit: book.json records the sampled audit of this version
 [ look (1)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
-            - (and 2 joins giving a word the book prints whole elsewhere: not listed)
+            - (and 3 joins giving a word the book prints whole elsewhere: not listed)
 [       ok] joins: page joins: missing [[cont]]
 [       ok] folios: printed page numbers that break the sequence
 [       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
@@ -33,9 +33,7 @@
             - p0010: '“Our Colonials”—Rarotonga—Calling on a Queen—Maids of Honour on all fo'
             - p0010: 'Tahiti—Papeëte by sunrise—Papeëte in full sunshine—Sunday service—Cong'
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
-[ look (2)] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
-            - p0037: after the notes: '| | Fine days without rain. | Average temperature at 10 p.m.'
-            - p0121: after the notes: '| <sc>District</sc> (<i>i.e.</i> Island). | Died of measles,'
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
 [       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
 [       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
@@ -63,11 +61,12 @@
             - p0200: “plendid” — “splendid” is common (450; a letter dropped or transposed?)
             - p0218: “leasing” — “pleasing” is common (209; a letter dropped or transposed?)
 [       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
-[ look (4)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+[ look (5)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
             - book.json summary: …Edward Reeves, a New Zealander and the author of “Homew…
             - book.json summary: …1895 to Tonga, Samoa, and Fiji, and in July 1896 to the Cook Islands and the Society Islands,…
             - book.json notes_on_text: …The map of Tongatabu, which the title page and the text announce as…
             - book.json notes_on_text: …he frontispiece of Chapter III, is in none of the scans at the Internet Archive and is missing here.…
+            - book.json notes_on_text: … given as one line of the note, the headings first and the rows separated b…
 [ look (5)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
             - p0237: “act The” in …onicle the extraordinary act The numerous islands o…
             - p0241: “in The” in …the congregation joining in The airs are excee…
@@ -76,4 +75,4 @@
             - p0282: “atmosphere There” in …n bred in this congenial atmosphere There are, however,…
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: brown-men-women-reeves v1 — 0 to fix, 3 waived; to look at: hyphen-joins 1, quote-balance 2, contents 9, note-tail 2, accents 14, rare-forms 5, serial-commas 4, missing-stop 5 — tools@d0e08b43 2026-11-22
+preflight PASS: brown-men-women-reeves v2 — 0 to fix, 11 waived; to look at: hyphen-joins 1, quote-balance 2, contents 9, accents 14, rare-forms 5, serial-commas 5, missing-stop 5 — tools@3042e043 2026-11-22
