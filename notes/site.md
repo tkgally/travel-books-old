@@ -164,7 +164,8 @@ What Tom decided is in `preferences.md` (2026-11-20, "display settings"). How it
 - **The panel:** basic (colours, size, typeface, line spacing) and, behind "More settings", advanced (width,
   justified/ragged, paragraph style, letter and word spacing, four on/off buttons, reset). Controls are pictures;
   each has an `aria-label`, and the same words appear as a tip under it for a mouse (`hover: hover`) or keyboard
-  focus. Radio groups are real radio buttons; steppers announce the new value in a `role="status"` element.
+  focus — above it when there is no room below inside the panel (the panel in the reading bar scrolls, and Safari and
+  Firefox cut off a tip past its foot: the reset button's tip was invisible there; Tom, 2026-11-23). Radio groups are real radio buttons; steppers announce the new value in a `role="status"` element.
 - **A new theme** needs its six colours in `site.css` (`:root[data-theme="…"]`), a swatch (`.tb-sw-…`) and its name
   in `CHOICES.theme` in the script; the dark colours are written twice (device and choice) and a test keeps the two
   the same. Print always uses black on white.
