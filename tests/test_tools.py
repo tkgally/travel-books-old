@@ -815,6 +815,10 @@ class SiteLists(unittest.TestCase):
         book2, _ = comp(["[[page 1]]\n# ONE\n\nText."])
         page = build_site.book_page(book2, rh.file_names(book2, ".html"), True)
         self.assertIn('<a class="cover" href="01.html#start" title="Start reading"><img class="cover"', page)
+        # "Click to read" beside the picture, two lines, with the same link (Tom, 2026-11-23)
+        self.assertIn('</a><a class="cover-label" href="01.html#start">Click<br/>to read</a></div>', page)
+        self.assertIn('<div class="cover-row"><a class="cover" href="01.html#start"', page)
+        self.assertNotIn("cover-label", build_site.book_page(book2, rh.file_names(book2, ".html"), False))
         self.assertIn('<li><a href="01.html">Read on this site</a> (contents below)</li>', page)
 
     def test_head_piece_stands_close_to_its_heading(self):
