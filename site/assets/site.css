@@ -36,6 +36,10 @@ ul.books { list-style: none; padding: 0; } ul.books li { margin: 0.7rem 0; }
 ul.actions { padding-left: 1.2rem; } ul.actions li { margin: 0.3rem 0; }
 a.cover { display: block; width: -moz-fit-content; width: fit-content; margin: 1rem 0; } a.cover img.cover { margin: 0; }
 img.cover { display: block; max-width: 11rem; height: auto; margin: 1rem 0; border: 1px solid var(--line); }
+/* "Click to read" to the right of the picture on a book's page, the same link (Tom, 2026-11-23) */
+.cover-row { display: flex; align-items: flex-end; gap: 1.1rem; margin: 1rem 0; } .cover-row a.cover { margin: 0; }
+a.cover-label { font-style: italic; font-size: 0.85rem; line-height: 1.35; color: var(--fg); text-decoration: none; }
+a.cover-label:hover, a.cover-label:focus { text-decoration: underline; }
 nav.toc ol { list-style: none; padding-left: 0; margin: 0; } nav.toc li { margin: 0.35rem 0; } nav.toc ol ol { padding-left: 1.3rem; }
 .tablewrap { overflow-x: auto; }
 table.bib, table.doc { border-collapse: collapse; font-size: 0.92rem; width: 100%; }

@@ -25,7 +25,7 @@ the time of the journey, and "JATSI" for a book of that list.
 from every page; beside them "Books" (`books.html`), "About" and the settings button. The breadcrumb line exists
 only on chapter pages and is the book's title (→ its page) › the chapter; no other page has one (`crumbs` of
 `build_site.page`). `places.html`, `dates.html` and `authors.html` each say "Also listed by …" with links to the
-other lists. On a book's page the picture of the cover links to the first chapter, as "Read on this site" does.
+other lists. On a book's page the picture of the cover links to the start of the narrative, and “Click to read”, in small italics on two lines to its right, has the same link (Tom, 2026-11-23); “Read on this site” goes to the title page.
 
 ## Stages
 
