@@ -13,12 +13,24 @@
    "height": 450,
    "sha256": "260341fd9576e488c5211a5a2ac305bcdd26004bf433b34e94f2ae92946c229c"
   },
+  "army-officer-on-leave-in-japan-maus": {
+   "image": "title page",
+   "width": 279,
+   "height": 450,
+   "sha256": "55028f7e190145ef75fe49122453ecef208fbbd2704a1d2ce83c870832755968"
+  },
   "around-the-world-through-japan-del-mar": {
    "image": "title page",
    "width": 289,
    "height": 450,
    "sha256": "d929b653ddd729e56dcc4201fbe730a625e3b3efbfae1af4707b73d3115d9677",
    "note": "title page; the cover is plain library cloth"
+  },
+  "artist-himalayas-mccormick": {
+   "image": "cover",
+   "width": 266,
+   "height": 450,
+   "sha256": "1920dd3fd9769b671634fd1dbac4ad1d5887ff79322bd6b7354eac9ce7522c08"
   },
   "autumn-tour-in-western-persia-durand": {
    "image": "title page",
@@ -137,6 +149,12 @@
    "height": 450,
    "sha256": "c47fa2cb4b70abfbb7627f853f2b8c0144cf7e19561a2e1bc554d29595cbfa3a"
   },
+  "in-savage-africa-glave": {
+   "image": "cover",
+   "width": 283,
+   "height": 450,
+   "sha256": "59ac675bade14de9cf35bc5c642fcc9a2709bffc9f3065ad3aef9bbd00732425"
+  },
   "japan-a-sailors-visit-cook": {
    "image": "title page",
    "width": 290,
@@ -247,6 +265,12 @@
    "width": 277,
    "height": 450,
    "sha256": "1f15055c987e9b5cb923f431540dfb8c0a9ed097f092e6980bf352e4ff59846b"
+  },
+  "panama-in-1855-tomes": {
+   "image": "title page",
+   "width": 267,
+   "height": 450,
+   "sha256": "bfea24a466fd452c34d79370140c2fe887f61458b6b97c069d3d42aa50afc000"
   },
   "parsons-holiday-allen": {
    "image": "title page",
@@ -359,6 +383,12 @@
    "sha256": "a6a30363180d2e072c767c7cf8cdd027918180d5b4220065c9a42a7ebb3dada2",
    "note": "the cover's title is faint and runs off the edge"
   },
+  "vacation-days-in-hawaii-and-japan-taylor": {
+   "image": "title page",
+   "width": 273,
+   "height": 450,
+   "sha256": "ad4186d661e29eb76e755c937d3a32e7e57f1efcbc40ee481d47dd630de4587d"
+  },
   "venezuela-sketches-eastwick": {
    "image": "title page",
    "width": 253,
@@ -412,6 +442,12 @@
    "width": 289,
    "height": 450,
    "sha256": "f2a4f9a0b5eb58c46807f51f6a45258fb123fb6ee5e52ae6649fd34c3b385fb4"
+  },
+  "yankee-yangtze-geil": {
+   "image": "title page",
+   "width": 293,
+   "height": 450,
+   "sha256": "4230806c438a950dfc68c06336cb29d629db182660f14bef3759c1318e9205d5"
   },
   "zephyrus-edgcumbe": {
    "image": "title page",
