@@ -1601,11 +1601,12 @@
    "place": "London",
    "publisher": "Seeley and Co.",
    "images": 402,
-   "status": "in progress",
+   "status": "waiting",
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv (full): no English text (PG #27659 is a Dutch translation, not the English book). The Online Books Page, Wikisource: none. Web search of 'Had we been impulsive foreigners we should have fallen upon that old man's neck': nothing. Reprints: Open Library only 1909 Seeley/Lippincott and Creative Media print-on-demand; CiNii 1909 only. Rule 5: Henderson born 1852 (LC authority), death date not found: qualifies by the birth-before-1856 rule. The 50 photographs are the party's own (said in the text). Faded Page not searchable by script. Re-checked 2026-11-23: web search finds no English text or reprint (PG #27659 is the Dutch translation).",
    "note": "University of California scan of the London Seeley issue, 400 ppi; second scan britishofficerin00henduoft (Toronto, Lippincott issue). 50 photographic plates with long captions and a map (map not seen: check it). A retired Indian Army major and companions down the Dalmatian coast, to Cetinje, Mostar, Sarajevo and into Hungary; light and humorous; chapters with summary headings.",
-   "started": "2026-11-23"
+   "started": "2026-11-23",
+   "waiting_for": "Tom's answer on the photographs: the 50 plates are “reproduced from photographs taken by Mrs. Henderson” (p. 12), the author's wife (probably Kathleen Constance, née Goodridge, widow Talbot, married at Calcutta 1893); her dates were not found, so the 70-year rule cannot be settled (2026-11-23). The Opus draft of 382 of 398 leaves is in wip/ ($27.60)."
   },
   {
    "order": 88,

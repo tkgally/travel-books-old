@@ -375,3 +375,10 @@ goes to the to-do list for those sessions (`RESUME.md`).
   *Embassy to China*: side-notes are left out of the reading editions) they are in the JSON only, so the reading editions lose the dates of the
   entries; the book page says so. Should such side-notes be shown in the editions (for example as a small line or a run-in date at the start of
   the paragraph), for this book and others like it? Assumed for now: the standing rule; a new version can show them.
+
+- ***A British Officer in the Balkans*** (Henderson, 1909; 2026-11-23). The 50 photographs are credited “reproduced from photographs taken by
+  Mrs. Henderson”, the author's wife; a Calcutta marriage of 1893 to Kathleen Constance Talbot (daughter of Captain Goodridge) is probably hers, but
+  no birth or death date was found, so the 70-year rule cannot be settled for her. May the book be published (the text is Henderson's, born 1852;
+  the photographs are hers), or published without the photographs, or should it wait until her dates are found? The scan has no map (the title
+  page promises one). The book is `waiting`; its draft is in `wip/`.
+

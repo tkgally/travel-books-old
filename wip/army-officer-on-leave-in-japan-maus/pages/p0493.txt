@@ -34,7 +34,7 @@ Anjiro, <pref>344</pref>.
 
 Antipolo, shrine of, <pref>42</pref>; crime in village of, <pref>42</pref>, <pref>43</pref>.
 
-Arâyat, Mount, <pref>43</pref>.
+Aráyat, Mount, <pref>43</pref>.
 
 Architecture, Japanese, <pref>155</pref>, <pref>305</pref>, <pref>306</pref>.
 

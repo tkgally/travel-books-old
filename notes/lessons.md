@@ -62,7 +62,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
   misread word (*Nile* p0206 “outang”). Crop every one.
 - More reasoning effort is not better OCR; text-only clean-up without the image is not worth doing [p2e].
 - Take the bibliographic facts from the title page, not from IA's record.
-- Start the model runs first and do page-map work while they run.
+- Start the model runs first and do page-map work while they run — but only after the scan check has come back: it reads the list of illustrations, where a photographer or illustrator is credited whose dates may not be known (*A British Officer in the Balkans*, 2026-11-23: “photographs taken by Mrs. Henderson” found after $27.60 of draft; the book waits for Tom).
 - Screenshots are for layout only; preflight and the audit are for the text.
 - Read the generated contents as a reader would before publishing: the first three books went out with
   chapter entries unlike one another (long summaries dropped) and a 90-page diary as one entry; Tom asked for

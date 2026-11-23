@@ -35,7 +35,7 @@
   "Taiwan",
   "Japan"
  ],
- "period": "",
+ "period": "1908",
  "subjects": [
   "Manila",
   "Philippine–American War",
@@ -44,8 +44,8 @@
   "Buddhism",
   "Russo-Japanese War"
  ],
- "summary": "",
- "omitted_from_reading": "",
+ "summary": "Louis Mervin Maus (1851–1939), a medical officer of the United States Army, describes a journey on leave from the Philippines to Japan with two companions he calls the Major and the Judge. The year is not given; the visit of the American fleet to Yokohama dates it to the autumn of 1908. The first quarter of the book is on Manila and its surroundings, the Philippine Insurrection of 1896–97, and Dewey’s battle in Manila Bay, followed by a chapter on Formosa. In Japan the party lands at Nagasaki and goes by the Inland Sea to Yokohama, Kamakura, Tokyo, Nikko, Kyoto, Nara, and Kobe. Many chapters are lectures by the Major on Japanese history, the Forty-seven Ronin, the Shinto and Buddhist religions, the Boxer Rising, and the war with Russia. An appendix gives routes and the cost of travel to the East. There are 73 photographs.",
+ "omitted_from_reading": "The half-title, the printed contents, the list of illustrations, and the index are in the JSON only.",
  "notes_on_text": [],
  "history": [
   {
@@ -80,6 +80,11 @@
    "at": "p0031",
    "kind": "chapter",
    "n": 2
+  },
+  {
+   "at": "p0339",
+   "kind": "chapter",
+   "toc_title": "Chapter XXVII. The Boxer Trouble of 1900 in China and Naval Engagements during the Russo-Japanese War of 1904–5"
   },
   {
    "at": "p0481",
