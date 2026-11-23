@@ -1260,10 +1260,11 @@
    "place": "London",
    "publisher": "Hodder and Stoughton",
    "images": 362,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv has his novels and A Spring Walk in Provence, not this book; The Online Books Page, Wikisource: nothing; Open Library: 1911 only; web search for a reprint or a sentence: nothing. Marshall 1866–1934. Preface by Sir George Reid (1845–1918). Photographs probably uncredited (check at the scan check). Not checked: WorldCat, Trove.",
-   "note": "University of California scan, 400 ppi; Toronto sunnyaustraliaim00mars (300 ppi) as backup. About 30 photographic plates. A novelist sent by the Daily Mail in 1909 for five months across the six states: the voyage, a home station, sugar, out west, Barren Jack dam, shearing, Mildura, Tasmania, Port Arthur, Kalgoorlie. Part I a looking-back memoir; some chapters more reportage (wheat, dairying, orchards)."
+   "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv has his novels and A Spring Walk in Provence, not this book; The Online Books Page, Wikisource: nothing; Open Library: 1911 only; web search for a reprint or a sentence: nothing. Marshall 1866–1934. Preface by Sir George Reid (1845–1918). Photographs probably uncredited (check at the scan check). Not checked: WorldCat, Trove. Re-checked 2026-11-23: web search finds no text (BHL has page images only) and only a Forgotten Books print-on-demand listing.",
+   "note": "University of California scan, 400 ppi; Toronto sunnyaustraliaim00mars (300 ppi) as backup. About 30 photographic plates. A novelist sent by the Daily Mail in 1909 for five months across the six states: the voyage, a home station, sugar, out west, Barren Jack dam, shearing, Mildura, Tasmania, Port Arthur, Kalgoorlie. Part I a looking-back memoir; some chapters more reportage (wheat, dairying, orchards).",
+   "started": "2026-11-23"
   },
   {
    "order": 69,
