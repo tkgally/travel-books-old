@@ -1,0 +1,35 @@
+{
+ "p0059": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "the Roscenia,",
+   "replace": "the Roscénia,",
+   "draft": "the Roscenia,",
+   "verified": "the Roscénia,",
+   "context": "mocks, swung under the commodious veranda of the cottage at the Roscenia, without sustaining the slightest injury. ⏎  ⏎ Our slumbers at N"
+  }
+ ],
+ "p0062": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "vicinty",
+   "replace": "vicinity",
+   "draft": "vicinty",
+   "verified": "vicinity",
+   "context": "tion of almost all the birds and animals to be found in its vicinty, besides many extraordinary insects and curious shells. Nee"
+  }
+ ],
+ "p0081": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "“Dia de Intrudo,”",
+   "replace": "“Dia de Intruido,”",
+   "draft": "Dia de Intrudo,”",
+   "verified": "Dia de Intruido,”",
+   "context": "—Ash Wednesday.—Palm Sunday.—A Romantic Ruin in the Forest.—“Dia de Intrudo,” or Intruding Day. ⏎  ⏎ T<sc>he</sc> most mysterious of the diff"
+  }
+ ]
+}

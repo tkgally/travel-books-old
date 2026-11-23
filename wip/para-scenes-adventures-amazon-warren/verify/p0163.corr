@@ -1,0 +1,9 @@
+The draft drops the line "a terrific snort," after "canoe with", so I'm reporting that one insertion.
+
+{"find": "under our canoe with a terrific snort, kept", "replace": "under our canoe with a terrific snort, kept"}
+
+Checking the rest against the image, the draft is otherwise accurate, so no other corrections are needed.
+
+Wait — the draft does contain "a terrific snort", so the opening line is correct and my first entry is a no-op. Correct output:
+
+NONE

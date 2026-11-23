@@ -1,0 +1,4 @@
+judge opus: 3 spots on 3 pages: {'verified': 1, 'draft': 2}; cost $0.12
+p0059 #1 [verified, sure: medium] draft 'the Roscenia,' | verified 'the Roscénia,' | judge reads 'the Roscénia,'
+p0062 #1 [draft, sure: high] draft 'vicinty' | verified 'vicinity' | judge reads 'vicinty'
+p0081 #1 [draft, sure: high] draft 'Dia de Intrudo,”' | verified 'Dia de Intruido,”' | judge reads 'Dia de Intrudo,”'
