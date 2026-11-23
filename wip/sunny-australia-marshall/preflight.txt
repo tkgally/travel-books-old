@@ -12,12 +12,9 @@
 [       ok] nav: contents: at least one reading division; each has a title and text
 [       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
 [       ok] odt: LibreOffice opens the ODT and converts it to PDF
-[ FAIL (1)] audit: book.json records the sampled audit of this version
-            - book.json "audit" must record this version: {"version", "date", "pages", "recall", "real_errors", "fixed"}
-[ look (5)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+[       ok] audit: book.json records the sampled audit of this version
+[ look (3)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
             - hyphen join at p0050: …d a very heart-|ening sight it … (hyphen removed; check) — the book hyphenates other “heart-” words: keep_hyphens?
-            - hyphen join at p0196: …viable of wage-|earners even in… (hyphen removed; check)
-            - hyphen join at p0222: … neat, English-|looking lodge, … (hyphen removed; check) — the book prints “english-looking” elsewhere: keep_hyphens?
             - hyphen join at p0239: …ggies shepherd-|ing their slow … (hyphen removed; check)
             - (and 9 joins giving a word the book prints whole elsewhere: not listed)
 [       ok] joins: page joins: missing [[cont]]
@@ -61,4 +58,4 @@
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight FAIL: sunny-australia-marshall v1 — 1 to fix, 0 waived; to look at: hyphen-joins 5, verse-joins 3, rare-forms 14, serial-commas 4 — tools@f0eecd81 2026-11-23
+preflight PASS: sunny-australia-marshall v1 — 0 to fix, 0 waived; to look at: hyphen-joins 3, verse-joins 3, rare-forms 14, serial-commas 4 — tools@cac7f8ec 2026-11-23

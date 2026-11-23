@@ -1,0 +1,5 @@
+{"given": "there is no longer anyone on board", "print": "there is no longer any one on board", "sure": "high"}
+{"given": "very small, very beautiful; and very old,", "print": "very small, very beautiful, and very old,", "sure": "high"}
+{"given": "as it is pofsible for inhabited land", "print": "as it is possible for inhabited land", "sure": "high"}
+{"given": "if you bad met him", "print": "if you had met him", "sure": "high"}
+{"given": "On first impression you might say", "print": "On a first impression you might say", "sure": "high"}

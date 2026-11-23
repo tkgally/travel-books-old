@@ -1,0 +1,5 @@
+{"given": "came up from Sydney; travelling like", "print": "came up from Sydney, travelling like", "sure": "high"}
+{"given": "the now famous Darling downs, and", "print": "the now famous Darling Downs, and", "sure": "high"}
+{"given": "He built this house of hewn", "print": "He built his house of hewn", "sure": "high"}
+{"given": "pointed to another site little higher,", "print": "pointed to another site a little higher,", "sure": "high"}
+{"given": "Their warnings were remembcred when the", "print": "Their warnings were remembered when the", "sure": "high"}

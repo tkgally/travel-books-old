@@ -1,0 +1,5 @@
+{"given": "something about life a far-away cattle-station", "print": "something about life in a far-away cattle-station", "sure": "high"}
+{"given": "and a huudred and fifty by road", "print": "and a hundred and fifty by road", "sure": "high"}
+{"given": "They worked cheerfully, but nor altogether", "print": "They worked cheerfully, but not altogether", "sure": "high"}
+{"given": "for a day or two; and return", "print": "for a day or two, and return", "sure": "high"}
+{"given": "more so than ever in western Australia.", "print": "more so than ever in Western Australia.", "sure": "high"}

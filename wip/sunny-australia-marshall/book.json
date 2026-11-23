@@ -183,5 +183,13 @@
  "keep_hyphens": [
   "p0196",
   "p0222"
- ]
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-23",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ }
 }
