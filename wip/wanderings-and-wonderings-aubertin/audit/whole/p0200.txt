@@ -1,0 +1,5 @@
+{"given": "being myself pnrely an excursionist", "print": "being myself purely an excursionist", "sure": "high"}
+{"given": "of the remnants Moore’s “splendid", "print": "of the remnants of Moore’s “splendid", "sure": "high"}
+{"given": "But, when, Lalla Rookh is", "print": "But, then, Lalla Rookh is", "sure": "high"}
+{"given": "of the remains; to the vulgar", "print": "of the remains, to the vulgar", "sure": "high"}
+{"given": "it is today of dismal", "print": "it is to-day of dismal", "sure": "high"}

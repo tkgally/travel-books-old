@@ -12,13 +12,11 @@
 [       ok] nav: contents: at least one reading division; each has a title and text
 [       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
 [       ok] odt: LibreOffice opens the ODT and converts it to PDF
-[ FAIL (1)] audit: book.json records the sampled audit of this version
-            - book.json "audit" must record this version: {"version", "date", "pages", "recall", "real_errors", "fixed"}
-[look (13)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+[       ok] audit: book.json records the sampled audit of this version
+[look (12)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
             - hyphen join at p0040: …who very oppor-|tunely cautione… (hyphen removed; check)
             - hyphen join at p0044: …e strongly dis-|suaded me from … (hyphen removed; check)
             - hyphen join at p0134: …gest and heavi-|est of the two … (hyphen removed; check)
-            - hyphen join at p0173: …as only a half-|swamped boat at… (hyphen removed; check) — the book hyphenates other “half-” words: keep_hyphens?
             - hyphen join at p0190: …he scenery cul-|minates. When I… (hyphen removed; check)
             - hyphen join at p0306: …as Sosuke Yama-|moto, and whose… (hyphen removed; check)
             - hyphen join at p0308: …all an astound-|ing view. It wa… (hyphen removed; check)
@@ -124,4 +122,4 @@
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight FAIL: wanderings-and-wonderings-aubertin v1 — 1 to fix, 0 waived; to look at: hyphen-joins 13, folios 3, contents 38, verse-joins 1, accents 25, misprints 3, rare-forms 3, serial-commas 3 — tools@425fa7ac 2026-11-23
+preflight PASS: wanderings-and-wonderings-aubertin v1 — 0 to fix, 0 waived; to look at: hyphen-joins 12, folios 3, contents 38, verse-joins 1, accents 25, misprints 3, rare-forms 3, serial-commas 3 — tools@7ae4d27f 2026-11-23

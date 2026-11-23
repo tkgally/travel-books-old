@@ -290,5 +290,14 @@
  "frontispiece": "p0007-1",
  "keep_hyphens": [
   "p0173"
- ]
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-23",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0,
+  "note": "1 candidate: the capitals of a heading in the publisher’s list (not an error)"
+ }
 }

@@ -4,8 +4,7 @@ IA: wanderingswonde01aubegoog (University of California, Google scan; 562 leaves
 Eligibility: re-checked 2026-11-23: web search finds only the Forgotten Books print-on-demand reprint. JATSI 89. John James Aubertin 1818–1900. The folding map is scanned folded in both copies: published without it (Tom, 2026-11-22).
 
 ## Status
-Stage reached: (a) scan checked; Drive upload running (51 parts); Opus draft running on leaves 4–559.
-Next step: when the draft is done, `normalize.py`, then the Sonnet corrections pass (workflow §3); crops of the 8 plates and the p0361 diagram.
+Stage reached: (c) audit 30/30; rendered look running. Next: publish.
 
 ## Page map
 p0000 Google notice · p0001 front board · p0002–p0003 endpapers · p0004 half-title (i) · p0005 “By the same author” (ii) · p0006 blank · p0007 portrait frontispiece (“From a photograph by Elliott & Fry”; Swan Electric Engraving Co.) · p0008–p0009 tissue guard · p0010 title (iii) · p0011 blank verso · p0012–p0015 contents (v–viii; list of illustrations on p0015) · p0016 = printed 1, Ch. I (offset 15; +2 at each plate) … p0477 = 448 (closing verse, signed) · p0478 map, folded (only a strip shows: left out, notes_on_text) · p0479 blank · p0480–p0559 Kegan Paul classified list · p0560–p0561 blank, back board.
@@ -15,10 +14,22 @@ Plates (sideways, blank versos): p0066 Benares, p0076 Marble Rocks, p0110 Delwar
 Scan check: all 15 sheets and 15+ leaves at full size by an Opus subagent 2026-11-23: complete (1–448), halftones came out; pencil marks p0012, p0016, p0142.
 
 ## Decisions
+- Judge spots (18) and the spot-read (Opus subagent: title page, contents, 40 chapter openings, all verse, the table, preflight lists, tesseract comparison of pp. 1–448: about 35 candidates on crops): [[corr]] familar, acqaintance, destoyed, pictureque, three full stops missing at line ends (p0196, p0214, p0404), an opening ‘ for “ (p0035); broken type read as printed (thc, werc, who’e, a lost comma tail); Nárâyan → Náráyan; “just ,500” → “just 500” (a speck); p0378/p0477 verse `[[cont]]` removed; the Lusiads attribution moved out of the verse.
+- Left as printed: Wan-lie (p0368: the scan shows “lic”, but this scan loses the bar of e everywhere), “me ver un jour” (p0192), “so longed wished” (p0393); printed folios 223 and 241 for 228 and 245.
+- Chapters are headed only by a numeral: contents entries take the titles of the printed contents (“XXVI. Shanghai—Japan”); “Wanderings and Wonderings.” above Chapter I is a `front` division.
+- The publisher’s classified list (p0480–p0559) is one `advertisements` division: its # headings made ##, “CLASSIFIED LIST” its heading.
+- The folded map p0478: its [[image:]] line removed (only a strip shows); notes_on_text says the map is missing (Tom, 2026-11-22).
+- The Peking plan in a line of text (p0361): a small picture, the paragraph continued after it.
+- keep_hyphens p0173 (half-swamped). Cambodia added to data/places.json.
+- Cover picture: the title page (the board has no readable title).
 
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
 |---|---|---|---|---|---|
+| draft | 2026-11-23 | opus | 556 | 40.23 | no refusals |
+| corrections | 2026-11-23 | sonnet | 556 | 19.17 | 7 words, 12 punctuation, 26 markup |
+| judge | 2026-11-23 | opus | 19 spots | 0.67 | 8 draft, 11 verifier |
+| audit | 2026-11-23 | opus | 6 | 0.37 | 30/30; 1 candidate, not an error |
 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |
