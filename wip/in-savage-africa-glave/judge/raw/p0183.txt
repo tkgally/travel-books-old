@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "dies through\n\n[[image: a herd of elephants wading through water at night, one raising its trunk, with reeds and palms on the bank]]\n[[caption]] Elephants startled at night.\n\n[[cont]]the foliage", "sure": "high"}
-{"n": 2, "is": "B", "print": "presence.\n\nI had", "sure": "high"}

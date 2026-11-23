@@ -1443,11 +1443,13 @@
    "place": "Chicago",
    "publisher": "A. C. McClurg & Co.",
    "images": 514,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-22",
    "eligibility": "JATSI 236. Rules 1–4 met (rule 4 with reservations). Rule 1: the best scan is the Library of Congress copy armyofficeronlea00maus (colour, 400 ppi, clean); JATSI links armyofficeron00mausiala (UC, 524 images, ten blank leaves before the title); armyofficeronlea00mausiala (UC, 518 images) has a yellow cast. Rule 2: not in the PG catalogue; The Online Books Page lists only HathiTrust page images; nothing on Wikisource; a web search of a sentence found nothing. Rule 3: only a print-on-demand copy (2018, does not count). Rule 4: first-person journey (San Francisco, Manila, Formosa, Nagasaki, Inland Sea, Kyoto, Nara, Tokyo, Nikko, Kamakura), but much reads like a guidebook, and long history and mythology chapters are lectures by 'the Major', given as quoted speech. Rule 5 (for the record): Louis Mervin Maus 1851–1939 (LC); photographers not named. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP in progress. Re-checked 2026-11-23: web search finds only print-on-demand reprints and catalogue records; no free text.",
    "note": "412 pp. plus index; 72 half-tone photo plates, mostly two to a leaf, Philippines first, then Japan and Port Arthur. Chapter heads carry summary paragraphs. The first quarter is Manila and the Philippine insurrection. Prose competent but guidebook-like. Long; check the LoC copy against the UC copy at the scan check.",
-   "started": "2026-11-23"
+   "started": "2026-11-23",
+   "version": 1,
+   "published": "2026-11-23"
   },
   {
    "order": 79,
@@ -1601,11 +1603,12 @@
    "place": "London",
    "publisher": "Seeley and Co.",
    "images": 402,
-   "status": "in progress",
+   "status": "waiting",
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent): pg_catalog.csv (full): no English text (PG #27659 is a Dutch translation, not the English book). The Online Books Page, Wikisource: none. Web search of 'Had we been impulsive foreigners we should have fallen upon that old man's neck': nothing. Reprints: Open Library only 1909 Seeley/Lippincott and Creative Media print-on-demand; CiNii 1909 only. Rule 5: Henderson born 1852 (LC authority), death date not found: qualifies by the birth-before-1856 rule. The 50 photographs are the party's own (said in the text). Faded Page not searchable by script. Re-checked 2026-11-23: web search finds no English text or reprint (PG #27659 is the Dutch translation).",
    "note": "University of California scan of the London Seeley issue, 400 ppi; second scan britishofficerin00henduoft (Toronto, Lippincott issue). 50 photographic plates with long captions and a map (map not seen: check it). A retired Indian Army major and companions down the Dalmatian coast, to Cetinje, Mostar, Sarajevo and into Hungary; light and humorous; chapters with summary headings.",
-   "started": "2026-11-23"
+   "started": "2026-11-23",
+   "waiting_for": "Tom's answer on the photographs: the 50 plates are “reproduced from photographs taken by Mrs. Henderson” (p. 12), the author's wife (probably Kathleen Constance, née Goodridge, widow Talbot, married at Calcutta 1893); her dates were not found, so the 70-year rule cannot be settled (2026-11-23). The Opus draft of 382 of 398 leaves is in wip/ ($27.60)."
   },
   {
    "order": 88,
@@ -1662,11 +1665,13 @@
    "place": "New York",
    "publisher": "R. H. Russell & Son",
    "images": 262,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent): (1) University of California scan, 500 ppi, jp2 zip; page numbers continuous. (2) Not in pg_catalog.csv (full); The Online Books Page: scans only; Wikisource: nothing; exact-phrase search of a sentence from ch. V: nothing; Faded Page not checked. (3) Print-on-demand only (Kessinger, Franklin Classics, Creative Media, Forgotten Books). (4) First-person: six years (1883–89) as a station chief on the Congo under Stanley. (5) Glave 1863–1895; introduction by H. M. Stanley (1841–1904); illustrations by the author, Otto H. Bacher (1856–1909), F. A. Bridgman (1847–1928), V. Gribayedoff (1858–1908), E. W. Kemble (1861–1933), I. Walton Taber (c.1857–1933): Bacher's and Gribayedoff's dates to be confirmed at the start. Re-checked 2026-11-23: web search finds only print-on-demand reprints and catalogue records; no free text.",
    "note": "UC scan, 500 ppi; 247 pp, 12 chapters, many text illustrations, a map and a portrait. Lukolela and Bolobo: hunting, palm wine, slave raids, Tippu Tib; parts first in the Century Magazine. London issue: Six Years of Adventure in Congo-Land (1893). Contains the period's language about Africans.",
-   "started": "2026-11-23"
+   "started": "2026-11-23",
+   "version": 1,
+   "published": "2026-11-23"
   }
  ],
  "rejected": [

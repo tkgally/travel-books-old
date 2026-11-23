@@ -1,0 +1,92 @@
+{
+ "id": "in-savage-africa-glave",
+ "version": 1,
+ "date": "2026-11-23",
+ "title": "In Savage Africa",
+ "subtitle": "or, Six Years of Adventure in Congo-Land",
+ "short_title": "In Savage Africa",
+ "authors": [
+  {
+   "name": "E. J. Glave",
+   "sort": "Glave, E. J.",
+   "born": 1863,
+   "died": 1895
+  }
+ ],
+ "place": "New York",
+ "publisher": "R. H. Russell & Son",
+ "year": 1892,
+ "source": {
+  "ia_identifier": "insavageafricaor00glavrich",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": [
+   0,
+   259,
+   260,
+   261,
+   262,
+   263
+  ]
+ },
+ "edition_statement": "First edition (copyright 1892)",
+ "regions": [
+  "Democratic Republic of the Congo"
+ ],
+ "period": "1883–1889",
+ "subjects": [
+  "Congo River",
+  "Congo Free State",
+  "hunting",
+  "slave trade"
+ ],
+ "summary": "Edward James Glave (1863–1895), a young Englishman, went to the Congo in 1883 in the service of the International Association, under H. M. Stanley, who writes the introduction. He gives an account of his six years there: the voyage out and the march past the lower river, his command of the station at Lukolela, his neighbours and their customs, charm doctors, hunting of buffalo, elephant, and hippopotamus, and a stay at Bolobo. After a visit home he returned in 1886 for the Sanford Exploring Expedition, trading in ivory on the river and its tributaries, and he describes slave raiding, the people of the Oubangi, and Tippu Tib. He left the Congo in 1889. The book has many drawings, some from his own sketches, and a map. It uses the language of its time about Africans.",
+ "omitted_from_reading": "The printed contents is in the JSON only.",
+ "notes_on_text": [
+  "Each chapter opens with a picture printed above its heading; here the picture follows the heading and the chapter summary.",
+  "Page 123 was first read by machine OCR (tesseract) and corrected by a model against the scan, because the model would not transcribe it directly; it was then checked like the others."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-23",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {
+   "at": "p0011",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0015",
+   "kind": "contents"
+  },
+  {
+   "at": "p0017",
+   "kind": "introduction"
+  },
+  {
+   "at": "p0021",
+   "kind": "front",
+   "title": "In Savage Africa"
+  },
+  {
+   "at": "p0021",
+   "kind": "chapter",
+   "n": 2
+  }
+ ],
+ "frontispiece": "p0010-1",
+ "keep_hyphens": [
+  "p0028"
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-23",
+  "pages": 7,
+  "recall": "34/34",
+  "real_errors": 0,
+  "fixed": 0,
+  "note": "6 random pages 30/30 and the OCR-fallback page p0129 4/4; no candidates"
+ }
+}

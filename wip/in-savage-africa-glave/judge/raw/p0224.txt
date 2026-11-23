@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "", "sure": "medium"}
-{"n": 2, "is": "A", "print": "e Cannibals.\n\n[[cont]]stand behind their palisade, from which we cleared them, and scattered them in full retreat before us. I completed the punishment by burning their houses and capturing their live stock, and then camped on an island opposite, for the night, keeping a careful watch till the morning, when we resumed our way up river.", "sure": "medium"}
