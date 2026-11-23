@@ -1,2 +1,0 @@
-{"n": 1, "is": "A", "print": "he afternoon of the following day", "sure": "high"}
-{"n": 2, "is": "B", "print": "IT was half", "sure": "medium"}

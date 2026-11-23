@@ -1,5 +1,0 @@
-{"given": "box several vigorons shakes and", "print": "box several vigorous shakes and", "sure": "high"}
-{"given": "with fingers crossed; he drew", "print": "with fingers crossed, he drew", "sure": "high"}
-{"given": "I have a prie that if would", "print": "I have a prie that it would", "sure": "high"}
-{"given": "appealed to during seasons excessive rain-storms", "print": "appealed to during seasons of excessive rain-storms", "sure": "high"}
-{"given": "minutes from the center of the", "print": "minutes from the centre of the", "sure": "high"}

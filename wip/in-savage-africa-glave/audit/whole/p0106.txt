@@ -1,5 +1,0 @@
-{"given": "and buffalo bad become victims", "print": "and buffalo had become victims", "sure": "high"}
-{"given": "a buffalo, bongo Nsanda called", "print": "a buffalo, Bongo Nsanda called", "sure": "high"}
-{"given": "upon revifiting it he was", "print": "upon revisiting it he was", "sure": "high"}
-{"given": "had climbed up bank and got", "print": "had climbed up the bank and got", "sure": "high"}
-{"given": "One man, however; losing his footing", "print": "One man, however, losing his footing", "sure": "high"}

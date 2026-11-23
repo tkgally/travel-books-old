@@ -1,5 +1,0 @@
-{"given": "pounce upon humanity; is checked", "print": "pounce upon humanity, is checked", "sure": "high"}
-{"given": "with the elaborate grotesque rites prescribed", "print": "with the elaborate and grotesque rites prescribed", "sure": "high"}
-{"given": "put into my beach today, on", "print": "put into my beach to-day, on", "sure": "high"}
-{"given": "small leaf between this lips, then", "print": "small leaf between his lips, then", "sure": "high"}
-{"given": "while four slavcs knelt down", "print": "while four slaves knelt down", "sure": "high"}

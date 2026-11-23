@@ -1,5 +1,0 @@
-{"given": "in order to practize the art.", "print": "in order to practise the art.", "sure": "high"}
-{"given": "to some of them or account of", "print": "to some of them on account of", "sure": "high"}
-{"given": "sounds they emit, as; for instance,", "print": "sounds they emit, as, for instance,", "sure": "high"}
-{"given": "court of inquiry eftablished by Ieyasu", "print": "court of inquiry established by Ieyasu", "sure": "high"}
-{"given": "moving about on the surface the waters", "print": "moving about on the surface of the waters", "sure": "high"}

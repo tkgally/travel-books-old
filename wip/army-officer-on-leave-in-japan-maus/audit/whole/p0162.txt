@@ -1,7 +1,0 @@
-{"given": "Chapter XII", "print": "CHAPTER XII", "sure": "low"}
-{"given": "Nobunaga, Hideyoshi, and Ieyasu. The Persecution of the Romanists", "print": "NOBUNAGA, HIDEYOSHI, AND IEYASU. THE PERSECUTION OF THE ROMANISTS", "sure": "low"}
-{"given": "lives of three of japan’s greatest rulers", "print": "lives of three of Japan’s greatest rulers", "sure": "high"}
-{"given": "a thorough understanding the situation necessitates", "print": "a thorough understanding of the situation necessitates", "sure": "high"}
-{"given": "“Ota Nobunaga; who was of", "print": "“Ota Nobunaga, who was of", "sure": "high"}
-{"given": "a time then strong men were", "print": "a time when strong men were", "sure": "high"}
-{"given": "weak and decadent goverument, then in", "print": "weak and decadent government, then in", "sure": "high"}

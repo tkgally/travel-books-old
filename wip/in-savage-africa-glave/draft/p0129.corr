@@ -1,6 +1,0 @@
-{"find": "[[page ?]]\n\nAN EXECUTION. 123.\n\nmen, women,", "replace": "[[page 123]]\n\n[[cont]] men, women,"}
-{"find": "the limhs. accompanied", "replace": "the limbs, accompanied"}
-{"find": "the warhorns,", "replace": "the war-horns,"}
-{"find": "there to\n\nbe surrounded and se be AWAITING EX Cl\n\nto receive", "replace": "there to be surrounded and to receive"}
-{"find": "legs are s\n\nretched out", "replace": "legs are stretched out"}
-{"find": "and knees.\n", "replace": "and knees.\n\n[[image: A slave seated on the ground beneath a thatched shelter, his neck held by a heavy log]]\n[[caption]] Awaiting execution.\n"}

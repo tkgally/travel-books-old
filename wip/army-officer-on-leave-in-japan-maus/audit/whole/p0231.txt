@@ -1,5 +1,0 @@
-{"given": "mighty Prince of Satsuma; who had", "print": "mighty Prince of Satsuma, who had", "sure": "high"}
-{"given": "was partly able dictate the policy", "print": "was partly able to dictate the policy", "sure": "high"}
-{"given": "which were indignantly refnsed by the", "print": "which were indignantly refused by the", "sure": "high"}
-{"given": "Saburo that the western armaments of", "print": "Saburo that the Western armaments of", "sure": "high"}
-{"given": "not long after his that the", "print": "not long after this that the", "sure": "high"}

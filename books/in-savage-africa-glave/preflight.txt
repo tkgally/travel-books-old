@@ -1,0 +1,61 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[ look (8)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0031: …and, and Portu-|gal. Gangs of n… (hyphen removed; check)
+            - hyphen join at p0042: …ey remained un-|conquered, and … (hyphen removed; check)
+            - hyphen join at p0061: … said. Slacken-|ing his pace, h… (hyphen removed; check)
+            - hyphen join at p0087: … a short crino-|line. Food is b… (hyphen removed; check)
+            - hyphen join at p0101: …on some vulner-|able spot, you … (hyphen removed; check)
+            - hyphen join at p0189: …the slight mur-|murs, that were… (hyphen removed; check)
+            - hyphen join at p0206: …lings they sus-|pend their nets… (hyphen removed; check)
+            - (and 24 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[       ok] folios: printed page numbers that break the sequence
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[       ok] contents: entries of the printed contents with no matching heading
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[ look (8)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - be: be (p0017, p0018, p0019, p0021, p0022, p0023…); bé (p0141)
+            - debris: debris (p0017); dèbris (p0221)
+            - grace: grace (p0108, p0167); grâce (p0118)
+            - mundele: mundelé (p0064); mundélé (p0252)
+            - ngoi: ngoi (p0047, p0177); ngöi (p0097)
+            - nkole: nkole (p0098); nkolé (p0242)
+            - nsi: nsi (p0187); ñsi (p0153)
+            - te: te (p0154); té (p0109)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (6)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0017: “littering” — “glittering” is common (116; a letter dropped or transposed?)
+            - p0066: “pared” — “parted” is common (105; a letter dropped or transposed?)
+            - p0093: “noticable” — “noticeable” is common (94; a letter dropped or transposed?)
+            - p0158: “ripping” — “dripping” is common (57; a letter dropped or transposed?)
+            - p0172: “capitas” — “capitals” is common (60; a letter dropped or transposed?)
+            - p0233: “somber” — “sombre” is common (50; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …and of the station at Lukolela, his neighbours and their customs, charm…
+            - book.json summary: …e Sanford Exploring Expedition, trading in ivory on the river and its tributaries, and…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: in-savage-africa-glave v1 — 0 to fix, 0 waived; to look at: hyphen-joins 8, accents 8, rare-forms 6, serial-commas 2 — tools@0bb8142b 2026-11-23

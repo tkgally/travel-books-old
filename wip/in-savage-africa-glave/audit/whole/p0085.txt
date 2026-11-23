@@ -1,5 +1,0 @@
-{"given": "evil spirit, may nor torment him", "print": "evil spirit, may not torment him", "sure": "high"}
-{"given": "sleeping, eating; and drinking he", "print": "sleeping, eating, and drinking he", "sure": "high"}
-{"given": "dark waters of the congo, or", "print": "dark waters of the Congo, or", "sure": "high"}
-{"given": "causing the supply malafu, or palm", "print": "causing the supply of malafu, or palm", "sure": "high"}
-{"given": "over to the just chastifement of", "print": "over to the just chastisement of", "sure": "high"}

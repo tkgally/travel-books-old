@@ -1,5 +1,0 @@
-{"given": "during two short generations; for now", "print": "during two short generations, for now", "sure": "high"}
-{"given": "and mixing with public on the", "print": "and mixing with the public on the", "sure": "high"}
-{"given": "the formcr occupying their seats", "print": "the former occupying their seats", "sure": "high"}
-{"given": "a president on vice-president nominated", "print": "a president or vice-president nominated", "sure": "high"}
-{"given": "of medicine are kitasato, Shiga,", "print": "of medicine are Kitasato, Shiga,", "sure": "high"}

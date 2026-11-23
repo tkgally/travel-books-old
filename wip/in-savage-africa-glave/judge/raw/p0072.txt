@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "He was", "sure": "high"}
-{"n": 2, "is": "A", "print": "with the\n\n[[image: A man in a slouch hat aiming a rifle across tall grass at a native man holding a big knife, with a hut and palm trees behind him]]\n[[caption]] “Drop that knife!”\n\n[[cont]] result that", "sure": "high"}
