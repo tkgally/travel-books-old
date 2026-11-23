@@ -82,6 +82,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 
 - Pictures printed on the contents or list-of-illustrations pages go wherever those pages go (left out of the reading editions): say so in `omitted_from_reading` (*Present-Day Japan*, 2026-11-22).
 - `ocr_claude.py --pages` takes leaf numbers (`7-355`), not names.
+- Tissue guards: the draft transcribes what shows through them (the whole title page; the frontispiece as an `[[image:]]` with its caption), so the text appears twice (*Sunny Australia*, 2026-11-23: seen as a length change on p0010). Empty those leaves to `[[page ?]]` and say so in `notes_on_text`; better, leave them out of `--pages` when the scan check names them.
 - Captions printed in small capitals: drafts type some as `<sc>…</sc>` in lower case and the rest in upper and lower
   case; grep `[[caption]] <sc>` and make all upper and lower case (12 of 148 in *Via Rhodesia*).
 
