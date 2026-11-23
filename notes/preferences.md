@@ -368,6 +368,10 @@ goes to the to-do list for those sessions (`RESUME.md`).
 - **Moss, *Through Atolls and Islands*: yes, publish it** with the pages from the second scan; **if the truncated appendix page would seem strange, leave that appendix out completely** (said in `notes_on_text`).
 - ***Surface Japan*: show only a typical page or two with the bamboo border and the marginal sketches, as an illustration near the beginning of the book, with a caption explaining them.** (The sketches are not otherwise shown.)
 
+## 2026-11-23 (answer on *A British Officer in the Balkans*)
+
+- **Publish Henderson's *A British Officer in the Balkans* in the next session, with the photographs** (taken by Mrs. Henderson, whose dates are unknown). The missing map is said in `notes_on_text`.
+
 ## Questions for Tom
 
 - **Side-notes that date the entries of a letter or diary** (*Letters from Southern India & Ceylon*, Williams, 1877; 2026-11-22). The book prints
@@ -375,10 +379,3 @@ goes to the to-do list for those sessions (`RESUME.md`).
   *Embassy to China*: side-notes are left out of the reading editions) they are in the JSON only, so the reading editions lose the dates of the
   entries; the book page says so. Should such side-notes be shown in the editions (for example as a small line or a run-in date at the start of
   the paragraph), for this book and others like it? Assumed for now: the standing rule; a new version can show them.
-
-- ***A British Officer in the Balkans*** (Henderson, 1909; 2026-11-23). The 50 photographs are credited “reproduced from photographs taken by
-  Mrs. Henderson”, the author's wife; a Calcutta marriage of 1893 to Kathleen Constance Talbot (daughter of Captain Goodridge) is probably hers, but
-  no birth or death date was found, so the 70-year rule cannot be settled for her. May the book be published (the text is Henderson's, born 1852;
-  the photographs are hers), or published without the photographs, or should it wait until her dates are found? The scan has no map (the title
-  page promises one). The book is `waiting`; its draft is in `wip/`.
-

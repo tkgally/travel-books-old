@@ -4,9 +4,9 @@ IA: britishofficerin00hend (University of California; 402 leaves, 400 ppi). Othe
 Eligibility: re-checked 2026-11-23: web search finds no English text or reprint (PG #27659 is a Dutch translation). Henderson born 1852 (LC); death date not found (birth-before-1856 rule). Photographs the party's own.
 
 ## Status
-Stage reached: WAITING for Tom (preferences.md, Questions): the photographs are by Mrs. Henderson, whose dates were not found.
+Stage reached: (a) Tom said on 2026-11-23 to publish it with the photographs (preferences.md); in progress again, to be published next session.
 The scan check found it only after the Opus draft had been started (the session started the draft before the check came back: a mistake; lesson written). Draft stopped at 382 of 398 leaves ($27.60); `ocr_claude.py` resumes: the same command finishes the rest.
-Next step if Tom says yes: finish the draft (`--pages 2-395`, then delete drafts of p0013–p0014, the 1989 bindery notice, and of hidden leaves), then workflow §3.
+Next step: finish the draft (`--pages 2-395`, then delete drafts of p0013–p0014, the 1989 bindery notice, and of hidden leaves), then workflow §3.
 
 ## Page map
 p0001 cover · p0002–p0006 endpapers, blanks · p0007 half-title · p0009 frontispiece “A Bosnian Beauty” (verso p0010 blank) · p0011 title (“With 50 Illustrations & a Map”) · p0012 imprint · p0013–p0014 U.C. bindery notice of 1989 (replacement photocopy volume; not part of the book) · p0015–p0020 contents (5–10) · p0021–p0022 list of illustrations (11–12; credit to Mrs. Henderson) · p0023 Part I (13) · p0025 = printed 15, Ch. I (offset +10, +2 after each plate) · Part II p0087 (63) · Part III p0181 (139) · Part IV p0215 (163) · p0367–p0374 index (295–302) · p0375–p0392 Seeley advertisements · p0393–p0400 blanks, back cover.
