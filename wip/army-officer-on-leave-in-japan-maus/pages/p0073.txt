@@ -2,9 +2,9 @@
 
 [[cont]]on matters of the utmost importance, the Bombinero may call the herd to the trough to slake a thirst which threatens the lives of its members. A few stanzas of an ode to the patron saint of the order, which is always sung during a wallow, is reverentially inserted.
 
-## The Carabao
+[[center]] The Carabao
 
-[[subtitle]] P<sc>atron</sc> S<sc>aint of the</sc> I<sc>llustrious</sc> O<sc>rder of the</sc> C<sc>arabao</sc>
+[[center]] P<sc>atron</sc> S<sc>aint of the</sc> I<sc>llustrious</sc> O<sc>rder of the</sc> C<sc>arabao</sc>
 
 <verse>
 Oh! Carabao, Old Carabao,

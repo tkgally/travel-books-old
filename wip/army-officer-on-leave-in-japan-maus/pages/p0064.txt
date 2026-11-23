@@ -1,5 +1,5 @@
 [[page ?]]
 [[image: A large club pavilion with a wide veranda on raised ground, with figures in white standing along its front]]
-[[caption]] <sc>The Army Club, Camp McKinley, near Manila</sc>
+[[caption]] T<sc>he</sc> A<sc>rmy</sc> C<sc>lub,</sc> C<sc>amp</sc> M<sc>c</sc>K<sc>inley, near</sc> M<sc>anila</sc>
 [[image: A view across a river with moored boats toward the walls of Fort Santiago, with an obelisk monument on the right]]
-[[caption]] <sc>Fort Santiago and Anda monument, Manila</sc>
+[[caption]] F<sc>ort</sc> S<sc>antiago and</sc> A<sc>nda monument,</sc> M<sc>anila</sc>

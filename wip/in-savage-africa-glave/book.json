@@ -39,9 +39,12 @@
   "hunting",
   "slave trade"
  ],
- "summary": "",
- "omitted_from_reading": "",
- "notes_on_text": [],
+ "summary": "Edward James Glave (1863–1895), a young Englishman, went to the Congo in 1883 in the service of the International Association, under H. M. Stanley, who writes the introduction. He gives an account of his six years there: the voyage out and the march past the lower river, his command of the station at Lukolela, his neighbours and their customs, charm doctors, hunting of buffalo, elephant, and hippopotamus, and a stay at Bolobo. After a visit home he returned in 1886 for the Sanford Exploring Expedition, trading in ivory on the river and its tributaries, and he describes slave raiding, the people of the Oubangi, and Tippu Tib. He left the Congo in 1889. The book has many drawings, some from his own sketches, and a map. It uses the language of its time about Africans.",
+ "omitted_from_reading": "The printed contents is in the JSON only.",
+ "notes_on_text": [
+  "Each chapter opens with a picture printed above its heading; here the picture follows the heading and the chapter summary.",
+  "Page 123 was first read by machine OCR (tesseract) and corrected by a model against the scan, because the model would not transcribe it directly; it was then checked like the others."
+ ],
  "history": [
   {
    "version": 1,

@@ -54,6 +54,41 @@
    "note": "First publication."
   }
  ],
- "divisions": [],
+ "divisions": [
+  {
+   "at": "p0011",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0015",
+   "kind": "contents"
+  },
+  {
+   "at": "p0025",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0029",
+   "kind": "preface"
+  },
+  {
+   "at": "p0031",
+   "kind": "front",
+   "title": "An Army Officer on Leave in Japan"
+  },
+  {
+   "at": "p0031",
+   "kind": "chapter",
+   "n": 2
+  },
+  {
+   "at": "p0481",
+   "kind": "appendix"
+  },
+  {
+   "at": "p0493",
+   "kind": "index"
+  }
+ ],
  "frontispiece": "p0010-1"
 }
