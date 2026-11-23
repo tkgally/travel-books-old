@@ -179,6 +179,7 @@
 | An Army Officer on Leave in Japan v1 | 2026-11-23 | 497 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, judge-spot checks, spot-read (with tesseract), rendered look by Opus subagents; Drive uploads (Haiku) | 18 | 16 / 2 / 0 | 2 (p0201 disagreeeable, p0400 personœ) | 53.32 | 0 | PASS, 0 waived | 30/30; 1 / 6 (a printed misprint; spot-read: 2 misprints marked) | |
 | Para v1 | 2026-11-23 | 271 | Opus draft → Sonnet corrections → Opus judge; scan check, spot-read (with tesseract), rendered look by Opus subagents; Drive uploads (Haiku) | 3 | 2 / 1 / 0 | 1 (p0059 Roscénia: no accent printed) | 26.50 | 0 | PASS, 0 waived | 30/30; 0 / 6 (spot-read: 2 printed misprints marked, 3 misreadings) | |
 | Wanderings & Wonderings v1 | 2026-11-23 | 556 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, spot-read (with tesseract), rendered look by Opus subagents; Drive uploads (Haiku) | 19 | 8 / 11 / 0 | 0 | 60.44 | 0 | PASS, 0 waived | 30/30; 0 / 6 (spot-read: 8 printed misprints marked, broken type, an accent) | |
+| Sunny Australia v1 | 2026-11-23 | 350 | Opus draft → Sonnet corrections → Opus judge; scan check, crops, section titles, spot-read (with tesseract), rendered look by Opus subagents; Drive uploads (Haiku) | 12 | 10 / 2 / 0 | 0 | 34.05 | 0 | PASS, 0 waived | 30/30; 0 / 6 (spot-read: 3 printed misprints marked; the tissue guard drafted from show-through, emptied) | |
 
 ## Calibrations
 

@@ -340,6 +340,12 @@
    "sha256": "0d47b1163cc0c651a293b055b149c60290734ae6361a432f0bf20b0d023a39bb",
    "note": "plain cloth cover"
   },
+  "sunny-australia-marshall": {
+   "image": "title page",
+   "width": 282,
+   "height": 450,
+   "sha256": "4530038ca221949004ca5acdc4bda688eb40f3016165272f7bf6f59eba24031d"
+  },
   "surface-japan-seitz": {
    "image": "title page",
    "width": 300,

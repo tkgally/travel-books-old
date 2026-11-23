@@ -1,5 +1,0 @@
-{"given": "It was rolliug a respectable", "print": "It was rolling a respectable", "sure": "high"}
-{"given": "settlement, saw broad channels and the", "print": "settlement, saw the broad channels and the", "sure": "high"}
-{"given": "and lucerne; the garden-encircled homes of the settlers, the fruit", "print": "and lucerne; the garden-encircled homes of the settlers; the fruit", "sure": "high"}
-{"given": "Truly the desert bad blossomed", "print": "Truly the desert had blossomed", "sure": "high"}
-{"given": "Mr. Alfred Deakin, then minister", "print": "Mr. Alfred Deakin, then Minister", "sure": "high"}

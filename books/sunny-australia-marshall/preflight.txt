@@ -1,0 +1,61 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[ look (3)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0050: …d a very heart-|ening sight it … (hyphen removed; check) — the book hyphenates other “heart-” words: keep_hyphens?
+            - hyphen join at p0239: …ggies shepherd-|ing their slow … (hyphen removed; check)
+            - (and 9 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[       ok] folios: printed page numbers that break the sequence
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[       ok] contents: entries of the printed contents with no matching heading
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[ look (3)] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+            - p0131: verse continued from p0130: stanzas before [5] | here [4, 7, 7] (a stanza ending at the page foot needs no [[cont]])
+            - p0132: verse continued from p0131: stanzas before [7, 7, 2] | here [5, 7, 7] (a stanza ending at the page foot needs no [[cont]])
+            - p0134: verse continued from p0133: stanzas before [7, 9, 4] | here [5, 9, 9] (a stanza ending at the page foot needs no [[cont]])
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[       ok] accents: words the book spells with different accents (or with and without): look at each group on the scan
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[look (14)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0073: “haled” — “halted” is common (101; a letter dropped or transposed?)
+            - p0131: “cookin” — “cooking” is common (211; a letter dropped or transposed?)
+            - p0132: “warnin” — “warning” is common (170; a letter dropped or transposed?)
+            - p0133: “swellin” — “swelling” is common (41; a letter dropped or transposed?)
+            - p0133: “dressin” — “dressing” is common (126; a letter dropped or transposed?)
+            - p0133: “jumpin” — “jumping” is common (71; a letter dropped or transposed?)
+            - p0133: “shillin” — “shilling” is common (106; a letter dropped or transposed?)
+            - p0133: “everlastin” — “everlasting” is common (58; a letter dropped or transposed?)
+            - p0133: “sailin” — “sailing” is common (314; a letter dropped or transposed?)
+            - p0134: “coastin” — “coasting” is common (63; a letter dropped or transposed?)
+            - p0134: “gettin” — “getting” is common (771; a letter dropped or transposed?)
+            - p0134: “toilin” — “toiling” is common (41; a letter dropped or transposed?)
+            - p0209: “bail” — “hail” is common (66)
+            - p0330: “billy” — “hilly” is common (52)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (4)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …and its society, the Governors, stations in New South Wales and Queensland, Melbourn…
+            - book.json summary: …New South Wales and Queensland, Melbourne and the Western District…
+            - book.json summary: …ourne and the Western District, Adelaide and the wine districts, …
+            - book.json notes_on_text: …ue paper before the title page, through which the title and frontispiece show, a…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: sunny-australia-marshall v1 — 0 to fix, 0 waived; to look at: hyphen-joins 3, verse-joins 3, rare-forms 14, serial-commas 4 — tools@71a89c9d 2026-11-23

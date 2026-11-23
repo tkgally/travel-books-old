@@ -168,6 +168,8 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 
 ## Trigger: no printed contents, chapters without titles
 
+- Numbered sections without titles made pages by `toc_entries`: anchor each entry on the numeral heading (`"starts": "IV"`), not on the first words of the text, or each numeral is left at the end of the page before (*Sunny Australia*, 2026-11-23: caught by the rendered look).
+
 - Contents entries of the editor's: places and dates per chapter, proposed by a Sonnet subagent reading the draft text
   (no scans), checked at each chapter opening, said in `notes_on_text` (*Autumn Tour in Western Persia*, 2026-11-20).
 

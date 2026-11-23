@@ -1,5 +1,0 @@
-{"given": "Cressbrook a day on two later", "print": "Cressbrook a day or two later", "sure": "high"}
-{"given": "temperature during the voyage; the result", "print": "temperature during the voyage, the result", "sure": "high"}
-{"given": "which made them look like arctic explorers", "print": "which made them look like Arctic explorers", "sure": "high"}
-{"given": "find one's fingers toes and ears", "print": "find one's fingers and toes and ears", "sure": "high"}
-{"given": "roads that were somethiug like roads", "print": "roads that were something like roads", "sure": "high"}

@@ -1,5 +1,0 @@
-{"given": "arrived at homestead to find", "print": "arrived at the homestead to find", "sure": "high"}
-{"given": "could picture the sight that had", "print": "could picture the fight that had", "sure": "high"}
-{"given": "They shot two troopcrs and", "print": "They shot two troopers and", "sure": "high"}
-{"given": "raised technical objections; and rebuked", "print": "raised technical objections, and rebuked", "sure": "high"}
-{"given": "From Tasmania to New guinea the", "print": "From Tasmania to New Guinea the", "sure": "high"}
