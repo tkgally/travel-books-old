@@ -1443,10 +1443,11 @@
    "place": "Chicago",
    "publisher": "A. C. McClurg & Co.",
    "images": 514,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "JATSI 236. Rules 1–4 met (rule 4 with reservations). Rule 1: the best scan is the Library of Congress copy armyofficeronlea00maus (colour, 400 ppi, clean); JATSI links armyofficeron00mausiala (UC, 524 images, ten blank leaves before the title); armyofficeronlea00mausiala (UC, 518 images) has a yellow cast. Rule 2: not in the PG catalogue; The Online Books Page lists only HathiTrust page images; nothing on Wikisource; a web search of a sentence found nothing. Rule 3: only a print-on-demand copy (2018, does not count). Rule 4: first-person journey (San Francisco, Manila, Formosa, Nagasaki, Inland Sea, Kyoto, Nara, Tokyo, Nikko, Kamakura), but much reads like a guidebook, and long history and mythology chapters are lectures by 'the Major', given as quoted speech. Rule 5 (for the record): Louis Mervin Maus 1851–1939 (LC); photographers not named. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP in progress.",
-   "note": "412 pp. plus index; 72 half-tone photo plates, mostly two to a leaf, Philippines first, then Japan and Port Arthur. Chapter heads carry summary paragraphs. The first quarter is Manila and the Philippine insurrection. Prose competent but guidebook-like. Long; check the LoC copy against the UC copy at the scan check."
+   "eligibility": "JATSI 236. Rules 1–4 met (rule 4 with reservations). Rule 1: the best scan is the Library of Congress copy armyofficeronlea00maus (colour, 400 ppi, clean); JATSI links armyofficeron00mausiala (UC, 524 images, ten blank leaves before the title); armyofficeronlea00mausiala (UC, 518 images) has a yellow cast. Rule 2: not in the PG catalogue; The Online Books Page lists only HathiTrust page images; nothing on Wikisource; a web search of a sentence found nothing. Rule 3: only a print-on-demand copy (2018, does not count). Rule 4: first-person journey (San Francisco, Manila, Formosa, Nagasaki, Inland Sea, Kyoto, Nara, Tokyo, Nikko, Kamakura), but much reads like a guidebook, and long history and mythology chapters are lectures by 'the Major', given as quoted speech. Rule 5 (for the record): Louis Mervin Maus 1851–1939 (LC); photographers not named. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP in progress. Re-checked 2026-11-23: web search finds only print-on-demand reprints and catalogue records; no free text.",
+   "note": "412 pp. plus index; 72 half-tone photo plates, mostly two to a leaf, Philippines first, then Japan and Port Arthur. Chapter heads carry summary paragraphs. The first quarter is Manila and the Philippine insurrection. Prose competent but guidebook-like. Long; check the LoC copy against the UC copy at the scan check.",
+   "started": "2026-11-23"
   },
   {
    "order": 79,
@@ -1660,10 +1661,11 @@
    "place": "New York",
    "publisher": "R. H. Russell & Son",
    "images": 262,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) University of California scan, 500 ppi, jp2 zip; page numbers continuous. (2) Not in pg_catalog.csv (full); The Online Books Page: scans only; Wikisource: nothing; exact-phrase search of a sentence from ch. V: nothing; Faded Page not checked. (3) Print-on-demand only (Kessinger, Franklin Classics, Creative Media, Forgotten Books). (4) First-person: six years (1883–89) as a station chief on the Congo under Stanley. (5) Glave 1863–1895; introduction by H. M. Stanley (1841–1904); illustrations by the author, Otto H. Bacher (1856–1909), F. A. Bridgman (1847–1928), V. Gribayedoff (1858–1908), E. W. Kemble (1861–1933), I. Walton Taber (c.1857–1933): Bacher's and Gribayedoff's dates to be confirmed at the start.",
-   "note": "UC scan, 500 ppi; 247 pp, 12 chapters, many text illustrations, a map and a portrait. Lukolela and Bolobo: hunting, palm wine, slave raids, Tippu Tib; parts first in the Century Magazine. London issue: Six Years of Adventure in Congo-Land (1893). Contains the period's language about Africans."
+   "eligibility": "Checked 2026-11-22 (Opus subagent): (1) University of California scan, 500 ppi, jp2 zip; page numbers continuous. (2) Not in pg_catalog.csv (full); The Online Books Page: scans only; Wikisource: nothing; exact-phrase search of a sentence from ch. V: nothing; Faded Page not checked. (3) Print-on-demand only (Kessinger, Franklin Classics, Creative Media, Forgotten Books). (4) First-person: six years (1883–89) as a station chief on the Congo under Stanley. (5) Glave 1863–1895; introduction by H. M. Stanley (1841–1904); illustrations by the author, Otto H. Bacher (1856–1909), F. A. Bridgman (1847–1928), V. Gribayedoff (1858–1908), E. W. Kemble (1861–1933), I. Walton Taber (c.1857–1933): Bacher's and Gribayedoff's dates to be confirmed at the start. Re-checked 2026-11-23: web search finds only print-on-demand reprints and catalogue records; no free text.",
+   "note": "UC scan, 500 ppi; 247 pp, 12 chapters, many text illustrations, a map and a portrait. Lukolela and Bolobo: hunting, palm wine, slave raids, Tippu Tib; parts first in the Century Magazine. London issue: Six Years of Adventure in Congo-Land (1893). Contains the period's language about Africans.",
+   "started": "2026-11-23"
   }
  ],
  "rejected": [
