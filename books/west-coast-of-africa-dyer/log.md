@@ -64,3 +64,7 @@ No footnotes, no tables. "neeé Briton" p. 1 (misprint?). Running heads to drop.
 ## Known issues
 - The list of corrections names the advertisement correction (triumpth) by its leaf, p0191: the page has no number
   (as in *Cruise in the Mississippi*).
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

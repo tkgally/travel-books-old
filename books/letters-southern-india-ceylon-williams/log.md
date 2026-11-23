@@ -41,3 +41,7 @@ Book picture: the cover (p0001).
 ## Known issues
 - The “Letters” page (02.html) has no heading element: the division has no printed heading, and the renderers add none for a division made by `divisions` with a `title` (live pass, review after fifty books). For a later session: a heading from the division title (visible or for screen readers), with a test, checking that `conservation` still holds on every book.
 - The dates of entries (side-notes) are not in the reading editions (question for Tom).
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

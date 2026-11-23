@@ -36,3 +36,7 @@ Scan check: all 5 sheets, about 10 leaves at full size, folios followed (Opus su
 | 1 | 2026-11-22 | PASS, 0 to fix, 0 waived; look: hyphen-joins 7 (real), accents 7 (as printed, checked), rare-forms 6 (French, “long-thonged”, “mantel-piece”), serial-commas 3 (no lists) — tools@c7d8d293 | 30/30; 0 real | Claude $17.64 |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

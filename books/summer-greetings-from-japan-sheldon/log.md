@@ -42,3 +42,7 @@ seventeen). Three footnotes (p0074, p0082, p0102). Romanized words; no Japanese 
 | 2 | 2026-11-22 | PASS: summer-greetings-from-japan-sheldon v2 — 0 to fix, 0 waived; to look at: hyphen-joins 2, joins 1, accents 3, rare-forms 2, serial-commas 2 — tools@e9870dae 2026-11-22 | as before (text unchanged except the title page) | Title page typed line by line as printed (checked on the scan by the session; 01.html looked at) |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

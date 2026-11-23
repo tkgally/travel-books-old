@@ -43,3 +43,7 @@ Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-
 - Paragraphs that run on after a quoted verse (pp. 248, 268) start a new paragraph (the markup cannot continue them).
 - The footnote on p. 47 (leaf p0085) is printed in three paragraphs; one here.
 - Plates p0303 and p0311: the two photographs follow the draft's order (lower first).
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

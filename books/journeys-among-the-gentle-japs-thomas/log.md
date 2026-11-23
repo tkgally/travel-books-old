@@ -36,3 +36,7 @@ Watch: footnotes (* †); long quotations in small type (some French, p0093, p02
 
 ## Known issues
 - The footnote on p. 249 is printed in three paragraphs; the markup has one (said in notes_on_text).
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

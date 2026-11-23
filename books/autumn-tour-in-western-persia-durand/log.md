@@ -71,3 +71,7 @@ Verse p0188. No footnotes or tables seen. Persian words romanized with accents; 
 - The small drawings (acorn “life size”, pillar, bridge) are shown at the full column width.
 
 - 2026-11-21 (Tom's session on the home page): `images/cover.jpg` is now the title page (leaf p0003, from the Drive cache), not the front cover, on which no title can be read (Tom: the picture on the book's page and in the carousel must have a readable title). No new version: the text is unchanged; the EPUB's cover picture changes with it.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

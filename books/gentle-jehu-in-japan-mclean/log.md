@@ -46,3 +46,7 @@ Scan check: all sheets and pages at full size around every unnumbered leaf (Opus
 | 1 | 2026-11-21 | PASS, 0 waived; look: hyphen-joins 5, joins 1 (dedication after copyright page), quote-balance 1 (as printed), accents 2 (as printed) — tools@6081c3ab | 30/30; 0 real | Claude $15.64 |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

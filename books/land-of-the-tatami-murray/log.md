@@ -37,3 +37,7 @@ Scan check: all 5 sheets 2026-11-21 (Opus subagent); header strip of every text 
 | 5 | 2026-11-22 | PASS: land-of-the-tatami-murray v5 — 0 to fix, 0 waived; to look at: hyphen-joins 1, quote-balance 3, contents 2, accents 20, rare-forms 3, serial-commas 3 — tools@e9870dae 2026-11-22 | as before (text unchanged except the title page) | Title page typed line by line as printed (checked on the scan by the session; 01.html looked at) |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

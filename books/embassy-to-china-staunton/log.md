@@ -123,3 +123,7 @@ cannot be separated). Say in `notes_on_text` which pictures come from the Getty 
 | 5 | 2026-11-22 | PASS: embassy-to-china-staunton v5 — 0 to fix, 0 waived; to look at: hyphen-joins 10, folios 5, contents 27, accents 7, rare-forms 16, serial-commas 3 — tools@11181c6a 2026-11-22 | as before (text unchanged except the title page) | Title page typed line by line as printed (checked on the scan by an Opus subagent; 01.html looked at) |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

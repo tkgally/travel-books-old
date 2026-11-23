@@ -45,3 +45,7 @@ Has: footnotes; tables (pp. 76, 77, 82–83, 121, 300–307 with „ dittos); it
 ## Known issues
 - p. 307 (p0409): “as accurate enough.” resumes a paragraph after a centred equation; shown as a paragraph of its own (the markup cannot continue it).
 - Footnote of p. 69 (several paragraphs, a Spanish letter) given as one paragraph.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

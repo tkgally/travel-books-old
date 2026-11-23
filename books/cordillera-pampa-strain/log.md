@@ -41,3 +41,7 @@ Scan check: all 8 sheets, a dozen leaves at full size, folios followed (Opus sub
 
 ## Known issues
 - The long footnote on p0299 is printed in three paragraphs; the markup has one.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

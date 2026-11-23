@@ -59,3 +59,7 @@ of a Chinese coffin), p0237-1 “Futatsu Tomoye”, p0237-2 “Manji”, p0429-1
 cover.jpg (title page, LoC stamp inside the text area kept). Sideways plates turned 270, except p0347, p0351, p0391 (90). Captions are in capitals and small capitals,
 most with a “Photographed by …” line (Farsari, Plâté, Davey, Fiske, Hiestand); p0153 and p0229 print a low opening quote („,,The Junk.''“): check on the scan.
 p0120: a domino (6–5 printed doubly) set inline in the text, “is printed [domino]. There are no blanks,”: needs a crop if kept as a picture.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

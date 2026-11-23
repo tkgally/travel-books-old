@@ -37,3 +37,7 @@ Scan check: all 10 sheets, 15+ leaves at full size and every plate caption by an
 ## Known issues
 - The first paragraph of each Part I section is indented, unlike the first paragraphs of chapters (the section numeral is a `##` heading).
 - Rendered look (Opus subagent, 1280 and 390 px): plates upright with captions, notes linked both ways, Lawson’s poem, the blockquote over a page, the appendix fine.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

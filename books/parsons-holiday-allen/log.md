@@ -51,3 +51,7 @@ Scan check: all sheets, 23 folios at full size (Opus subagent), 2026-11-21: GOOD
 | 5 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 7, joins 1, contents 11, verse-joins 1, accents 10, rare-forms 3, serial-commas 2, missing-stop 1 — tools@ed86e62f 2026-11-22 | as v4 | 2 printer’s errors of a dropped or transposed letter marked and corrected: “decendants” for “descendants”, “clegyman” for “clergyman”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

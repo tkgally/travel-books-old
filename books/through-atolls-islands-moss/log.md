@@ -33,3 +33,7 @@ Scan check: all 10 contact sheets and a dozen leaves at full size by an Opus sub
 | 1 | 2026-11-22 | PASS: 0 to fix, 7 waived (leaves p0340–p0346, Appendix B) — tools@d95ffaf4 2026-11-22 | 30/30; 0 real / 6 pages | spot-read (Opus subagent, front matter, appendices, accents, tesseract comparison p0023–p0339): 14 fixes, printed misprints marked: ocky, Anarew, cf, mucn, posssession, aud, ubjects, populalation; “acrcss” a broken o (typed across); accents kept as printed where they vary (Ponape/Ponapè/Ponapê, Niuè/Niué, Kitè/Kité …); contents and chapter summaries differ in print in a dozen places, each kept as printed. Rendered look: book page, title page, Chapter I, Appendix A. |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

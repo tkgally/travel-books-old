@@ -26,6 +26,11 @@ data lives in that reader's browser.
 
 ## 0. Urgent: the size of the site
 
+**Done in part (Tom, 2026-11-23):** every picture reduced to at most 1000 px, quality 75 (726 MB → 267 MB); the
+built site is now **869 MB** (EPUB 267 MB, ODT 260 MB). Still close to 1 GB and growing about 11 MB a book, so
+0.1 below will be needed before long. A new single-commit repository is to replace this one so that the old
+pictures leave the history.
+
 **The built site is about 2.2 GB** (measured 2026-11-23: EPUBs 702 MB, ODTs 683 MB, the rest mostly the same pictures
 in the HTML). GitHub documents a **1 GB limit for a published Pages site** and recommends source repositories under
 1 GB. Here, `books/` is 798 MB (697 MB of it images) and `.git` is 750 MB. Deploys still succeed, but an Actions log

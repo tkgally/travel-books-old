@@ -36,3 +36,7 @@ Scan check: all 8 sheets, about 20 leaves at full size and every running head by
 ## Known issues
 - Paragraphs after a verse quotation are set without an indent (site-wide style); asterisk breaks show as space only (site-wide).
 - Rendered look (Opus subagent, 1280 and 390 px): title page, preface, chapters, verse, the EPUB contents fine.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

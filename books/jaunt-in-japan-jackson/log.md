@@ -55,3 +55,7 @@ cost → costs (p0127); p. 125 l. 15 sacophagus → sarcophagus (p0140); p. 126 
 | 2 | 2026-11-21 | jaunt-in-japan-jackson v2 — 0 to fix, 1 waived; to look at: hyphen-joins 1, accents 3, rare-forms 1 — tools@7614af67 2026-11-21 | as v1 (text unchanged except listed fixes) | “midnight” for “midnight.” (p. 26) (found by a sweep of all the books after a reader’s report (issue #117), checked on the scan). |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.
