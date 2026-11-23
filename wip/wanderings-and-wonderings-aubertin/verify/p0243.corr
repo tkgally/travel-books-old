@@ -1,0 +1,8 @@
+{"find": "but quite as silent as open", "replace": "but quite as silent as open"}
+{"find": "our mouths open, but quite", "replace": "our mouths open, but quite"}
+
+Wait — I need to correct that. The draft has "but quite as silent as open" with an extra "quite as silent as open"? Checking: the draft reads "but quite as silent as open" in the same way as the image, but the draft also has "but quite as silent as open" preceded by "with our mouths open, but quite as silent as open". The only real difference is the text "but quite" vs the draft's "but quite". Both are identical, so no change is needed there.
+
+The real differences are:
+
+{"find": "<i>ad infinitum.</i>", "replace": "<i>ad infinitum.</i>"}

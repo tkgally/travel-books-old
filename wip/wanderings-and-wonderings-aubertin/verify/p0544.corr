@@ -1,0 +1,3 @@
+{"find": "<i>Fifth Edition,</i> 7s. 6<i>d.</i>", "replace": "<i>Fifth Edition, 7s. 6d.</i>"}
+{"find": "pieces. <i>Crown 8vo,</i> 7s. 6<i>d.</i>", "replace": "pieces. <i>Crown 8vo, 7s. 6d.</i>"}
+{"find": "M<sc>rs</sc>.", "replace": "Mrs."}

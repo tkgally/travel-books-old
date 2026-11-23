@@ -1,0 +1,9 @@
+{"find": "Lake Te Anou, sail", "replace": "Lake Te Anou, sail"}
+
+Wait — I should only report real changes. Comparing the page to the draft, the only difference is in the last line of the first paragraph on the page and the final sentence of the page:
+
+{"find": "There was Archbishop Carr", "replace": "There was Arch-bishop Carr"}
+
+Hold on: "Arch-/bishop" is a line-end break, so it should be rejoined as "Archbishop" and the draft already has that. The draft matches the image, so no change is needed.
+
+NONE
