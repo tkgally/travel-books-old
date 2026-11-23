@@ -53,7 +53,44 @@ Ways to shrink it, which can be combined:
 - **Add a size check to CI** (Easy). The build reports the size of `_site/` and fails, or warns, above a set limit.
   *Pros:* the next size problem is seen before a deploy fails. *Cons:* none worth mentioning.
 
-Recommendation: the size check and smaller pictures in the EPUB and ODT first; Release files if that is not enough.
+### 0.1 Hosting files in other repositories (Tom, 2026-11-23: "we do that for my jedict-1 project's audio files")
+
+**How:** one or more extra repositories, each with its own GitHub Pages site (for example `travel-books-files-1`,
+`travel-books-files-2`), holding the EPUBs, ODTs and, if needed, the pictures; the book pages link to them.
+**Moderate**, done once, plus a line per book recording which repository holds it.
+
+- **Each repository's Pages site has its own 1 GB limit**, so the files can be divided among several, a fixed set of
+  books in each (say 40–50), recorded once per book (in `book.json` or a data file) so that links never move.
+- **They share the address `tkgally.github.io`.** To the browser a picture at `tkgally.github.io/travel-books-files-1/…`
+  comes from the same site as the book pages: nothing is loaded from outside, and offline reading (2.1) and the
+  Library (§1) still work. Whether this counts as an "outside dependency" under the standing rule is Tom's decision
+  (to go in `notes/preferences.md`).
+- **The extra repositories need not hold copies of the books.** travel-books is public and its build is
+  deterministic, so each files repository can have its own small workflow that checks out travel-books on a
+  schedule (say hourly), builds only its share of the files, and deploys them. No token passes between
+  repositories. Alternatively the main build triggers it at once, which needs one token set up by Tom.
+
+**Size, measured 2026-11-23:** EPUB and ODT about 1.4 GB (about 18 MB a book); web pages and their pictures about
+0.8 GB (about 10 MB a book). **Moving only the EPUBs and ODTs is not enough:** the main site would fall to about
+0.8 GB and pass 1 GB again after about 20 more books. The pictures on the web pages must move too, or shrink (or the
+main site keeps column-width pictures and the full-size ones go to the files repositories).
+
+*Pros:* removes the size limit for a long time; readers see no difference; no outside service. *Cons:*
+
+- **Delay:** after a new version, the book page can link to a new EPUB before the files repository has rebuilt (up
+  to an hour on a schedule). A version number in the file name avoids wrong files, but the newest one is missing
+  for a while.
+- **The source repository still grows:** moving built files does not change the 700 MB of images in `books/` or the
+  git history. If that becomes a problem, the source images too would move to a separate repository that the build
+  checks out — a larger change.
+- **GitHub's terms:** Pages is meant for websites, not mainly as free file hosting, and dividing one site among
+  repositories to stay under its size limit is a grey area. Releases (above) are plainly meant for distributing
+  files, which is a reason to prefer them at least for the EPUBs and ODTs.
+- **Not suitable:** raw files from `raw.githubusercontent.com` (not meant for hosting a site; rate-limited) or a CDN
+  such as jsDelivr (an outside dependency).
+
+Recommendation: the size check and smaller pictures in the EPUB and ODT first; then move the EPUBs and ODTs to
+Releases or to files repositories (0.1); then decide about the web pictures from how fast the main site grows.
 
 ---
 
@@ -394,7 +431,8 @@ These need an outside service, an account, or a server. Each is Tom's decision.
 
 ## Suggested order
 
-1. **§0** the size check in CI, then smaller pictures in the EPUB and ODT (before the site grows further).
+1. **§0** the size check in CI, then smaller pictures in the EPUB and ODT, then the EPUBs and ODTs moved to Releases
+   or files repositories (0.1), before the site grows further.
 2. Cheap items that need no new data: 5.1 error-report links, 4.1 citations, 3.13 search-engine data and link
    previews, 3.14 a 404 page, 3.2 related books, 2.2 "continue reading", 2.10 printing, 2.5 whole book on one page.
 3. The Library, in order: 1.1 shelves and 1.2 bookmarks, 1.5 export and merging, 2.3 passage links, 1.3 notes;
