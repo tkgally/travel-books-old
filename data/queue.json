@@ -1540,10 +1540,11 @@
    "place": "London",
    "publisher": "Kegan Paul, Trench, Trübner & Co.",
    "images": 562,
-   "status": "queued",
+   "status": "in progress",
    "checked": "2026-11-22",
-   "eligibility": "JATSI 89. Rules 1–4 met, rule 1 with the map left out (Tom, 2026-11-22: a book missing only a map may be published). Rule 1: only two IA scans, both Google (University of California wanderingswonde01aubegoog, with the portrait frontispiece; Harvard wanderingswonde00aubegoog); text pages clean greyscale; the folding map at the end is scanned folded in both, so it is missing (say so in notes_on_text); the 6 plates not yet checked one by one. Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page; Wikisource author page; web search of a sentence). Rule 3: only print-on-demand (Forgotten Books); not found in the NDL catalogue under Ganesha. Rule 4: first-person narrative of a journey round the world 1888–91, addressed to four friends; ch. XXVI (pp. 262–301) on Japan. Rule 5 (for the record): John James Aubertin 1818–1900. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP.",
-   "note": "448 pp. plus 80 pp. of publisher's list (leave out of the reading editions). Portrait frontispiece, 6 plates, folding map missing. A strong, eccentric voice: Ming tombs, camel trains at the Nankou pass, an evening at Sir Robert Hart's. Long (562 images)."
+   "eligibility": "JATSI 89. Rules 1–4 met, rule 1 with the map left out (Tom, 2026-11-22: a book missing only a map may be published). Rule 1: only two IA scans, both Google (University of California wanderingswonde01aubegoog, with the portrait frontispiece; Harvard wanderingswonde00aubegoog); text pages clean greyscale; the folding map at the end is scanned folded in both, so it is missing (say so in notes_on_text); the 6 plates not yet checked one by one. Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page; Wikisource author page; web search of a sentence). Rule 3: only print-on-demand (Forgotten Books); not found in the NDL catalogue under Ganesha. Rule 4: first-person narrative of a journey round the world 1888–91, addressed to four friends; ch. XXVI (pp. 262–301) on Japan. Rule 5 (for the record): John James Aubertin 1818–1900. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP. Re-checked 2026-11-23: web search finds only the Forgotten Books print-on-demand reprint.",
+   "note": "448 pp. plus 80 pp. of publisher's list (leave out of the reading editions). Portrait frontispiece, 6 plates, folding map missing. A strong, eccentric voice: Ming tombs, camel trains at the Nankou pass, an evening at Sir Robert Hart's. Long (562 images).",
+   "started": "2026-11-23"
   },
   {
    "order": 84,
