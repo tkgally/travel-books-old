@@ -1,0 +1,51 @@
+[[page xix]]
+
+<sc>Nagoya Castle, Province of Owari, Japan</sc> <pref>199</pref>
+
+<sc>Sacred bridge of Nik-ko, Japan</sc> <pref>220</pref>
+
+<sc>Temple of Kitano Tenjin, Kyoto</sc> <pref>221</pref>
+
+<sc>Sacred island of Enoshima, Japan</sc> <pref>242</pref>
+
+<sc>Kameido Temple of Tenjin, Tokio, Japan</sc> <pref>243</pref>
+
+<sc>Nunobiki Falls, Kobe, Japan</sc> <pref>264</pref>
+
+<sc>Mountain scenery, Miyanoshita, Japan</sc> <pref>264</pref>
+
+<sc>Government Mint Park, Osaka, Japan</sc> <pref>265</pref>
+
+<sc>Ikuta Temple, Kobe, Japan</sc> <pref>265</pref>
+
+<sc>203 Metre Hill, Port Arthur, Manchuria</sc> <pref>290</pref>
+
+<sc>Removal of the dead from East Kik-wan-shan Fort, Port Arthur, Manchuria</sc> <pref>291</pref>
+
+“<sc>See no evil, speak no evil, hear no evil</sc>” <pref>316</pref>
+
+<sc>Famous carved monkeys, by Hidari Jingoro, Nik-ko, Japan</sc> <pref>316</pref>
+
+<sc>Interior of Temple of Mats, Sacred Island, Japan, decorated with wooden rice spoons</sc> <pref>317</pref>
+
+<sc>Castle at Osaka, Japan</sc> <pref>317</pref>
+
+<sc>Japanese house maids</sc> <pref>338</pref>
+
+<sc>Japanese mother teaching her child</sc> <pref>339</pref>
+
+<sc>Motomachi-dori Street, Kobe, Japan</sc> <pref>356</pref>
+
+<sc>Street scene, Tokio, Japan</sc> <pref>356</pref>
+
+<sc>Explosion of Fort Sung-shu-shan, Port Arthur, Manchuria</sc> <pref>357</pref>
+
+<sc>Japanese woman of the wealthy class</sc> <pref>370</pref>
+
+<sc>Sacred temple, Miyajima, Japan</sc> <pref>371</pref>
+
+<sc>Hachiman Temple, Kamakura, Japan</sc> <pref>371</pref>
+
+<sc>Famous Dai-butsu of Kamakura, Japan</sc> <pref>386</pref>
+
+<sc>Donjon, wall, and moat, Castle of Osaka, Japan</sc> <pref>387</pref>
