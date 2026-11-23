@@ -179,5 +179,9 @@
    "starts": "I was only a fortnight in",
    "title": "XX. Jarrahdale, Kalgoorlie, and the voyage home"
   }
+ ],
+ "keep_hyphens": [
+  "p0196",
+  "p0222"
  ]
 }

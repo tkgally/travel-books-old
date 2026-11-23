@@ -4,24 +4,24 @@
 
 [[center]] P<sc>art</sc> I
 
-[[center]] R<sc>ecollections</sc> <pref>1</pref>
+R<sc>ecollections</sc> <pref>1</pref>
 
 [[center]] P<sc>art</sc> II
 
-[[center]] I<sc>mpressions</sc> <pref>121</pref>
+I<sc>mpressions</sc> <pref>121</pref>
 
 [[center]] I
 
-[[center]] T<sc>he</sc> V<sc>oyage and the</sc> P<sc>eople</sc> <pref>123</pref>
+T<sc>he</sc> V<sc>oyage and the</sc> P<sc>eople</sc> <pref>123</pref>
 
 [[center]] II
 
-[[center]] A F<sc>irst</sc> G<sc>limpse of the</sc> C<sc>ities</sc> <pref>140</pref>
+A F<sc>irst</sc> G<sc>limpse of the</sc> C<sc>ities</sc> <pref>140</pref>
 
 [[center]] III
 
-[[center]] T<sc>he</sc> H<sc>ome</sc> S<sc>tation</sc> <pref>147</pref>
+T<sc>he</sc> H<sc>ome</sc> S<sc>tation</sc> <pref>147</pref>
 
 [[center]] IV
 
-[[center]] S<sc>ugar</sc> <pref>154</pref>
+S<sc>ugar</sc> <pref>154</pref>
