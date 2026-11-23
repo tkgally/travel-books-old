@@ -287,5 +287,8 @@
    "kind": "advertisements"
   }
  ],
- "frontispiece": "p0007-1"
+ "frontispiece": "p0007-1",
+ "keep_hyphens": [
+  "p0173"
+ ]
 }
