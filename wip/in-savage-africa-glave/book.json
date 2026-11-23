@@ -1,0 +1,54 @@
+{
+ "id": "in-savage-africa-glave",
+ "version": 1,
+ "date": "2026-11-23",
+ "title": "In Savage Africa",
+ "subtitle": "or, Six Years of Adventure in Congo-Land",
+ "short_title": "In Savage Africa",
+ "authors": [
+  {
+   "name": "E. J. Glave",
+   "sort": "Glave, E. J.",
+   "born": 1863,
+   "died": 1895
+  }
+ ],
+ "place": "New York",
+ "publisher": "R. H. Russell & Son",
+ "year": 1892,
+ "source": {
+  "ia_identifier": "insavageafricaor00glavrich",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": [
+   0,
+   259,
+   260,
+   261,
+   262,
+   263
+  ]
+ },
+ "edition_statement": "First edition (copyright 1892)",
+ "regions": [
+  "Democratic Republic of the Congo"
+ ],
+ "period": "1883–1889",
+ "subjects": [
+  "Congo River",
+  "Congo Free State",
+  "hunting",
+  "slave trade"
+ ],
+ "summary": "",
+ "omitted_from_reading": "",
+ "notes_on_text": [],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-23",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [],
+ "frontispiece": "p0010-1"
+}

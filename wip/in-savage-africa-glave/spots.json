@@ -1,0 +1,274 @@
+{
+ "p0011": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[center]] ONE OF STANLEY’S PIONEER OFFICERS,",
+   "replace": "[[center]] O<sc>ne of</sc> S<sc>tanley’s</sc> P<sc>ioneer</sc> O<sc>fficers</sc>,",
+   "draft": "[[center]] ONE OF STANLEY’S PIONEER OFFICERS,",
+   "verified": "[[center]] O<sc>ne of</sc> S<sc>tanley’s</sc> P<sc>ioneer</sc> O<sc>fficers</sc>,",
+   "context": "URE IN CONGO-LAND. ⏎  ⏎ [[center]] BY ⏎  ⏎ [[center]] E. J. GLAVE, ⏎  ⏎ [[center]] ONE OF STANLEY’S PIONEER OFFICERS, ⏎  ⏎ [[center]] With an Introduction by H. M. S<sc>tanley</sc>."
+  }
+ ],
+ "p0016": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page ?]]\n\n[[center]] Chapter VI.",
+   "replace": "[[page ?]]\n\n# Contents.\n\n[[center]] Chapter VI.",
+   "draft": "[[page ?]]\n\n[[center]]",
+   "verified": "[[page ?]]\n\n# Contents.\n\n[[center]]",
+   "context": "[[page ?]] ⏎  ⏎ [[center]] Chapter VI. ⏎  ⏎ B<sc>uffalo hunting</sc>—C<sc>aught in a storm</sc>—A <sc>"
+  }
+ ],
+ "p0020": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "“Yours always your friend",
+   "replace": "“Ever always your friend",
+   "draft": "“Yours always your",
+   "verified": "“Ever always your",
+   "context": "t a facsimile of his handwritten inscription and signature, “Yours always your friend Henry M. Stanley”]] ⏎ "
+  }
+ ],
+ "p0034": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "in which to-lie down",
+   "replace": "in which to lie down",
+   "draft": "in which to-lie down",
+   "verified": "in which to lie down",
+   "context": "rossing and recrossing of legs before spaces could be found in which to-lie down at all, in the stern sheets of our little craft. ⏎  ⏎ Poor Miln"
+  }
+ ],
+ "p0035": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "their hut-to bid",
+   "replace": "their hut to bid",
+   "draft": "their hut-to bid",
+   "verified": "their hut to bid",
+   "context": "hat we left Manyanga, Edwards and Connelly staggered out of their hut-to bid me Godspeed on my journey. Poor fellows!—they both were in "
+  }
+ ],
+ "p0050": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[caption]] <sc>a lukolela girl.</sc>",
+   "replace": "[[caption]] A Lukolela Girl.",
+   "draft": "[[caption]] <sc>a lukolela girl.</sc>",
+   "verified": "[[caption]] A Lukolela Girl.",
+   "context": "oman in profile, with a bead necklace, signed E. J. Glave]] ⏎ [[caption]] <sc>a lukolela girl.</sc> ⏎  ⏎ These natives, having no written language, have retained i"
+  }
+ ],
+ "p0059": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "struggles he sank from sight,",
+   "replace": "struggles he\n\n[[image: A wounded hippopotamus rearing out of the water with open jaws against the side of a long canoe; a white man in a hat aims a rifle at it while African paddlers crowd the canoe]]\n[[caption]] He struck the canoe a blow which nearly capsized it.\n\n[[cont]]sank from sight,",
+   "draft": "struggles he sank from si",
+   "verified": "struggles he\n\n[[image: A wounded hippopotamus rearing out of the water with open jaws against the side of a long canoe; a white man in a hat aims a rifle at it while African paddlers crowd the canoe]]\n[[caption]] He struck the canoe a blow which nearly capsized it.\n\n[[cont]]sank from si",
+   "context": " end the poor brute’s sufferings, and after a few spasmodic struggles he sank from sight, leaving the water all around us discolored with his blood. "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "with his blood. A hippopotamus when killed in deep water invariably sinks; the body does not rise for several hours, the duration of submersion depending on the temperature of the water. Knowing this, I waited patiently on the bank of the river, and after three hours saw my game rise to the surface.\n\n[[image: A wounded hippopotamus rearing out of the water with open jaws against the side of a long canoe; a white man in a hat aims a rifle at it while African paddlers crowd the canoe]]\n[[caption]] He struck the canoe a blow which nearly capsized it.\n",
+   "replace": "with his blood. A hippopotamus when killed in deep water invariably sinks; the body does not rise for several hours, the duration of submersion depending on the temperature of the water. Knowing this, I waited patiently on the bank of the river, and after three hours saw my game rise to the surface.\n",
+   "draft": "he surface.\n\n[[image: A wounded hippopotamus rearing out of the water with open jaws against the side of a long canoe; a white man in a hat aims a rifle at it while African paddlers crowd the canoe]]\n[[caption]] He struck the canoe a blow which nearly capsized it.\n",
+   "verified": "he surface.\n",
+   "context": "sank from sight, leaving the water all around us discolored with his blood. A hippopotamus when killed in deep water invariably sinks; the body does not rise for several hours, the duration of submersion depending on the temperature of the water. Knowing this, I waited patiently on the bank of the river, and after three hours saw my game rise to the surface. ⏎  ⏎ [[image: A wounded hippopotamus rearing out of the water with open jaws against the side of a long canoe; a white man in a hat aims a rifle at it while African paddlers crowd the canoe]] ⏎ [[caption]] He struck the canoe a blow which nearly capsized it. ⏎  ⏎ By this time the inhabitants of the villages we had just le"
+  }
+ ],
+ "p0065": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "sketch a typical village at Lukolela as I have intimately known",
+   "replace": "sketch a typical village at Lukolela as I have intimately known it.",
+   "draft": "mately known",
+   "verified": "mately known it.",
+   "context": "[[page 59]] ⏎ [[cont]]sketch a typical village at Lukolela as I have intimately known it. ⏎  ⏎ The whole district contains about three thousand peopl"
+  }
+ ],
+ "p0072": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[image: A man in a slouch hat aiming a rifle across tall grass at a native man holding a big knife, with a hut and palm trees behind him]]\n[[caption]] “Drop that knife!”\n\nHe was",
+   "replace": "He was",
+   "draft": "[[image: A man in a slouch hat aiming a rifle across tall grass at a native man holding a big knife, with a hut and palm trees behind him]]\n[[caption]] “Drop that knife!”\n\nHe was",
+   "verified": "He was",
+   "context": "go Nsanda became as stanch a friend to me as man ever had. ⏎  ⏎ [[image: A man in a slouch hat aiming a rifle across tall grass at a native man holding a big knife, with a hut and palm trees behind him]] ⏎ [[caption]] “Drop that knife!” ⏎  ⏎ He was with me at one time on a visit with a few of my Zanzibari s"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "with the result that",
+   "replace": "with the\n\n[[image: A man in a slouch hat aiming a rifle across tall grass at a native man holding a big knife, with a hut and palm trees behind him]]\n[[caption]] “Drop that knife!”\n\n[[cont]] result that",
+   "draft": "with the result that",
+   "verified": "with the\n\n[[image: A man in a slouch hat aiming a rifle across tall grass at a native man holding a big knife, with a hut and palm trees behind him]]\n[[caption]] “Drop that knife!”\n\n[[cont]] result that",
+   "context": "artaken too freely of the fermented juice of the palm tree, with the result that several of them were intoxicated, and savages in that condi"
+  }
+ ],
+ "p0081": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "until 1 get",
+   "replace": "until I get",
+   "draft": "until 1 get",
+   "verified": "until I get",
+   "context": "s on it, and I am going to keep the water in that condition until 1 get back my knife and fork! Now, I will leave you; talk it over"
+  }
+ ],
+ "p0091": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "serving, together",
+   "replace": "serving,\n\n[[image: A group of carved wooden figures of various sizes standing in a semicircle against a dark background]]\n[[caption]] Congo Idols.\n\n[[cont]]together",
+   "draft": "serving, together",
+   "verified": "serving,\n\n[[image: A group of carved wooden figures of various sizes standing in a semicircle against a dark background]]\n[[caption]] Congo Idols.\n\n[[cont]]together",
+   "context": " little packages are attached, clash and clang as he walks, serving, together with a liberal supply of iron bells fastened to his person,"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "provided\n\n[[image: A group of carved wooden figures of various sizes standing in a semicircle against a dark background]]\n[[caption]] Congo Idols.",
+   "replace": "provided",
+   "draft": "provided\n\n[[image: A group of carved wooden figures of various sizes standing in a semicircle against a dark background]]\n[[caption]] Congo Idols.",
+   "verified": "provided",
+   "context": "em, and thus deprive him of his cherished power, and again, provided ⏎  ⏎ [[image: A group of carved wooden figures of various sizes standing in a semicircle against a dark background]] ⏎ [[caption]] Congo Idols. ⏎ "
+  }
+ ],
+ "p0093": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "details of this ceremony by drinking",
+   "replace": "details of this ceremony\n\n[[image: A native drinking from a raised cup while a kneeling man performs a rite beside him; seated men around a large jar look on]]\n[[caption]] Fetish Devotions before Drinking.\n\n[[cont]]by drinking",
+   "draft": "his ceremony by drinking",
+   "verified": "his ceremony\n\n[[image: A native drinking from a raised cup while a kneeling man performs a rite beside him; seated men around a large jar look on]]\n[[caption]] Fetish Devotions before Drinking.\n\n[[cont]]by drinking",
+   "context": "with the trouble of too frequently conducting the elaborate details of this ceremony by drinking enough at one sitting to last him several days. It is notic"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": " prepared to\n\n[[image: A native drinking from a raised cup while a kneeling man performs a rite beside him; seated men around a large jar look on]]\n[[caption]] Fetish Devotions before Drinking.",
+   "replace": " prepared to",
+   "draft": " prepared to\n\n[[image: A native drinking from a raised cup while a kneeling man performs a rite beside him; seated men around a large jar look on]]\n[[caption]] Fetish Devotions before Drinking.",
+   "verified": " prepared to",
+   "context": " strong drink, will deny himself the indulgence if he is not prepared to ⏎  ⏎ [[image: A native drinking from a raised cup while a kneeling man performs a rite beside him; seated men around a large jar look on]] ⏎ [[caption]] Fetish Devotions before Drinking. ⏎ "
+  }
+ ],
+ "p0110": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "the disrict.",
+   "replace": "the district.",
+   "draft": "the disrict.",
+   "verified": "the district.",
+   "context": " war-canoes started away, manned by natives of Lukolela and the disrict. They were about to punish the common enemy, a tribe on the "
+  }
+ ],
+ "p0112": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "and they are likely to get",
+   "replace": "and they\n\n[[image: Warriors standing in crowded canoes paddling away from a river bank, one man raising his arm, a feathered standard behind him]]\n[[caption]] Departure of War Canoes.\n\n[[cont]]are likely to get",
+   "draft": "and they are likely t",
+   "verified": "and they\n\n[[image: Warriors standing in crowded canoes paddling away from a river bank, one man raising his arm, a feathered standard behind him]]\n[[caption]] Departure of War Canoes.\n\n[[cont]]are likely t",
+   "context": "nd that they cannot. If they find their enemies too strong, and they are likely to get the worst of it, they beat a hasty retreat. If on the other"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "stronghold, as every man is anxious to steal as much as he can.\n\n[[image: Warriors standing in crowded canoes paddling away from a river bank, one man raising his arm, a feathered standard behind him]]\n[[caption]] Departure of War Canoes.\n\nThree",
+   "replace": "stronghold, as every man is anxious to steal as much as he can.\n\nThree",
+   "draft": "as he can.\n\n[[image: Warriors standing in crowded canoes paddling away from a river bank, one man raising his arm, a feathered standard behind him]]\n[[caption]] Departure of War Canoes.\n\nThree",
+   "verified": "as he can.\n\nThree",
+   "context": "erwhelming force, a precipitate rush is made to the enemy’s stronghold, as every man is anxious to steal as much as he can. ⏎  ⏎ [[image: Warriors standing in crowded canoes paddling away from a river bank, one man raising his arm, a feathered standard behind him]] ⏎ [[caption]] Departure of War Canoes. ⏎  ⏎ Three days after the imposing departure of the Lukolela warriors,"
+  }
+ ],
+ "p0139": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[caption]] <sc>ndobo’s captivity.</sc>",
+   "replace": "[[caption]] Ndobo’s Captivity.",
+   "draft": "[[caption]] <sc>ndobo’s captivity.</sc>",
+   "verified": "[[caption]] Ndobo’s Captivity.",
+   "context": "tretched, bound arms, his feet fastened in a wooden block]] ⏎ [[caption]] <sc>ndobo’s captivity.</sc> ⏎ "
+  }
+ ],
+ "p0172": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "destination, he does",
+   "replace": "destination. he does",
+   "draft": "destination, he does",
+   "verified": "destination. he does",
+   "context": "lity he takes in engaging to deliver all the loads at their destination, he does not carry a pack; if he does so he receives double pay. The"
+  }
+ ],
+ "p0183": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "great bodies through the foliage",
+   "replace": "great bodies through\n\n[[image: a herd of elephants wading through water at night, one raising its trunk, with reeds and palms on the bank]]\n[[caption]] Elephants startled at night.\n\n[[cont]]the foliage",
+   "draft": "dies through the foliage",
+   "verified": "dies through\n\n[[image: a herd of elephants wading through water at night, one raising its trunk, with reeds and palms on the bank]]\n[[caption]] Elephants startled at night.\n\n[[cont]]the foliage",
+   "context": "discern their whereabouts by an occasional glimpse of their great bodies through the foliage or the raising of a trunk as one of them would snap off a b"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "presence.\n\n[[image: a herd of elephants wading through water at night, one raising its trunk, with reeds and palms on the bank]]\n[[caption]] Elephants startled at night.\n\nI had",
+   "replace": "presence.\n\nI had",
+   "draft": "presence.\n\n[[image: a herd of elephants wading through water at night, one raising its trunk, with reeds and palms on the bank]]\n[[caption]] Elephants startled at night.\n\nI had",
+   "verified": "presence.\n\nI had",
+   "context": "g leaves and the waving of the slender shrubs denoted their presence. ⏎  ⏎ [[image: a herd of elephants wading through water at night, one raising its trunk, with reeds and palms on the bank]] ⏎ [[caption]] Elephants startled at night. ⏎  ⏎ I had approached within a few yards of one several times, but the"
+  }
+ ],
+ "p0199": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "them band and foot",
+   "replace": "them hand and foot",
+   "draft": "them band and foot",
+   "verified": "them hand and foot",
+   "context": "he strongest and most robust of their captives, and shackle them band and foot to prevent their escape. As a rule, after such a raid many "
+  }
+ ],
+ "p0224": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": " stand behind their palisade, from which we cleared them, and scattered them in full retreat before us. I completed the punishment by burning their houses and capturing their live stock, and then camped on an island opposite, for the night, keeping a careful watch till the morning, when we resumed our way up river.",
+   "replace": "",
+   "draft": " stand behind their palisade, from which we cleared them, and scattered them in full retreat before us. I completed the punishment by burning their houses and capturing their live stock, and then camped on an island opposite, for the night, keeping a careful watch till the morning, when we resumed our way up river.",
+   "verified": "",
+   "context": "outed them out of their own village; then they made a slight stand behind their palisade, from which we cleared them, and scattered them in full retreat before us. I completed the punishment by burning their houses and capturing their live stock, and then camped on an island opposite, for the night, keeping a careful watch till the morning, when we resumed our way up river. ⏎  ⏎ [[image: Natives with spears and shields on a river bank a"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "[[caption]] Fight with the Cannibals.",
+   "replace": "[[caption]] Fight with the Cannibals.\n\n[[cont]]stand behind their palisade, from which we cleared them, and scattered them in full retreat before us. I completed the punishment by burning their houses and capturing their live stock, and then camped on an island opposite, for the night, keeping a careful watch till the morning, when we resumed our way up river.",
+   "draft": "e Cannibals.",
+   "verified": "e Cannibals.\n\n[[cont]]stand behind their palisade, from which we cleared them, and scattered them in full retreat before us. I completed the punishment by burning their houses and capturing their live stock, and then camped on an island opposite, for the night, keeping a careful watch till the morning, when we resumed our way up river.",
+   "context": "a stern-wheel steamer, whose crew fire back from the deck]] ⏎ [[caption]] Fight with the Cannibals. ⏎  ⏎ It was surprising how such a lesson improved these people."
+  }
+ ]
+}
