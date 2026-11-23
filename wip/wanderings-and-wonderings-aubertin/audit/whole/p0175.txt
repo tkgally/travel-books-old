@@ -1,5 +1,0 @@
-{"given": "built up for the commander-in-Chief when", "print": "built up for the Commander-in-Chief when", "sure": "high"}
-{"given": "what an unkuown debt of gratitude", "print": "what an unknown debt of gratitude", "sure": "high"}
-{"given": "distant from the chenars; and in Ince’s", "print": "distant from the chenars, and in Ince’s", "sure": "high"}
-{"given": "Duke, may be sound a page", "print": "Duke, may be found a page", "sure": "high"}
-{"given": "snow, added character the general view.", "print": "snow, added character to the general view.", "sure": "high"}

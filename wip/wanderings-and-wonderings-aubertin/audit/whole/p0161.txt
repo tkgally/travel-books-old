@@ -1,5 +1,0 @@
-{"given": "through the forest trees on left.", "print": "through the forest trees on the left.", "sure": "high"}
-{"given": "are seen from powell’s Hotel,", "print": "are seen from Powell’s Hotel,", "sure": "high"}
-{"given": "the chief eye of his day’s", "print": "the chief eye of this day’s", "sure": "high"}
-{"given": "white mountain in the distanee, the", "print": "white mountain in the distance, the", "sure": "high"}
-{"given": "tonga was the result; but here", "print": "tonga was the result, but here", "sure": "high"}

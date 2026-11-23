@@ -1,6 +1,0 @@
-{"given": "Chapter XIX.", "print": "CHAPTER XIX.", "sure": "medium"}
-{"given": "A Night-Scene in the harbor of Para.", "print": "A Night-Scene in the Harbor of Para.", "sure": "high"}
-{"given": "The moon bad not yet risen", "print": "The moon had not yet risen", "sure": "high"}
-{"given": "were the occafional harsh cries of", "print": "were the occasional harsh cries of", "sure": "high"}
-{"given": "the washing the tide upon the beach", "print": "the washing of the tide upon the beach", "sure": "high"}
-{"given": "I thought not of repose; but paced", "print": "I thought not of repose, but paced", "sure": "high"}

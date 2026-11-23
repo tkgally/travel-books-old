@@ -1,5 +1,0 @@
-{"given": "a strange scene insect confusion", "print": "a strange scene of insect confusion", "sure": "high"}
-{"given": "They bad been just feasting", "print": "They had been just feasting", "sure": "high"}
-{"given": "not a siugle one of", "print": "not a single one of", "sure": "high"}
-{"given": "nearly four inches in length; with", "print": "nearly four inches in length, with", "sure": "high"}
-{"given": "seeking something to devor.", "print": "seeking something to devour.", "sure": "high"}

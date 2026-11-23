@@ -1,7 +1,0 @@
-The draft's paragraph text matches the image word for word, but the closing words "in India." are missing.
-
-{"find": "outcast in India.", "replace": "outcast in India."}
-
-Wait — the draft already contains "in India." so no change is needed.
-
-NONE

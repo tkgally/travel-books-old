@@ -1,5 +1,0 @@
-{"given": "which has suggested; or confirmed", "print": "which has suggested, or confirmed", "sure": "high"}
-{"given": "matters of religion faith, and which", "print": "matters of religion and faith, and which", "sure": "high"}
-{"given": "I suppose everyone ought to admire", "print": "I suppose every one ought to admire", "sure": "high"}
-{"given": "upon Asia then Asia to intrude", "print": "upon Asia than Asia to intrude", "sure": "high"}
-{"given": "Asia gave Europe her rcligion, which", "print": "Asia gave Europe her religion, which", "sure": "high"}

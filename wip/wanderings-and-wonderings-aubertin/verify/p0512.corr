@@ -1,6 +1,0 @@
-{"find": "G<sc>eorge</sc> W. C<sc>ox</sc>, Bart.", "replace": "G<sc>eorge</sc> W. Cox, Bart."}
-{"find": "Sir G. W. C<sc>ox</sc>. <i>Second", "replace": "Sir G. W. Cox. <i>Second"}
-{"find": "C<sc>ox</sc>. <i>New Edition. Small Crown", "replace": "Cox. <i>New Edition. Small Crown"}
-{"find": "C<sc>ox</sc>. <i>New Edition. Fcap.", "replace": "Cox. <i>New Edition. Fcap."}
-{"find": "C<sc>ox</sc>, <i>Small crown", "replace": "Cox, <i>Small crown"}
-{"find": "C<sc>ox</sc> and E. H.", "replace": "Cox and E. H."}

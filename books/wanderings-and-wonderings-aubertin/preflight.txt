@@ -1,0 +1,125 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[look (12)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0040: …who very oppor-|tunely cautione… (hyphen removed; check)
+            - hyphen join at p0044: …e strongly dis-|suaded me from … (hyphen removed; check)
+            - hyphen join at p0134: …gest and heavi-|est of the two … (hyphen removed; check)
+            - hyphen join at p0190: …he scenery cul-|minates. When I… (hyphen removed; check)
+            - hyphen join at p0306: …as Sosuke Yama-|moto, and whose… (hyphen removed; check)
+            - hyphen join at p0308: …all an astound-|ing view. It wa… (hyphen removed; check)
+            - hyphen join at p0309: …case, the vexa-|tion was limite… (hyphen removed; check)
+            - hyphen join at p0310: …box stood peer-|ing through an … (hyphen removed; check)
+            - hyphen join at p0318: …ountain, Coman-|gataki. But thi… (hyphen removed; check)
+            - hyphen join at p0393: …with great con-|sequent advanta… (hyphen removed; check)
+            - hyphen join at p0474: … like other or-|ganized existen… (hyphen removed; check)
+            - (and 20 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[ look (3)] folios: printed page numbers that break the sequence
+            - p0253: page 223 after page 227 (p0252)
+            - p0270: page 241 after page 243 (p0268)
+            - p0483: page 4 after page 448 (p0477)
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[look (38)] contents: entries of the printed contents with no matching heading
+            - p0012: 'Introductory—Voyage out—Calcutta 1'
+            - p0012: 'Calcutta 15'
+            - p0012: 'Darjeeling 23'
+            - p0012: 'Calcutta 28'
+            - p0012: 'Benares—Lucknow, &c.—Allahabad—Jubbulpore—Aurungabad—Ellora 48'
+            - p0012: 'Bombay—Elephanta—Karli 65'
+            - p0012: 'Ahmedabad—Kattiawar Peninsula—Palitana—Girnar 74'
+            - p0012: 'Mount Abu—Ajmir—Jeypur—Amba 89'
+            - p0012: 'Agra—Futtehpore Sikri—Gwalior 101'
+            - p0013: 'Amritsar—Lahore—Sealcote—Peshawur—Indian Hospitality 117'
+            - p0013: 'Khyber Pass 125'
+            - p0013: 'Rawl Pindi—Murree—Kashmir 131'
+            - p0013: 'Kashmir—Srinagar—Islamabad, &c. 142'
+            - p0013: 'Kashmir—Sind Valley 159'
+            - p0013: 'Kashmir—Pir Panjal Pass 177'
+            - p0013: 'Kashmir—Chashma Shahi 186'
+            - p0013: 'Nathia Gali—Simla 191'
+            - p0013: 'Narkanda—Sutlej Valley—From Mussuri 195'
+            - p0013: 'Darjeeling again 200'
+            - p0013: 'Madras—Ootacamund—Nilgiris—Mádura, &c. 208'
+            - p0013: 'Ceylon—Ramisseram—Ceylon 213'
+            - p0013: 'Java—Boro Buddor—Java 234'
+            - p0014: 'Siam—Hongkong—Canton—Macao 244'
+            - p0014: 'Shanghai—Japan 262'
+            - p0014: 'Shanghai—Manila—Formosa 302'
+            - p0014: 'Nagasaki—Korea 311'
+            - p0014: 'To Tientsin—To Peking 324'
+            - p0014: 'Peking 333'
+            - p0014: 'Ming Tombs—Wall of China—Return to Peking—Peking again—From Peking 341'
+            - p0014: 'Yang-tse-Kiang 354'
+            - p0014: 'Cambodia—Hongkong again 364'
+            - p0014: 'Leaving Asia 379'
+            - p0014: 'To Australia—Sydney—Melbourne—To New Zealand—Hobart 384'
+            - p0014: 'New Zealand 394'
+            - p0014: 'Sydney again—Honolulu—San Francisco 416'
+            - p0015: 'Alaska 422'
+            - p0015: 'Mount Hamilton 431'
+            - p0015: 'San Francisco—Shoshone Falls—Salt Lake City—Manatou—Chicago—Niagara—Al'
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[ look (1)] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+            - p0116: verse continued from p0115: stanzas before [2] | here [6] (a stanza ending at the page foot needs no [[cont]])
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[look (25)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - a: a (p0005, p0010, p0015, p0016, p0017, p0018…); à (p0085, p0496, p0503, p0523, p0543, p0547); á (p0406)
+            - abu: abu (p0012, p0015, p0108, p0110, p0113, p0115…); abú (p0107)
+            - asoka: asoka (p0073, p0490); asóka (p0102)
+            - bara: bara (p0127); bará (p0025)
+            - charge: charge (p0019, p0074, p0162, p0171, p0179, p0262…); chargé (p0344)
+            - ere: ere (p0035); éré (p0515)
+            - evi: evi (p0534); évi (p0514)
+            - girnar: girnar (p0012, p0101, p0103, p0109); girnár (p0106)
+            - gujarati: gujarati (p0494); gujarātī (p0495)
+            - heodore: heodore (p0507, p0519); héodore (p0499)
+            - hindustani: hindustani (p0496); hindūstānī (p0494)
+            - hotel: hotel (p0026, p0027, p0030, p0031, p0035, p0039…); hôtel (p0259, p0267, p0268, p0270, p0392)
+            - kohala: kohala (p0211); kohála (p0161)
+            - maha: maha (p0246, p0487); mahá (p0484)
+            - men: men (p0028, p0047, p0072, p0075, p0078, p0120…); mên (p0356)
+            - mesnevi: mesnevi (p0491); mesnevī (p0491)
+            - monterey: monterey (p0467, p0474); monteréy (p0467)
+            - nath: nath (p0128, p0130); nāth (p0169)
+            - nawab: nawab (p0101); nawáb (p0105)
+            - panjabi: panjabi (p0494); panjābi (p0494)
+            - para: para (p0498, p0499); pará (p0258)
+            - pukaki: pukaki (p0431, p0432, p0435); pukáki (p0431)
+            - sahib: sahib (p0025, p0101, p0146); sáhib (p0105)
+            - ssu: ssu (p0373, p0374, p0375); ssŭ (p0371)
+            - te: te (p0425, p0428, p0429); tê (p0376)
+[ look (3)] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+            - p0499: “Th” in …Military Expressions. By Th. Karcher. Fourth Edition…
+            - p0533: “Th” in …Psychology. By Professor Th. Ribot. Third Edition. C…
+            - p0533: “Th” in …nsequences. By Professor Th. Ribot. Second Edition.…
+[ look (3)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0192: “pursed” — “pursued” is common (121; a letter dropped or transposed?)
+            - p0377: “cunnin” — “cunning” is common (98; a letter dropped or transposed?)
+            - p0542: “shoer” — “shore” is common (1523; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …n as the translator of Camoens, left London in October 1888 and came home in Septemb…
+            - book.json summary: …, the Khyber Pass, and Kashmir, then Madras and Ceylon. He went on t…
+            - book.json omitted_from_reading: …the list of the author’s books, the printed contents and list of illustration…
+[       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: wanderings-and-wonderings-aubertin v1 — 0 to fix, 0 waived; to look at: hyphen-joins 12, folios 3, contents 38, verse-joins 1, accents 25, misprints 3, rare-forms 3, serial-commas 3 — tools@9be9ff84 2026-11-23

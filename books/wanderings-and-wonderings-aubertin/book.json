@@ -1,0 +1,304 @@
+{
+ "id": "wanderings-and-wonderings-aubertin",
+ "version": 1,
+ "date": "2026-11-23",
+ "title": "Wanderings & Wonderings",
+ "subtitle": "India, Burma, Kashmir, Ceylon, Singapore, Java, Siam, Japan, Manila, Formosa, Korea, China, Cambodia, Australia, New Zealand, Alaska, the States",
+ "short_title": "Wanderings & Wonderings",
+ "authors": [
+  {
+   "name": "J. J. Aubertin",
+   "sort": "Aubertin, John James",
+   "born": 1818,
+   "died": 1900
+  }
+ ],
+ "place": "London",
+ "publisher": "Kegan Paul, Trench, Trübner & Co.",
+ "year": 1892,
+ "source": {
+  "ia_identifier": "wanderingswonde01aubegoog",
+  "contributor": "University of California Libraries (Google)",
+  "hidden_leaves": []
+ },
+ "edition_statement": "First edition",
+ "collection": "jatsi",
+ "regions": [
+  "India",
+  "Myanmar",
+  "Pakistan",
+  "Sri Lanka",
+  "Singapore",
+  "Indonesia",
+  "Thailand",
+  "Hong Kong",
+  "Japan",
+  "Philippines",
+  "Taiwan",
+  "Korea",
+  "China",
+  "Cambodia",
+  "Australia",
+  "New Zealand",
+  "Alaska",
+  "United States"
+ ],
+ "period": "1888–1891",
+ "subjects": [
+  "journey round the world",
+  "Kashmir",
+  "Peking",
+  "Ming tombs",
+  "Camoens"
+ ],
+ "summary": "John James Aubertin (1818–1900), an Englishman known as the translator of Camoens, left London in October 1888 and came home in September 1891 after a journey round the world, and wrote this account of it for four friends. He began in India: Calcutta, Darjeeling, Burma, Benares, Bombay, Rajputana, Agra, Delhi, the Punjab, the Khyber Pass, and Kashmir, then Madras and Ceylon. He went on to Java, Siam, Hong Kong, Shanghai, and Japan, to Manila, Formosa, and Korea, and in China to Tientsin, Peking, the Ming tombs, and the Yangtze; then to Cambodia, Australia, New Zealand, Alaska, and California. He quotes much verse, and the book ends with a poem of his own to his friends. The book has a portrait and seven photographs.",
+ "omitted_from_reading": "The half-title, the list of the author’s books, the printed contents and list of illustrations, and the publisher’s catalogue are in the JSON only.",
+ "notes_on_text": [
+  "The folding map at the end of the book is not in the scan (it was photographed folded), so it is missing from this edition.",
+  "A small plan of the walls of Peking, printed within a line of text on page 336 (“making a sort of very broad [plan] and the Imperial city …”), is shown after its paragraph."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-23",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {
+   "at": "p0010",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0012",
+   "kind": "contents"
+  },
+  {
+   "at": "p0015",
+   "kind": "illustrations"
+  },
+  {
+   "at": "p0016",
+   "kind": "front",
+   "title": "Wanderings and Wonderings"
+  },
+  {
+   "at": "p0016",
+   "kind": "chapter",
+   "toc_title": "I. Introductory—Voyage out—Calcutta",
+   "n": 2
+  },
+  {
+   "at": "p0030",
+   "kind": "chapter",
+   "toc_title": "II. Calcutta"
+  },
+  {
+   "at": "p0038",
+   "kind": "chapter",
+   "toc_title": "III. Darjeeling"
+  },
+  {
+   "at": "p0043",
+   "kind": "chapter",
+   "toc_title": "IV. Calcutta"
+  },
+  {
+   "at": "p0048",
+   "kind": "chapter",
+   "toc_title": "V. Burma"
+  },
+  {
+   "at": "p0063",
+   "kind": "chapter",
+   "toc_title": "VI. Benares—Lucknow, &c.—Allahabad—Jubbulpore—Aurungabad—Ellora"
+  },
+  {
+   "at": "p0084",
+   "kind": "chapter",
+   "toc_title": "VII. Bombay—Elephanta—Karli"
+  },
+  {
+   "at": "p0093",
+   "kind": "chapter",
+   "toc_title": "VIII. Ahmedabad—Kattiawar Peninsula—Palitana—Girnar"
+  },
+  {
+   "at": "p0108",
+   "kind": "chapter",
+   "toc_title": "IX. Mount Abu—Ajmir—Jeypur—Amba"
+  },
+  {
+   "at": "p0122",
+   "kind": "chapter",
+   "toc_title": "X. Agra—Futtehpore Sikri—Gwalior"
+  },
+  {
+   "at": "p0133",
+   "kind": "chapter",
+   "toc_title": "XI. Delhi"
+  },
+  {
+   "at": "p0140",
+   "kind": "chapter",
+   "toc_title": "XII. Amritsar—Lahore—Sealcote—Peshawur—Indian Hospitality"
+  },
+  {
+   "at": "p0148",
+   "kind": "chapter",
+   "toc_title": "XIII. Khyber Pass"
+  },
+  {
+   "at": "p0154",
+   "kind": "chapter",
+   "toc_title": "XIV. Rawl Pindi—Murree—Kashmir"
+  },
+  {
+   "at": "p0165",
+   "kind": "chapter",
+   "toc_title": "XV. Kashmir—Srinagar—Islamabad, &c"
+  },
+  {
+   "at": "p0182",
+   "kind": "chapter",
+   "toc_title": "XVI. Kashmir—Sind Valley"
+  },
+  {
+   "at": "p0200",
+   "kind": "chapter",
+   "toc_title": "XVII. Kashmir—Pir Panjal Pass"
+  },
+  {
+   "at": "p0209",
+   "kind": "chapter",
+   "toc_title": "XVIII. Kashmir—Chashma Shahi"
+  },
+  {
+   "at": "p0214",
+   "kind": "chapter",
+   "toc_title": "XIX. Nathia Gali—Simla"
+  },
+  {
+   "at": "p0218",
+   "kind": "chapter",
+   "toc_title": "XX. Narkanda—Sutlej Valley—From Mussuri"
+  },
+  {
+   "at": "p0223",
+   "kind": "chapter",
+   "toc_title": "XXI. Darjeeling again"
+  },
+  {
+   "at": "p0231",
+   "kind": "chapter",
+   "toc_title": "XXII. Madras—Ootacamund—Nilgiris—Mádura, &c"
+  },
+  {
+   "at": "p0236",
+   "kind": "chapter",
+   "toc_title": "XXIII. Ceylon—Ramisseram—Ceylon"
+  },
+  {
+   "at": "p0259",
+   "kind": "chapter",
+   "toc_title": "XXIV. Java—Boro Buddor—Java"
+  },
+  {
+   "at": "p0269",
+   "kind": "chapter",
+   "toc_title": "XXV. Siam—Hongkong—Canton—Macao"
+  },
+  {
+   "at": "p0287",
+   "kind": "chapter",
+   "toc_title": "XXVI. Shanghai—Japan"
+  },
+  {
+   "at": "p0327",
+   "kind": "chapter",
+   "toc_title": "XXVII. Shanghai—Manila—Formosa"
+  },
+  {
+   "at": "p0336",
+   "kind": "chapter",
+   "toc_title": "XXVIII. Nagasaki—Korea"
+  },
+  {
+   "at": "p0349",
+   "kind": "chapter",
+   "toc_title": "XXIX. To Tientsin—To Peking"
+  },
+  {
+   "at": "p0358",
+   "kind": "chapter",
+   "toc_title": "XXX. Peking"
+  },
+  {
+   "at": "p0366",
+   "kind": "chapter",
+   "toc_title": "XXXI. Ming Tombs—Wall of China—Return to Peking—Peking again—From Peking"
+  },
+  {
+   "at": "p0379",
+   "kind": "chapter",
+   "toc_title": "XXXII. Yang-tse-Kiang"
+  },
+  {
+   "at": "p0389",
+   "kind": "chapter",
+   "toc_title": "XXXIII. Cambodia—Hongkong again"
+  },
+  {
+   "at": "p0404",
+   "kind": "chapter",
+   "toc_title": "XXXIV. Leaving Asia"
+  },
+  {
+   "at": "p0409",
+   "kind": "chapter",
+   "toc_title": "XXXV. To Australia—Sydney—Melbourne—To New Zealand—Hobart"
+  },
+  {
+   "at": "p0419",
+   "kind": "chapter",
+   "toc_title": "XXXVI. New Zealand"
+  },
+  {
+   "at": "p0443",
+   "kind": "chapter",
+   "toc_title": "XXXVII. Sydney again—Honolulu—San Francisco"
+  },
+  {
+   "at": "p0449",
+   "kind": "chapter",
+   "toc_title": "XXXVIII. Alaska"
+  },
+  {
+   "at": "p0458",
+   "kind": "chapter",
+   "toc_title": "XXXIX. Mount Hamilton"
+  },
+  {
+   "at": "p0467",
+   "kind": "chapter",
+   "toc_title": "XL. San Francisco—Shoshone Falls—Salt Lake City—Manatou—Chicago—Niagara—Albany—New York—Liverpool—Conclusion"
+  },
+  {
+   "at": "p0480",
+   "kind": "advertisements"
+  }
+ ],
+ "frontispiece": "p0007-1",
+ "keep_hyphens": [
+  "p0173"
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-23",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0,
+  "note": "1 candidate: the capitals of a heading in the publisher’s list (not an error)"
+ }
+}

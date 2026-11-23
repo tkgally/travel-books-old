@@ -1,5 +1,0 @@
-{"given": "in order scrutinize the motions", "print": "in order to scrutinize the motions", "sure": "high"}
-{"given": "birds who where chattering and", "print": "birds who were chattering and", "sure": "high"}
-{"given": "birds of brigbt plumage, with", "print": "birds of bright plumage, with", "sure": "high"}
-{"given": "and the american mocking-bird, have", "print": "and the American mocking-bird, have", "sure": "high"}
-{"given": "have a heart so cruel; you", "print": "have a heart so cruel, you", "sure": "high"}

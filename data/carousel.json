@@ -272,6 +272,12 @@
    "height": 450,
    "sha256": "bfea24a466fd452c34d79370140c2fe887f61458b6b97c069d3d42aa50afc000"
   },
+  "para-scenes-adventures-amazon-warren": {
+   "image": "title page",
+   "width": 260,
+   "height": 450,
+   "sha256": "dd03f13092039cac8825d69721131b83abe5740d11024e39c6eb015b53e0b93e"
+  },
   "parsons-holiday-allen": {
    "image": "title page",
    "width": 279,
@@ -400,6 +406,12 @@
    "width": 280,
    "height": 450,
    "sha256": "beb1693d7e9b724766b90fdae2209cf5fa596a782bb1873c967f0829ef2afef7"
+  },
+  "wanderings-and-wonderings-aubertin": {
+   "image": "title page",
+   "width": 290,
+   "height": 450,
+   "sha256": "e2a5a60e54e8ac7e40bf4fad238dbf70d3f194eacc967a1fc6cd5724ab0d16fa"
   },
   "west-africa-to-palestine-blyden": {
    "image": "title page",

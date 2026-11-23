@@ -1,8 +1,0 @@
-{"find": "long at Murree, for", "replace": "long at Murree, for"}
-{"find": "Powell's at Murree, to leave", "replace": "Powell's at Murree, to leave"}
-{"find": "Colonel and Mrs. Nicholson", "replace": "Colonel and Mrs. Nicholson"}
-{"find": "Gali (or Gully)", "replace": "Gali (or Gully)"}
-
-Wait — I need to restate: the draft has "Miss Ommanney" and "Murree" is correct on first mention? The draft reads "Murree" the first time but "Murree" the second also. Let me give only real changes:
-
-{"find": "[[page ?]]", "replace": "[[page ?]]"}

@@ -1,6 +1,0 @@
-{"given": "Technology.", "print": "TECHNOLOGY.", "sure": "medium"}
-{"given": "From German of Julius Weisbach.", "print": "From the German of Julius Weisbach.", "sure": "high"}
-{"given": "Plain and Concize Directions for", "print": "Plain and Concise Directions for", "sure": "high"}
-{"given": "and its Uses; on, Instruction", "print": "and its Uses; or, Instruction", "sure": "high"}
-{"given": "Practical Suggestions rclating to Aquaria", "print": "Practical Suggestions relating to Aquaria", "sure": "high"}
-{"given": "A Book for Boys; containing Directions", "print": "A Book for Boys, containing Directions", "sure": "medium"}

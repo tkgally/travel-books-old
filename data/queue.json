@@ -1540,11 +1540,13 @@
    "place": "London",
    "publisher": "Kegan Paul, Trench, Trübner & Co.",
    "images": 562,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-22",
    "eligibility": "JATSI 89. Rules 1–4 met, rule 1 with the map left out (Tom, 2026-11-22: a book missing only a map may be published). Rule 1: only two IA scans, both Google (University of California wanderingswonde01aubegoog, with the portrait frontispiece; Harvard wanderingswonde00aubegoog); text pages clean greyscale; the folding map at the end is scanned folded in both, so it is missing (say so in notes_on_text); the 6 plates not yet checked one by one. Rule 2: no text elsewhere (Gutenberg catalogue from the pglaf mirror, to 2025-06; The Online Books Page; Wikisource author page; web search of a sentence). Rule 3: only print-on-demand (Forgotten Books); not found in the NDL catalogue under Ganesha. Rule 4: first-person narrative of a journey round the world 1888–91, addressed to four friends; ch. XXVI (pp. 262–301) on Japan. Rule 5 (for the record): John James Aubertin 1818–1900. Searched 2026-11-22 (Opus subagent). Not checked: WorldCat, DP. Re-checked 2026-11-23: web search finds only the Forgotten Books print-on-demand reprint.",
    "note": "448 pp. plus 80 pp. of publisher's list (leave out of the reading editions). Portrait frontispiece, 6 plates, folding map missing. A strong, eccentric voice: Ming tombs, camel trains at the Nankou pass, an evening at Sir Robert Hart's. Long (562 images).",
-   "started": "2026-11-23"
+   "started": "2026-11-23",
+   "version": 1,
+   "published": "2026-11-23"
   },
   {
    "order": 84,
@@ -1574,11 +1576,13 @@
    "place": "New York",
    "publisher": "G. P. Putnam",
    "images": 288,
-   "status": "in progress",
+   "status": "published",
    "checked": "2026-11-22",
    "eligibility": "Checked 2026-11-22 (Opus subagent): (1) UCLA copy (University of California Libraries), 400 ppi, jp2 zip and scandata. (2) Not in pg_catalog.csv ('Warren, John', 'Para; or'); The Online Books Page: HathiTrust page images only; no web hit for 'Our bloodthirsty feelings being now'; Faded Page nothing. Wikisource NOT checked (rate-limited): check before starting. (3) Open Library: the 1851 Putnam edition only; no reprint found. (4) First-person account of his stay at Pará and excursions to Marajó and up the river. (5) John Esaias Warren 1827–1896 (LC heading; VIAF). Re-checked 2026-11-23: Wikisource search (API) and a web search: no text, no reprint.",
    "note": "Library scan, not looked at page by page. A young American's narrative with a companion 'J.': canoe trips, monkeys, fandangos; some natural-history digressions and much shooting of animals. Chapter heads carry summary lines.",
-   "started": "2026-11-23"
+   "started": "2026-11-23",
+   "version": 1,
+   "published": "2026-11-23"
   },
   {
    "order": 86,

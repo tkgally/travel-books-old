@@ -1,5 +1,0 @@
-{"given": "something more to do India, for", "print": "something more to do in India, for", "sure": "high"}
-{"given": "but where detained in the Hugli", "print": "but were detained in the Hugli", "sure": "high"}
-{"given": "Beautiful weather attendcd us, and", "print": "Beautiful weather attended us, and", "sure": "high"}
-{"given": "The works of the harbor seemed", "print": "The works of the harbour seemed", "sure": "high"}
-{"given": "My object; however, was inland,", "print": "My object, however, was inland,", "sure": "high"}

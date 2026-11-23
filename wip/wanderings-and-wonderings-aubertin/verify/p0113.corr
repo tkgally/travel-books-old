@@ -1,8 +1,0 @@
-{"find": "chaff with", "replace": "chaff with"}
-{"find": "another chaff", "replace": "another chaff"}
-
-Wait—correct output only:
-
-{"find": "brother-in-law", "replace": "brother-in-law"}
-
-NONE
