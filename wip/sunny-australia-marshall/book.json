@@ -1,0 +1,47 @@
+{
+ "id": "sunny-australia-marshall",
+ "version": 1,
+ "date": "2026-11-23",
+ "title": "Sunny Australia",
+ "subtitle": "Impressions of the Country and People",
+ "short_title": "Sunny Australia",
+ "authors": [
+  {
+   "name": "Archibald Marshall",
+   "sort": "Marshall, Archibald",
+   "born": 1866,
+   "died": 1934
+  }
+ ],
+ "place": "London",
+ "publisher": "Hodder and Stoughton",
+ "year": 1911,
+ "source": {
+  "ia_identifier": "sunnyaustraliaim00marsiala",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": []
+ },
+ "edition_statement": "First edition",
+ "regions": [
+  "Australia"
+ ],
+ "period": "",
+ "subjects": [
+  "Australia",
+  "farming",
+  "Tasmania",
+  "Daily Mail"
+ ],
+ "summary": "",
+ "omitted_from_reading": "",
+ "notes_on_text": [],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-23",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [],
+ "frontispiece": "p0008-1"
+}
