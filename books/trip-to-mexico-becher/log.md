@@ -37,3 +37,7 @@ Scan check (Opus subagent, 2026-11-21): all sheets; folios followed; plates and 
 
 ## Known issues
 - Footnotes printed in several paragraphs (a quoted letter in a note to Letter No. 8; Madame Calderon in Letter No. 4) are one paragraph each (notes_on_text).
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

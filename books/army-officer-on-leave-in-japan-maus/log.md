@@ -44,3 +44,7 @@ Scan check: all 13 sheets and 22 leaves at full size by an Opus subagent 2026-11
 - The amounts in the appendix's cost tables are left-aligned.
 - Rendered look (Opus subagent, 1280 and 390 px): all 73 photographs upright and captioned, verse, notes and tables fine.
 - Three misprints in chapter summaries (“cf” for “of”, p. 61; doubled dashes, pp. 148, 202) are kept as printed and not marked, since `[[corr]]` is not shown in a subtitle.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

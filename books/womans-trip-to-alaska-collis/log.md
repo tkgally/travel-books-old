@@ -63,3 +63,7 @@ Features: menu (p0045), dance programme (p0193), verse (p0215, p. 63), quoted pr
 | 4 | 2026-11-22 | PASS: womans-trip-to-alaska-collis v4 — 0 to fix, 0 waived; to look at: hyphen-joins 7, contents 14, accents 5, rare-forms 2, serial-commas 7 — tools@528b2324 2026-11-22 | as before (text unchanged except the title page) | Title page typed line by line as printed (checked on the scan by an Opus subagent; 01.html looked at for two) |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

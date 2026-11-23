@@ -201,7 +201,9 @@ mkdir -p $W/pages && cp $W/judge/p*.txt $W/pages/
 
 For each `[[image: …]]`: crop from the full-size leaf (`crop_image.py`, box in fractions of the leaf worked out
 on the small image), save as `$W/images/pNNNN-k.jpg`, and look at every crop. Engravings and line drawings:
-`--gray`. Longest side 1600 px, so a book with 100 plates stays under ~30 MB. Decorative head-pieces and tail-pieces
+`--gray`. Longest side at most 1000 px, JPEG quality 75 (Tom, 2026-11-23; enforced by `crop_image.py` and test
+`ImageLimits`), so a book with 100 plates stays under ~12 MB: every picture is in the site three times (web, EPUB,
+ODT), and GitHub Pages allows 1 GB. A large map is therefore not readable in the editions; its page links to the scan. Decorative head-pieces and tail-pieces
 (ornamental cuts at chapter openings and ends) are cropped too (`--max 600`) and listed in `book.json` `ornaments`:
 the editions show them small (Tom, 2026-11-20). `images/cover.jpg` (Tom, 2026-11-21): the front
 cover **if the title is clearly readable on it**, otherwise the title page; if neither has a readable title, the first

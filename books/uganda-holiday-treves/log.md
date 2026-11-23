@@ -48,3 +48,7 @@ Has: numbered footnotes; a game-licence table p. 82 (p0123); verse p. 221; itali
 - The folding map is not in the scans.
 - p. 221 (p0314): the paragraph after the verse runs on in print but starts a new paragraph here.
 - The frontispiece caption prints “Muansa” (the German spelling); kept as printed.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

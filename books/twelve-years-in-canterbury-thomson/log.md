@@ -50,3 +50,7 @@ dated journal entries; running heads; no tables, no other script, few accents. D
 | 3 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 3, folios 1, contents 12, verse-joins 6, accents 1, rare-forms 9, serial-commas 3 — tools@ed86e62f 2026-11-22 | as v2 | A printer’s error of a dropped or transposed letter marked and corrected: “ecessary” for “necessary”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

@@ -38,3 +38,7 @@ Scan check: all 8 sheets, about 16 leaves at full size, folios followed (Opus su
 
 ## Known issues
 - Verse on p0170–p0171 has its 2nd and 4th lines indented in print; the markup has no indent.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

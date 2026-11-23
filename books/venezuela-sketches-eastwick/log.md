@@ -34,3 +34,7 @@ To take care of: tables (p0263, p0295–p0306, p0328–p0329, p0338–p0342 £ s
 | 2 | 2026-11-22 | PASS: 0 to fix, 59 waived — tools@e7c5bc62 2026-11-22 | as v1 (text unchanged except listed fixes) | the live pass of the review found an h3 before any h2 in Chapter XIII (p0306 “Details of the Foreign Debt”): made ## |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

@@ -34,3 +34,7 @@ To take care of: verse (letter openings; “A New Year Garland” pp. 209–211)
 | 1 | 2026-11-22 | PASS: 0 to fix, 3 waived (spacing p0484 ditto marks; keep_hyphens) — tools@4a3b90bb 2026-11-22 | 30/30; 0 real / 6 pages | spot-read (Opus subagent: front matter, contents, verse, documents, appendix, blots against the UC copy, tesseract comparison p0035–p0481): 30 edits; printed misprints marked: aud, bnt, memhers, facc, arried, fonnd, covere, excedingly, Provice, Majesy, Hin, doos, ban, and two missing stops; small-capital initials in the contents and appendix; a stanza wrongly joined (p0243). Rendered look: book page, title page, Letter I, Letter XXVII. |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

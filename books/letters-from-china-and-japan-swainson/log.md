@@ -38,3 +38,7 @@ Scan check: all 8 sheets looked at 2026-11-21 (Opus subagent); full size p0004, 
 
 ## Known issues
 - The footnote “See Note A.” (p. 167) is not a link to the note (the print gives no page).
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

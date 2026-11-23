@@ -32,3 +32,7 @@ Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-
 | 1 | 2026-11-22 | preflight PASS: letters-from-the-far-east-floyd-jones v1 — 0 to fix, 0 waived; to look at: hyphen-joins 4, quote-balance 1, contents 24, rare-forms 5, serial-commas 3, missing-stop 2 — tools@9185906f 2026-11-22 | 30/30, 0 real errors | errata list applied (12) and 15 printed misprints marked |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

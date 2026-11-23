@@ -45,3 +45,7 @@ Watch: black-letter subtitle; small capitals at chapter openings and in summarie
 ## Known issues
 - p. 63 (leaf p0082): the sentence after a one-line verse quotation runs on flush left in print; the markup cannot continue a paragraph after mid-page verse, so it starts a new paragraph (workflow §"Not yet solved").
 - The EPUB page list has no entry for p. 1 (the half-title lines before Chapter I sit in the front matter).
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

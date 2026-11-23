@@ -34,3 +34,7 @@ To take care of: verse in small type (p0039, p0064, p0080, p0115, p0117, p0242, 
 
 ## Known issues
 - Paragraphs that run on after verse at pp. 20 and 49 start new paragraphs.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

@@ -70,3 +70,7 @@ Errata slip: p. 57 Mattias Jochmundsen → Matthias Jochumsson (p0071); p. 117 2
 - The page marker for p. 171 (the sideways plate "Fording Markarfljot") comes after p. 172's, because the plate is set
   after the paragraph that runs across it.
 - Text from the back of the leaf shows faintly in several woodcuts; the cover has a library label.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

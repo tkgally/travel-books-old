@@ -35,3 +35,7 @@ Scan check: all sheets and a dozen leaves at full size by an Opus subagent 2026-
 ## Known issues
 - At phone width the amount “$4 80” in the washing bill (p. 66) wraps inside its cell.
 - The heading “Panama in 1855.” above Chapter I is a `front` division (in the JSON; the title page carries the title), as in *Camps in the Caribbees*.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

@@ -376,6 +376,19 @@ goes to the to-do list for those sessions (`RESUME.md`).
 
 - **On every book's index page, retroactively and from now on, the text “Click to read” stands to the right of the cover or title-page picture**: smaller than the body text, in italics, on two lines (a line break after “Click”), with the same link as the picture (the start of the narrative). The aim: a visitor who happens on the page sees at once that the picture or the text takes them into the book. Spacing between picture and text as in his phone screenshot (a small gap, the text level with the foot of the picture), the same at other widths.
 
+## 2026-11-23 (the size of the repository and the site)
+
+- **Assumption for enhancements:** the site stays on GitHub Pages, built by Actions from this repository; no database
+  servers, sign-in or outside dependencies (`Ideas_for_enhancements.md`, which he asked for and had merged).
+- **The illustrations are reduced: longest side at most 1000 px, JPEG quality 75**, all those already in `books/` and
+  `wip/`, and every new one (`crop_image.py` defaults; a test refuses larger files). Why: the built site was 2.2 GB
+  against GitHub Pages' 1 GB limit, and every session clones the 726 MB of pictures. The full-size pictures are kept
+  in his Drive backup `travel-books-main-backup-20261123.zip` (the whole repository as of 2026-11-23, in the folder
+  "Travel Books"). Not a new version of any book: the text is unchanged.
+- **Then a new repository with a single commit** replaces this one under the same name (he does the GitHub steps,
+  guided by Claude; the issues are transferred), so that the old full-size pictures leave the history. Scheduled
+  sessions are paused while that is done.
+
 ## Questions for Tom
 
 - **Side-notes that date the entries of a letter or diary** (*Letters from Southern India & Ceylon*, Williams, 1877; 2026-11-22). The book prints

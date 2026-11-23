@@ -37,3 +37,7 @@ To take care of: running heads (topic heads on rectos); asterisk footnotes (p. 3
 
 ## Known issues
 - The endnote numerals are not linked to the notes (the markup has no endnotes).
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

@@ -74,3 +74,7 @@ p. 291 l. 9 I accuse them → I accused them (p0321).
   Daylight", "Midnight Sun A Rainbow", "Mezén. Formidable"); kept as printed, so the contents entries show them so.
 - The numerals table (Chapter XIV) is a little wider than a phone screen and scrolls inside its box.
 - Each contents entry is the chapter's whole printed summary (as the printed contents), long in an e-reader's menu.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

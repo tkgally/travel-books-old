@@ -38,3 +38,7 @@ No contents, preface, footnotes, index or advertisements. Running heads "The Bri
 | 2 | 2026-11-22 | PASS, 0 to fix, 0 waived — tools@2454027b | as v1 | printed “th” for “the” (p0097) marked `[[corr]]`, found in the sweep after issue #169; no model calls |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

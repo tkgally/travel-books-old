@@ -56,3 +56,7 @@ Period racial language in running heads and the p. 70 note (Morant Bay).
 | 1 | 2026-11-20 | PASS — 0 to fix, 24 waived (spacing p0017, p0175: ditto marks); to look at: hyphen-joins 6 (read) — tools@2c267b5 | 30/30 + 10/10; 0 real errors / 8 pages | first publication; rendered look: book page, ch. I wide, ch. IX narrow |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

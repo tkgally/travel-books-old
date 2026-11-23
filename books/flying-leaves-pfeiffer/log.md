@@ -66,3 +66,7 @@ Scan check: all 9 contact sheets looked at 2026-11-19; full size: p0009, p0079�
 | 2 | 2026-11-19 | PASS — 0 to fix, 0 waived; to look at: hyphen-joins 18, joins 5 — tools@6b8af86 2026-11-19 | as version 1 (text unchanged) | contents: parts nest their Leaves; places or subject in each Leaf entry; ODT contents list (errata 2026-11-19) |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

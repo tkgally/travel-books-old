@@ -667,6 +667,56 @@ class CropImage(unittest.TestCase):
         out = crop_image.crop(Image.new("RGB", (1000, 2000), "white"), (0.1, 0.1, 0.6, 0.6), longest=500)
         self.assertEqual(out.size, (250, 500))
 
+    def test_default_size_is_the_limit(self):
+        from PIL import Image
+        out = crop_image.crop(Image.new("RGB", (3000, 4000), "white"), (0, 0, 1, 1))
+        self.assertEqual(max(out.size), crop_image.MAX)
+
+    def test_shrink_brings_a_large_picture_within_limits(self):
+        from PIL import Image
+        tmp = tempfile.mkdtemp()
+        try:
+            for mode, size in (("RGB", (1600, 1200)), ("L", (800, 1500)), ("L", (600, 400))):
+                p = os.path.join(tmp, f"{mode}{size[0]}.jpg")
+                im = Image.effect_noise(size, 40).convert(mode)
+                im.save(p, "JPEG", quality=90)
+                self.assertIsNotNone(crop_image.within_limits(p))      # too large, or quality 90
+                before, after = crop_image.shrink(p)
+                self.assertLess(after, before)
+                self.assertIsNone(crop_image.within_limits(p))
+                out = Image.open(p)
+                self.assertEqual(out.mode, mode)
+                self.assertEqual(max(out.size), min(max(size), crop_image.MAX))
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
+
+    def test_within_limits_names_the_fault(self):
+        from PIL import Image
+        tmp = tempfile.mkdtemp()
+        try:
+            big, fine = os.path.join(tmp, "big.jpg"), os.path.join(tmp, "fine.jpg")
+            Image.new("RGB", (crop_image.MAX + 1, 10)).save(big, "JPEG", quality=crop_image.QUALITY)
+            self.assertIn("longest side", crop_image.within_limits(big))
+            Image.new("RGB", (100, 10)).save(fine, "JPEG", quality=crop_image.QUALITY + 10)
+            self.assertIn("quality", crop_image.within_limits(fine))
+            Image.new("RGB", (100, 10)).save(fine, "JPEG", quality=crop_image.QUALITY)
+            self.assertIsNone(crop_image.within_limits(fine))
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
+
+
+class ImageLimits(unittest.TestCase):
+    """Every picture in books/ and wip/ is within crop_image's limits (Tom, 2026-11-23: the site and repository stay small)."""
+    def test_pictures_in_the_repository(self):
+        import glob
+        bad = []
+        for p in sorted(glob.glob(os.path.join(REPO, "books", "*", "images", "*")) +
+                        glob.glob(os.path.join(REPO, "wip", "*", "images", "*"))):
+            why = crop_image.within_limits(p)
+            if why:
+                bad.append(f"{os.path.relpath(p, REPO)}: {why}")
+        self.assertEqual(bad, [], "pictures over the limits (tools/crop_image.py --shrink FILE ...):\n" + "\n".join(bad[:20]))
+
 
 class Books(unittest.TestCase):
     """Every published book still compiles without warnings other than hyphen joins (a builder change must not break one)."""

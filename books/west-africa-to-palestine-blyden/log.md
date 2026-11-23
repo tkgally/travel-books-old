@@ -43,3 +43,7 @@ p0194–p0196); a litany p0188–p0189. No tables, no non-Latin script, few acce
 | 3 | 2026-11-21 | west-africa-to-palestine-blyden v3 — 0 to fix, 0 waived; to look at: hyphen-joins 1, joins 2, contents 12, accents 1 — tools@28b48c1e 2026-11-21 | as v2 (text unchanged except listed fixes) | p. 128 printed “ont he” → [[corr]] on the (sweep after issue #100) |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

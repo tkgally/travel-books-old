@@ -66,3 +66,7 @@ sums in "l." italic. No non-Latin script, no side-notes.
 ## Known issues
 - Footnotes printed in two paragraphs (p0057, p0143–p0144) are one paragraph each: the page markup has no paragraph
   break inside a note. Said in notes_on_text.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

@@ -36,3 +36,7 @@ Scan check: all 7 sheets 2026-11-21 (Opus subagent); ~14 leaves full size; folio
 | 2 | 2026-11-22 | PASS: yachting-cruise-wood v2 — 0 to fix, 0 waived; to look at: hyphen-joins 4, accents 1, rare-forms 3, serial-commas 5 — tools@528b2324 2026-11-22 | as before (text unchanged except the title page) | Title page typed line by line as printed (checked on the scan by an Opus subagent; 01.html looked at for two) |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

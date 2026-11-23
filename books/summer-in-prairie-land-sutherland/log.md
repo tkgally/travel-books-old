@@ -45,3 +45,7 @@ Has: engraved headpieces and drop capitals at every chapter; tailpieces; much ve
 ## Known issues
 - After a verse quotation the paragraph that runs on starts a new paragraph (p0019, p0070, p0150).
 - Verse indentation is not kept.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

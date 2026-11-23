@@ -41,3 +41,7 @@ Chapter summaries under each title (as in the Contents). Book picture: the title
 | 2 | 2026-11-22 | PASS, 0 to fix, 0 waived; to look at: hyphen-joins 6, accents 1, rare-forms 4, serial-commas 3, missing-stop 1 — tools@ed86e62f 2026-11-22 | as v1 | A printer’s error of a dropped or transposed letter marked and corrected: “ocasional” for “occasional”. Found by the review after fifty-five books (`rare-forms` extended), each checked on the scan by an Opus subagent. |
 
 ## Known issues
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.

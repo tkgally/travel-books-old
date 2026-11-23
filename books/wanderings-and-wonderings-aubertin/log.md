@@ -40,3 +40,7 @@ Scan check: all 15 sheets and 15+ leaves at full size by an Opus subagent 2026-1
 - The plate “A Point of Benares” stands between a sentence and the verse it introduces (ch. VI), where the plate is bound.
 - The Peking plan (p. 336) shows after its paragraph, not inside the line (notes_on_text).
 - Rendered look (Opus subagent, 1280 and 390 px): title page, portrait, plates upright, verse, the Ceylon table and the closing poem fine.
+
+## 2026-11-23: pictures reduced
+
+Every picture reduced to at most 1000 px on its longest side, JPEG quality 75 (Tom; `preferences.md`). Not a new version: the text is unchanged. The full-size pictures are in his Drive backup `travel-books-main-backup-20261123.zip`.
