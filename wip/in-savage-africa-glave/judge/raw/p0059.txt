@@ -1,0 +1,2 @@
+{"n": 1, "is": "A", "print": "struggles he\n\n[[image: A wounded hippopotamus rearing out of the water with open jaws against the side of a long canoe; a white man in a hat aims a rifle at it while African paddlers crowd the canoe]]\n[[caption]] He struck the canoe a blow which nearly capsized it.\n\n[[cont]]sank from si", "sure": "medium"}
+{"n": 2, "is": "A", "print": "he surface.\n", "sure": "medium"}

@@ -1,0 +1,7 @@
+{"find": "equally as interesting", "replace": "equally as interesting"}
+
+Wait — I need to check the draft against the page. The draft reads "At the foot of Futago-yama" and the image agrees. The one real difference is "Tatomi" versus the image, and the draft's "Tatomi" matches. So the only change is below.
+
+{"find": "The environment of Hakone is equally as", "replace": "The environment of Hakone is equally as"}
+
+NONE

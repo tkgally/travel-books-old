@@ -1,0 +1,198 @@
+{
+ "p0023": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page xv]]\n\n[[center]] Chapter XXXII\n",
+   "replace": "[[page xv]]\n\n# Contents.\n\n[[center]] Chapter XXXII\n",
+   "draft": "[[page xv]]\n\n[[center]]",
+   "verified": "[[page xv]]\n\n# Contents.\n\n[[center]]",
+   "context": "[[page xv]] ⏎  ⏎ [[center]] Chapter XXXII ⏎  ⏎ [[center]] T<sc>he</sc> S<sc>hinto</sc> R<sc>eligion</sc>—A"
+  }
+ ],
+ "p0029": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>chicago, illinois,</sc>",
+   "replace": "<sc>Chicago, Illinois,</sc>",
+   "draft": "<sc>chicago, illinois,</sc",
+   "verified": "<sc>Chicago, Illinois,</sc",
+   "context": "d a host of other interesting writers. ⏎  ⏎ [[right]] L. M. M. ⏎  ⏎ <sc>chicago, illinois,</sc> ⏎  ⏎ <i>August, 1911.</i> ⏎ "
+  }
+ ],
+ "p0068": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THE monthly arrival",
+   "replace": "T<sc>he</sc> monthly arrival",
+   "draft": "THE monthly arr",
+   "verified": "T<sc>he</sc> monthly arr",
+   "context": "> P<sc>assenger</sc>—F<sc>arewell to</sc> M<sc>anila</sc>. ⏎  ⏎ THE monthly arrival of an army transport from San Francisco, or the departure o"
+  }
+ ],
+ "p0091": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[image: Photograph of a two-wheeled cart, marked “U.S. Mail,” drawn by a bullock, in a street beside a stone wall]]\n[[caption]] F<sc>ilipino cart used as mail wagon during the</sc> I<sc>nsurrection</sc>\n[[image: Photograph of a large thatched-roof house raised on posts, with a row of people standing in front of it]]\n[[caption]] F<sc>ilipino house,</sc> C<sc>alapan,</sc> I<sc>sland of</sc> M<sc>indoro,</sc> P<sc>hilippines</sc>",
+   "replace": "[[image: Photograph of a large thatched-roof house raised on posts, with a row of people standing in front of it]]\n[[caption]] F<sc>ilipino house,</sc> C<sc>alapan,</sc> I<sc>sland of</sc> M<sc>indoro,</sc> P<sc>hilippines</sc>\n[[image: Photograph of a two-wheeled cart, marked “U.S. Mail,” drawn by a bullock, in a street beside a stone wall]]\n[[caption]] F<sc>ilipino cart used as mail wagon during the</sc> I<sc>nsurrection</sc>",
+   "draft": "[[image: Photograph of a two-wheeled cart, marked “U.S. Mail,” drawn by a bullock, in a street beside a stone wall]]\n[[caption]] F<sc>ilipino cart used as mail wagon during the</sc> I<sc>nsurrection</sc>\n[[image: Photograph of a large thatched-roof house raised on posts, with a row of people standing in front of it]]\n[[caption]] F<sc>ilipino house,</sc> C<sc>alapan,</sc> I<sc>sland of</sc> M<sc>indoro,</sc> P<sc>hilippines</sc>",
+   "verified": "[[image: Photograph of a large thatched-roof house raised on posts, with a row of people standing in front of it]]\n[[caption]] F<sc>ilipino house,</sc> C<sc>alapan,</sc> I<sc>sland of</sc> M<sc>indoro,</sc> P<sc>hilippines</sc>\n[[image: Photograph of a two-wheeled cart, marked “U.S. Mail,” drawn by a bullock, in a street beside a stone wall]]\n[[caption]] F<sc>ilipino cart used as mail wagon during the</sc> I<sc>nsurrection</sc>",
+   "context": "[[page ?]] ⏎ [[image: Photograph of a two-wheeled cart, marked “U.S. Mail,” drawn by a bullock, in a street beside a stone wall]] ⏎ [[caption]] F<sc>ilipino cart used as mail wagon during the</sc> I<sc>nsurrection</sc> ⏎ [[image: Photograph of a large thatched-roof house raised on posts, with a row of people standing in front of it]] ⏎ [[caption]] F<sc>ilipino house,</sc> C<sc>alapan,</sc> I<sc>sland of</sc> M<sc>indoro,</sc> P<sc>hilippines</sc> ⏎ "
+  }
+ ],
+ "p0178": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "BY the time",
+   "replace": "B<sc>y</sc> the time",
+   "draft": "BY the time",
+   "verified": "B<sc>y</sc> the time",
+   "context": "c> T<sc>rains</sc>—S<sc>leepers and</sc> B<sc>uffets</sc>. ⏎  ⏎ BY the time the Major had finished his account of the persecutions of C"
+  }
+ ],
+ "p0201": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "disagreeable",
+   "replace": "disagreeeable",
+   "draft": "disagreeable",
+   "verified": "disagreeeable",
+   "context": "ects to Northern Japan before the weather became chilly and disagreeable, as it frequently does early in October in the vicinity of "
+  }
+ ],
+ "p0224": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "three the afternoon",
+   "replace": "three the afternoon of the following day",
+   "draft": "he afternoon",
+   "verified": "he afternoon of the following day",
+   "context": " R<sc>ichardson’s</sc> M<sc>urderer</sc>. ⏎  ⏎ IT was half past three the afternoon of the following day when we dropped anchor in the Bay of T"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "IT was half",
+   "replace": "I<sc>t</sc> was half",
+   "draft": "IT was half",
+   "verified": "I<sc>t</sc> was half",
+   "context": "/sc> M<sc>r.</sc> R<sc>ichardson’s</sc> M<sc>urderer</sc>. ⏎  ⏎ IT was half past three the afternoon of the following day of the follow"
+  }
+ ],
+ "p0232": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "TWO very pleasant",
+   "replace": "T<sc>wo</sc> very pleasant",
+   "draft": "TWO very pleasa",
+   "verified": "T<sc>wo</sc> very pleasa",
+   "context": "he</sc> D<sc>ragon</sc>—G<sc>limpse of</sc> F<sc>uji.</sc> ⏎  ⏎ TWO very pleasant days had passed since our arrival in Yokohama during which "
+  }
+ ],
+ "p0252": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "ON entering",
+   "replace": "O<sc>n</sc> entering",
+   "draft": "ON entering",
+   "verified": "O<sc>n</sc> entering",
+   "context": "and</sc> S<sc>aint</sc> A<sc>ndrew’s</sc> C<sc>hurch</sc>. ⏎  ⏎ ON entering the lobby of the hotel the following morning, I found the J"
+  }
+ ],
+ "p0261": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "ON reaching",
+   "replace": "O<sc>n</sc> reaching",
+   "draft": "ON reaching",
+   "verified": "O<sc>n</sc> reaching",
+   "context": ">emetery and the</sc> F<sc>orty-seven</sc> R<sc>onin</sc>. ⏎  ⏎ ON reaching Shiba Park we dismissed our rickshas and concluded to trust"
+  }
+ ],
+ "p0285": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THE day following",
+   "replace": "T<sc>he</sc> day following",
+   "draft": "THE day followi",
+   "verified": "T<sc>he</sc> day followi",
+   "context": "ned</sc> L<sc>ake</sc>—R<sc>eturn to</sc> N<sc>ik-ko</sc>. ⏎  ⏎ THE day following our visit to Tokio and the Tombs of the Forty-Seven Ronin w"
+  }
+ ],
+ "p0312": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "WE have now",
+   "replace": "W<sc>e</sc> have now",
+   "draft": "WE have now",
+   "verified": "W<sc>e</sc> have now",
+   "context": "sc>hina and</sc> A<sc>cquisition of</sc> F<sc>ormosa</sc>. ⏎  ⏎ WE have now arrived at that period of Japanese history ‘when knighthood"
+  }
+ ],
+ "p0353": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "BEFORE following",
+   "replace": "B<sc>efore</sc> following",
+   "draft": "BEFORE following",
+   "verified": "B<sc>efore</sc> following",
+   "context": "s—The Real Causes—Japanese Casualties during the War.</sc> ⏎  ⏎ BEFORE following the important steps of land forces during the recent war wi"
+  }
+ ],
+ "p0382": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "IT was the peaceful",
+   "replace": "I<sc>t</sc> was the peaceful",
+   "draft": "IT was the pea",
+   "verified": "I<sc>t</sc> was the pea",
+   "context": "Biwa and the Eight Classic Beauties—The Geisha Dance.</sc> ⏎  ⏎ IT was the peaceful hour of twilight when our train reached Kioto, a most appro"
+  }
+ ],
+ "p0400": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "personœ",
+   "replace": "personæ",
+   "draft": "personœ",
+   "verified": "personæ",
+   "context": " was not very long after our arrival before the <i>dramatis personœ</i> fluttered in, looking like a flock of tropical birds in"
+  }
+ ],
+ "p0483": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "I KNOW of nothing",
+   "replace": "I <sc>know</sc> of nothing",
+   "draft": "I KNOW of nothing",
+   "verified": "I <sc>know</sc> of nothing",
+   "context": "[[page 393]] ⏎  ⏎ # Appendix ⏎  ⏎ I KNOW of nothing more interesting to the prospective traveller than an inter"
+  }
+ ],
+ "p0490": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<i>viséed</i>",
+   "replace": "<i>viseéd</i>",
+   "draft": "<i>viséed</i>",
+   "verified": "<i>viseéd</i>",
+   "context": "through Russia are required to show passports which must be <i>viséed</i> before entering the country. They must also be presented to"
+  }
+ ]
+}

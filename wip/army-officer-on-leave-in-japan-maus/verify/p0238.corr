@@ -1,0 +1,8 @@
+{"find": "went marching away.", "replace": "went marching away."}
+{"find": "Citadel perished, towns fallen away\nFortress", "replace": "Citadel perished, towns fallen away\nFortress"}
+{"find": "panoply bright", "replace": "panoply bright"}
+{"find": "Sho-gy-o mu-jo", "replace": "Sho-gy-o mu-jo"}
+
+Correction: the draft has some errors. Real corrections:
+
+{"find": "went marching away.\n\nCitadel", "replace": "went marching away.\n\nCitadel"}
