@@ -1,0 +1,5 @@
+{"given": "in a whisper keep my ears", "print": "in a whisper to keep my ears", "sure": "high"}
+{"given": "Bongo Nsanda moved or another thirty", "print": "Bongo Nsanda moved on another thirty", "sure": "high"}
+{"given": "and then, suddenly stopping; he said", "print": "and then, suddenly stopping, he said", "sure": "high"}
+{"given": "he was not asraid of an", "print": "he was not afraid of an", "sure": "high"}
+{"given": "I again followed Bongo nsanda’s footsteps.", "print": "I again followed Bongo Nsanda’s footsteps.", "sure": "high"}

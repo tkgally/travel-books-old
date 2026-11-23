@@ -1,5 +1,4 @@
-[ FAIL (1)] meta: book.json: required fields present and sane
-            - book.json: missing 'summary'
+[       ok] meta: book.json: required fields present and sane
 [       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
 [       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
 [       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
@@ -13,10 +12,8 @@
 [       ok] nav: contents: at least one reading division; each has a title and text
 [       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
 [       ok] odt: LibreOffice opens the ODT and converts it to PDF
-[ FAIL (1)] audit: book.json records the sampled audit of this version
-            - book.json "audit" must record this version: {"version", "date", "pages", "recall", "real_errors", "fixed"}
-[ look (9)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
-            - hyphen join at p0028: … of Mr. Bottle-|of-Beer or Lee … (hyphen removed; check) — the book hyphenates other “bottle-” words: keep_hyphens?
+[       ok] audit: book.json records the sampled audit of this version
+[ look (8)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
             - hyphen join at p0031: …and, and Portu-|gal. Gangs of n… (hyphen removed; check)
             - hyphen join at p0042: …ey remained un-|conquered, and … (hyphen removed; check)
             - hyphen join at p0061: … said. Slacken-|ing his pace, h… (hyphen removed; check)
@@ -28,8 +25,7 @@
 [       ok] joins: page joins: missing [[cont]]
 [       ok] folios: printed page numbers that break the sequence
 [       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
-[ look (1)] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
-            - p0061: closing ” with no opening “: 'Now,” said I, “Ndombé, you are my blood-brother. I shall giv'
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
 [       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
 [       ok] contents: entries of the printed contents with no matching heading
 [       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
@@ -48,22 +44,18 @@
             - nsi: nsi (p0187); ñsi (p0153)
             - te: te (p0154); té (p0109)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[look (12)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+[ look (6)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
             - p0017: “littering” — “glittering” is common (116; a letter dropped or transposed?)
-            - p0054: “suceeded” — “succeeded” is common (372; a letter dropped or transposed?)
             - p0066: “pared” — “parted” is common (105; a letter dropped or transposed?)
-            - p0092: “contant” — “constant” is common (393; a letter dropped or transposed?)
             - p0093: “noticable” — “noticeable” is common (94; a letter dropped or transposed?)
-            - p0102: “wierd” — “weird” is common (144; a letter dropped or transposed?)
             - p0158: “ripping” — “dripping” is common (57; a letter dropped or transposed?)
-            - p0170: “occurence” — “occurrence” is common (92; a letter dropped or transposed?)
             - p0172: “capitas” — “capitals” is common (60; a letter dropped or transposed?)
-            - p0178: “pecularities” — “peculiarities” is common (60; a letter dropped or transposed?)
-            - p0229: “geting” — “getting” is common (722; a letter dropped or transposed?)
             - p0233: “somber” — “sombre” is common (50; a letter dropped or transposed?)
 [       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
-[       ok] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …and of the station at Lukolela, his neighbours and their customs, charm…
+            - book.json summary: …e Sanford Exploring Expedition, trading in ivory on the river and its tributaries, and…
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight FAIL: in-savage-africa-glave v1 — 2 to fix, 0 waived; to look at: hyphen-joins 9, quote-balance 1, accents 8, rare-forms 12 — tools@9c5d442b 2026-11-23
+preflight PASS: in-savage-africa-glave v1 — 0 to fix, 0 waived; to look at: hyphen-joins 8, accents 8, rare-forms 6, serial-commas 2 — tools@9f63e21b 2026-11-23

@@ -16,13 +16,27 @@ Chapter openings: “CHAPTER N” italic caps, title caps, summary paragraph in 
 Scan check: all 13 sheets and 22 leaves at full size by an Opus subagent 2026-11-23; printed i–xxii and 1–413 all present: complete and good. Front leaves p0009–p0013, p0030–p0032 opened by the session (sheet).
 
 ## Decisions
+- Judge spots (17) and 3 unapplied corrections checked on crops by an Opus subagent: disagreeeable → disagreeable (p0201), personœ → personæ (p0400); plate captions' small-capital markup made regular; p0151 [[corr]] “Philiippines”; title page set line by line; publisher's device cropped.
+- Structure: “# Chapter N” throughout (the drafts mixed italics); every chapter title and summary a `[[subtitle]]`; “The Carabao” (a poem in Ch. IV) centred, not a heading; the second “Appendix” heading (p0483) centred; the book title above Chapter I a `front` division.
+- Spot-read (Opus subagent: front matter, contents, list of illustrations, 35 chapter openings, notes, verse, appendix tables, preflight lists, tesseract comparison of pp. 1–402: ~40 candidates on crops, 1 real): discoverd [[corr]] (p0066); full capitals after the drop initials; Aráyat; Sha-ho; Gaslight; ’T is. No opening quotation mark is printed before a drop initial anywhere in the book: supplied plainly (notes_on_text) — assumed.
+- The audit's candidate “agaiust” (p. 141, p0203): printed so (turned n), [[corr]].
+- Chapter XXVII's title is over 80 characters: contents entry by `toc_title`.
+- keep_hyphens: curio-booths p0239, nature-loving p0328, to-day p0433, two-thirds p0492.
+- Left as printed: “Description cf the Harbor” and doubled dashes in two summaries (p0109, p0214, p0274: [[corr]] does not render in a subtitle — known issue); Filipinò in the index (a speck?), Ēta (p0495).
+- Year of the journey inferred: the American fleet at Yokohama (October 1908).
+- Cover picture: the title page (the cover is plain cloth).
 
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
 |---|---|---|---|---|---|
+| draft | 2026-11-23 | opus | 497 | 35.38 | no refusals |
+| corrections | 2026-11-23 | sonnet | 497 | 16.84 | 18 words, 45 markup |
+| judge | 2026-11-23 | opus | 18 spots | 0.74 | 16 draft, 2 verifier |
+| audit | 2026-11-23 | opus | 6 | 0.36 | 30/30; 3 candidates, 1 real (agaiust, printed) |
 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 
 ## Known issues
+- Three misprints in chapter summaries (“cf” for “of”, p. 61; doubled dashes, pp. 148, 202) are kept as printed and not marked, since `[[corr]]` is not shown in a subtitle.

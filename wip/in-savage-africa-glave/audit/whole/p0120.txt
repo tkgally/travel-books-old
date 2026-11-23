@@ -1,0 +1,5 @@
+{"given": "All weary night I paced", "print": "All the weary night I paced", "sure": "high"}
+{"given": "listening and watcbing, intensely expectant", "print": "listening and watching, intensely expectant", "sure": "high"}
+{"given": "round me; anxiously awaiting the", "print": "round me, anxiously awaiting the", "sure": "high"}
+{"given": "the date of this death.", "print": "the date of his death.", "sure": "high"}
+{"given": "in far-away england, could receive", "print": "in far-away England, could receive", "sure": "high"}

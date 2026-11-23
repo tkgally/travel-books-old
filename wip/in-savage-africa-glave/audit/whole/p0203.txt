@@ -1,0 +1,5 @@
+{"given": "because then our women visit", "print": "because when our women visit", "sure": "high"}
+{"given": "constantly prowling around and takiug away", "print": "constantly prowling around and taking away", "sure": "high"}
+{"given": "They have artistic taste mechanical ingenuity,", "print": "They have artistic taste and mechanical ingenuity,", "sure": "high"}
+{"given": "and, when properly officered; brave.", "print": "and, when properly officered, brave.", "sure": "high"}
+{"given": "some time in Central africa comes", "print": "some time in Central Africa comes", "sure": "high"}

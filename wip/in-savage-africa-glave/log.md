@@ -15,10 +15,22 @@ Chapter openings: head-piece cut, “CHAPTER N.”, title and summary in small c
 Scan check: all 7 sheets and about 30 leaves at full size by an Opus subagent 2026-11-23: complete and good (UC perforation stamps in margins of a few leaves, text clear).
 
 ## Decisions
+- Judge spots (25), 9 `[[cont]]` changes and 1 unapplied correction checked on crops by an Opus subagent: 4 edits (p0081 [[corr 1|I]], p0110 [[corr disrict|district]], p0199 band → hand, p0016 running head removed).
+- Spot-read (Opus subagent: front matter, chapter openings, captions, preflight lists, tesseract comparison of pp. 15–247: 186 candidates on crops, 2 real): misprints marked suceeded, contant, wierd (the book has “weird” 4 times), occurence, pecularities, geting, a stop for a comma on p0172, a missing opening quote p0061; misreadings fixed veroal → verbal, meuicine → medicine, Iséké-aka → Isékéaka. Left as printed: noticable, unwieldly, “their live” (p0149).
+- Captions are printed in small capitals throughout: typed in upper and lower case.
+- Each chapter's head-piece picture (printed above “CHAPTER N.”) moved after the heading and summary (notes_on_text); “IN SAVAGE AFRICA.” above Chapter I is a `front` division (in the JSON).
+- Contents: the twelve chapters with their titles; the long printed summaries drop from the entries (all alike).
+- Cover picture: the front cover (title clear; a library label in a corner).
+- p0129 (p. 123) refused by the output filter: ocr_fallback, then the passes; audited 4/4.
+- keep_hyphens p0028 (Bottle-of-Beer).
 
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
 |---|---|---|---|---|---|
+| draft | 2026-11-23 | opus | 244 | 17.78 | p0129 refused → ocr_fallback (incl.) |
+| corrections | 2026-11-23 | sonnet | 244 | 8.44 | 23 words, 3 punctuation, 2 markup |
+| judge | 2026-11-23 | opus | 26 spots | 0.87 | 7 draft, 19 verifier |
+| audit | 2026-11-23 | opus | 6 + 1 | 0.42 | 30/30; p0129 4/4; no candidates |
 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |

@@ -1,0 +1,6 @@
+{"given": "And when doors were opened", "print": "And when the doors were opened", "sure": "high"}
+{"given": "was assassiuated in March, 1860.", "print": "was assassinated in March, 1860.", "sure": "high"}
+{"given": "existence, the liberals, who advocated", "print": "existence, the Liberals, who advocated", "sure": "high"}
+{"given": "and the Conservatives; whose tocsin", "print": "and the Conservatives, whose tocsin", "sure": "high"}
+{"given": "In addition to those two strong", "print": "In addition to these two strong", "sure": "high"}
+{"given": "spear, and matchlock, against the modern", "print": "spear, and matchlock, agaiust the modern", "sure": "low"}

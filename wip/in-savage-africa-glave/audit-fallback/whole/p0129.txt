@@ -1,0 +1,4 @@
+{"given": "contortions of the limbs; accompanied by", "print": "contortions of the limbs, accompanied by", "sure": "high"}
+{"given": "compelled to cease, then large jars", "print": "compelled to cease, when large jars", "sure": "high"}
+{"given": "and closely watehed, suffering the", "print": "and closely watched, suffering the", "sure": "high"}
+{"given": "procure a block wood about a", "print": "procure a block of wood about a", "sure": "high"}
