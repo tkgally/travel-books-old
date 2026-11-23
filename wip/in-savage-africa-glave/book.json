@@ -49,6 +49,32 @@
    "note": "First publication."
   }
  ],
- "divisions": [],
- "frontispiece": "p0010-1"
+ "divisions": [
+  {
+   "at": "p0011",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0015",
+   "kind": "contents"
+  },
+  {
+   "at": "p0017",
+   "kind": "introduction"
+  },
+  {
+   "at": "p0021",
+   "kind": "front",
+   "title": "In Savage Africa"
+  },
+  {
+   "at": "p0021",
+   "kind": "chapter",
+   "n": 2
+  }
+ ],
+ "frontispiece": "p0010-1",
+ "keep_hyphens": [
+  "p0028"
+ ]
 }
