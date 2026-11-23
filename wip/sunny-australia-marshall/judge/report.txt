@@ -1,0 +1,12 @@
+judge opus: 12 spots on 12 pages: {'verified': 2, 'draft': 10}; cost $0.51
+p0021 #1 [verified, sure: medium] draft '[[page ?]]' | verified '[[page 1]]' | judge reads '[[page 1]]'
+p0028 #1 [draft, sure: low] draft '## II' | verified '# II' | judge reads '## II'
+p0101 #1 [draft, sure: low] draft '## XII' | verified '# XII' | judge reads 'XII'
+p0104 #1 [draft, sure: low] draft '## XIII' | verified '# XIII' | judge reads '## XIII'
+p0116 #1 [draft, sure: low] draft '## XIV' | verified '# XIV' | judge reads '## XIV'
+p0123 #1 [draft, sure: low] draft '## XV' | verified '# XV' | judge reads 'XV'
+p0135 #1 [draft, sure: low] draft '## XVII' | verified '# XVII' | judge reads '## XVII'
+p0143 #1 [draft, sure: medium] draft '## XVIII' | verified '# XVIII' | judge reads '## XVIII'
+p0147 #1 [draft, sure: low] draft '## XIX' | verified '# XIX' | judge reads 'XIX'
+p0178 #1 [draft, sure: low] draft '## XII' | verified '# XII' | judge reads '## XII'
+p0351 #1 [draft, sure: high] draft 'practially' | verified 'practically' | judge reads 'practially'

@@ -1,0 +1,14 @@
+{"find": "blackbutt, wandoo", "replace": "blackbutt, wandoo"}
+{"find": "mallet, morrell, gimlet, jamwood", "replace": "mallet, morrell, gimlet, jamwood"}
+
+Wait — corrections must change something. Final list:
+
+{"find": "blackbutt,", "replace": "blackbutt,"}
+
+Actually the draft reads "blackbutt" and the page prints "blackbutt" — no change needed there. The one real difference I can see is the chapter heading.
+
+{"find": "# XVIII\n\n[[subtitle]] Timber", "replace": "# XVIII\n\n[[subtitle]] Timber"}
+
+I could not find any difference between the draft and the page, so:
+
+NONE
