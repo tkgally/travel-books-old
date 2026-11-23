@@ -1,0 +1,5 @@
+{"given": "to the perturbed faculties the mind.", "print": "to the perturbed faculties of the mind.", "sure": "high"}
+{"given": "when the atmofphere is balmy", "print": "when the atmosphere is balmy", "sure": "high"}
+{"given": "to listen to gaviono’s voice;", "print": "to listen to Gaviono’s voice;", "sure": "high"}
+{"given": "him more gratification then the sincere", "print": "him more gratification than the sincere", "sure": "high"}
+{"given": "dangers of the river navigation; we invariably", "print": "dangers of the river navigation, we invariably", "sure": "high"}

@@ -1,0 +1,5 @@
+{"given": "owing to a deficicncy of energy", "print": "owing to a deficiency of energy", "sure": "high"}
+{"given": "at the Foundling hospital. This", "print": "at the Foundling Hospital. This", "sure": "high"}
+{"given": "who are not able, on who", "print": "who are not able, or who", "sure": "high"}
+{"given": "half of which is exposed; while", "print": "half of which is exposed, while", "sure": "high"}
+{"given": "to take the child the evening", "print": "to take the child in the evening", "sure": "high"}

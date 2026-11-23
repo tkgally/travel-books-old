@@ -4,8 +4,7 @@ IA: paraorscenesadve00warr (University of California; 288 leaves, 400 ppi).
 Eligibility: re-checked 2026-11-23: Wikisource (API search) and web search: no text, no reprint. Warren 1827–1896.
 
 ## Status
-Stage reached: (a) scan checked, cached in Drive (15 parts); Opus draft running on leaves 7–277.
-Next step: when the draft is done, `normalize.py`, then the Sonnet corrections pass (workflow §3).
+Stage reached: (c) preflight PASS but for the audit record (now recorded); audit 30/30; rendered look running. Next: publish.
 
 ## Page map
 p0000 hidden · p0001 cover · p0002–p0006 endpapers, blanks · p0007 title (i; black-letter line, epigraph from Montgomery) · p0008 verso (copyright, printer R. Craighead) · p0009–p0010 preface (iii–iv, New York, May 10, 1851) · p0011 = printed 5, half-title “PARA.” and Ch. I (offset 6 throughout, to p0277 = 271, THE END) · p0278–p0284 blanks, library slips, back cover · p0285–p0289 hidden. No dedication, contents, illustrations, appendix, index or advertisements.
@@ -14,10 +13,20 @@ Verse: title epigraph, preface, p0039, p0111, a song in ch. XVIII (p0193–p0198
 Scan check: all 8 sheets, about 20 leaves at full size and every running head by an Opus subagent 2026-11-23: complete and good (show-through, foxing in margins).
 
 ## Decisions
+- Judge spots (3) and the spot-read (Opus subagent: title page, preface, 26 chapter openings, verse, preflight lists, tesseract comparison of pp. 5–271: about 20 candidates on crops, 2 real): [[corr]] vicinty (p0062), iuexperienced (p0210); Roscénia → Roscenia (p0059), Senhorã → Senhora (p0078: a speck), “tbe” was a misreading of “the” (p0136). Kept as printed: Juncal (p0160) beside Jungcal, Onca, anana, refine, Dia de Intrudo.
+- The chapters have no titles, only summaries: contents entries take the first item of each summary (notes_on_text).
+- “PARA.” above Chapter I is a `front` division (in the JSON).
+- keep_hyphens p0088 (feather-tufted), p0112 (queer-looking).
+- Year of the stay not given in the book; `period` “late 1840s” (assumed from his age and the date of publication).
+- Cover picture: the title page (the cover is plain cloth); a library perforation stamp crosses it.
 
 ## Runs
 | Stage | Date | Model | Pages | Cost $ | Notes |
 |---|---|---|---|---|---|
+| draft | 2026-11-23 | opus | 271 | 17.39 | no refusals |
+| corrections | 2026-11-23 | sonnet | 271 | 8.66 | 3 words, 4 markup |
+| judge | 2026-11-23 | opus | 3 spots | 0.12 | 2 draft, 1 verifier (overturned by the scan) |
+| audit | 2026-11-23 | opus | 6 | 0.33 | 30/30; 1 candidate, not an error |
 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |

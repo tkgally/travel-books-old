@@ -1,0 +1,5 @@
+{"given": "by the captain-general the province, that", "print": "by the captain-general of the province, that", "sure": "high"}
+{"given": "the people, that if has ever", "print": "the people, that it has ever", "sure": "high"}
+{"given": "towards the Largo de nazere. The", "print": "towards the Largo de Nazere. The", "sure": "high"}
+{"given": "of citizens on horseback; after whom", "print": "of citizens on horseback, after whom", "sure": "medium"}
+{"given": "Within the car are several yonths,", "print": "Within the car are several youths,", "sure": "high"}

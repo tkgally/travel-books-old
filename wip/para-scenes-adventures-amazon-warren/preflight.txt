@@ -1,5 +1,4 @@
-[ FAIL (1)] meta: book.json: required fields present and sane
-            - book.json: missing 'summary'
+[       ok] meta: book.json: required fields present and sane
 [       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
 [       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
 [       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
@@ -13,11 +12,8 @@
 [       ok] nav: contents: at least one reading division; each has a title and text
 [       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
 [       ok] odt: LibreOffice opens the ODT and converts it to PDF
-[ FAIL (1)] audit: book.json records the sampled audit of this version
-            - book.json "audit" must record this version: {"version", "date", "pages", "recall", "real_errors", "fixed"}
-[ look (5)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
-            - hyphen join at p0088: …up its feather-|tufted head, co… (hyphen removed; check) — the book hyphenates other “feather-” words: keep_hyphens?
-            - hyphen join at p0112: …er was a queer-|looking schoone… (hyphen removed; check)
+[       ok] audit: book.json records the sampled audit of this version
+[ look (3)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
             - hyphen join at p0233: …ed so unexpect-|edly almost fro… (hyphen removed; check)
             - hyphen join at p0273: …he most ravish-|ing beauty. Suc… (hyphen removed; check)
             - (and 23 joins giving a word the book prints whole elsewhere: not listed)
@@ -32,22 +28,19 @@
 [       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
 [       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
 [       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
-[ FAIL (1)] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
-            - images/cover.jpg is missing (the front cover if the title is clearly readable on it, otherwise the title page)
-[ look (3)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[ look (1)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0009, p0010, p0011, p0012, p0013, p0014…); à (p0016)
-            - roscenia: roscenia (p0019, p0034, p0035, p0037, p0038, p0039…); roscénia (p0059)
-            - senhora: senhora (p0020, p0248, p0250); senhorã (p0078)
-[ look (1)] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-            - p0136: “tbe” in …eet with a ready sale in tbe city. When properly dres…
-[ look (4)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (2)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
             - p0038: “anana” — “banana” is common (132; a letter dropped or transposed?)
-            - p0062: “vicinty” — “vicinity” is common (186; a letter dropped or transposed?)
-            - p0136: “tbe” — “the” is common (375662)
             - p0182: “refine” — “refined” is common (91; a letter dropped or transposed?)
 [       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
-[       ok] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+[ look (3)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …the year. He tells of the town, its churches and festivals, the house…
+            - book.json summary: …nd the history of the province, with Orellana’s voyage and the insurrection of …
+            - book.json summary: … Caripe, Jungcal, and Cajueiro, where he hunts and sees wild horses, an…
 [       ok] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight FAIL: para-scenes-adventures-amazon-warren v1 — 3 to fix, 0 waived; to look at: hyphen-joins 5, accents 3, misprints 1, rare-forms 4 — tools@4a875143 2026-11-23
+preflight PASS: para-scenes-adventures-amazon-warren v1 — 0 to fix, 0 waived; to look at: hyphen-joins 3, accents 1, rare-forms 2, serial-commas 3 — tools@425fa7ac 2026-11-23
