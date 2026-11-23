@@ -82,6 +82,7 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 
 - Pictures printed on the contents or list-of-illustrations pages go wherever those pages go (left out of the reading editions): say so in `omitted_from_reading` (*Present-Day Japan*, 2026-11-22).
 - `ocr_claude.py --pages` takes leaf numbers (`7-355`), not names.
+- Tissue guards: the draft transcribes what shows through them (the whole title page; the frontispiece as an `[[image:]]` with its caption), so the text appears twice (*Sunny Australia*, 2026-11-23: seen as a length change on p0010). Empty those leaves to `[[page ?]]` and say so in `notes_on_text`; better, leave them out of `--pages` when the scan check names them.
 - Captions printed in small capitals: drafts type some as `<sc>…</sc>` in lower case and the rest in upper and lower
   case; grep `[[caption]] <sc>` and make all upper and lower case (12 of 148 in *Via Rhodesia*).
 
@@ -166,6 +167,8 @@ tools"; otherwise one or two lines under the right trigger; when a section passe
 - A half-title printed above Chapter I on the same leaf: two `#` divisions at one `at`; `n` counts from 1, so the chapter is `"n": 2`. Without it the chapter's `toc_title` went to the half-title, which became a part with every chapter under it (*From West Africa to Palestine*, caught by the rendered look).
 
 ## Trigger: no printed contents, chapters without titles
+
+- Numbered sections without titles made pages by `toc_entries`: anchor each entry on the numeral heading (`"starts": "IV"`), not on the first words of the text, or each numeral is left at the end of the page before (*Sunny Australia*, 2026-11-23: caught by the rendered look).
 
 - Contents entries of the editor's: places and dates per chapter, proposed by a Sonnet subagent reading the draft text
   (no scans), checked at each chapter opening, said in `notes_on_text` (*Autumn Tour in Western Persia*, 2026-11-20).
