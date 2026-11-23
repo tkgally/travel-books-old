@@ -1,0 +1,29 @@
+[[page 4]]
+
+[[center]] <sc>Works on Military Science</sc> <pref>48</pref>
+
+[[center]] <sc>Botany and Natural History</sc> <pref>50</pref>
+
+[[center]] <sc>Anthropology</sc> <pref>52</pref>
+
+[[center]] <sc>Physiology and Medicine</sc> <pref>53</pref>
+
+[[center]] <sc>Mental and Moral Science</sc> <pref>54</pref>
+
+[[center]] <sc>Law, Politics, and Sociology</sc> <pref>55</pref>
+
+[[center]] <sc>Works on the Physical Sciences, Mineralogy, Geology, Etc.</sc> <pref>58</pref>
+
+[[center]] <sc>Technology</sc> <pref>61</pref>
+
+[[center]] <sc>Art and Music</sc> <pref>63</pref>
+
+[[center]] <sc>Poetry and Belles-Lettres</sc> <pref>64</pref>
+
+[[center]] <sc>Novels and Works of Fiction</sc> <pref>71</pref>
+
+[[center]] <sc>Bibliography</sc> <pref>75</pref>
+
+[[center]] <sc>Gastronomy and Diet, Chess Manuals, and Miscellaneous Works</sc> <pref>76</pref>
+
+[[center]] <sc>Periodicals</sc> <pref>80</pref>

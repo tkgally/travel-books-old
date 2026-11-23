@@ -1,0 +1,212 @@
+{
+ "id": "para-scenes-adventures-amazon-warren",
+ "version": 1,
+ "date": "2026-11-23",
+ "title": "Para",
+ "subtitle": "or, Scenes and Adventures on the Banks of the Amazon",
+ "short_title": "Para",
+ "authors": [
+  {
+   "name": "John Esaias Warren",
+   "sort": "Warren, John Esaias",
+   "born": 1827,
+   "died": 1896
+  }
+ ],
+ "place": "New York",
+ "publisher": "G. P. Putnam",
+ "year": 1851,
+ "source": {
+  "ia_identifier": "paraorscenesadve00warr",
+  "contributor": "University of California Libraries",
+  "hidden_leaves": [
+   0,
+   285,
+   286,
+   287,
+   288,
+   289
+  ]
+ },
+ "edition_statement": "First edition",
+ "regions": [
+  "Brazil"
+ ],
+ "period": "late 1840s",
+ "subjects": [
+  "Belém",
+  "Amazon River",
+  "natural history"
+ ],
+ "summary": "John Esaias Warren (1827–1896), a young American, describes a stay at Pará (now Belém) near the mouth of the Amazon, some years before 1851; he does not give the year. He tells of the town, its churches and festivals, the house outside the town where he lived, and the history of the province, with Orellana’s voyage and the insurrection of 1835. He makes excursions by canoe and stays at Caripe, Jungcal, and Cajueiro, where he hunts and sees wild horses, and he ends with a voyage to Vigia. Much of the book is about the forest, its birds, humming birds, monkeys, snakes, and insects, and about the people of the river. The book has no illustrations.",
+ "omitted_from_reading": "Nothing is left out after the title page.",
+ "notes_on_text": [
+  "The chapters have no titles in the print, only summaries; the entries of the contents here take the first item of each summary."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-23",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {
+   "at": "p0007",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0009",
+   "kind": "preface"
+  },
+  {
+   "at": "p0011",
+   "kind": "front",
+   "title": "Para"
+  },
+  {
+   "at": "p0011",
+   "kind": "chapter",
+   "toc_title": "Chapter I. Evening on the Amazon",
+   "n": 2
+  },
+  {
+   "at": "p0024",
+   "kind": "chapter",
+   "toc_title": "Chapter II. The Province of Para"
+  },
+  {
+   "at": "p0034",
+   "kind": "chapter",
+   "toc_title": "Chapter III. Removal to the “Roscenia de Nazere”"
+  },
+  {
+   "at": "p0046",
+   "kind": "chapter",
+   "toc_title": "Chapter IV. Old Vincenti and Maria"
+  },
+  {
+   "at": "p0054",
+   "kind": "chapter",
+   "toc_title": "Chapter V. Life at Nazere"
+  },
+  {
+   "at": "p0067",
+   "kind": "chapter",
+   "toc_title": "Chapter VI. The City"
+  },
+  {
+   "at": "p0081",
+   "kind": "chapter",
+   "toc_title": "Chapter VII. “Festa dos Ossos”"
+  },
+  {
+   "at": "p0092",
+   "kind": "chapter",
+   "toc_title": "Chapter VIII. Excursion to Caripe"
+  },
+  {
+   "at": "p0109",
+   "kind": "chapter",
+   "toc_title": "Chapter IX. Melancholy Incident"
+  },
+  {
+   "at": "p0121",
+   "kind": "chapter",
+   "toc_title": "Chapter X. Reality contrasted with a Dream"
+  },
+  {
+   "at": "p0127",
+   "kind": "chapter",
+   "toc_title": "Chapter XI. First Morning at Jungcal"
+  },
+  {
+   "at": "p0140",
+   "kind": "chapter",
+   "toc_title": "Chapter XII. Excursion down the Stream"
+  },
+  {
+   "at": "p0149",
+   "kind": "chapter",
+   "toc_title": "Chapter XIII. Superstition of the Islanders"
+  },
+  {
+   "at": "p0160",
+   "kind": "chapter",
+   "toc_title": "Chapter XIV. Departure for Cajueiro"
+  },
+  {
+   "at": "p0166",
+   "kind": "chapter",
+   "toc_title": "Chapter XV. Location of Cajueiro"
+  },
+  {
+   "at": "p0173",
+   "kind": "chapter",
+   "toc_title": "Chapter XVI. Wild Horses"
+  },
+  {
+   "at": "p0185",
+   "kind": "chapter",
+   "toc_title": "Chapter XVII. Hunting Excursion"
+  },
+  {
+   "at": "p0193",
+   "kind": "chapter",
+   "toc_title": "Chapter XVIII. Departure from Cajueiro"
+  },
+  {
+   "at": "p0201",
+   "kind": "chapter",
+   "toc_title": "Chapter XIX. A Night-Scene in the Harbor of Para"
+  },
+  {
+   "at": "p0216",
+   "kind": "chapter",
+   "toc_title": "Chapter XX. Dawn in the Forest"
+  },
+  {
+   "at": "p0229",
+   "kind": "chapter",
+   "toc_title": "Chapter XXI. Excursion down the Stream"
+  },
+  {
+   "at": "p0236",
+   "kind": "chapter",
+   "toc_title": "Chapter XXII. Trip to L’Aranjeira"
+  },
+  {
+   "at": "p0244",
+   "kind": "chapter",
+   "toc_title": "Chapter XXIII. A Humming Bird Crusade in the Inga Grove"
+  },
+  {
+   "at": "p0251",
+   "kind": "chapter",
+   "toc_title": "Chapter XXIV. Solitary Canoe Excursion"
+  },
+  {
+   "at": "p0263",
+   "kind": "chapter",
+   "toc_title": "Chapter XXV. Embarkation for Vigia"
+  },
+  {
+   "at": "p0270",
+   "kind": "chapter",
+   "toc_title": "Chapter XXVI. Our Quarters on Shore"
+  }
+ ],
+ "keep_hyphens": [
+  "p0088",
+  "p0112"
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-23",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0,
+  "note": "1 candidate: the capitals of a chapter heading (not an error)"
+ }
+}
