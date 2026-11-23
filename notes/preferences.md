@@ -372,6 +372,10 @@ goes to the to-do list for those sessions (`RESUME.md`).
 
 - **Publish Henderson's *A British Officer in the Balkans* in the next session, with the photographs** (taken by Mrs. Henderson, whose dates are unknown). The missing map is said in `notes_on_text`.
 
+## 2026-11-23 (“Click to read” beside the picture on each book page)
+
+- **On every book's index page, retroactively and from now on, the text “Click to read” stands to the right of the cover or title-page picture**: smaller than the body text, in italics, on two lines (a line break after “Click”), with the same link as the picture (the start of the narrative). The aim: a visitor who happens on the page sees at once that the picture or the text takes them into the book. Spacing between picture and text as in his phone screenshot (a small gap, the text level with the foot of the picture), the same at other widths.
+
 ## Questions for Tom
 
 - **Side-notes that date the entries of a letter or diary** (*Letters from Southern India & Ceylon*, Williams, 1877; 2026-11-22). The book prints
