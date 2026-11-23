@@ -455,7 +455,11 @@
       left = r.left - p.left + r.width / 2 - tip.offsetWidth / 2;
       left = Math.max(4, Math.min(left, p.width - tip.offsetWidth - 6));
       tip.style.left = left + 'px';
-      tip.style.top = (r.bottom - p.top + panel.scrollTop + 4) + 'px';
+      // below the control, or above it when there is no room below inside the panel: the panel in the bar is a
+      // scroll box, and Safari and Firefox cut off a tip that runs past its foot (Tom, 2026-11-23: the reset button)
+      tip.style.top = (r.bottom + 4 + tip.offsetHeight > p.bottom - panel.clientTop - 2
+        ? r.top - p.top + panel.scrollTop - tip.offsetHeight - 4
+        : r.bottom - p.top + panel.scrollTop + 4) + 'px';
     }
     if (window.matchMedia && matchMedia('(hover: hover)').matches) {
       panel.addEventListener('mouseover', function (e) { showTip(e.target); });

@@ -1926,6 +1926,11 @@ class Carousel(unittest.TestCase):
     def test_styles_and_script(self):
         css = open(os.path.join(REPO, "site", "assets", "site.css"), encoding="utf-8").read()
         js = open(os.path.join(REPO, "site", "assets", "site.js"), encoding="utf-8").read()
+        # a control's tip goes above it when there is no room below inside the panel (the panel in the bar scrolls,
+        # and Safari and Firefox cut off a tip past its foot: the reset button, Tom 2026-11-23)
+        tipfn = js[js.index("function showTip("):js.index("panel.addEventListener('mouseover'")]
+        self.assertIn("r.top - p.top + panel.scrollTop - tip.offsetHeight - 4", tipfn)
+        self.assertIn("> p.bottom", tipfn)
         # three, four or five in view, and a stop at the first book of each group, so that a swipe moves one group
         self.assertEqual(re.findall(r"\.carousel \{ --n: (\d); \}", css), ["4", "5"])
         self.assertIn(".carousel { --n: 3;", css)
